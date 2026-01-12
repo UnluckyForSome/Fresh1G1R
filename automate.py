@@ -18,7 +18,6 @@ import zipfile
 import subprocess
 import shutil
 import sys
-import os
 import json
 from pathlib import Path
 from io import BytesIO
@@ -41,8 +40,12 @@ REDUMP_DIR = SCRIPT_DIR / "daily-virgin-dat" / "redump"
 NO_INTRO_DIR = SCRIPT_DIR / "daily-virgin-dat" / "no-intro"
 RETOOL_DIR = SCRIPT_DIR / "retool"
 RETOOL_REPO_URL = "https://github.com/unexpectedpanda/retool.git"
-RETOOL_RELEASES_API = "https://api.github.com/repos/unexpectedpanda/retool/releases/latest"
 RETOOL_CONFIG_DIR = RETOOL_DIR / "config"
+
+# Common HTTP headers for requests
+HTTP_HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+}
 
 # Collection URLs
 REDUMP_URL = "http://redump.org"
@@ -95,13 +98,12 @@ def print_step(description: str, emoji: str = "⚙️"):
 def check_git_available() -> bool:
     """Check if git is available on the system."""
     try:
-        result = subprocess.run(
+        return subprocess.run(
             ["git", "--version"],
             capture_output=True,
             text=True,
             check=False
-        )
-        return result.returncode == 0
+        ).returncode == 0
     except FileNotFoundError:
         return False
 
@@ -161,16 +163,15 @@ def clone_retool_if_needed(retool_dir: Path) -> bool:
         return False
 
 
-def update_retool_main(retool_dir: Path) -> bool:
+def update_retool_main(retool_dir: Path) -> None:
     """Update retool directory using git pull."""
     if not (retool_dir / ".git").exists():
         print(f"  ⚠️  Not a git repository, skipping update")
-        return True
+        return
     
-    # Check if git is available
     if not check_git_available():
         print(f"  ⚠️  Git is not available, skipping Retool update")
-        return True
+        return
     
     print(f"  🔄 Checking for Retool updates...")
     try:
@@ -183,17 +184,12 @@ def update_retool_main(retool_dir: Path) -> bool:
         )
         
         if result.returncode == 0:
-            if "Already up to date" in result.stdout:
-                print(f"  ✅ Retool is already up to date")
-            else:
-                print(f"  ✅ Retool updated successfully")
-            return True
+            print(f"  ✅ Retool is already up to date" if "Already up to date" in result.stdout 
+                  else f"  ✅ Retool updated successfully")
         else:
             print(f"  ⚠️  Git pull warning: {result.stderr}", file=sys.stderr)
-            return True
     except Exception as e:
         print(f"  ⚠️  Error updating retool: {e}", file=sys.stderr)
-        return True
 
 
 def copy_user_config(config_name: str, user_config_source: Path) -> bool:
@@ -327,7 +323,7 @@ def preload_config_settings(configs: list[tuple[str, Path]], collections: list[s
     return config_settings
 
 
-def install_retool_dependencies() -> bool:
+def install_retool_dependencies() -> None:
     """Install Retool dependencies."""
     print(f"  📦 Installing {len(RETOOL_DEPENDENCIES)} package(s)...")
     try:
@@ -340,22 +336,20 @@ def install_retool_dependencies() -> bool:
         
         if result.returncode == 0:
             print(f"  ✅ Dependencies installed successfully")
-            return True
         else:
             print(f"  ⚠️  Warning installing dependencies: {result.stderr}", file=sys.stderr)
-            return True  # Continue anyway
     except Exception as e:
         print(f"  ⚠️  Error installing dependencies: {e}", file=sys.stderr)
-        return True  # Continue anyway
 
 
-def update_retool_clone_lists(retool_dir: Path) -> bool:
+def update_retool_clone_lists(retool_dir: Path) -> None:
     """Run retool.py --update to get latest clone lists."""
     retool_script = retool_dir / "retool.py"
     
     if not retool_script.exists():
         print(f"  ⚠️  Retool script not found: {retool_script}")
-        return True
+        return
+    
     try:
         result = subprocess.run(
             [sys.executable, str(retool_script), "--update"],
@@ -366,14 +360,10 @@ def update_retool_clone_lists(retool_dir: Path) -> bool:
             capture_output=True
         )
         
-        if result.returncode == 0:
-            return True
-        else:
+        if result.returncode != 0:
             print(f"  ⚠️  Warning: retool.py --update exited with code {result.returncode}", file=sys.stderr)
-            return True  # Continue anyway
     except Exception as e:
         print(f"  ⚠️  Error updating clone lists: {e}", file=sys.stderr)
-        return True  # Continue anyway
 
 
 # ============================================================================
@@ -387,10 +377,7 @@ def find_all_redump_dats():
     print(f"     URL: {downloads_url}")
     
     try:
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-        }
-        download_page = requests.get(downloads_url, headers=headers, timeout=150)
+        download_page = requests.get(downloads_url, headers=HTTP_HEADERS, timeout=150)
         download_page.raise_for_status()
         
         dat_files = re.findall(regex["datfile"], download_page.text)
@@ -407,32 +394,25 @@ def get_redump_dat_info(dat_name: str) -> tuple[str | None, str | None]:
     dat_url = f"{REDUMP_URL}/datfile/{dat_name}"
     
     try:
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-        }
         # Use HEAD request to get metadata without downloading
-        response = requests.head(dat_url, headers=headers, timeout=150, allow_redirects=True)
+        response = requests.head(dat_url, headers=HTTP_HEADERS, timeout=150, allow_redirects=True)
         response.raise_for_status()
         
         content_header = response.headers.get("Content-Disposition", "")
         
-        # Extract filename from Content-Disposition header
+        # Extract filename and date from Content-Disposition header
         original_filename = None
+        dat_date = None
         if 'filename=' in content_header:
             filename_match = re.findall(regex["filename"], content_header)
             if filename_match:
                 original_filename = filename_match[0]
-        
-        # Extract date from Content-Disposition header
-        dat_date = None
-        if 'filename=' in content_header:
             date_match = re.findall(regex["date"], content_header)
             if date_match:
                 dat_date = date_match[0]
         
         # If no filename in header, use dat_name
-        if not original_filename:
-            original_filename = dat_name
+        original_filename = original_filename or dat_name
         
         return original_filename, dat_date
         
@@ -472,10 +452,7 @@ def download_redump_dat(dat_name: str, output_dir: Path, skip_if_exists: bool = 
                 return output_path, True  # Return True to indicate it was skipped
         
         # File doesn't exist or is outdated, download it
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-        }
-        response = requests.get(dat_url, headers=headers, timeout=150)
+        response = requests.get(dat_url, headers=HTTP_HEADERS, timeout=150)
         response.raise_for_status()
         
         content_header = response.headers.get("Content-Disposition", "")
@@ -922,43 +899,24 @@ def run_retool(input_dat: Path, retool_dir: Path, output_dat_dir: Path, report_d
         except Exception:
             pass  # Ignore cleanup errors
         
-        # Determine status
-        # Build combined output: stdout + stderr
+            # Determine status
         retool_output = (result.stdout or "") + "\n" + (result.stderr or "")
-        
         no_titles_match = (
             "No titles in the input DAT match your preferences" in retool_output or
             "No DAT file has been created" in retool_output
         )
-        
         no_valid_titles = "No valid titles in input DAT file" in retool_output
         
-        if result.returncode != 0:
-            # Check for specific error conditions first (even if returncode != 0)
-            if no_valid_titles:
-                err_msg = extract_retool_error(retool_output)
-                return None, report_txt, "no_games", err_msg
-            elif no_titles_match:
-                err_msg = extract_retool_error(retool_output)
-                return None, report_txt, "not_required", err_msg
-            # Retool failed to run
-            err_msg = extract_retool_error(retool_output)
-            return output_dat, report_txt, "failed", err_msg
-        elif output_dat:
-            # Retool ran successfully and produced output
+        # Determine status based on conditions
+        if output_dat:
             return output_dat, report_txt, "success", None
-        elif no_titles_match:
-            # Retool ran successfully but no titles matched preferences (everything filtered out)
-            # Extract the error message from Retool output
-            err_msg = extract_retool_error(retool_output)
-            return None, report_txt, "not_required", err_msg
         elif no_valid_titles:
-            # No valid titles in input DAT file
-            err_msg = extract_retool_error(retool_output)
-            return None, report_txt, "no_games", err_msg
+            return None, report_txt, "no_games", extract_retool_error(retool_output)
+        elif no_titles_match:
+            return None, report_txt, "not_required", extract_retool_error(retool_output)
         else:
-            # Retool completed but produced no output and no known "filtered out" message
-            err_msg = extract_retool_error(retool_output)
+            # Failed or unknown state
+            err_msg = extract_retool_error(retool_output) if result.returncode != 0 else "Retool completed but produced no output"
             return None, report_txt, "failed", err_msg
         
     except Exception as e:
@@ -1087,12 +1045,8 @@ def process_all_dats_with_retool(dat_files: list[Path], retool_dir: Path, output
         "skipped": []
     }
     
-    # Format collection name for display (capitalize properly)
-    collection_display = collection.replace("-", "-").title() if "-" in collection else collection.title()
-    if collection == "no-intro":
-        collection_display = "No-Intro"
-    elif collection == "redump":
-        collection_display = "Redump"
+    # Format collection name for display
+    collection_display = {"no-intro": "No-Intro", "redump": "Redump"}.get(collection, collection.title())
     
     for i, dat_file in enumerate(dat_files, 1):
         print(f"\n  {collection_display} [{i}/{len(dat_files)}] Processing {dat_file.name}...")
@@ -1172,7 +1126,7 @@ def cleanup_old_files(directory: Path, pattern: str, keep_count: int = 7, collec
         return 0
     
     files = list(directory.glob(pattern))
-    if len(files) == 0:
+    if not files:
         return 0
     
     # Group files by system name + date (for reports which keep their Retool-generated names)
@@ -1197,9 +1151,7 @@ def cleanup_old_files(directory: Path, pattern: str, keep_count: int = 7, collec
             normalized = re.sub(r' \(Retool.*$', '', stem)
             normalized_system = normalized
         
-        if normalized_system not in files_by_system:
-            files_by_system[normalized_system] = []
-        files_by_system[normalized_system].append(file_path)
+        files_by_system.setdefault(normalized_system, []).append(file_path)
     
     # For each system, keep only the most recent `keep_count` files
     deleted_count = 0
@@ -1292,41 +1244,34 @@ def main():
     # Step 1: Download/collect DAT files for each collection
     collection_dats = {}
     
-    # Process Redump collection
-    if "redump" in DAT_COLLECTIONS:
-        print_step("Processing Redump collection", "📦")
-        if SKIP_REDUMP_DOWNLOAD:
-            print_step("Skipping Redump DAT download (using existing files)", "❎")
-            redump_dats = list(REDUMP_DIR.glob("*.dat"))
-            if not redump_dats:
-                print("  ⚠️  No DAT files found in daily-virgin-dat/redump/ directory")
-            else:
-                print(f"  ✅ Found {len(redump_dats)} existing Redump DAT file(s)")
-                collection_dats["redump"] = redump_dats
-        else:
-            redump_dats = download_all_redump_dats(REDUMP_DIR)
-            if redump_dats:
-                collection_dats["redump"] = redump_dats
-            else:
-                print("  ⚠️  No Redump DAT files downloaded")
+    # Download/collect DAT files for each collection
+    collection_configs = {
+        "redump": (REDUMP_DIR, SKIP_REDUMP_DOWNLOAD, download_all_redump_dats),
+        "no-intro": (NO_INTRO_DIR, SKIP_NO_INTRO_DOWNLOAD, download_no_intro_dats)
+    }
     
-    # Process No-Intro collection
-    if "no-intro" in DAT_COLLECTIONS:
-        print_step("Processing No-Intro collection", "📦")
-        if SKIP_NO_INTRO_DOWNLOAD:
-            print_step("Skipping No-Intro DAT download (using existing files)", "❎")
-            no_intro_dats = list(NO_INTRO_DIR.glob("*.dat"))
-            if not no_intro_dats:
-                print("  ⚠️  No DAT files found in daily-virgin-dat/no-intro/ directory")
+    for collection in DAT_COLLECTIONS:
+        if collection not in collection_configs:
+            continue
+            
+        collection_display = {"no-intro": "No-Intro", "redump": "Redump"}.get(collection, collection.title())
+        print_step(f"Processing {collection_display} collection", "📦")
+        collection_dir, skip_flag, download_func = collection_configs[collection]
+        
+        if skip_flag:
+            print_step(f"Skipping {collection} DAT download (using existing files)", "❎")
+            dats = list(collection_dir.glob("*.dat"))
+            if not dats:
+                print(f"  ⚠️  No DAT files found in {collection_dir}")
             else:
-                print(f"  ✅ Found {len(no_intro_dats)} existing No-Intro DAT file(s)")
-                collection_dats["no-intro"] = no_intro_dats
+                print(f"  ✅ Found {len(dats)} existing {collection} DAT file(s)")
+                collection_dats[collection] = dats
         else:
-            no_intro_dats = download_no_intro_dats(NO_INTRO_DIR)
-            if no_intro_dats:
-                collection_dats["no-intro"] = no_intro_dats
+            dats = download_func(collection_dir)
+            if dats:
+                collection_dats[collection] = dats
             else:
-                print("  ⚠️  No No-Intro DAT files downloaded")
+                print(f"  ⚠️  No {collection} DAT files downloaded")
     
     # Check if we have any DATs to process
     total_dats = sum(len(dats) for dats in collection_dats.values())
@@ -1423,15 +1368,12 @@ def main():
     print("=" * 70)
     
     # Summary by collection
+    skip_flags = {"redump": SKIP_REDUMP_DOWNLOAD, "no-intro": SKIP_NO_INTRO_DOWNLOAD}
     for collection in DAT_COLLECTIONS:
         if collection in collection_dats:
             count = len(collection_dats[collection])
-            if collection == "redump" and not SKIP_REDUMP_DOWNLOAD:
-                print(f"  📥 Downloaded: {count} {collection} DAT file(s)")
-            elif collection == "no-intro" and not SKIP_NO_INTRO_DOWNLOAD:
-                print(f"  📥 Downloaded: {count} {collection} DAT file(s)")
-            else:
-                print(f"  📁 Using: {count} {collection} DAT file(s)")
+            action = "📁 Using" if skip_flags.get(collection, False) else "📥 Downloaded"
+            print(f"  {action}: {count} {collection} DAT file(s)")
     
     print(f"\n  📊 Results by configuration and collection:")
     
