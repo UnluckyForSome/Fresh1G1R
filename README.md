@@ -26,22 +26,22 @@ Each configuration processes both **Redump** (disc-based) and **No-Intro** (cart
 
 ## How Can I Use This?
 
-The latest, up-to-date DAT files for every system are available in the `daily-processed-dat/` directory on GitHub:
+The latest, up-to-date DAT files for every system are available in the `daily-1g1r-dat/` directory on GitHub:
 
 ### McLean Collection
-- **Redump DATs**: https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-processed-dat/McLean/redump
-- **No-Intro DATs**: https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-processed-dat/McLean/no-intro
+- **Redump DATs**: https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/McLean/redump
+- **No-Intro DATs**: https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/McLean/no-intro
 
 ### PropeR Collection
-- **Redump DATs**: https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-processed-dat/PropeR/redump
-- **No-Intro DATs**: https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-processed-dat/PropeR/no-intro
+- **Redump DATs**: https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/PropeR/redump
+- **No-Intro DATs**: https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/PropeR/no-intro
 
 ### Hearto Collection
-- **Redump DATs**: https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-processed-dat/Hearto/redump
-- **No-Intro DATs**: https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-processed-dat/Hearto/no-intro
+- **Redump DATs**: https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/Hearto/redump
+- **No-Intro DATs**: https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/Hearto/no-intro
 
 **To use these DAT files:**
-1. Navigate to the collection and system you want (e.g., `daily-processed-dat/McLean/redump/`)
+1. Navigate to the collection and system you want (e.g., `daily-1g1r-dat/McLean/redump/`)
 2. Download the `.dat` file for your desired system
 3. Use the DAT file with your ROM management tool (e.g., clrmamepro, RomVault, etc.)
 

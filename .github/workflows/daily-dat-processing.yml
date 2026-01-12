@@ -52,12 +52,12 @@ jobs:
         BRANCH=$(git rev-parse --abbrev-ref HEAD)
         echo "Current branch: $BRANCH"
         
-        # Check if there are changes to commit (daily-processed-dat and report folders)
-        if [ -n "$(git status --porcelain daily-processed-dat/ report/)" ]; then
-          git add daily-processed-dat/ report/
+        # Check if there are changes to commit (daily-1g1r-dat and report folders)
+        if [ -n "$(git status --porcelain daily-1g1r-dat/ report/)" ]; then
+          git add daily-1g1r-dat/ report/
           git commit -m "Automated daily DAT processing - $(date +'%Y-%m-%d %H:%M:%S UTC')"
           git push origin $BRANCH
           echo "✅ Successfully pushed changes"
         else
-          echo "No changes to commit in daily-processed-dat/ or report/ folders"
+          echo "No changes to commit in daily-1g1r-dat/ or report/ folders"
         fi

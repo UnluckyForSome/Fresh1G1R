@@ -8,7 +8,7 @@ This script:
 3. Downloads/sets up the latest Retool
 4. Processes all .dat files from daily-virgin-dat/redump/ and daily-virgin-dat/no-intro/ directories through Retool
    for each configuration (Hearto, McLean, PropeR) with their respective filter settings
-5. Exports processed DATs to daily-processed-dat/{config}/{collection}/ directories
+5. Exports processed DATs to daily-1g1r-dat/{config}/{collection}/ directories
 6. Exports reports to report/{config}/{collection}/ directories
 """
 
@@ -304,7 +304,7 @@ def preload_config_settings(configs: list[tuple[str, Path]], collections: list[s
         
         for collection in collections:
             key = (config_name, collection)
-            daily_output_dir = SCRIPT_DIR / "daily-processed-dat" / config_name / collection
+            daily_output_dir = SCRIPT_DIR / "daily-1g1r-dat" / config_name / collection
             report_output_dir = SCRIPT_DIR / "report" / config_name / collection
             
             config_settings[key] = {
@@ -321,7 +321,7 @@ def preload_config_settings(configs: list[tuple[str, Path]], collections: list[s
         print(f"     Exclude flags: {retool_exclude}")
         print(f"     Command flags: {' '.join(retool_flags)}")
         for collection in collections:
-            print(f"     Output: daily-processed-dat/{config_name}/{collection}/")
+            print(f"     Output: daily-1g1r-dat/{config_name}/{collection}/")
             print(f"     Reports: report/{config_name}/{collection}/")
     
     return config_settings
@@ -1222,7 +1222,7 @@ def cleanup_old_files(directory: Path, pattern: str, keep_count: int = 7, collec
 
 
 def cleanup_previous_dats(output_dir: Path, config_name: str, collection: str, preserve_files: set[str] = None):
-    """Remove previous DAT files from daily-processed-dat/{config_name}, keeping only the latest set."""
+    """Remove previous DAT files from daily-1g1r-dat/{config_name}, keeping only the latest set."""
     if not output_dir.exists():
         return
     
@@ -1438,7 +1438,7 @@ def main():
     for (config_name, collection), results in all_results.items():
         skipped_count = len(results.get('skipped', []))
         print(f"\n  📦 {config_name} / {collection}:")
-        print(f"     ✅ Processed: {len(results['successful'])} DAT files to daily-processed-dat/{config_name}/{collection}/")
+        print(f"     ✅ Processed: {len(results['successful'])} DAT files to daily-1g1r-dat/{config_name}/{collection}/")
         print(f"     📄 Reports: {len(results['successful'])} report files to report/{config_name}/{collection}/")
         print(f"     🚫 Not Required: {len(results['not_required'])} DAT files (everything filtered out)")
         if len(results['no_games']) > 0:
