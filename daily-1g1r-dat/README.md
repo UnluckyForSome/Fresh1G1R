@@ -13,7 +13,7 @@ These are the **final output** DAT files that have been:
 ## Directory Structure
 
 ```
-daily-processed-dat/
+daily-1g1r-dat/
 ├── Hearto/
 │   ├── redump/     # Processed disc-based DATs (PlayStation, Xbox, etc.)
 │   └── no-intro/   # Processed cartridge-based DATs (Nintendo, Sega, etc.)

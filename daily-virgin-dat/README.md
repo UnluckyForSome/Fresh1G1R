@@ -23,7 +23,7 @@ daily-virgin-dat/
 These virgin DAT files are automatically:
 1. Downloaded/updated daily
 2. Processed through Retool with 1G1R filtering
-3. Saved to [`../daily-processed-dat/`](../daily-processed-dat/README.md) with the appropriate configuration filters applied
+3. Saved to [`../daily-1g1r-dat/`](../daily-1g1r-dat/README.md) with the appropriate configuration filters applied
 
 ## Why Keep These?
 

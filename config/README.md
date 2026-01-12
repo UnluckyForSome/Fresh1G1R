@@ -57,7 +57,7 @@ config/
 
 1. The automation script (`automate.py`) loads the appropriate configuration
 2. Retool processes each DAT file using the selected configuration's rules
-3. The filtered results are saved to `daily-processed-dat/{config}/{collection}/`
+3. The filtered results are saved to `daily-1g1r-dat/{config}/{collection}/`
 4. Processing reports are saved to `report/{config}/{collection}/`
 
 ## Modifying Configurations
