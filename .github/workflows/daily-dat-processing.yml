@@ -1,0 +1,63 @@
+name: Daily DAT Processing
+
+on:
+  schedule:
+    # Run daily at 2:00 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+permissions:
+  contents: write  # Required to push commits
+
+jobs:
+  process-dats:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Fetch all history for git operations
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y git
+    
+    - name: Install Python dependencies
+      run: |
+        python3 -m pip install --upgrade pip
+        python3 -m pip install requests playwright
+    
+    - name: Install Playwright browsers
+      run: |
+        python3 -m playwright install chromium
+    
+    - name: Run automation script
+      run: |
+        python3 automate.py
+      continue-on-error: false
+    
+    - name: Commit and push results
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Get the current branch name
+        BRANCH=$(git rev-parse --abbrev-ref HEAD)
+        echo "Current branch: $BRANCH"
+        
+        # Check if there are changes to commit (daily-processed-dat and report folders)
+        if [ -n "$(git status --porcelain daily-processed-dat/ report/)" ]; then
+          git add daily-processed-dat/ report/
+          git commit -m "Automated daily DAT processing - $(date +'%Y-%m-%d %H:%M:%S UTC')"
+          git push origin $BRANCH
+          echo "✅ Successfully pushed changes"
+        else
+          echo "No changes to commit in daily-processed-dat/ or report/ folders"
+        fi
