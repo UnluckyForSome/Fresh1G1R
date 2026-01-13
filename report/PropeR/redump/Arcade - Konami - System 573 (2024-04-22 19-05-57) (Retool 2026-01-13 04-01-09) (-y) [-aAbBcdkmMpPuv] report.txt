@@ -1,0 +1,69 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Dance Dance Revolution 3rd Mix Plus (Japan)
+  - Dance Dance Revolution 3rd Mix (Asia)
+  - Dance Dance Revolution 3rd Mix (Japan)
++ Fisherman's Bait - A Bass Challenge (USA) (UAB)
+  - Fisherman's Bait - A Bass Challenge (USA) (UAA)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Bass Angler (Japan)
++ Dance Dance Revolution - Internet Ranking Kit (Japan)
++ Dance Dance Revolution 3rd Mix - Ver. Korea 2 (Korea)
++ Dance Dance Revolution Club Kit - Dance Dance Revolution 2nd Mix-you (Japan)
++ Dance Dance Revolution Solo - Bass Mix (Japan)
++ Dancing Stage featuring True Kiss Destination (Japan)
++ Dark Horse Legend (Japan)
++ DrumMania (Japan)
++ DrumMania 10th Mix (Japan) (Application Disc)
++ DrumMania 10th Mix (Japan) (MultiSession Disc)
++ DrumMania 10th Mix (Japan) (e-Amusement Disc)
++ DrumMania 2nd Mix (Japan)
++ DrumMania 6th Mix (Japan)
++ DrumMania 6th Mix (Japan) (MultiSession)
++ DrumMania 8th Mix (Japan)
++ DrumMania 8th Mix (Japan) (MultiSession)
++ DrumMania 9th Mix (Japan) (Game Disc)
++ DrumMania 9th Mix (Japan) (MultiSession Disc)
++ DrumMania 9th Mix (Japan) (Update Disc)
++ DrumMania 9th Mix (Japan) (e-Amusement Disc)
++ Fisherman's Bait - Marlin Challenge (World)
++ GuitarFreaks (World)
++ GuitarFreaks 10th Mix (Japan) (e-Amusement Disc)
++ GuitarFreaks 2nd Mix (Japan)
++ GuitarFreaks 3rd Mix (Japan)
++ GuitarFreaks 4th Mix (Japan)
++ GuitarFreaks 5th Mix (Japan)
++ GuitarFreaks 8th Mix - Power-Up Ver. (Japan)
++ GuitarFreaks 9th Mix (Japan)
++ GuitarFreaks Link Kit 1 (Japan) (Memory Card Taiou)
++ Hyper Bishi Bashi Champ (World)
++ Jikkyou Powerful Pro Yakyuu EX '98 (Japan)
++ Jikkyou Powerful Pro Yakyuu EX (Japan)
++ Mambo a Go Go (Japan)
++ Punch Mania - Hokuto no Ken 2 - Gekitou Shura no Kuni-hen (Japan)
++ Salaryman Champ - Tatakau Salaryman (Japan)
++ Session Power Up Kit for DrumMania 2nd Mix & PercussionFreaks 2nd Mix (Japan, Asia)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- GX700 Series CD-ROM Drive Updater (World)
+- GX700 Series CD-ROM Drive Updater 2.0 (World)

@@ -1,0 +1,55 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* MIA REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ 3-D Tic-Tac-Toe (USA)
++ A.E. (USA) (Side A)
++ Ace of Aces (USA, Europe)
++ Acey-Deucey (USA)
++ Air Rescue I (USA)
++ Archon (USA, Europe)
++ Barnyard Blaster (USA, Europe)
++ Basketball (USA)
++ Centipede (Europe)
++ Coco Notes (USA)
++ Desert Falcon (USA, Europe)
++ Eastern Front (1941) (USA)
++ Final Legacy (USA)
++ Food Fight (USA)
++ Frogger (USA)
++ Galaxian (USA)
++ Gato (USA, Europe)
++ Joust (USA)
++ Kaboom! (USA, Europe)
++ Lode Runner (USA, Europe)
++ Miner 2049er (USA)
++ Missile Command (USA)
++ Moon Patrol (USA)
++ One-on-One (USA, Europe)
++ Pac-Man (Europe)
++ Pole Position (Europe)
++ Qix (USA)
++ Rescue on Fractalus (USA, Europe)
++ River Raid (USA, Europe)
++ Space Invaders (USA)
++ Star Raiders II (USA, Europe)
++ Super Breakout (USA)
++ Trailblazer (Europe)
+
+MIA REMOVES
+===========
+These titles were removed because the user excluded mia titles.
+
+- Caverns of Mars (USA)
+- Shattered Alliance, The (USA)

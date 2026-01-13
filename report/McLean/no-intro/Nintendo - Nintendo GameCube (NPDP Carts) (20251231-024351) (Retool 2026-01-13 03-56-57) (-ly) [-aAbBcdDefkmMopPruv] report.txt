@@ -1,0 +1,70 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+* PREPRODUCTION REMOVES
+* LANGUAGE REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Memory Card Utility Program (USA) (v1.1.0)
+  - Memory Card Utility Program (Unknown) (v1.0.4)
+  - Memory Card Utility Program (Unknown) (v1.0.4) (Alt)
+
+TITLES WITHOUT CLONES
+=====================
+
++ There Is No Program on This Disc (Unknown)
++ kpaddemo (Unknown)
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- Metroid Prime 3 - Corruption (USA) (Demo) (Kiosk, E3 2006)
+- Shadow the Hedgehog - Trial Version (Japan) (Demo) (2005-10-31)
+
+PREPRODUCTION REMOVES
+=====================
+These titles were removed because the user excluded preproduction titles.
+
+- 2 Games in 1 - Nickelodeon Bob L'eponge - Le Film & Nickelodeon Bob L'eponge - La Bataille de Bikini Bottom (France) (Disc 1) (Proto)
+- 2 Games in 1 - Nickelodeon Bob L'eponge - Le Film & Nickelodeon Bob L'eponge - La Bataille de Bikini Bottom (France) (Disc 2) (Proto)
+- 2 Games in 1 - Nickelodeon SpongeBob SquarePants - The Movie & Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (Europe) (Disc 1) (Proto) (2005-11-10)
+- 2 Games in 1 - Nickelodeon SpongeBob SquarePants - The Movie & Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (Europe) (Disc 2) (Proto) (2005-11-10)
+- Batman Begins (Europe) (Beta) (2005-05-01)
+- Crash Bandicoot - The Wrath of Cortex (USA) (Beta) (2001-12-17)
+- Crash Bandicoot - The Wrath of Cortex (USA) (Beta) (2002-07-24)
+- Disney-Pixar Mr. Incredible (Japan) (Beta) (2004-09-13)
+- Disney-Pixar Mr. Incredible (Japan) (Beta) (2004-09-20)
+- Disney-Pixar Mr. Incredible - Kyouteki Underminer Toujou (Japan) (Beta) (2005-09-15)
+- Disney-Pixar Mr. Incredible - Kyouteki Underminer Toujou (Japan) (Beta) (2005-10-21)
+- Disney-Pixar Ratatouille (USA) (Beta) (2006-01-18)
+- Disney-Pixar Ratatouille (USA) (Beta) (Later)
+- Disney-Pixar The Incredibles (USA) (Beta) (2004-07-19)
+- Disney-Pixar The Incredibles (USA) (Beta) (2004-09-12)
+- Disney-Pixar The Incredibles - Rise of the Underminer (Europe) (Beta) (2005-09-15)
+- Gun (USA) (Beta) (2004-04-07)
+- Ice Age 2 - The Meltdown (Europe) (Beta)
+- Ice Age 2 - The Meltdown (Europe) (En,Fr,De,Nl) (Beta) (2005-12-12)
+- Pirates of the Caribbean (USA) (Proto) (2004-04-05)
+- Sonic Heroes (Japan) (Beta) (2003-10-30)
+- Sonic Heroes (USA) (Beta)
+- Sonic Riders (USA) (Beta)
+- Summoner - The Prophecy (USA) (Beta) (Rev 1121A)
+- Summoner - The Prophecy (USA) (Beta) (Rev 1121B)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Memory Card Utility Program (Japan) (v1.1.0)

@@ -1,0 +1,23 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Bishoujo Senshi Sailor Moon SuperS - Illustration Club (Japan)
++ Dragon Ball Z (Japan) (Design Cartridges)
++ Dragon Ball Z - Taisen Gata Search Battle (Japan)
++ Dungeon Diver (Japan)
++ From TV animation - Slam Dunk (Japan) (Design Cartridges)
++ Rockman X3 - Buster Battle (Japan)
++ Rockman X3 - Buster Battle (Japan) (Design Cartridges)
++ Super Street Fighter II X - Grand Master Challenge (Japan) (Design Cartridges)
++ Weekly Shonen Jump Special (Japan) (Design Cartridges)

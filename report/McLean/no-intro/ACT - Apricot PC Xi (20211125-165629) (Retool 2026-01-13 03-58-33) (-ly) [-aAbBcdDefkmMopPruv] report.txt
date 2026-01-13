@@ -1,0 +1,37 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Quest - The Adventure (Europe)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 1) (OS)
+- [BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 2) (OS)
+- [BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 3) (OS)
+- [BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 4) (OS)
+- [BIOS] MS-DOS 2.11 (Europe) (v2.7) (Disk 5) (OS)
+- [BIOS] MS-DOS 2.11 (Europe) (v3.1) (Disk 1) (OS)
+- [BIOS] MS-DOS 2.11 (Europe) (v3.1) (Disk 2) (OS)
+- [BIOS] MS-DOS 2.11 (Europe) (v3.1) (Disk 3) (OS)
+- [BIOS] MS-DOS 2.11 (Europe) (v3.1) (Disk 4) (OS)
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- Demonstration Pictures (Europe) (Demo)

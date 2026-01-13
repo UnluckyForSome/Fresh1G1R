@@ -1,0 +1,59 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Billard Electrique (France)
+  - Electronic Billiards (Europe) (Proto)
++ Clay Pigeon (Europe) (Proto)
+  - Clay Pigeon (Europe) (Proto) (Alt)
++ Cosmic Conflict (Europe)
+  - Guerre de l'Espace (France)
++ Jeu de Quilles + Basketball (France)
+  - Tenpin Bowling + Basketball (Europe) (Proto)
++ Killer Bees (Europe)
+  - Ruche Infernale, La (France)
++ Race + Spin-out + Cryptogram (Europe)
+  - Course de Voitures + Autodrome + Cryptogramme (France)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Air Battle (Europe)
++ Billiard Americain (France)
++ Chez Maxime (France)
++ Demon Attack (France)
++ Exojet (France)
++ Flipper Game (Europe) (Proto)
++ Freedom Fighters (Europe)
++ Helicopter Rescue (Europe)
++ Loony Balloon (Europe)
++ Moto-Crash (France)
++ Neutron Star (Europe)
++ Nightmare (Europe)
++ Norseman (Europe)
++ Pickaxe Pete (Europe)
++ Satellite Attack (Europe)
++ Stone Sling (Europe)
++ Syracuse (France)
++ Terrahawks (Europe)
++ Trans American Rally (Europe)
++ Tresor Englouti, Le (France)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Brandt Jopac (France)
+- [BIOS] Philips Videopac+ (Europe)

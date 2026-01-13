@@ -3,14 +3,19 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - RingEdge 2 (Retool)</name>
-		<description>Arcade - Sega - RingEdge 2 (1) (-ly) [-aAbBcdDefkmMopPruv] (2025-10-11 06-53-10) (Retool)</description>
+		<description>Arcade - Sega - RingEdge 2 (2) (-ly) [-aAbBcdDefkmMopPruv] (2025-10-11 06-53-10) (Retool)</description>
 		<version>2025-10-11 06-53-10</version>
-		<date>2026-01-12 03-54-53</date>
+		<date>2026-01-13 03-55-54</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
 		<retool>Created by Retool 2.4.8</retool>
 	</header>
+	<game name="Initial D - Arcade Stage 8 Infinity (Export)">
+		<category>Games</category>
+		<description>Initial D - Arcade Stage 8 Infinity (Export)</description>
+		<rom name="Initial D - Arcade Stage 8 Infinity (Export).iso" size="7328169984" crc="944fcd42" md5="ee9c8ae15ff5034e39e89f345402760e" sha1="74e2cd6f0c48c8dcd7db10dd7dcc36f135f405c9"/>
+	</game>
 	<game name="Transformers - Human Alliance (Export) (Rev B)">
 		<category>Games</category>
 		<description>Transformers - Human Alliance (Export) (Rev B)</description>

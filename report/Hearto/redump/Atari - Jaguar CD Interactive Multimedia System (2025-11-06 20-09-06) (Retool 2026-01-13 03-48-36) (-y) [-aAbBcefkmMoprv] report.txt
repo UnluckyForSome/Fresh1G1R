@@ -1,0 +1,46 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+
+
+TITLES WITH CLONES
+==================
+
++ Battle Morph (USA)
+  - Battle Morph (USA) (Songbird)
++ Blue Lightning (USA) (En,Fr,De) (Alt)
+  - Blue Lightning (USA)
++ Myst (USA) (Demo)
+  - Myst (USA) (Demo) (Alt)
++ World Tour Racing (USA)
+  - World Tour Racing (USA) (Songbird)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Ants (USA) (Unl)
++ Baldies (USA) (Rev 1)
++ BrainDead 13 (USA)
++ Dragon's Lair (USA)
++ Fast Food 64 (USA) (Unl)
++ Fast Food 64 - Holiday Snacks (USA) (Unl)
++ Frog Feast (USA) (Unl)
++ Frogz 64 (USA) (Unl)
++ Highlander - The Last of the MacLeods (USA)
++ Hover Strike - Unconquered Lands (USA)
++ Iron Soldier 2 (USA) (Songbird)
++ Klax (USA) (Unl)
++ Myst (USA)
++ Primal Rage (USA)
++ Robinson's Requiem (USA) (Unl)
++ Saucer Wars (USA) (Unl)
++ Simone (USA) (Unl)
++ Space Ace (USA)
++ Vid Grid (USA)

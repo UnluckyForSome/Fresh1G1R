@@ -1,0 +1,75 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Action Hero 3D - Wild Dog & IMICRO3D (Brazil) (Es,Pt)
++ Alice no Pais das Maravilhas (Brazil) (Es,Pt)
++ Alien Breaker Deluxe (Brazil) (Es,Pt)
++ Alpine Racer (Brazil) (Es,Pt)
++ Armageddon Squadron (Brazil) (Es,Pt)
++ Bad Dudes vs. DragonNinja (Brazil) (Es,Pt)
++ Bejeweled Twist (Brazil) (Es,Pt)
++ Caveman Ninja (Brazil) (Es,Pt)
++ Crash Bandicoot Nitro Kart 3D (Brazil) (Es,Pt)
++ Dark Seal (Brazil) (Es,Pt)
++ Disney All Star Cards (Brazil) (Es,Pt)
++ Double Dragon (Brazil) (Es,Pt)
++ FIFA 09 (Brazil) (Es,Pt)
++ Galaxy on Fire (Brazil) (Es,Pt)
++ Heavy Barrel (Brazil) (Es,Pt)
++ Heavy Weapon (Brazil) (Es,Pt)
++ Iron Sight (Brazil) (Es,Pt)
++ Karnov's Revenge (Brazil) (Es,Pt)
++ Magical Drop III (Brazil) (Es,Pt)
++ Need For Speed - Carbon - Domine a Cidade (Brazil) (Es,Pt)
++ Pac-Mania (Brazil) (Es,Pt)
++ Peggle (Brazil) (Es,Pt)
++ Powerboat Challenge (Brazil) (Es,Pt)
++ Prey Evil (Brazil) (Es,Pt)
++ Quake (Brazil) (Es,Pt)
++ Quake II (Brazil) (Es,Pt)
++ Raging Thunder 2 (Brazil) (Es,Pt)
++ Rally Master Pro (Brazil) (Es,Pt)
++ Reckless Racing (Brazil) (Es,Pt)
++ Resident Evil 4 - Zeebo Edition (Brazil) (Es,Pt)
++ Ridge Racer (Brazil) (Es,Pt)
++ Spin Master (Brazil) (Es,Pt)
++ Street Hoop (Brazil) (Es,Pt)
++ Super BurgerTime (Brazil) (Es,Pt)
++ Tekken 2 (Brazil) (Es,Pt)
++ Tork and Kral - A Prehistorik Adventure (Brazil) (Es,Pt)
++ Toy Raid (Brazil) (Es,Pt)
++ Treino Cerebral (Brazil) (Es,Pt)
++ Turma da Monica em Vamos Brincar Vol. 1 (Brazil) (Es,Pt)
++ Ultimate Chess 3D (Brazil) (Es,Pt)
++ Um Jogo de Ovos (Brazil) (Es,Pt)
++ Wizard Fire (Brazil) (Es,Pt)
++ Z-Wheel (Brazil) (Es,Pt)
++ Zeebo App (Brazil) (Es,Pt)
++ Zeebo Channels - Opera Mini (Brazil) (Es,Pt)
++ Zeebo Clube (Brazil) (Es,Pt)
++ Zeebo Extreme Baja (Brazil) (Es,Pt)
++ Zeebo Extreme Boia Cross (Brazil) (Es,Pt)
++ Zeebo Extreme Corrida Aerea (Brazil) (Es,Pt)
++ Zeebo Extreme Jetboard (Brazil) (Es,Pt)
++ Zeebo Extreme Rolima (Brazil) (Es,Pt)
++ Zeebo F.C. Foot Camp (Brazil) (Es,Pt)
++ Zeebo F.C. Super League (Brazil) (Es,Pt)
++ Zeebo Family Pack (Brazil) (Es,Pt)
++ Zeebo Sports Peteca (Brazil) (Es,Pt)
++ Zeebo Sports Queimada (Brazil) (Es,Pt)
++ Zeebo Sports Tenis (Brazil) (Es,Pt)
++ Zeebo Sports Volei (Brazil) (Es,Pt)
++ Zeeboids (Brazil) (Es,Pt)
++ Zenonia (Brazil) (Es,Pt)
++ Zuma's Revenge (Brazil) (Es,Pt)

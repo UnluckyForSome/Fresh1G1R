@@ -1,0 +1,109 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* BAD DUMP REMOVES
+* BIOS AND OTHER CHIP REMOVES
+* PREPRODUCTION REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ 280 Zzzap ~ Dodgem (USA)
++ Amazing Maze ~ Tic-Tac-Toe (USA)
++ Astro Battle (USA)
++ Bally Black Box (USA)
++ Bally Pin (USA)
++ Blackjack ~ Poker ~ Acey-Duecy (USA)
++ Blast Droids (USA)
++ Candyman (USA)
++ Chicken (USA)
++ Claim Jumper (USA)
++ Clowns ~ Brickyard (USA)
++ Conan the Barbarian (USA)
++ Cosmic Raider (USA)
++ Crazy Climber (USA)
++ Dogpatch (USA)
++ Football (USA)
++ Galactic Invasion (USA)
++ Gate Escape, The (USA)
++ Grand Prix ~ Demolition Derby (USA)
++ Haunted House (USA) (Part 1)
++ Haunted House (USA) (Part 2)
++ Haunted House (USA) (Part 3)
++ Haunted House (USA) (Part 4)
++ Haunted House (USA) (Part 5)
++ Haunted House (USA) (Part 6)
++ Haunted House (USA) (Part 7)
++ Haunted House (USA) (Part 8)
++ Haunted House (USA) (Part 9)
++ Incredible Wizard, The (USA)
++ Life (USA)
++ Mazeman (USA)
++ Ms. Candyman (USA)
++ Muncher (USA)
++ No-Die! (USA)
++ Panzer Attack ~ Red Baron (USA)
++ Pirate's Chase (USA)
++ Road Toad (USA)
++ Sea Devil (USA)
++ Soccer (USA)
++ Solar Conqueror (USA)
++ Space Fortress (USA)
++ Space Invaders (USA)
++ Star Battle (USA) (Bally)
++ Stweek (USA)
++ Super Slope (USA)
++ Tornado Baseball ~ Tennis ~ Hockey ~ Handball (USA)
++ War (USA)
+
+BAD DUMP REMOVES
+================
+These titles were removed because the user excluded bad dump titles.
+
+- Seawolf ~ Missile (USA) [b]
+- Star Battle (USA) (Astrovision) [b]
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Bally Astrocade (USA)
+- [BIOS] Bally Professional Arcade (USA)
+
+PREPRODUCTION REMOVES
+=====================
+These titles were removed because the user excluded preproduction titles.
+
+- Artillery Duel (USA) (Proto)
+- Artillery Duel (USA) (Proto) (Alt)
+- Bowling (USA) (Proto)
+- Checkers (USA) (Proto)
+- Conan the Barbarian (USA) (Proto)
+- Cosmic Raiders (USA) (Proto)
+- Cosmic Raiders (USA) (Proto) (Alt)
+- Cosmic Raiders (v3.5) (USA) (Proto)
+- Cosmic Raiders (v3.6) (USA) (Proto)
+- Fawn Dungeon (USA) (Proto) (1st Version)
+- Fawn Dungeon (USA) (Proto) (2nd Version)
+- Incredible Wizard, The (USA) (Proto) [b]
+- Mazeman (USA) (Proto)
+- Pac-Man (USA) (Proto)
+- Pac-Man (USA) (Proto) (Alt)
+- Pacmaze (USA) (Proto)
+- Soccer (USA) (Proto)
+- Soccer (USA) (Proto) (Alt 2)
+- Soccer (USA) (Proto) (Alt 3)
+- Soccer (USA) (Proto) (Alt 4)
+- Soccer (USA) (Proto) (Alt)
+- Solar Conqueror (USA) (Proto)
+- Solar Conqueror (v2.8) (USA) (Proto)
+- Solar Conqueror (v3.9) (USA) (Proto)
+- Space Fortress (USA) (Proto)
+- Space Invaders (USA) (Proto)

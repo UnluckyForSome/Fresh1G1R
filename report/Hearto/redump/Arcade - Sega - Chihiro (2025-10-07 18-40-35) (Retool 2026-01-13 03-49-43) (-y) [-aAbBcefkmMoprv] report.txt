@@ -1,0 +1,50 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* MIA REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Ghost Squad (World) (Rev A)
+  - Ghost Squad (World)
++ Wangan Midnight Maximum Tune (World) (Rev B)
+  - Wangan Midnight Maximum Tune (Japan) (Rev B)
++ Wangan Midnight Maximum Tune 2 (World) (Rev A)
+  - Wangan Midnight Maximum Tune 2 (Japan)
+  - Wangan Midnight Maximum Tune 2 (Japan) (Rev A)
+  - Wangan Midnight Maximum Tune 2 (World)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Crazy Taxi High Roller (World) (Rev B)
++ House of the Dead 3, The (World)
++ Ollie King (Japan)
++ OutRun 2 (World) (Rev A)
++ Sega Network Taisen Mahjong MJ2 (Japan) (Rev C)
++ Sega Network Taisen Mahjong MJ3 (Japan) (Rev D)
++ Sega Network Taisen Mahjong MJ3 Evolution (Japan) (Rev A)
++ Virtua Cop 3 (World) (Rev B)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- Sega Network Taisen Mahjong MJ3 Evolution-you Firmware Koushin Program (Japan)
+- Sega Network Taisen Mahjong MJ3-you Firmware Koushin Program (Japan)
+
+MIA REMOVES
+===========
+These titles were removed because the user excluded mia titles.
+
+- Sega Network Taisen Mahjong MJ2 (Japan) (Rev D)

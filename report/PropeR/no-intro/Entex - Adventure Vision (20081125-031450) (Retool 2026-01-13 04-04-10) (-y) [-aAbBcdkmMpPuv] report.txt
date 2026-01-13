@@ -1,0 +1,25 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Defender (USA, Europe)
++ Space Force (USA, Europe)
++ Super Cobra (USA, Europe)
++ Turtles (USA, Europe)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Entex Adventure Vision (USA, Europe)

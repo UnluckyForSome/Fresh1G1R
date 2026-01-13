@@ -1,0 +1,136 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* BAD DUMP REMOVES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Alwa's Awakening & Cathedral (World)
+  - Alwa's Awakening & Cathedral (Europe)
++ Codemasters Collection 1 (World)
+  - Codemasters Collection 1 (Europe)
++ Delphine Software Collection 1 (World)
+  - Delphine Software Collection 1 (Europe)
++ Demons of Asteborg & Astebros (World)
+  - Demons of Asteborg & Astebros (Europe)
++ Duke Nukem Collection 1 (World)
+  - Duke Nukem Collection 1 (Europe)
++ Duke Nukem Collection 2 (World)
+  - Duke Nukem Collection 2 (Europe)
++ Full Void (World)
+  - Full Void (Europe)
++ Gremlin Collection 1 (World)
+  - Gremlin Collection 1 (Europe)
++ Home Computer Heroes Collection 1 (World)
+  - Home Computer Heroes Collection 1 (Europe)
++ Irem Arcade 1 (World)
+  - Irem Arcade 1 (Europe)
++ Mega Cat Studios Collection 2 (Europe) (2023-12-29)
+  - Mega Cat Studios Collection 2 (Europe) (2021-05-25)
++ Renovation Collection 1 (World)
+  - Renovation Collection 1 (Europe)
++ Sydney Hunter Collection, The (World)
+  - Sydney Hunter Collection, The (Europe)
++ Team17 Collection 1 (World)
+  - Team17 Collection 1 (Europe) (v1.0.4)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Atari Arcade 1 (World)
++ Atari Arcade 2 (World)
++ Atari Collection 2 (Europe)
++ Atari Lynx Collection 1 (Europe)
++ Bitmap Brothers Collection 2, The (World)
++ Broken Sword Collection (World)
++ Data East Arcade 2 (World)
++ Data East Collection 1 (Europe)
++ Gremlin Collection 2 (World)
++ Indie Heroes Collection 1 (Europe)
++ Indie Heroes Collection 3 (Europe) (v1.0.1)
++ Indie Heroes Collection 4 (World)
++ Intellivision Collection 1 (Europe)
++ Intellivision Collection 2 (World)
++ Interplay Collection 1 (Europe)
++ Interplay Collection 2 (Europe) (2024-11-08)
++ Jaleco Arcade 1 (World)
++ Jaleco Collection 1 (World)
++ Legacy of Kain Collection (World)
++ Mega Cat Studios Collection 1 (Europe)
++ Metal Dragon & Life on Mars (World)
++ Namco Museum Collection 1 (Europe)
++ Namco Museum Collection 2 (Europe)
++ NeoGeo Arcade 1 (World)
++ Piko Gaelco Arcade 1 (World)
++ Piko Gaelco Arcade 2 (World)
++ Piko Interactive Arcade 1 (World)
++ Piko Interactive Collection 1 (Europe)
++ Piko Interactive Collection 2 (World)
++ Piko Interactive Collection 3 (World)
++ Piko Interactive Collection 4 (Europe)
++ Roguecraft DX (World)
++ Sunsoft Collection 1 (World)
++ Super Pocket - The Atari Collection (World) (Extracted)
++ Super Pocket - The Capcom Collection (World) (Extracted)
++ Super Pocket - The Data East Collection (World) (Extracted)
++ Super Pocket - The NeoGeo Collection (World) (Extracted)
++ Super Pocket - The Taito Collection (World) (Extracted)
++ Super Pocket - The Technos Collection (World) (Extracted)
++ THEC64 Collection 2 (World)
++ Taito Arcade 1 (World)
++ Taito Arcade 2 (World)
++ Technos Arcade 1 (World)
++ Thalamus Collection 1 (World)
++ Toaplan Arcade 2 (World)
++ Toaplan Arcade 3 (World)
++ Toaplan Arcade 4 (World)
++ Tomb Raider Collection 1 (World)
++ Tomb Raider Collection 2 (World)
++ Windjammers, Karnov & Friends (World)
++ Worms Collection 1 (Europe)
++ Xeno Crisis & Tanglewood (Europe)
+
+BAD DUMP REMOVES
+================
+These titles were removed because the user excluded bad dump titles.
+
+- Atari Collection 1 (Europe) [b]
+- Atari Lynx Collection 2 (Europe) [b]
+- Bitmap Brothers Collection 1, The (Europe) [b]
+- Data East Arcade 1 (Europe) [b]
+- Data East Arcade 1 (World) [b]
+- Goodboy Galaxy & Witch n' Wiz (World) [b]
+- Indie Heroes Collection 2 (World) [b]
+- Interplay Collection 2 (Europe) (2020-11-17) [b]
+- Morphcat Games Collection 1 (World) [b]
+- Oliver Twins Collection, The (Europe) [b]
+- Sunsoft Collection 2 (Europe) [b]
+- THEC64 Collection 1 (World) [b]
+- THEC64 Collection 3 (Europe) [b]
+- Technos Collection 1 (Europe) [b]
+- Toaplan Arcade 1 (World) [b]
+- Worms Collection 1 (World) [b]
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Evercade Bootloader (World)
+- [BIOS] Evercade Bootloader (World) (v3.0.0)
+- [BIOS] Evercade VS Bootloader (World)
+- [BIOS] Super Pocket Atari Edition Root File System (World)
+- [BIOS] Super Pocket Bootloader (World)
+- [BIOS] Super Pocket Capcom Edition Root File System (World)
+- [BIOS] Super Pocket Capcom Edition Root File System (World) (v1.4.0)
+- [BIOS] Super Pocket Taito Edition Root File System (World)
+- [BIOS] Super Pocket Technos Edition Root File System (World) (v1.4.0)

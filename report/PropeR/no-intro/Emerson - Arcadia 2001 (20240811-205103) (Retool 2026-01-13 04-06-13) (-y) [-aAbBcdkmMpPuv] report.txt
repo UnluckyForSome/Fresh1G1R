@@ -1,0 +1,62 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ 3D Bowling (USA, Europe)
++ 3D Soccer (Europe)
++ Alien Invaders (USA, Europe)
++ American Football (USA, Europe)
++ Astro Invader (Europe)
++ Autorace (Europe)
++ Baseball (USA, Europe)
++ Basketball (Europe)
++ Blackjack and Poker (Europe)
++ Boxing (Europe)
++ Brain Quiz (USA, Europe)
++ Breakaway (USA, Europe)
++ Capture (USA, Europe)
++ Cat Trax (USA, Europe)
++ Circus (Europe)
++ Combat (Europe)
++ Crazy Climber (Europe)
++ Crazy Gobbler (Europe)
++ Escape (USA, Europe)
++ Funky Fish (Europe)
++ Golf (Europe)
++ Grand Slam Tennis (USA, Europe)
++ Hobo (Europe)
++ Horse Racing (Europe)
++ Jump Bug (Europe)
++ Jungler (USA, Europe)
++ Missile War (USA, Europe)
++ Monaco Grand Prix (Europe)
++ Nibblemen (Europe)
++ Ocean Battle (USA, Europe)
++ Parashooter (Europe)
++ Pleiades (Europe)
++ R2D Tank (Europe)
++ Red Clash (USA, Europe)
++ Robot Killer (Europe)
++ Route 16 (Europe)
++ Soccer (USA, Europe)
++ Space Attack (USA, Europe)
++ Space Mission (USA, Europe)
++ Space Raiders (USA, Europe)
++ Space Squadron (Europe)
++ Space Vultures (USA, Europe)
++ Spiders (USA, Europe)
++ Star Chess (USA, Europe)
++ Super Gobbler (Europe)
++ Tanks a Lot (USA, Europe)
++ The End (Europe)
++ Turtles (Europe)

@@ -4,7 +4,7 @@
 		<name>Nintendo - Nintendo 3DS (Decrypted) (Retool)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted) (975) (-y) [-aAbBcefkmMoprv] (20251219-111712) (Retool)</description>
 		<version>20251219-111712</version>
-		<date>2026-01-12 03-51-26</date>
+		<date>2026-01-13 03-52-28</date>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5198,17 +5198,17 @@
 		<game_id>00040000000EDF00</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 11).3ds" size="2147483648" crc="5df6a754" md5="b6c2c34121dcb83e15aad6fdaf238254" sha1="f905b275685449e893bf15a21671d6c95773ba83" sha256="cbfd4403f1346d80f002fe14f732b95277161b47eefa3115df0f26d2c16e6da7"/>
 	</game>
-	<game name="Super Street Fighter IV - 3D Edition (USA) (En,Fr,Es)" id="0037">
-		<category>Games</category>
-		<description>Super Street Fighter IV - 3D Edition (USA) (En,Fr,Es)</description>
-		<game_id>0004000000032D00</game_id>
-		<rom name="Super Street Fighter IV - 3D Edition (USA) (En,Fr,Es).3ds" size="2147483648" crc="f73f9a9e" md5="7cab680327e396efdb405dd19322d52d" sha1="a46ced2738a92cb2b7a6c921b76b8eeb63d7fb25" sha256="e248c847a62973e40bd4b8e89db3fd6cc36f9da505695ceed191f2b874a977a5"/>
-	</game>
 	<game name="Super Street Fighter IV - 3D Edition (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x021">
 		<category>Demos</category>
 		<description>Super Street Fighter IV - 3D Edition (USA) (En,Fr,Es) (Demo) (Kiosk)</description>
 		<game_id>0004000000038400</game_id>
 		<rom name="Super Street Fighter IV - 3D Edition (USA) (En,Fr,Es) (Demo) (Kiosk).3ds" size="2147483648" crc="ca012657" md5="2475bf2c5f73bd998ef489e55b66521b" sha1="d5a3990d006db637fd9af2ac94beeaa689ba0359"/>
+	</game>
+	<game name="Super Street Fighter IV - 3D Edition (USA) (En,Fr,Es) (Rev 1)" id="z219">
+		<category>Games</category>
+		<description>Super Street Fighter IV - 3D Edition (USA) (En,Fr,Es) (Rev 1)</description>
+		<game_id>0004000000032D00</game_id>
+		<rom name="Super Street Fighter IV - 3D Edition (USA) (En,Fr,Es) (Rev 1).3ds" size="2147483648" crc="a6fbde70" md5="a3051fbb07f27eea4c66f2868ae59e56" sha1="af64836671c6ed7f4ddc04d9058d92b5bd16c401" sha256="6a0df277db5561c62b2c9c6d3f98d9c280a344c94cbe535e801dd13cdf6d942a"/>
 	</game>
 	<game name="Survivor 3D - The Ultimate Adventure (Europe) (En,Fr,Es,It,Nl)" id="0269">
 		<category>Games</category>

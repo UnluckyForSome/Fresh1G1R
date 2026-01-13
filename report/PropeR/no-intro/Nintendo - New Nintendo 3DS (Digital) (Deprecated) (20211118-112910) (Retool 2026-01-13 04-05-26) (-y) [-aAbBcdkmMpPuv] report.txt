@@ -1,0 +1,149 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* BAD DUMP REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Binding of Isaac - Rebirth, The (USA) (v3120) (eShop)
+  - Binding of Isaac - Rebirth, The (Europe) (eShop)
+  - Binding of Isaac - Rebirth, The (Japan) (eShop)
+  - Binding of Isaac - Rebirth, The (USA) (eShop)
+  - Binding of Isaac - Rebirth, The (USA) (v1040) (eShop)
+  - Binding of Isaac - Rebirth, The (USA) (v2080) (eShop)
++ BlockForm (USA)
+  - BlockForm (Europe)
++ Box Up (USA)
+  - Box Up (Europe)
++ Brick Race (USA)
+  - Brick Race (Europe)
++ Color Cubes (USA)
+  - Color Cubes (Europe)
++ Cup Critters (USA)
+  - Cup Critters (Europe)
++ Dragon Ball Z - Super Butoden 2 (USA) (SNES) (Virtual Console) (Encrypted CIA)
+  - Dragon Ball Z - Super Butoden 2 (Europe) (SNES) (Virtual Console) (Encrypted CIA)
++ F-Zero (USA, Europe) (SNES) (Virtual Console)
+  - F-Zero (Japan) (SNES) (Virtual Console)
++ Final Fight (USA, Europe) (SNES) (Virtual Console)
+  - Final Fight (Japan) (SNES) (Virtual Console)
++ Final Fight 2 (USA, Europe) (SNES) (Virtual Console)
+  - Final Fight 2 (Japan) (SNES) (Virtual Console)
++ Futuridium EP Deluxe (USA)
+  - Futuridium EP Deluxe (Europe)
++ Galaxy Blaster (USA)
+  - Galaxy Blaster (Europe)
++ Hyperlight EX (USA)
+  - Hyperlight EX (Europe)
++ Pilotwings (USA, Europe) (SNES) (Virtual Console)
+  - Pilotwings (Japan) (SNES) (Virtual Console)
++ Pirate Pop Plus (USA)
+  - Pirate Pop Plus (Europe)
++ Shoot the Ball (USA)
+  - Shoot the Ball (Europe)
++ Street Fighter II Turbo - Hyper Fighting (USA, Europe) (SNES) (Virtual Console)
+  - Street Fighter II Turbo - Hyper Fighting (Japan) (SNES) (Virtual Console)
++ Super Mario Kart (USA, Europe) (SNES) (Virtual Console)
+  - Super Mario Kart (Japan) (SNES) (Virtual Console)
++ Super Mario World (USA, Europe) (SNES) (Virtual Console)
+  - Super Mario World (Japan) (SNES) (Virtual Console)
++ Super Metroid (USA, Europe) (SNES) (Virtual Console)
+  - Super Metroid (Japan) (SNES) (Virtual Console)
+  - Super Metroid (World) (SNES) (Virtual Console) (Encrypted CIA)
++ Super Punch-Out!! (USA, Europe) (SNES) (Virtual Console)
+  - Super Punch-Out!! (Japan) (SNES) (Virtual Console)
++ Super Street Fighter II - The New Challengers (USA, Europe) (SNES) (Virtual Console)
+  - Super Street Fighter II - The New Challengers (Japan) (SNES) (Virtual Console)
++ Wind-up Knight 2 (USA)
+  - Wind-up Knight 2 (Europe)
++ Xenoblade Chronicles 3D (USA) (En,Fr,Es) (v2080)
+  - Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It) (v2096)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Akumajou Dracula (Japan) (SNES) (Virtual Console)
++ Binding of Isaac, The - Rebirth (Korea)
++ Breath of Fire (USA, Europe) (SNES) (Virtual Console)
++ Breath of Fire - Ryuu no Senshi (Japan) (SNES) (Virtual Console) (Encrypted CIA)
++ Breath of Fire II (USA, Europe) (SNES) (Virtual Console)
++ Breath of Fire II - Shimei no Ko (Japan) (SNES) (Virtual Console) (Encrypted CIA)
++ Castlevania Dracula X (USA, Europe) (SNES) (Virtual Console)
++ Chou Makaimura (Japan) (SNES) (Virtual Console)
++ Contra III - The Alien Wars (USA, Europe) (SNES) (Virtual Console)
++ Contra Spirits (Japan) (SNES) (Virtual Console)
++ Demon's Blazon - Makai-Mura Monshou Hen (Japan) (SNES) (Virtual Console) (Encrypted CIA)
++ Demon's Crest (USA, Europe) (SNES) (Virtual Console)
++ Densetsu no Ogre Battle - The March of the Black Queen (Japan) (SNES) (Virtual Console) (Encrypted CIA)
++ Donkey Kong Country (USA, Europe) (SNES) (Virtual Console)
++ Donkey Kong Country 2 - Diddy's Kong Quest (USA, Europe) (SNES) (Virtual Console)
++ Donkey Kong Country 3 - Dixie Kong's Double Trouble (USA, Europe) (SNES) (Virtual Console)
++ DragonFang - The Doran and Dungeon of Time (Japan)
++ EarthBound (USA, Europe) (SNES) (Virtual Console)
++ Final Fantasy V (Japan) (SNES) (Virtual Console) (Encrypted CIA)
++ Final Fantasy VI (Japan) (SNES) (Virtual Console) (Encrypted CIA)
++ Final Fight 3 (USA, Europe) (SNES) (Virtual Console)
++ Final Fight Tough (Japan) (SNES) (Virtual Console)
++ Fire Emblem - Monshou no Nazo (Japan) (SNES) (Virtual Console)
++ Fire Emblem - Seisen no Keifu (Japan) (SNES) (Virtual Console)
++ Fire Emblem - Thracia 776 (Japan) (SNES) (Virtual Console)
++ Ganbare Goemon - Yukihime Kyuushutsu Emaki (Japan) (SNES) (Virtual Console)
++ Ganbare Goemon 2 - Kiteretsu Shougun McGuinness (Japan) (SNES) (Virtual Console) (Encrypted CIA)
++ Ganbare Goemon 3 - Shishijyuurokubei no Karakuri Manji Katame (Japan) (SNES) (Virtual Console) (Encrypted CIA)
++ Hit Ninja (USA)
++ Hiyoko Mamire (Japan)
++ Kirby Bowl (Japan) (SNES) (Virtual Console)
++ Kirby no KiraKira Kids (Japan) (SNES) (Virtual Console)
++ Kirby's Dream Course (Europe) (SNES) (Virtual Console)
++ Legend of Zelda, The - A Link to the Past (USA, Europe) (SNES) (Virtual Console)
++ Legend of the Mystical Ninja, The (USA, Europe) (SNES) (Virtual Console)
++ Live A Live (Japan) (SNES) (Virtual Console)
++ Mario no Super Picross (Japan) (SNES) (Virtual Console)
++ Mario's Super Picross (Europe) (SNES) (Virtual Console)
++ Mega Man 7 (USA, Europe) (SNES) (Virtual Console)
++ Mega Man X (USA, Europe) (SNES) (Virtual Console)
++ Mega Man X2 (USA, Europe) (SNES) (Virtual Console)
++ Mega Man X3 (USA, Europe) (SNES) (Virtual Console)
++ Minecraft - New Nintendo 3DS Edition (Japan) (eShop) (Encrypted CIA)
++ Mother 2 - Gyiyg no Gyakushuu (Japan) (SNES) (Virtual Console)
++ Nejimaki Knight 2 (Japan)
++ New Nintendo 3DS Limited Sale Invitation Card (Japan)
++ Panel de Pon (Japan) (SNES) (Virtual Console)
++ Pixel Hunter (USA)
++ Pop'n TwinBee (Japan) (SNES) (Virtual Console)
++ RockMan X (Japan) (SNES) (Virtual Console)
++ RockMan X3 (Japan) (SNES) (Virtual Console)
++ Rockman 7 - Shukumei no Taiketsu! (Japan) (SNES) (Virtual Console)
++ Rockman X2 (Japan) (SNES) (Virtual Console)
++ Romancing SaGa (Japan) (SNES) (Virtual Console)
++ Street Fighter Alpha 2 (USA, Europe) (SNES) (Virtual Console)
++ Street Fighter Zero 2 (Japan) (SNES) (Virtual Console)
++ Super Castlevania IV (USA, Europe) (SNES) (Virtual Console)
++ Super Donkey Kong (Japan) (SNES) (Virtual Console)
++ Super Donkey Kong 2 - Dixie & Diddy (Japan) (SNES) (Virtual Console)
++ Super Donkey Kong 3 - Nazo no Krems Shima (Japan) (SNES) (Virtual Console)
++ Super Famicom Wars (Japan) (SNES) (Virtual Console)
++ Super Ghouls'n Ghosts (USA, Europe) (SNES) (Virtual Console)
++ Tactics Ogre - Let Us Cling Together (Japan) (SNES) (Virtual Console)
++ Xenoblade (Japan) (v2080)
++ Zelda no Densetsu - Kamigami no Triforce (Japan) (SNES) (Virtual Console)
++ amiibo Kuji Biki Apuri (Japan)
+
+BAD DUMP REMOVES
+================
+These titles were removed because the user excluded bad dump titles.
+
+- Binding of Isaac - Rebirth, The (Japan) [b]
+- Dragon Fang (Japan) [b]
+- Frutakia 2 (USA) (eShop) (CIA) [b]
+- Guide the Ghost (USA) (eShop) (CIA) [b]
+- Nejimaki Knight 2 (Japan) (eShop) [b]

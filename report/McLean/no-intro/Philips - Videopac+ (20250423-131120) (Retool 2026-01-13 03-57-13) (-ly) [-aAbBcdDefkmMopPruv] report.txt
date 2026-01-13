@@ -1,0 +1,66 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+* PREPRODUCTION REMOVES
+* LANGUAGE REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Air Battle (Europe)
++ Cosmic Conflict (Europe)
++ Freedom Fighters (Europe)
++ Helicopter Rescue (Europe)
++ Killer Bees (Europe)
++ Loony Balloon (Europe)
++ Neutron Star (Europe)
++ Nightmare (Europe)
++ Norseman (Europe)
++ Pickaxe Pete (Europe)
++ Race + Spin-out + Cryptogram (Europe)
++ Satellite Attack (Europe)
++ Stone Sling (Europe)
++ Terrahawks (Europe)
++ Trans American Rally (Europe)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Brandt Jopac (France)
+- [BIOS] Philips Videopac+ (Europe)
+
+PREPRODUCTION REMOVES
+=====================
+These titles were removed because the user excluded preproduction titles.
+
+- Clay Pigeon (Europe) (Proto)
+- Clay Pigeon (Europe) (Proto) (Alt)
+- Electronic Billiards (Europe) (Proto)
+- Flipper Game (Europe) (Proto)
+- Tenpin Bowling + Basketball (Europe) (Proto)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Billard Electrique (France)
+- Billiard Americain (France)
+- Chez Maxime (France)
+- Course de Voitures + Autodrome + Cryptogramme (France)
+- Demon Attack (France)
+- Exojet (France)
+- Guerre de l'Espace (France)
+- Jeu de Quilles + Basketball (France)
+- Moto-Crash (France)
+- Ruche Infernale, La (France)
+- Syracuse (France)
+- Tresor Englouti, Le (France)

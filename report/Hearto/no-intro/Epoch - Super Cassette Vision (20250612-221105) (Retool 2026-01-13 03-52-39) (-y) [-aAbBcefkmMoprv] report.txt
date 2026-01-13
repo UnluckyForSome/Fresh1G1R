@@ -1,0 +1,59 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Boulder Dash (Japan) (En)
+  - Boulder Dash (France) (En)
++ Nebula (Japan) (En)
+  - Nebula (Japan) (En) (Alt)
++ Super Soccer (Japan) (En)
+  - Super Soccer (France) (En)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Astro Wars - Invaders from Space (Japan, France) (En)
++ Astro Wars II - Battle in Galaxy (Japan) (En)
++ Basic Nyuumon (Japan) (En)
++ Comic Circus (Japan) (En)
++ Doraemon (Japan) (En)
++ Dragon Ball - Dragon Dai Hikyou (Japan) (En)
++ Dragon Slayer (Japan) (En)
++ Elevator Fight (Japan) (En)
++ Kung Fu Road (Japan) (En)
++ Lupin Sansei (Japan) (En)
++ Mappy (Japan) (En)
++ Milky Princess (Japan) (En)
++ Miner 2049er (Japan) (En)
++ Pole Position II (Japan) (En)
++ Pop & Chips (Japan) (En)
++ Professional Wrestling (Japan) (En)
++ Punch Boy (Japan) (En)
++ Real Graphic Mahjongg (Japan)
++ Sansupyuta (Japan) (En)
++ Shougi Nyuumon (Japan)
++ Sky Kid (Japan) (En)
++ Star Speeder (Japan) (En)
++ Super Baseball (Japan) (En)
++ Super Golf (Japan) (En)
++ Ton Ton Ball (Japan) (En)
++ Wai Wai Monster Land (Japan) (En)
++ Wheelie Racer (Japan, France) (En)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Super Cassette Vision (Japan, France) (En)

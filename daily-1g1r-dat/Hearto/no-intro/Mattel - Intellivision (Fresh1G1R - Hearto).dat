@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Mattel - Intellivision (Retool)</name>
-		<description>Mattel - Intellivision (165) (-y) [-aAbBcefkmMoprv] (20260101-063610) (Retool)</description>
+		<description>Mattel - Intellivision (166) (-y) [-aAbBcefkmMoprv] (20260101-063610) (Retool)</description>
 		<version>20260101-063610</version>
-		<date>2026-01-12 03-51-11</date>
+		<date>2026-01-13 03-52-16</date>
 		<author>Aringon, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, psykopat, RetroUprising, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -481,6 +481,11 @@
 		<category>Preproduction</category>
 		<description>Number Jumble (USA) (Proto)</description>
 		<rom name="Number Jumble (USA) (Proto).int" size="32768" crc="e5d1a8d2" md5="f11987699a66c59ac874a50a5d905647" sha1="e27527eb8de824f893762d1b35863824434c8837" sha256="ec9173f358d913e0462adc98a283f63e65621523199a0ce01e3aa21abb421793"/>
+	</game>
+	<game name="Operation Cloudfire (World) (Unl)" id="0251">
+		<category>Games</category>
+		<description>Operation Cloudfire (World) (Unl)</description>
+		<rom name="Operation Cloudfire (World) (Unl).bin" size="182422" crc="36a7711b" md5="18107c7e6b134beae6e23141a4037d75" sha1="8d87e6e5ba6c63e3248ee86157a2d884e8d20e3a" sha256="5c95b6d5c7cf0b99b54cf2403ec53f79649a6dc954574fed880ff653306e39da"/>
 	</game>
 	<game name="PBA Bowling (World)" id="0109">
 		<category>Games</category>

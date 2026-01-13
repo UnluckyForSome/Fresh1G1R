@@ -1,0 +1,36 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Bliss Collection #02 - Vips (Japan) (Unl)
+  - Bliss Collection #02 - Vips (Japan) (Unl) (Alt)
+
+TITLES WITHOUT CLONES
+=====================
+
++ A Ressha de Ikou IV (Japan) (System Disk)
++ Air Raider (Japan) (Unl)
++ Bliss Collection #01 - Whips Ct. 1 (Japan) (Unl)
++ Bliss Collection #03 - Whips Ct. 2 Pro (Japan) (Unl)
++ Bliss Collection #07 - Whips Ct. 4 (Japan) (Unl)
++ Exgmaze (Japan) (Unl)
++ Sword Edge (Japan) (Sprite Editor) (Unl)
++ Sword Edge (Japan) (Unl)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- Sword Edge (Japan) (Map Editor) (Unl)

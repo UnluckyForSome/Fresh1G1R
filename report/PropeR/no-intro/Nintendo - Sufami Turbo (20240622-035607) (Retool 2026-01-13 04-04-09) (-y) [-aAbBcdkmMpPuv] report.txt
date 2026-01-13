@@ -1,0 +1,27 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)
++ Crayon Shin-chan - Nagagutsu Dobon!! (Japan)
++ Gegege no Kitarou - Youkai Donjara (Japan)
++ Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)
++ Poi Poi Ninja World (Japan)
++ SD Gundam Generation - Axis Senki (Japan)
++ SD Gundam Generation - Babylonia Kenkoku Senki (Japan)
++ SD Gundam Generation - Colony Kakutouki (Japan)
++ SD Gundam Generation - Gryps Senki (Japan)
++ SD Gundam Generation - Ichinen Sensouki (Japan)
++ SD Gundam Generation - Zanscare Senki (Japan)
++ SD Ultra Battle - Seven Densetsu (Japan)
++ SD Ultra Battle - Ultraman Densetsu (Japan)

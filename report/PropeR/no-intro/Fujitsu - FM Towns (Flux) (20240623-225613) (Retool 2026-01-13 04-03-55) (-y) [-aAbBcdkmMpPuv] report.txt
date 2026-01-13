@@ -1,0 +1,56 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ 2069 AD (Japan) (Disk 1 - A)
++ 2069 AD (Japan) (Disk 2 - B)
++ 2069 AD (Japan) (Disk 3 - C)
++ A Ressha de Ikou IV (Japan) (System Disk)
++ Ai Shimai - Futari no Kajitsu (Japan) (Disk 1 - A)
++ Ai Shimai - Futari no Kajitsu (Japan) (Disk 2 - B)
++ Ai Shimai - Futari no Kajitsu (Japan) (Disk 3 - C)
++ Ai Shimai - Futari no Kajitsu (Japan) (Disk 4 - D)
++ Air Management - Oozora ni Kakeru (Japan)
++ Air Warrior V2 (Japan) (v2.1L10) (Kidou Disk)
++ Air Warrior V2 (Japan) (v2.1L10) (Marty Kidou Disk)
++ Cameltry (Japan) (3.5 inch)
++ DOR (Japan) (3.5 inch)
++ DOR Part 3 (Japan) (3.5 inch)
++ Daisenryaku III '90 Map Collection Vol. 1 (Japan) (3.5 inch)
++ Dinosaur (Japan) (3.5 inch)
++ Doukyuusei 2 Special Disk (Japan) (3.5 inch)
++ Dragon Knight 4 Special Disk (Japan) (3.5 inch)
++ Dragon Slayer - The Legend of Heroes (Japan) (3.5 inch)
++ Dragon Slayer - The Legend of Heroes II (Japan) (3.5 inch)
++ Elle (Japan) (3.5 inch)
++ Emit Vol. 1 - Toki no Maigo (Japan) (3.5 inch)
++ Emit Vol. 2 - Inochigake no Tabi (Japan) (3.5 inch)
++ Emit Vol. 3 - Watashi ni Sayonara o (Japan) (3.5 inch)
++ Gulf War - Soukouden (Japan) (3.5 inch)
++ Leading Company - Keys of the City (Japan) (3.5 inch)
++ Lip 3 - Lipstick Adventure 3 (Japan) (3.5 inch)
++ Metal Eye Special Disk (Japan) (3.5 inch)
++ Music Pro-Towns (Japan) (3.5 inch)
++ New 3D Golf Simulation - Harukanaru Augusta (Japan) (3.5 inch)
++ Nonomura Byouin no Hitobito (Japan) (3.5 inch)
++ Premium (Japan) (3.5 inch)
++ Quiz Banchou (Japan) (3.5 inch)
++ S.A. 2 (Japan) (3.5 inch)
++ Shangrlia (Japan) (3.5 inch)
++ Shangrlia 2 Special Disk (Japan) (3.5 inch)
++ Shinjuku Labyrinth (Japan) (3.5 inch)
++ Super Ultra Mucchin Puripuri Cyborg Maririn DX (Japan) (3.5 inch)
++ Sweet Angel (Japan) (3.5 inch)
++ Sweet Angel (Japan) (Disk A) (3.5 inch)
++ Sweet Angel (Japan) (Disk B) (3.5 inch)
++ Towns Karaoke (Japan) (v1.1L10) (3.5 inch)
