@@ -1,0 +1,74 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* MIA REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Border Break Scramble (Japan) (No. 2) (Rev A)
+  - Border Break Airburst (Japan)
++ Hatsune Miku - Project Diva Arcade (Japan) (No. 1) (DVR-5003) (Rev U)
+  - Hatsune Miku - Project Diva Arcade (Japan) (DVR-0012) (Rev A)
+  - Hatsune Miku - Project Diva Arcade (Japan) (DVR-5003)
+  - Hatsune Miku - Project Diva Arcade (Japan) (DVR-5003) (Rev F)
+  - Hatsune Miku - Project Diva Arcade (Japan) (No. 1) (DVR-5003) (Rev K)
+  - Hatsune Miku - Project Diva Arcade (Japan) (No. 1) (DVR-5003) (Rev N)
++ Hatsune Miku - Project Diva Arcade (Japan) (No. 2) (DVR-5003) (Rev U)
+  - Hatsune Miku - Project Diva Arcade (Japan) (No. 2) (DVR-5003) (Rev K)
+  - Hatsune Miku - Project Diva Arcade (Japan) (No. 2) (DVR-5003) (Rev N)
++ Initial D - Arcade Stage 6 AA (Export) (Ja,Zh) (Rev E)
+  - Initial D - Arcade Stage 6 AA (Japan) (Rev A)
+  - Initial D - Arcade Stage 6 AA - Quanguo Duizhanban (China) (Rev A)
++ Lady Luck (Japan) (RingWide) (DVR-0053)
+  - Lady Luck (Japan) (RingWide) (DVR-0014) (Rev A)
++ Sega Network Taisen Mahjong MJ5 (Japan) (Rev J)
+  - Sega Network Taisen Mahjong MJ5 (Japan)
++ Sega Network Taisen Mahjong MJ5 R Evolution (Japan) (Rev D)
+  - Sega Network Taisen Mahjong MJ5 Evolution (Japan)
+  - Sega Network Taisen Mahjong MJ5 R Evolution (Japan)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Border Break X Zero (Japan) (No. 1) (Rev C)
++ Ha Sangokushi Taisen (China) (RingWide) (Rev D)
++ Ha Sangokushi Taisen 2 (China) (RingWide)
++ Initial D - Arcade Stage 7 AA X (Japan) (Rev A)
++ Initial D - Arcade Stage 8 Infinity (Japan) (Rev A)
++ Let's Go Island 3D (World)
++ Melty Blood Actress Again Current Code (Japan) (RingWide) (Rev D)
++ Puyo Puyo!! Quest Arcade (Japan) (Rev G)
++ Sega Net Mahjong MJ Arcade (Japan) (Rev D)
++ Sega Racing Classic (Export) (RingWide) (Rev A)
++ Virtua Tennis 4 (Export) (En,Fr,De,Es,It)
++ World Club Champion Football - Intercontinental Clubs 2010-2011 (Japan) (Rev D)
+
+MIA REMOVES
+===========
+These titles were removed because the user excluded mia titles.
+
+- Border Break (Japan) (DVR-0001)
+- Border Break (Japan) (No. 1) (DVR-5053)
+- Border Break (Japan) (No. 2) (DVR-5053)
+- Border Break Scramble (Japan) (No. 1) (Rev D)
+- Border Break Scramble (Japan) (No. 2) (Rev D)
+- Border Break X Zero (Japan) (No. 2) (Rev C)
+- Border Break X Zero Plus (Japan) (No. 1) (Rev F)
+- Border Break X Zero Plus (Japan) (No. 2) (Rev F)
+- Chaos Code (Japan) (RingWide)
+- Medal no Gunman (Japan) (RingWide) (Rev B)
+- Sega Net Mahjong MJ Arcade (Japan) (Rev AD)
+- Sega Net Mahjong MJ Arcade (Japan) (Rev AF)
+- StarBoat (Japan) (Rev A)
+- World Club Champion Football 2013-2014 (Japan) (Rev A)
+- World Club Champion Football 2016-2017 (Japan) (Rev A)
+- World Club Champion Football 2017-2018 (Japan) (Rev B)

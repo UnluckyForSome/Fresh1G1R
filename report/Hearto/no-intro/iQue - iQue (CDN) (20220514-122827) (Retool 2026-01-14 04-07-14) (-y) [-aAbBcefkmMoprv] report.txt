@@ -1,0 +1,110 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* MANUAL REMOVES
+* VIDEO REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Maliou Kadingche (China) (v5)
+  - Maliou Kadingche (China) (v4)
++ Saierda Chuanshuo - Shiguang zhi Di (China) (v4)
+  - Saierda Chuanshuo - Shiguang zhi Di (China) (Proto)
++ Xingji Huohu (China) (v5)
+  - Xingji Huohu (China) (v4)
++ iQue Club (China) (v3)
+  - iQue Club (China) (v1)
+  - iQue Club (China) (v2)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Dongwu Senlin (China) (v8)
++ F-Zero X Weilai Saiche (China) (v3)
++ Maliou Yisheng (China) (v4)
++ Rentiantang Mingxing Daluan Dou (China) (v5)
++ SKSA (China) (1009) (Firmware)
++ SKSA (China) (1010) (Firmware)
++ SKSA (China) (1011) (Firmware)
++ SKSA (China) (1012) (Firmware)
++ SKSA (China) (1013) (Firmware)
++ SKSA (China) (1041) (Firmware)
++ SKSA (China) (1042) (Firmware)
++ SKSA (China) (1043) (Firmware)
++ SKSA (China) (1044) (Firmware)
++ SKSA (China) (1045) (Firmware)
++ SKSA (China) (1046) (Firmware)
++ SKSA (China) (1047) (Firmware)
++ SKSA (China) (1048) (Firmware)
++ SKSA (China) (1049) (Firmware)
++ SKSA (China) (1050) (Firmware)
++ SKSA (China) (1051) (Firmware)
++ SKSA (China) (1052) (Firmware)
++ SKSA (China) (1053) (Firmware)
++ SKSA (China) (1054) (Firmware)
++ SKSA (China) (1062) (Firmware)
++ SKSA (China) (1071) (Firmware)
++ SKSA (China) (1072) (Firmware)
++ SKSA (China) (1082) (Firmware)
++ SKSA (China) (1091) (Firmware)
++ SKSA (China) (1095) (Firmware)
++ SKSA (China) (1099) (Firmware)
++ SKSA (China) (1101) (Firmware)
++ SKSA (China) (1106) (Firmware)
++ Shenyou Maliou (China) (v4)
++ Shuishang Motuo (China) (v4)
++ Yaoxi Gushi (China)
++ Yueye Motuo (China) (v8)
++ Zhipian Maliou (China) (v4)
++ Zuhe Jiqiren (China) (v3)
++ Zui yu Fa - Diqiu de Jicheng Zhe (China) (v3)
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- F-Zero X Weilai Saiche (China) (v2) (Manual)
+- F-Zero X Weilai Saiche (China) (v4) (Manual)
+- Maliou Kadingche (China) (v2) (Manual)
+- Maliou Kadingche (China) (v6) (Manual)
+- Maliou Yisheng (China) (v2) (Manual)
+- Maliou Yisheng (China) (v4) (Manual)
+- Rentiantang Mingxing Daluan Dou (China) (Manual)
+- Saierda Chuanshuo - Shiguang zhi Di (China) (v2) (Manual)
+- Saierda Chuanshuo - Shiguang zhi Di (China) (v4) (Manual)
+- Shenyou Maliou (China) (v2) (Manual)
+- Shenyou Maliou (China) (v6) (Manual)
+- Shuishang Motuo (China) (v2) (Manual)
+- Shuishang Motuo (China) (v4) (Manual)
+- Xingji Huohu (China) (v2) (Manual)
+- Xingji Huohu (China) (v4) (Manual)
+- Yaoxi Gushi (China) (v2) (Manual)
+- Yaoxi Gushi (China) (v4) (Manual)
+- Yaoxi Gushi (China) (v6) (Manual)
+- Yueye Motuo (China) (v2) (Manual)
+- Zhipian Maliou (China) (v2) (Manual)
+- Zhipian Maliou (China) (v4) (Manual)
+- Zui yu Fa - Diqiu de Jicheng Zhe (China) (Manual)
+
+VIDEO REMOVES
+=============
+These titles were removed because the user excluded video titles.
+
+- F-Zero X Weilai Saiche (China) (Trailer)
+- Maliou Kadingche (China) (Trailer)
+- Maliou Yisheng (China) (Trailer)
+- Saierda Chuanshuo - Shiguang zhi Di (China) (Trailer)
+- Shenyou Maliou (China) (Trailer)
+- Shenyou Maliou (China) (Trailer) (Alt)
+- Shuishang Motuo (China) (Trailer)
+- Shuishang Motuo (China) (Trailer) (Alt)
+- Xingji Huohu (China) (Trailer)

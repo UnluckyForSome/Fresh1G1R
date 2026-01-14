@@ -1,0 +1,104 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* MIA REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Shinkenzemi 'Chuugaku Kouza' - Chuu 1 Eigo (Japan) (5BB112SS)
+  - Shinkenzemi 'Chuugaku Kouza' - Chuu 1 Eigo (Japan) (5BB111NH)
++ Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo (Japan) (5BB215OW)
+  - Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo (Japan) (5BB211NH)
+  - Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo (Japan) (5BB212SS)
++ Shinkenzemi 'Chuugaku Kouza' - Chuugaku Chiri (Japan) (6BD410)
+  - Shinkenzemi 'Chuugaku Kouza' - Chuugaku Chiri (Japan) (6BD410) (Alt)
++ Shinkenzemi 'Chuugaku Kouza' - Chuugaku Rekishi (Japan) (5BC410)
+  - Shinkenzemi 'Chuugaku Kouza' - Chuugaku Rekishi (Japan) (5BC410) (Alt 2)
+  - Shinkenzemi 'Chuugaku Kouza' - Chuugaku Rekishi (Japan) (5BC410) (Alt)
++ Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (Japan) (7BB115OW)
+  - Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (Japan) (0BB111NH - 7BB111NH)
+  - Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (Japan) (0BB112SS - 7BB112SS)
+  - Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (Japan) (0BB113NC - 7BB113NC)
++ Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (0BB215OW - 7BB215OW)
+  - Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (0BB211NH - 7BB211NH)
+  - Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (7BB212SS)
+  - Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (7BB213NC)
+  - Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (7BB214TE)
++ Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (7BB317CB)
+  - Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (0BB311NH - 7BB311NH)
+  - Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (0BB313NC - 7BB313NC)
+  - Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (0BB314TE)
+  - Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (0BB315OW - 7BB315OW)
+  - Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (7BB312SS)
++ Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (9BD410 - 9BD411)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (0BD410)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (1BD411)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (7BD410)
++ Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (Japan) (8BD400)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (Japan) (0BD400)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (Japan) (0BD400) (Alt)
++ Shinkenzemi Chuugaku Kouza - Chuugaku Kokugo - Hyakunin Isshu (Japan) (1BK401)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Kokugo - Hyakunin Isshu (Japan) (1BK401) (Alt)
++ Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (Japan) (0BE310 - 7BE310)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (Japan) (0BE311)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (Japan) (2BE310)
++ Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi (Japan) (7BC410)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi (Japan) (0BC410)
++ Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (1-bunya - Soft 2-bunya Soft Kanzen Taiou Ban) (Japan) (8BF400 - 9BF400)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (1BF411)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (7BF411)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (Rev 1) (7BF411)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (0BF412)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (1BF412)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (7BF412)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (Rev 1) (7BF412)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (0BF400)
+  - Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (1BF400)
++ Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (Japan) (9BI711)
+  - Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (Japan) (0BI711)
+  - Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (Japan) (1BI711)
+  - Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (Japan) (7BI711)
++ Shinkenzemi Chuugaku Kouza - Koukou Juken (Koku - Suu) (Japan) (9BI712)
+  - Shinkenzemi Chuugaku Kouza - Koukou Juken (Koku - Suu) (Japan) (7BI712)
+  - Shinkenzemi Chuugaku Kouza - Koukou Juken (Koku - Suu) (Japan) (9BI712) (Alt)
++ Shinkenzemi Koukou Kouza - Juuyou Kobun Kouryaku (Japan) (8BKD01)
+  - Shinkenzemi Koukou Kouza - Juuyou Kobun Kouryaku (Japan) (0BKD01)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Eiken Jun 2-kyuu + 3-kyuu (Japan) (2BK922)
++ Shinkenzemi 'Chuugaku Kouza' - Chuu 3 Eigo (Japan) (6BB311NH)
++ Shinkenzemi 'Chuugaku Kouza' - Chuugaku Koumin (Japan) (6BE310)
++ Shinkenzemi 'Chuugaku Kouza' - Koukou Juken (Ei - Sha - Ri) (Japan) (6BI711)
++ Shinkenzemi 'Chuugaku Kouza' - Koukou Juken (Koku - Suu) (Japan) (6BI712)
++ Shinkenzemi Chuugaku Kouza - Chuu 1 Suugaku (Japan) (1BM111)
++ Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (New Horizon, Columbus 21) (Japan) (2BB211)
++ Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (New Horizon, Columbus 21) (Japan) (2BB311)
++ Shinkenzemi Chuugaku Kouza - Chuugaku Rika (Japan) (0BF411)
++ Shinkenzemi Chuugaku Kouza - Hinshutsu Nihonshi Kouryaku (Japan) (8BCD02)
++ Shinkenzemi Chuugaku Kouza - Hinshutsu Sekaishi Kouryaku (Japan) (8BCD01)
++ Shinkenzemi Chuugaku Kouza - Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (Japan) (9BG410)
++ Shinkenzemi Chuugaku Kouza - Koukou Juken EX (Yuugou - Shiryou Mondai Kouryaku) Rika Shakai (Japan) (3BI710)
++ Shinkenzemi Koukou Kouza - Daigaku Juken Series - Hinshutsu Eijukugo (Japan) (7BBD02)
++ Shinkenzemi Koukou Kouza - Daigaku Juken Series - Hinshutsu Eitango (Japan) (7BBD01)
++ Shinkenzemi Koukou Kouza - Daigaku Juken Series - Juuyou Eigo Koubun (Japan) (7BBD03)
++ Shinkenzemi Koukou Kouza - Hinshutsu Nihonshi Kouryaku (Japan) (9BCD02)
++ Shinkenzemi Koukou Kouza - Hinshutsu Sekaishi Kouryaku (Japan) (9BCD01)
+
+MIA REMOVES
+===========
+These titles were removed because the user excluded mia titles.
+
+- Shinkenzemi 'Chuugaku Kouza' - Chuu 1 Eigo (Japan) (5BB113NC)
+- Shinkenzemi 'Chuugaku Kouza' - Chuugaku Chiri (Japan) (6BD410) (Alt 2)
+- Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Sunshine, One World) (Japan) (2BB312)

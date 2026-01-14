@@ -1,0 +1,29 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Cockpit, The (Japan) (Greaseweazle)
++ Wing Man 2 (Japan) (Disk 1)
++ Wing Man 2 (Japan) (Disk 2)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] FM-77 (Japan)
+- [BIOS] FM-8 (Japan)
+- [BIOS] FM77AV (Japan)
+- [BIOS] FM77AV (Japan) (Alt)
+- [BIOS] FM77AV40EX (Japan)
+- [BIOS] FM77AV40SX (Japan)

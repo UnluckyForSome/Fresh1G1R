@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (611) (-y) [-aAbBcdkmMpPuv] (2026-01-10 19-36-57) (Retool)</description>
-		<version>2026-01-10 19-36-57</version>
-		<date>2026-01-13 04-00-22</date>
+		<description>Apple - Macintosh (613) (-y) [-aAbBcdkmMpPuv] (2026-01-13 14-37-38) (Retool)</description>
+		<version>2026-01-13 14-37-38</version>
+		<date>2026-01-14 04-16-46</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1940,6 +1940,12 @@
 		<rom name="Iron Helix (USA).bin" size="647162208" crc="bfc832bc" md5="b897939e70cd0f2529a81bd21906eb85" sha1="8859fae4706beeb4fa5aa8fefc94122da8fbf594"/>
 		<rom name="Iron Helix (USA).cue" size="105" crc="d4afc645" md5="a10bd96861817fe84b6dd2d6b097692f" sha1="786d3fe12aaf65f3e076c3e1121acf921dcf2fa4"/>
 	</game>
+	<game name="Ishar 3 (Canada)">
+		<category>Games</category>
+		<description>Ishar 3 (Canada)</description>
+		<rom name="Ishar 3 (Canada).bin" size="771357216" crc="3c2ef88e" md5="787b5a109c241cc98679be4ed24e342f" sha1="89ee9430e22ed654d816a8d28ee78600d4c9b8ee"/>
+		<rom name="Ishar 3 (Canada).cue" size="105" crc="eec19556" md5="f41cfd07f178f08531cc6cda0e97db17" sha1="80f5a5b1c4049c56d62cfdc52a7150823197ebae"/>
+	</game>
 	<game name="Ishido - The Way of Stones (USA)">
 		<category>Games</category>
 		<description>Ishido - The Way of Stones (USA)</description>
@@ -3325,6 +3331,12 @@
 		<description>Return to Zork (USA, Europe)</description>
 		<rom name="Return to Zork (USA, Europe).bin" size="723242352" crc="4c994c7c" md5="74d981e0fb8ee867ef7cdeafece4bb09" sha1="f194259e1044f21dd25b89ec17c629ee0cc85177"/>
 		<rom name="Return to Zork (USA, Europe).cue" size="94" crc="2f424e8a" md5="d58c3918aabcef9b2f1274e6ea05008d" sha1="7ded9c6c27bf848e5b2c9bf93c0c1e52b182a0bc"/>
+	</game>
+	<game name="Riddle of the Maze, The (USA)">
+		<category>Games</category>
+		<description>Riddle of the Maze, The (USA)</description>
+		<rom name="Riddle of the Maze, The (USA).bin" size="229376448" crc="da635052" md5="35bdad4b37b84f555060fba2c1922866" sha1="7d25109f6677bf063e1ce415ad49af886c78a212"/>
+		<rom name="Riddle of the Maze, The (USA).cue" size="95" crc="97c9b5d0" md5="b6487dbdf057f5eb399ca8a28b72c98f" sha1="c1f887dbf91fdb78ea37d2179c3fc22fd955959c"/>
 	</game>
 	<game name="Rise of Nations - Gold Edition (USA)">
 		<category>Games</category>

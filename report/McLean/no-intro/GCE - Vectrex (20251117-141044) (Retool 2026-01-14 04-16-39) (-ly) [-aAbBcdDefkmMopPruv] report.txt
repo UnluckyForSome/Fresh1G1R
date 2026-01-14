@@ -1,0 +1,91 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* BIOS AND OTHER CHIP REMOVES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+* PREPRODUCTION REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Berzerk (USA)
+  - Berzerk (Europe) (Rev 2)
++ Blitz! - Action Football (World)
+  - Blitz! - Action Football (World) (Alt)
++ Fortress of Narzod (USA)
+  - Fortress of Narzod (Europe) (Rev 2)
++ Mine Storm II (USA) (Rev 2)
+  - Mine Storm (World)
++ Pole Position (USA)
+  - Pole Position (USA) (Alt)
++ Star Trek - The Motion Picture (USA)
+  - Star Ship (Europe) (1982)
+  - Star Ship (Europe) (1983)
++ WebWars (World)
+  - WebWarp (Europe)
+
+TITLES WITHOUT CLONES
+=====================
+
++ 3D Crazy Coaster (USA)
++ 3D Mine Storm (USA)
++ 3D Narrow Escape (USA)
++ AnimAction - Advanced Animation (USA)
++ Armor Attack (World)
++ Art Master (USA)
++ Bedlam (World)
++ Clean Sweep (World)
++ Cosmic Chasm (World)
++ Heads-Up - Action Soccer (World)
++ HyperChase - Auto Race (World)
++ Melody Master - Music Composition and Entertainment (USA)
++ Mr. Boston - Clean Sweep (USA)
++ Polar Rescue (USA)
++ Rip Off (World)
++ Scramble (World)
++ Solar Quest (World)
++ Space Wars (World)
++ Spike (World)
++ Spinball (World)
++ Star Castle (USA)
++ StarHawk (World)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- Engine Analyzer (USA) (Proto)
+- RA+A Spectrum I+ Stress Tester (USA) (Proto)
+- Test Cartridge (USA) (Rev 4) (Proto)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] GCE Vectrex (World)
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- Sledge 3D (USA) (Sample)
+
+PREPRODUCTION REMOVES
+=====================
+These titles were removed because the user excluded preproduction titles.
+
+- Dark Tower (USA) (Proto)
+- Mail Plane (USA) (Proto) (05838962)
+- Mail Plane (USA) (Proto) (DA1AC0DB)
+- Pitcher's Duel (USA) (Proto)
+- Polar Rescue (USA) (Beta)
+- Tour De France (USA) (Proto)

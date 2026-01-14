@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (Updates) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (Updates) (1,687) (-ly) [-aAbBcdDefkmMopPruv] (20251013-105502) (Retool)</description>
+		<description>Sony - PlayStation 3 (PSN) (Updates) (1,685) (-ly) [-aAbBcdDefkmMopPruv] (20251013-105502) (Retool)</description>
 		<version>20251013-105502</version>
-		<date>2026-01-13 03-56-52</date>
+		<date>2026-01-14 04-13-15</date>
 		<author>baldjared, bsbt, buckwheat, emstan784, Landcross, norkmetnoil577, rarenight, SonGoku, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2536,18 +2536,6 @@
 		<description>Everybody's Golf 6 (Asia) (En,Zh) (v1.03) (Disc) (Update)</description>
 		<game_id>HP9000-BCAS20276_00-0000111122223333</game_id>
 		<rom name="HP9000-BCAS20276_00-0000111122223333-A0103-V0100-PE.pkg" size="14398960" crc="0a21937a" md5="0b5a8fa3a480d9e2441ec43bc71d9e77" sha1="f9242c5bbef71fc2de41d3867cca3a2ba9c1ac78"/>
-	</game>
-	<game name="Everybody's Golf 6 (Asia) (v1.01) (Update)" id="03750">
-		<category>Games</category>
-		<description>Everybody's Golf 6 (Asia) (v1.01) (Update)</description>
-		<game_id>HP9000-NPHA80248_00-0000111122223333</game_id>
-		<rom name="HP9000-NPHA80248_00-0000111122223333-A0101-V0101-PE.pkg" size="26274544" crc="e0e51ce0" md5="1182810aef3de7ebf7d37fff093d7bfb" sha1="5189a57302436d553b236fd8050b56405f58bb77"/>
-	</game>
-	<game name="Everybody's Golf 6 (Asia) (v1.02) (Update)" id="03752">
-		<category>Games</category>
-		<description>Everybody's Golf 6 (Asia) (v1.02) (Update)</description>
-		<game_id>HP9000-NPHA80248_00-0000111122223333</game_id>
-		<rom name="HP9000-NPHA80248_00-0000111122223333-A0102-V0101-PE.pkg" size="276778352" crc="6da02e22" md5="0d49efb17921a25874e42793040e2557" sha1="6250db568f5867d168ad26dc5d3565b89bd4bdc7"/>
 	</game>
 	<game name="Everybody's Golf 6 (Asia) (v1.03) (Update)" id="07857">
 		<category>Games</category>

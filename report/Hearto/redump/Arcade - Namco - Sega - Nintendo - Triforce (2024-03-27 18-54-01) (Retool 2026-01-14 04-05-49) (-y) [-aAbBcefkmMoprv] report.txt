@@ -1,0 +1,47 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Avalon no Kagi (Main) (Japan) (Rev G)
+  - Avalon no Kagi (Main) (Japan) (Rev A)
+  - Avalon no Kagi (Main) (Japan) (Rev C)
+  - Avalon no Kagi (Main) (Japan) (Rev E)
+  - Avalon no Kagi (Main) (Japan) (Rev F)
++ Avalon no Kagi (Satellite) (Japan) (Rev F)
+  - Avalon no Kagi (Satellite) (Japan) (Rev A)
+  - Avalon no Kagi (Satellite) (Japan) (Rev C)
++ Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev B)
+  - Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev A)
++ Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev C)
+  - Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev B)
++ Virtua Striker 2002 (World)
+  - Virtua Striker 2002 (Japan)
++ Virtua Striker 4 (World)
+  - Virtua Striker 4 (Asia)
+  - Virtua Striker 4 (Japan) (Rev C)
+  - Virtua Striker 4 (Japan) (Rev E)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Avalon no Kagi Ni - Kagi Seisen (Main) (Japan) (Rev A)
++ Virtua Striker 4 Ver. 2006 (Japan) (Rev B)
++ Virtua Striker 4 Ver. 2006 (Japan) (Rev D)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- TRF GDROM Boot Update (Japan)

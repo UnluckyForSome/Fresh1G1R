@@ -1,0 +1,22 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Hugo (Disk 1) (Sweden)
++ Hugo (Disk 2) (Sweden)
++ Hugo (Disk 3) (Sweden)
++ Hugo (Disk 4) (Sweden)
++ Hugo (Disk 5) (Sweden)
++ Hugo (Disk 6) (Sweden)
++ Hugo (Disk 7) (Sweden)
++ Hugo (Disk 8) (Sweden)

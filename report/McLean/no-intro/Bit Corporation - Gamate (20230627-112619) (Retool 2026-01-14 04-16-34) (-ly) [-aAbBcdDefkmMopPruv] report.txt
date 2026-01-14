@@ -1,0 +1,95 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+* LANGUAGE REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Bomb Blaster (World)
+  - Bomb Blaster (World) (Alt)
+
+TITLES WITHOUT CLONES
+=====================
+
++ 4 in 1 - Cube Up + Mini Golf + Vindicators + Brick Blaster (World)
++ Baseball (World)
++ Basketball (World)
++ Boom! (World)
++ Box Forum (World)
++ Brick Blaster (World)
++ Cosmic Fighter (World)
++ Cube Up (World)
++ Devil Castle (World)
++ Dino Ball (World)
++ Dino Bibo (World)
++ Dinosaur Park (World)
++ Enchanted Bricks (World)
++ Famous 7 (World)
++ Fantasy Travel (World)
++ Fist of Thunder (World)
++ Flipuzzle (World)
++ Flying Goblin (World)
++ Fortress of Fierceness (World)
++ Fortune 'n Luck (World)
++ Further Adventures of Hannibal The Cat (World)
++ GP Race (World)
++ Galaxy Invaders (World)
++ Golden Pyramid, The (World)
++ Hot Hero (World)
++ Incantational Couple (World)
++ Insect War (World)
++ Jewelriss (World)
++ Kiki Inland (World)
++ Kill Shot (World)
++ Kung-Fu Fighter (World)
++ Legend of Dragon Knight (World)
++ Magic Jigsaw (World)
++ Marauder (World)
++ Mars Voyage (World)
++ Mighty Boxer (World)
++ Mighty Tank (World)
++ Mini Golf (World)
++ Money Maze (World)
++ Monster Pitfall (World)
++ Myth of Asamia (World)
++ Nightmare of Santa Claus (World)
++ One Million Whys (World)
++ Pharaoh Revenger (World)
++ Pipemania (World)
++ Punk Boy (World)
++ QuizFighter (World)
++ Riddle of the Ancient Tomb (World)
++ Robin Hood (World)
++ Snowman Legend (World)
++ Tennis (World)
++ Time Warrior (World)
++ Tornado (World)
++ Tough Guy (World)
++ Treasure Hunter (World)
++ Vindicators (World)
++ Volcano Panic (World)
++ Witty Apee (World)
++ World Cup Soccer (World)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Gamate (World)
+- [BIOS] Gamate (World) (Rev 1)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Bao Qing Tian (Taiwan)

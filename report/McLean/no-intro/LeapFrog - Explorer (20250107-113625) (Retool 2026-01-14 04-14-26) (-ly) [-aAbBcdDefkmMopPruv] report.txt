@@ -1,0 +1,50 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* MIA REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Brave (USA)
++ Bubble Guppies (USA)
++ Cars 2 - Project Undercover (USA)
++ Crayola Art Adventure (USA)
++ Disney Planes - Wings Around the Globe (USA)
++ Finding Dory - Mathematical Memories (USA)
++ Globe - Earth Adventures (USA)
++ Jake and the Never Land Pirates (USA)
++ Leap School - Math (USA)
++ Learn to Read Collection - Fairy Tales (USA)
++ Letter Factory (USA)
++ Magic School Bus, The - Oceans (USA)
++ Minnie Mouse Bow-tique - Super Surprise Party! (USA)
++ Monsters University (USA)
++ Mr. Pencil - The Lost Colors of Doodleberg! (USA)
++ Olivia (USA)
++ Penguins of Madagascar, The - Operation Plushy Rescue (USA)
++ Pet Pals 2 - Best of Friends! (USA)
++ Pixar Pals (USA)
++ SpongeBob SquarePants - Fists of Foam (USA)
++ SpongeBob SquarePants - The Clam Prix (USA)
++ Super Animal Genius (USA)
++ Thomas & Friends - The Great Penguin Rescue (USA)
++ Transformers Rescue Bots - Race to the Rescue (USA) (Alt)
+
+MIA REMOVES
+===========
+These titles were removed because the user excluded mia titles.
+
+- Disney Princess - Pop-Up Story Adventure (USA)
+- Dora the Explorer - Dora's Worldwide Rescue (USA)
+- Princess and the Frog, The (USA)
+- Scooby-Doo! (USA)
+- Tangled (USA)
+- Transformers Rescue Bots - Race to the Rescue (USA)

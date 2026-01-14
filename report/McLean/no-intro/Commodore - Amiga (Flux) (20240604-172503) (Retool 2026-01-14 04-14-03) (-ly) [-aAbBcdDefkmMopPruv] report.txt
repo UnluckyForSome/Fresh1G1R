@@ -1,0 +1,71 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* LANGUAGE REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Falcon (Unknown)
+  - Falcon (Alt 2) (Unknown)
+  - Falcon (Alt) (Unknown)
+
+TITLES WITHOUT CLONES
+=====================
+
++ 590 Setup Disk - Seagate Harddisk (Unknown)
++ Amiga Extras - Amiga Basic (v1.3 - v1.2) (World) (Unknown)
++ Apidya (Unknown)
++ Batman (Unknown)
++ Battle Squadron (Unknown)
++ Brain Blaster (Unknown)
++ Charon 5 (Unknown)
++ Cloud Kingdoms (Unknown)
++ Desktop Budget (Unknown)
++ Extras (Unknown) (v2.05)
++ F-A 18 Interceptor (Unknown)
++ Flood (Unknown)
++ Fonts (World) (Unknown) (v2.05)
++ Grimblood (Unknown)
++ Ivanhoe (Unknown)
++ Jungle Strike (Unknown) (AGA)
++ Lemmings (Unknown)
++ Lemmings 2 (Unknown)
++ Ninja Mission (Unknown)
++ Obitus (Unknown)
++ Plan 9 From Outer Space (Unknown)
++ RVF Honda (Unknown)
++ SWIV (Unknown)
++ Savage (Unknown)
++ Shadow Warriors (Unknown)
++ Shadow of the Beast II (Unknown)
++ Slamtilt (Unknown)
++ Space Ace (Unknown)
++ St. Dragon (Unknown)
++ SuperDuper (v2.02) (Unknown)
++ Sveriges geografi II (v2.01) (Unknown)
++ TV Sports Basketball (Unknown)
++ The 3 Stooges (Unknown)
++ The New Zealand Story (Jubileum) (Unknown)
++ Turrican 2 (Unknown)
++ Turrican 3 (Unknown)
++ Uridium 2 (Unknown)
++ Workbench (Sweden, Finland) (Unknown) (v1.3)
++ Workbench (Unknown) (v2.05)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Amiga Appetizer (Sweden)
+- Astro Marine Corps (Spain)
+- Dark Seed (Spain)
+- Loom (Spain)

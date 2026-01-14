@@ -1,0 +1,91 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Foto Showdown (USA)
+  - Monster Finder (Japan)
++ Hidden Photo (Europe) (En,Fr,Es,It)
+  - Wimmelbild-Creator (Germany)
++ Picture Perfect Hair Salon (USA) (En,Fr,Es)
+  - Hair Salon (Europe) (En,Fr,De,Es,It)
++ System - Flaw (USA) (En,Fr,Es)
+  - System - Flaw (Europe) (En,Fr,De,Es,It)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Face Training (Europe) (En,Fr,De,Es,It)
++ MySims (Unknown) (Proto)
++ NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It)
++ Nintendo DSi XL Demo Video (USA)
++ Nintendo DSi XL Demo Video Volume 2 (USA)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- MCU FIRM WRITER (World) (Program)
+- TWL EVA. AGING (World) (Ver1.0) (2008-06-26) (Program)
+- TWL EVA. CAMERA (World) (Ver2.1) (2008-11-27) (Program)
+- TWL EVA. CAMERA ASSY (World) (Ver2.1) (2008-11-27) (Program)
+- TWL EVA. DEV AGING (World) (Ver1.0) (2008-06-26) (Program)
+- TWL EVA. FINAL (World) (Ver3.0) (2009-07-02) (Program)
+- TWL EVA. FINAL (World) (Ver3.1) (2009-11-19) (Program)
+- TWL EVA. FLICKER (World) (Ver1.0) (2008-09-05) (Program)
+- TWL EVA. IMPORT EUR (World) (Ver1.3) (2009-11-06) (Program)
+- TWL EVA. IMPORT JPN (World) (Ver1.5) (2009-08-20) (Program)
+- TWL EVA. IMPORT USA (World) (Ver1.3) (2009-08-20) (Program)
+- TWL EVA. IMPORT USA_B (World) (Ver1.0) (2009-09-10) (Program)
+- TWL EVA. MIC (World) (Ver3.0) (2009-08-17) (Program)
+- TWL EVA. MIC (World) (Ver3.0) (2009-08-19) (Program)
+- TWL EVA. NCHECK ASI (World) (Ver1.0) (2009-12-04) (Program)
+- TWL EVA. NCHECK EUR (World) (Ver1.0) (2009-01-05) (Program)
+- TWL EVA. NCHECK EUR (World) (Ver1.2) (2009-09-14) (Program)
+- TWL EVA. NCHECK JPN (World) (Ver1.6) (2009-09-14) (Program)
+- TWL EVA. NCHECK KOR (World) (Ver1.0) (2010-02-23) (Program)
+- TWL EVA. NCHECK USA (World) (Ver1.2) (2009-08-24) (Program)
+- TWL EVA. NCHECK USA (World) (Ver1.3) (2009-09-14) (Program)
+- TWL EVA. PRE IMPORT (World) (Ver1.3) (2009-12-10) (Program)
+- TWL EVA. SELFTEST (World) (Ver0.7) (2009-12-02) (Program)
+- TWL EVA. TP_CAL (World) (Ver2.0) (2008-09-12) (Program)
+- TWL EVA. TP_CAL (World) (Ver2.1) (2009-11-17) (Program)
+- TWL EVA. UTL IMPORT EUR (World) (Ver1.0) (2009-11-02) (Program)
+- TWL EVA. UTL IMPORT EUR (World) (Ver1.1) (2010-03-12) (Program)
+- TWL EVA. UTL IMPORT EUR (World) (Ver1.2) (2010-05-14) (Program)
+- TWL EVA. UTL IMPORT EUR (World) (Ver1.4) (2011-04-14) (Program)
+- TWL EVA. UTL IMPORT JPN (World) (Ver1.1) (2010-02-03) (Program)
+- TWL EVA. UTL IMPORT JPN_A (World) (Ver1.0) (2010-01-19) (Program)
+- TWL EVA. UTL IMPORT USA (World) (Ver1.0) (2009-12-28) (Program)
+- TWL EVA. UTL IMPORT USA (World) (Ver1.1) (2010-03-12) (Program)
+- TWL EVA. UTL NCHECK USA (World) (Ver1.0) (2009-11-02) (Program)
+- TWL EVA. WRITE SDMC-LNC (World) (Ver1.0) (2008-11-20) (Program)
+- TWL EVA. WRITE SDMC-LNC (World) (Ver1.1) (2009-10-26) (Program)
+- WRFU Tester (World) (v0.60) (2008-08-21) (Program)
+- WRFU Tester (World) (v2.01) (2009-05-18) (Program)
+- WRFU Tester (World) (v3.01) (2010-06-17) (Program)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Factory Nintendo DSi - NAND (Japan)
+- [BIOS] Factory Nintendo DSi - NAND (Japan) (Alt)
+- [BIOS] Kyoushitsu Nintendo DSi - NAND (Japan) (Alt)
+- [BIOS] Nintendo DSi ARM7 Boot ROM (World)
+- [BIOS] Nintendo DSi ARM9 Boot ROM (World)
+- [BIOS] Nintendo Zone Box - NAND (USA) (En,Fr,Es)
+- [BIOS] PWC DSi - NAND (Unknown)
+- [BIOS] iQue DSi - NAND (China)

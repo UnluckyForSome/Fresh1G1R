@@ -1,0 +1,105 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* COVERDISC REMOVES
+* VIDEO REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Aa Megami-sama (Japan) (Disc 1)
++ Aa Megami-sama (Japan) (Disc 2)
++ Akazukin ChaCha - Osawagase! Panic Race! (Japan)
++ Albaria no Otome (Japan)
++ Amateur Teikyou CD-ROM (Japan) (DOS-V-you) (NEC PC-FXGA)
++ Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA)
++ Angelique - Tenkuu no Requiem (Japan)
++ Angelique Special (Japan)
++ Angelique Special 2 (Japan)
++ Battle Heat (Japan)
++ Blue Breaker - Ken yori mo Hohoemi o (Japan)
++ Boundary Gate - Daughter of Kingdom (Japan)
++ Can Can Bunny Extra DX (Japan)
++ Chip-chan Kick! (Japan)
++ Choujin Heiki Zeroigar (Japan)
++ Comic Road (Japan)
++ Cutey Honey FX (Japan)
++ Doukyuusei 2 (Japan)
++ Dragon Knight 4 (Japan)
++ Farland Story FX (Japan)
++ Fire Woman Matoigumi (Japan)
++ First Kiss Story (Japan)
++ Fushigi no Kuni no Angelique (Japan)
++ Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan)
++ Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample)
++ Hataraku Shoujo - Tekipaki Working Love FX (Japan)
++ J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)
++ J. B. Harold - Blue Chicago Blues (Japan) (Disc 2)
++ Kishin Douji Zenki FX - Vajra Fight (Japan)
++ Kokuu Hyouryuu - Nirgends (Japan)
++ Konpeki no Kantai (Japan)
++ Langrisser FX, Der (Japan)
++ Last Imperial Prince (Japan) (Disc A)
++ Last Imperial Prince (Japan) (Disc B)
++ Lunatic Dawn FX (Japan)
++ Mahjong Gokuu Tenjiku (Japan) (SABS)
++ Makeruna! Makendou Z (Japan)
++ Megami Paradise II (Japan)
++ Minimum Nanonic (Japan)
++ Miraculum - The Last Revelation (Japan)
++ N-nyuu - PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 1) (N-nyuu)
++ Ojousama Sousamou (Japan)
++ Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)
++ Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)
++ Power DoLLS FX (Japan)
++ Return to Zork (Japan)
++ Ruruli Ra Rura (Japan)
++ Same Game FX (Japan) (NEC PC-FXGA)
++ Shanghai - Banri no Choujou (Japan)
++ Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS)
++ Sotsugyou R - Graduation Real (Japan)
++ Sparkling Feather (Japan)
++ Super Power League FX (Japan)
++ Super Real Mahjong P.V FX (Japan)
++ Team Innocent - The Point of No Return - G.C.P.O.SS (Japan)
++ Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou)
++ Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu)
++ Tengai Makyou - Dennou Karakuri Kakutouden (Japan)
++ Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan)
++ Tonari no Princess Rolfee! (Japan)
++ Voice Paradise (Japan) (Disc A)
++ Voice Paradise (Japan) (Disc B)
++ Wakusei Koukitai - Little Cats (Japan)
++ Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo)
++ Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP)
++ Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 1)
++ Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 2)
+
+COVERDISC REMOVES
+=================
+These titles were removed because the user excluded coverdisc titles.
+
+- PC Engine Fan - Special CD-ROM Vol. 2 (Japan)
+- PC Engine Fan - Special CD-ROM Vol. 3 (Japan)
+- Super PC Engine Fan Deluxe - Special CD-ROM Vol. 1 (Japan)
+- Super PC Engine Fan Deluxe - Special CD-ROM Vol. 2 (Japan)
+
+VIDEO REMOVES
+=============
+These titles were removed because the user excluded video titles.
+
+- AnimeFreak FX Vol. 1 (Japan)
+- AnimeFreak FX Vol. 2 (Japan)
+- AnimeFreak FX Vol. 3 (Japan)
+- AnimeFreak FX Vol. 4 (Japan)
+- AnimeFreak FX Vol. 5 (Japan) (Disc 1)
+- AnimeFreak FX Vol. 5 (Japan) (Disc 2)
+- AnimeFreak FX Vol. 6 (Japan) (Disc 1)
+- AnimeFreak FX Vol. 6 (Japan) (Disc 2)

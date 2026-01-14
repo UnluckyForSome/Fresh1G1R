@@ -1,0 +1,70 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Police Jump (Europe, Asia) (En) (Rev 1)
+  - Police Jump (Europe, Asia) (En)
++ Tennis (Europe, Asia) (En) (DSE)
+  - Tennis (Europe, Asia) (En) (Coca-Cola ~ Sprite)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Air Sea Attack (Europe, Asia) (En)
++ Astro Pinball (Europe, Asia) (En)
++ Auto Chase (Europe, Asia) (En)
++ Chopper Rescue (Europe, Asia) (En)
++ Crazy Chicky (Europe, Asia) (En)
++ Crazy Pucker ~ Crazy Moonie ~ Crazy Chewy (Europe, Asia) (En)
++ Deep Sea Adventure (Europe, Asia) (En) (6K)
++ Deep Sea Adventure (Europe, Asia) (En) (8K)
++ Locomotive (Europe, Asia) (En) (10K)
++ Locomotive (Europe, Asia) (En) (12K)
++ Mouse Puzzle (Europe, Asia) (En)
++ Music Maker (Europe, Asia) (En)
++ Planet Defender (Europe, Asia) (En) (6K)
++ Planet Defender (Europe, Asia) (En) (8K)
++ Soccer (Europe, Asia) (En)
++ Sonic Invader (Europe, Asia) (En)
++ Stone Age (Europe, Asia) (En)
++ Tank Attack (Europe, Asia) (En) (6K)
++ Tank Attack (Europe, Asia) (En) (8K)
++ Tennis (Europe, Asia) (En) (DSE) (Rev 1) (6K)
++ Tennis (Europe, Asia) (En) (DSE) (Rev 1) (8K)
++ Tennis (Europe, Asia) (En) (Wimbledon) (6K)
++ Tennis (Europe, Asia) (En) (Wimbledon) (8K)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- BASIC (Europe, Asia) (En)
+- BASIC (Europe, Asia) (En) (Rev 1)
+- BASIC (Europe, Asia) (En) (Rev 2)
+- BASIC (Europe, Asia) (En) (Rev 3)
+- Diagnostic A (Europe, Asia) (Program)
+- Diagnostic B (Europe, Asia) (Program)
+- Hapmon (Europe, Asia) (En) (Program) (Unl)
+- Werben Informieren (Germany) (Program)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] CreatiVision - Dick Smith Wizzard (Europe, Asia)
+- [BIOS] Laser 2001 (Europe, Asia)
+- [BIOS] Rameses - Funvision - VZ 2000 (Europe, Asia)
+- [BIOS] Salora Manager (Finland)

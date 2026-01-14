@@ -1,0 +1,75 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* MIA REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Code of Joker - The Agents (Japan) (No. 2) (Rev R)
+  - Code of Joker S (Japan)
+  - Code of Joker S (Japan) (Rev C)
++ Guilty Gear XX Accent Core Plus R (Japan) (Rev A)
+  - Guilty Gear XX Accent Core Plus R (Japan)
++ Maimai Pink Plus (Japan) (No. 1) (Rev B)
+  - Maimai (Japan) (Rev A)
+  - Maimai Green (Japan) (No. 1)
+  - Maimai Orange (Japan) (No. 1)
+  - Maimai Orange Plus (Japan) (No. 1)
+  - Maimai Pink (Japan) (No. 1)
++ Maimai Pink Plus (Japan) (No. 2) (Rev B)
+  - Maimai Green (Japan) (No. 2)
+  - Maimai Orange (Japan) (No. 2)
+  - Maimai Orange Plus (Japan) (No. 2)
+  - Maimai Pink (Japan) (No. 2)
++ Maimai Pink Plus (Japan) (No. 3) (Rev B)
+  - Maimai Orange Plus (Japan) (No. 3)
+  - Maimai Pink (Japan) (No. 3)
++ StarHorse 3 Season VII - Great Journey (Japan) (No. 1) (Rev C)
+  - StarHorse 3 Season VII - Great Journey (Japan) (No. 1)
++ StarHorse 3 Season VII - Great Journey (Japan) (No. 2) (Rev C)
+  - StarHorse 3 Season VII - Great Journey (Japan) (No. 2)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Code of Joker - The Agents (Japan) (No. 1) (Rev P)
++ GeeSen Love. Plus Pengo! (Japan)
++ Horuka x Toruka (Japan) (Rev B)
++ Initial D - Arcade Stage 8 Infinity (Export)
++ StarHorse 3 Season I - A New Legend Begins (Japan) (Rev F)
++ StarHorse 3 Season V - Exceed the Limit (Japan) (No. 1) (Rev J)
++ StarHorse 3 Season V - Exceed the Limit (Japan) (No. 2) (Rev J)
++ Transformers - Human Alliance (Export) (Rev B)
++ Under Night In-Birth (Japan)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- ALL.Net P-ras Multi Version 2 (Japan)
+- ALL.Net P-ras Multi Version 2 (Japan) (Rev A)
+- ALL.Net P-ras Multi Version 2 (Japan) (Rev C)
+- StarHorse 3 - SH4-you User Data Uploader (Japan)
+
+MIA REMOVES
+===========
+These titles were removed because the user excluded mia titles.
+
+- Code of Joker (Japan) (No. 2) (Rev F)
+- Hokuto no Ken - Battle Medal (Japan) (Rev D)
+- Hokuto no Ken - Battle Medal (Japan) (Rev F)
+- Horuka x Toruka (Japan) (Rev C)
+- Maimai (Japan)
+- Maimai Plus (Japan) (Rev B)
+- Maimai Plus (Japan) (Rev B)
+- Maimai Plus (Japan) (Rev B)

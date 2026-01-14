@@ -1,0 +1,39 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Bubble Boy (Europe)
++ Car Racing (Europe)
++ Continental Galaxy (Europe)
++ Dungeon Advanture (Europe)
++ Falling Block (Europe)
++ Finite Zone (Europe)
++ Go Bang! (Europe)
++ Hyper Space (Europe)
++ Kung Fu (Europe)
++ Move It (Germany) (En)
++ Pin Ball (Europe)
++ Soccer (Europe)
++ Space Castle (Europe)
++ Space Invader (Germany) (En)
++ Space Warrior (Germany) (En)
++ Tank War (Germany) (En)
++ Tennis (Europe)
++ Urban Champion (Europe)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Hartung Game Master (Germany)

@@ -1,0 +1,66 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+* LANGUAGE REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Dungeon & Guarder - Dragon Gore (Europe)
+  - Dungeon & Guarder - Dragon Gore (Korea) (En)
++ Tomak - Save the Earth, Again (Europe) (v2.0)
+  - Tomak - Save the Earth, Again (Europe) (v1.0)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Blue Angelo - Angels from the Shrine (Europe) (En,Fr,De,Es,It,Pt)
++ Dyhard - With Infinite Stairs (Europe)
++ Her Knights - All for the Princess (Europe)
++ Little Wizard (Europe)
++ Woody & Kunta - Treasure Island (Europe)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] GamePark GP32 (Europe) (v1.5.7)
+- [BIOS] GamePark GP32 (Europe) (v1.6.6)
+- [BIOS] GamePark GP32 (Europe) (v1.6.6) (2003-05-21)
+- [BIOS] GamePark GP32 (Europe) (v1.6.6) (2004-10-10)
+- [BIOS] GamePark GP32 (Europe) (v1.6.6) (Beta)
+- [BIOS] GamePark GP32 (Korea) (v1.0.0)
+- [BIOS] GamePark GP32 (Korea) (v1.5.6)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Astonishia Story R (Korea)
+- Dooly Soccer 2002 (Korea)
+- Dyhard - With Infinite Stairs (Korea)
+- GP Fight (Korea)
+- Hany Party Game (Korea)
+- Her Knights - All for Princess - Deadline (Korea)
+- Kimchiman GP32 (Korea)
+- Little Girl Mill of a Gingko, The (Korea)
+- Little Wizard (Korea)
+- OneShot Voca (Korea)
+- Princess Maker 2 (Korea)
+- Rally Pop (Korea)
+- Raphael (Korea)
+- Tanggle's Magic Square (Korea)
+- Therapy (Korea)
+- Tomak - Save the Earth, Again (Korea)
+- W.B.W. - Wanna Be Wizard! (Korea)
+- Wizard Slayer (Korea)
+- Woody & Kunta - Treasure Island (Korea)

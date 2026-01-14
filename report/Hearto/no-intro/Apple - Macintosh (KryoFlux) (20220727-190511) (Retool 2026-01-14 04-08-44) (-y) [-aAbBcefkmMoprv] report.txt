@@ -1,0 +1,50 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Alfa Romeo 155 Press Release (USA, Europe)
++ Balance of the Planet (USA, Europe) (Disk 1)
++ Balance of the Planet (USA, Europe) (Disk 2)
++ ClarisWorks (USA, Europe) (v2.0) (Disk 1)
++ ClarisWorks (USA, Europe) (v2.0) (Disk 2)
++ ClarisWorks (USA, Europe) (v2.0) (Disk 3)
++ ClarisWorks (USA, Europe) (v2.0) (Disk 4)
++ ClarisWorks (USA, Europe) (v2.0) (Disk 5)
++ KaleidaGraph (USA, Europe) (Disk 1)
++ KaleidaGraph (USA, Europe) (Disk 2)
++ Lode Runner (USA, Europe)
++ Lost in Time Parts 1 and 2 (USA, Europe) (Disk 1)
++ Lost in Time Parts 1 and 2 (USA, Europe) (Disk 10)
++ Lost in Time Parts 1 and 2 (USA, Europe) (Disk 11)
++ Lost in Time Parts 1 and 2 (USA, Europe) (Disk 2)
++ Lost in Time Parts 1 and 2 (USA, Europe) (Disk 3)
++ Lost in Time Parts 1 and 2 (USA, Europe) (Disk 4)
++ Lost in Time Parts 1 and 2 (USA, Europe) (Disk 5)
++ Lost in Time Parts 1 and 2 (USA, Europe) (Disk 6)
++ Lost in Time Parts 1 and 2 (USA, Europe) (Disk 7)
++ Lost in Time Parts 1 and 2 (USA, Europe) (Disk 8)
++ Lost in Time Parts 1 and 2 (USA, Europe) (Disk 9)
++ Lost in Time Parts 1 and 2 (USA, Europe) (Install Disk)
++ Supercars, The - Test Drive II Car Disk (USA, Europe)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] LaserWriter (Germany) (Disk 1)
+- [BIOS] LaserWriter (Germany) (Disk 2)
+- [BIOS] LaserWriter (Germany) (Disk 4)
+- [BIOS] LaserWriter (Germany) (Disk 5)
+- [BIOS] LaserWriter (Germany) (Disk 6)
+- [BIOS] LaserWriter (Germany) (Disk 7)

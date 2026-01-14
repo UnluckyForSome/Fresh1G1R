@@ -1,0 +1,36 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Backgammon (USA)
++ Baseball (USA)
++ Blackjack (USA)
++ Bowling ~ Micro Match (USA)
++ Boxing (USA)
++ Brickdown ~ Shooting Gallery (USA)
++ Casino 1 - Slots-Roulette-Keno (USA)
++ Catena (USA) (MG1001)
++ Catena (USA) (MG1002)
++ Columns ~ Targets ~ Bacteria ~ Autopista (USA)
++ Hangman ~ Tic-Tac-Toe ~ Doodle (USA)
++ Pinball ~ Dungeon Hunt ~ Blockout (USA)
++ Space Destroyers (USA)
++ UFO ~ Sea Monsters ~ Break It Down ~ Rebuild ~ Shoot (USA)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- APF Basic (USA) (Program)
+- Extended Basic (USA) (Program)

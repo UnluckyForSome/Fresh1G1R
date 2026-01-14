@@ -1,0 +1,92 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+
+
+TITLES WITH CLONES
+==================
+
++ Crystball (USA, Europe) (Rev 1)
+  - Crystball (USA, Europe)
++ Sonny X'Press (USA, Europe)
+  - Sonny X'Press (USA, Europe) (Beta)
++ Tennis Pro '92 (USA, Europe)
+  - Tennis Pro '92 (USA, Europe) (Alt)
++ Treasure Hunter (USA, Europe) (Rev 1)
+  - Treasure Hunter (USA, Europe)
+
+TITLES WITHOUT CLONES
+=====================
+
++ 2 in 1 - Block Buster + Cross High (USA, Europe)
++ 2 in 1 - Hash Blocks + Eagle Plan (USA, Europe)
++ 4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky (USA, Europe)
++ Alien (USA, Europe)
++ Balloon Fight (USA, Europe)
++ Block Buster (USA, Europe)
++ Brain Power (USA, Europe)
++ Bubble World (USA, Europe)
++ Carrier (USA, Europe) (Rev 1)
++ Cave Wonders (USA, Europe)
++ Challenger Tank (USA, Europe)
++ Chimera (USA, Europe)
++ Chinese Checkers (USA, Europe)
++ Classic Casino (USA, Europe)
++ Climber (USA, Europe)
++ Cross High (USA, Europe) (Rev 1)
++ Dancing Block (USA, Europe)
++ Delta Hero (USA, Europe)
++ Dream World (USA, Europe)
++ Eagle Plan (USA, Europe)
++ Earth Defender (USA, Europe)
++ Fatal Craft (USA, Europe)
++ Final Combat (USA, Europe)
++ Galactic Crusader (USA, Europe)
++ Galaxy Fighter (USA, Europe)
++ Grand Prix (USA, Europe)
++ Happy Pairs (USA, Europe)
++ Happy Race (USA, Europe)
++ Hash Blocks (USA, Europe) (Rev 1)
++ Hero Hawk (USA, Europe)
++ Hero Kid (USA, Europe)
++ Honey Bee (USA, Europe)
++ Jacky Lucky (USA, Europe)
++ Jaguar Bomber (USA, Europe)
++ John Adventure (USA, Europe)
++ Journey to the West (USA)
++ Juggler (USA, Europe)
++ Kabi Island - Gold in Island (USA, Europe)
++ Kitchen War (USA, Europe)
++ Kung-Fu Street (USA, Europe)
++ Linear Racing (USA, Europe)
++ Magincross (USA, Europe)
++ Majong (USA, Europe)
++ Matta Blatta (USA, Europe)
++ Olympic Trials (USA, Europe)
++ P-52 Sea Battle (USA, Europe)
++ PacBoy & Mouse (USA, Europe)
++ Pacific Battle (USA, Europe)
++ Penguin Hideout (USA, Europe)
++ Police Bust (USA, Europe)
++ Popo Team (USA, Europe)
++ Pyramid (USA, Europe)
++ Recycle Design (USA, Europe)
++ SSSnake (USA, Europe)
++ Scaffolder (USA, Europe)
++ Soccer Champion (USA, Europe)
++ Space Fighter (USA, Europe)
++ Super Block (USA, Europe)
++ Super Kong (USA, Europe)
++ Super Pang (USA, Europe)
++ TV-Link (USA, Europe)
++ Tasac 2010 (USA, Europe)
++ Thunder Shooting (USA, Europe)
++ Untouchable (USA, Europe)
++ Witty Cat (USA, Europe)

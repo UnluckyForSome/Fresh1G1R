@@ -1,0 +1,91 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* MIA REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Chuu 1 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (Japan) (6FP103)
+  - Chuu 1 Ei Suu Koku Pack (Japan) (6FP105)
+  - Chuu 1 Ei Suu Koku Pack (New Horizon, Columbus21 Taiou Ban) (Japan) (6FP101)
+  - Chuu 1 Ei Suu Koku Pack (Sunshine, One World Taiou Ban) (Japan) (6FP102)
++ Chuu 1 English (New Crown, Total English Taiou Ban) (Japan) (4BB113)
+  - Chuu 1 English (New Crown, Total English Taiou Ban) (Japan) (2BB113)
+  - Chuu 1 English (New Crown, Total English Taiou Ban) (Japan) (3BB113)
+  - Chuu 1 English (New Horizon, Columbus21 Taiou Ban) (Japan) (3BB111)
+  - Chuu 1 English (New Horizon, Columbus21 Taiou Ban) (Japan) (4BB111)
+  - Chuu 1 English (Sunshine, One World Taiou Ban) (Japan) (2BB112)
+  - Chuu 1 English (Sunshine, One World Taiou Ban) (Japan) (3BB112)
++ Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (Japan) (6FP203)
+  - Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (Japan) (4BP203)
+  - Chuu 2 Ei Suu Koku Pack (New Horizon, Columbus21 Taiou Ban) (Japan) (6FP211)
+  - Chuu 2 Ei Suu Koku Pack (Sunshine, One World Taiou Ban) (Japan) (6FP212)
++ Chuu 2 English (New Crown, Total English Taiou Ban) (Japan) (3BB213)
+  - Chuu 2 English (Sunshine, One World Taiou Ban) (Japan) (3BB212)
++ Chuu 3 Ei - Suu - Koumin Pack (New Crown, Total English Taiou Ban) (Japan) (6FP313)
+  - Chuu 3 Ei - Suu - Koumin Pack (New Horizon, Columbus21 Taiou Ban) (Japan) (5FP301)
++ Chuu 3 English (New Horizon, Columbus21 Taiou Ban) (Japan) (4BB311)
+  - Chuu 3 English (New Crown, Total English Taiou Ban) (Japan) (4BB313)
++ Chuugaku Chiri (Japan) (4BD410)
+  - Chuugaku Chiri (Japan) (2BD410)
+  - Chuugaku Chiri (Japan) (3BD410)
++ Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (Japan) (6FD400)
+  - Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (Japan) (2BD400)
+  - Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (Japan) (4BD400)
+  - Chuugaku Chiri - Rekishi Pack (Rekishi Juuyou Yougo Jiten Shuuroku) (Japan) (6FD401)
++ Chuugaku Rika (1-bunya) (Japan) (6FF421)
+  - Chuugaku Rika (1-bunya) (Japan) (2BF411)
+  - Chuugaku Rika (1-bunya) (Japan) (5FF411)
++ Chuugaku Rika (2-bunya) (Japan) (6FF422)
+  - Chuugaku Rika (2-bunya) (Japan) (2BF412)
+  - Chuugaku Rika (2-bunya) (Japan) (5FF412)
++ Chuugaku Rika Pack (1-bunya Soft - 2-bunya Soft Kanzen Taiou Ban) (Japan) (6FF420)
+  - Chuugaku Rika Pack (1-bunya Soft - 2-bunya Soft Kanzen Taiou Ban) (Japan) (2BF400)
+  - Chuugaku Rika Pack (1-bunya Soft - 2-bunya Soft Kanzen Taiou Ban) (Japan) (6FF400)
+  - Chuugaku Rika Pack (1-bunya Soft - 2-bunya Soft Kanzen Taiou Ban) (Japan) (6FF401)
++ Koukou Juken (5-kyouka) (Japan) (5FI710)
+  - Koukou Juken (5-kyouka) (Japan) (4BI710)
+  - Koukou Juken (5-kyouka) (Japan) (4BI716)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Challenge Eiwa Jiten (Japan) (6FQ410)
++ Chuu 1 Kokugo - Hyakunin Isshu (Japan) (2BK401)
++ Chuu 1 Suugaku (Japan) (2BM110)
++ Chuu 2 Kokugo (Japan) (3BK210)
++ Chuu 2 Suugaku (Japan) (3BM210)
++ Chuu 3 Suugaku (Japan) (4BM310)
++ Chuugaku Koumin (Japan) (4BE310)
++ Chuugaku Rekishi (Japan) (2BC410)
++ Chuugaku Rika Pack (Japan) (5FF400)
++ Eiken 3-kyuu - 4-kyuu (Japan) (2BK931)
++ Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (Japan) (2BG410)
++ Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (Japan) (3BG410)
++ Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (Japan) (5FG410)
++ Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (Japan) (6FG402)
++ Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (Japan) (6FG410)
++ Kanken 3-kyuu - 4-kyuu - 5-kyuu (Japan) (6FK940)
++ Koukou Juken 5-kyouka Pack + Nyuushi Theme-Betsu Tokkou (Japan) (6FI901)
++ Koukou Juken EX (Goukaku Tokkou 700) (Japan) (4FI720)
++ Koukou Juken V Pack - Koukou Juken (5-kamoku), Koukou Juken EX (Goukaku Tokkou 700) Kanzen Taiou Ban (Japan) (5FI900)
++ Shougakkou Soumatome (Koku - San - Ri - Sha) + Chuu 1 Ei Suu Koku Pack (Japan) (6FP104)
+
+MIA REMOVES
+===========
+These titles were removed because the user excluded mia titles.
+
+- Chuu 3 Ei - Suu - Koumin Pack (New Crown, Total English Taiou Ban) (Japan) (5FP303)
+- Shinkenzemi Chuugaku Kouza - Chuu2 Ei-Suu-Koku Pack (Japan)
+- Shinkenzemi Chuugaku Kouza - Chuu2 Ei-Suu-Koku Pack (Japan) (4BP201)
+- Shinkenzemi Chuugaku Kouza - Chuu2 Ei-Suu-Koku Pack (Japan) (6FP201)
+- Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Chuugaku Rekishi Pack (Japan)

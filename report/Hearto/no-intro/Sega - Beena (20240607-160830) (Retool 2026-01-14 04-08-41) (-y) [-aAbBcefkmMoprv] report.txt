@@ -1,0 +1,77 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+
+
+TITLES WITH CLONES
+==================
+
++ Beena Town e Youkoso (Japan) (Rev 1002)
+  - Beena Town e Youkoso (Japan) (Rev 1000)
++ Soreike! Anpanman Hajimete Kaketa yo! Oboeta yo! Hiragana Katakana - Gojuuon Board Kinou-tsuki (Japan) (Rev 1200)
+  - Soreike! Anpanman Hajimete Kaketa yo! Oboeta yo! Hiragana Katakana - Gojuuon Board Kinou-tsuki (Japan) (Rev 1000)
+
+TITLES WITHOUT CLONES
+=====================
+
++ 1-nichi 10-pun de E ga Jouzu ni Kakeru Beena (Japan)
++ Anpanman no Waku Waku Game Oekaki (Japan)
++ Anpanman o Sagase! (Japan)
++ Cars 2 Racing Beena - Mezase! World Champion! (Japan)
++ Chiiku Drill Oshare Majo Love and Berry - Moji Kazu Chie Asobi (Japan)
++ Chiiku Drill Pocket Monsters Diamond & Pearl - Moji Kazu Chie Asobi (Japan)
++ Cinnamoroll - Cafe Cinnamon de o-Tetsudai (Japan)
++ Cooking Beena-o-Ryouri Dekichatta! (Japan)
++ Disney Tanoshii Oekaki-o-Mise-ya-san o Tsukutchaou! (Japan)
++ Disney Tanoshii o-Benkyou Series-Mic de Kantan ABC (Japan)
++ Doraemon Chinou Daikaihatsu! Waku Waku Game Land (Japan)
++ Doraemon Tanoshii En Seikatsu Youchien Hoikuen (Japan)
++ Doraemon Tanoshiku o-Keiko Hiragana Katakana (Japan)
++ Engine Sentai Go-onger Mach de Oboeru! Aiueo!! (Japan)
++ Futari wa Pretty Cure Max Heart (Japan)
++ Game ga Ippai Kikansha Thomas (Japan)
++ Geneki Toudai-sei ga Tsukutta! 'Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen (Japan)
++ Go! Go! Advance Drive - Muttsu no Machine ni Chousen da! (Japan)
++ GoGo Sentai Boukenger Kazu to Katachi o Oboeyou! (Japan)
++ Hello Kitty no Hiragana Katakana o-Namae Kaitemiyou! (Japan)
++ Issho ni Henshin Fresh Pretty Cure (Japan)
++ Kazoku Minna no Nouryoku Trainer (Japan)
++ Kodai Ouja Kyouryuu King D-Kids Adventure Dino Slash! Kyouryuu Battle!! (Japan)
++ Kouchuu Ouja Mushiking - Nebu-Hakase to Kazu Katachi ni Challenge! (Japan)
++ Kouchuu Ouja Mushiking-Mori no Tami no Densetsu-Minna de Tanken! Kouchuu no Mori (Japan)
++ Meet Bub - Bub to Eigo Tanken (Japan)
++ Meitantei Conan - Kanzen Suiri! Kazu to Zukei no Nazo (Japan)
++ Narumiya Mezzo Piano Oshare & Lesson (Japan)
++ Nihongo de Asobo (Japan)
++ Oden-kun - Oden Mura no Tanoshii Nakama-tachi (Japan)
++ Omoiyari o Hagukumu Katarikake Ehon Miffy to Asobou Utaou (Japan)
++ Oshare Majo Love and Berry - Cute ni Oshare (Japan)
++ Oshare ni Henshin HeartCatch PreCure! (Japan)
++ Partner In TV! o-Uchi ni Wan-chan ga Yattekita (Japan)
++ Pashah to Henshin Beauty Academy (Japan)
++ Pocket Monsters Advanced Generation Pokemon Suuji Battle!! (Japan)
++ Pocket Monsters Best Wishes! Chinou Ikusei Pokemon Daiundoukai (Japan)
++ Pocket Monsters Diamond & Pearl - Pokemon o Sagase! Meiro de Daibouken! (Japan)
++ Pocket Monsters Diamond & Pearl Pokemon o Sagase! Meiro de Daibouken! (Japan)
++ Point Gakushuu 10-masu Keisan (Japan)
++ Point Gakushuu Tokei (Japan)
++ Pururun! Shizuku-chan Asonde Tanoshiku Nouryoku Up (Japan)
++ Samurai Sentai Shinkenger Battle ga Ippai! Iza Mairu! (Japan)
++ Shimajirou no Eigo Activity Ehon - ABC Park de Asobou! (Japan)
++ Shoku Iku Series 1 Soreike! Anpanman - Sukikirai Nai Ko Genki na Ko! (Japan)
++ Shooting Beena Toy Story 3 - Woody to Buzz no Daibouken! (Japan)
++ Soreike! Anpanman Card de Tanoshiku ABC (Japan)
++ Soreike! Anpanman o-Mise ga Ippai! TV de o-Ryouri Tsukutchao (Japan)
++ Suite PreCure - Happy Oshare Harmony (Japan)
++ Taiko no Tatsujin Ongaku Lesson (Japan)
++ Tensou Sentai Goseiger Super Battle Daishuugou! (Japan)
++ Tomica de Asobou! (Japan)
++ Yes! PreCure 5 - Asonde Oboeyou Hiragana (Japan)
++ Yes! PreCure 5 GoGo! - LoveLove Hiragana Lesson (Japan)

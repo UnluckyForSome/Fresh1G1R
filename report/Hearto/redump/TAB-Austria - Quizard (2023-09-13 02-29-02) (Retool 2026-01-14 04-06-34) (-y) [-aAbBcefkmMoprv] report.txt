@@ -1,0 +1,34 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+
+
+TITLES WITH CLONES
+==================
+
++ Quizard (Austria) (v1.8)
+  - Quizard (Austria) (v1.0)
+  - Quizard (Austria) (v1.7)
++ Quizard 2 (Austria) (v2.3)
+  - Quizard 2 (Austria) (v2.2)
++ Quizard 3 (Austria) (v3.4)
+  - Quizard 3 (Austria) (v3.2)
++ Quizard 4 - Rainbow (Austria) (v4.2)
+  - Quizard 4 - Rainbow (Austria) (v4.1)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Quizard (France) (French Edition)
++ Yakyuuken, The - Super Part I (Japan) (Blue Disc)
++ Yakyuuken, The - Super Part I (Japan) (Red Disc)
++ Yakyuuken, The - Super Part II (Japan)
++ Yakyuuken, The - Super Part III (Japan)
++ Yakyuuken, The - Super Part IV (Japan)

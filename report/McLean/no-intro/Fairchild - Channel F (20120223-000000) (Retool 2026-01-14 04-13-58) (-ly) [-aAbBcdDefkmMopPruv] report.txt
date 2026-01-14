@@ -1,0 +1,74 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+* LANGUAGE REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)
+  - Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt)
++ Pinball Challenge (USA)
+  - Pinball Challenge (USA) (Alt)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Alien Invasion (USA)
++ Backgammon, Acey-Deucey (USA)
++ Baseball (USA)
++ Bowling (USA)
++ Casino Poker (USA)
++ Checkers (USA)
++ Desert Fox, Shooting Gallery (USA)
++ Dodge It (USA)
++ Drag Race (USA)
++ Galactic Space Wars, Lunar Lander (USA)
++ Hangman (USA)
++ Magic Numbers - Mind Reader + Nim (USA)
++ Math Quiz I - Addition + Subtraction (USA)
++ Math Quiz II - Multiplication + Division (USA)
++ Memory Match 1 & 2 (USA)
++ Pro Football (USA)
++ Robot War, Torpedo Alley (USA)
++ Slot Machine (USA)
++ Sonar Search (USA)
++ Space War (USA)
++ Spitfire (USA)
++ Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)
++ Video Blackjack (USA)
++ Video Whizball (USA)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Fairchild Channel F (USA) (SL31253)
+- [BIOS] Fairchild Channel F (USA) (SL31254)
+- [BIOS] Fairchild Channel F (USA) (SL90025)
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- Demonstration Cartridge (USA)
+- Demonstration Cartridge 2 (USA)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope (Germany)
+- Ordtaevling (Sweden)
+- Rat' Mal (Germany)
+- Schach (Germany)

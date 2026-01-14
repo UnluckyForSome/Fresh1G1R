@@ -1,0 +1,26 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Appaloosa Dev Kit (Unknown)
++ Artificial Mind + Movement Era Dev Kit (Unknown)
++ Eurocom Dev Kit (Unknown)
++ Horny Dog Dev Kit 1 (Unknown)
++ Horny Dog Dev Kit 2 (Unknown)
++ Microsoft Combat Flight Simulator - WWII Europe Series (Unknown)
++ NEC Interchannel Dev Kit (Unknown)
++ No Cliche' Dev Kit (Unknown)
++ Rage Software Dev Kit (Unknown)
++ Smoking Gun Productions Dev Kit (Unknown)
++ Sting + FromSoftware Dev Kit (Unknown)
++ Tower of Babel Dev Kit (Unknown)

@@ -1,0 +1,72 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+
+
+TITLES WITH CLONES
+==================
+
++ Fire (World) (Wide Screen)
+  - Fire (World) (Silver)
++ Helmet (World) (Rev 1)
+  - Helmet (World)
++ Judge (World) (Rev 1)
+  - Judge (World)
++ Manhole (World) (New Wide Screen)
+  - Manhole (World) (Gold)
++ Mario's Cement Factory (World) (New Wide Screen)
+  - Mario's Cement Factory (World) (Table Top)
++ Popeye (World) (Wide Screen)
+  - Popeye (World) (Panorama Screen)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Ball (World)
++ Balloon Fight (World)
++ Black Jack (World)
++ Bomb Sweeper (World)
++ Boxing (World)
++ Chef (World)
++ Climber (World)
++ Crab Grab (World)
++ Donkey Kong (World)
++ Donkey Kong 3 (World)
++ Donkey Kong Hockey (World)
++ Donkey Kong II (World)
++ Donkey Kong Jr. (World) (New Wide Screen)
++ Donkey Kong Jr. (World) (Panorama Screen)
++ Fire Attack (World)
++ Flagman (World)
++ Gold Cliff (World)
++ Green House (World)
++ Lifeboat (World)
++ Lion (World)
++ Mario Bros. (World)
++ Mario the Juggler (World)
++ Mario's Bombs Away (World)
++ Mickey & Donald (World)
++ Mickey Mouse ~ Donkey Kong Circus (World) (Panorama Screen)
++ Mickey Mouse ~ Egg (World) (Wide Screen)
++ Octopus (World)
++ Oil Panic (World)
++ Parachute (World)
++ Pinball (World)
++ Rain Shower (World)
++ Safe Buster (World)
++ Snoopy (World)
++ Snoopy Tennis (World)
++ Spitball Sparky (World)
++ Squish (World)
++ Super Mario Bros. (World)
++ Tropical Fish (World)
++ Turtle Bridge (World)
++ Vermin (World)
++ Zelda (World)
