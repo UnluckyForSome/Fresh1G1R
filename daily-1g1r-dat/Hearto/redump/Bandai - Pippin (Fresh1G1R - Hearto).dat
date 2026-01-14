@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Bandai - Pippin (Retool)</name>
-		<description>Bandai - Pippin (10) (-y) [-aAbBcefkmMoprv] (2025-10-23 22-57-35) (Retool)</description>
+		<description>Bandai - Pippin (11) (-y) [-aAbBcefkmMoprv] (2025-10-23 22-57-35) (Retool)</description>
 		<version>2025-10-23 22-57-35</version>
-		<date>2026-01-12 03-47-40</date>
+		<date>2026-01-14 04-04-57</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -34,6 +34,13 @@
 		<description>L-Zone (Japan)</description>
 		<rom name="L-Zone (Japan).bin" size="327588912" crc="0c5934a5" md5="086a17b9ad7819dd0a5a603dd4001f2d" sha1="8ffe8bee6131edc46a8e448de70342ac5713ca79"/>
 		<rom name="L-Zone (Japan).cue" size="103" crc="4642773b" md5="8bae977c3550bf6bfd7f46d7f4122e71" sha1="56b71c8d4bd7457136764c949c898363b9cc7ce1"/>
+	</game>
+	<game name="Saban's Power Rangers Zeo Versus the Machine Empire (USA) (Beta) (1996-10-23)">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Saban's Power Rangers Zeo Versus the Machine Empire (USA) (Beta) (1996-10-23)</description>
+		<rom name="Saban's Power Rangers Zeo Versus the Machine Empire (USA) (Beta) (1996-10-23).bin" size="783086640" crc="fdad6a9f" md5="fcd89c761a7aacc76a16a6f4a29e7f82" sha1="cacd6d6afff3fbc26193f464cf1a529f0d0345ef"/>
+		<rom name="Saban's Power Rangers Zeo Versus the Machine Empire (USA) (Beta) (1996-10-23).cue" size="143" crc="a059ce57" md5="9f20c1a4862b9288b1870b26c4b435af" sha1="0a47c695bef66a508d73aa2d41979edb834b9ac6"/>
 	</game>
 	<game name="Tamagotchi CD-ROM (Japan)">
 		<category>Games</category>

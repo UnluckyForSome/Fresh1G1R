@@ -1,0 +1,35 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+
+
+TITLES WITH CLONES
+==================
+
++ Rewind (USA) (Rev 1)
+  - Rewind (USA)
+
+TITLES WITHOUT CLONES
+=====================
+
++ 4 Degrees - The Arc of Trivia - Bible Edition (USA)
++ 4 Degrees - The Arc of Trivia - Volume 1 (USA)
++ 4 Degrees - The Arc of Trivia - Volume 2 (USA)
++ Click! (USA)
++ Gemz (USA)
++ Letter Zap! (USA)
++ Lock 5 (USA)
++ Rewind 2005 (USA) (Disc A)
++ Rewind 2005 (USA) (Disc B)
++ Rewind 2006 (USA) (Disc A)
++ Rewind 2006 (USA) (Disc B)
++ Sudoku (USA)
++ VeggieTales - Veg-Out! Family Tournament (USA)
++ Zap 21 (USA)

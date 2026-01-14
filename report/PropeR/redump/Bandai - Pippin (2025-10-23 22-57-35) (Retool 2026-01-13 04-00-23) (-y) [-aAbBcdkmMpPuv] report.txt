@@ -1,0 +1,66 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* MULTIMEDIA REMOVES
+* PREPRODUCTION REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Card SD Gundam Gaiden (Japan)
++ Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan) (Rev A)
++ Gundam Tactics - Mobility Fleet0079 (Japan) (Rev A)
++ Hashitte Asobou! Kikansha Thomas (Japan) (Rev A)
++ L-Zone (Japan)
++ Shichi Sokusen (Japan) (Rev A)
++ Tamagotchi CD-ROM (Japan)
++ Tunin' Glue (Japan) (Rev A)
++ Ultraman - The Digital Board Game (Japan)
++ Ultraman Quiz King (Japan) (Rev A)
++ Victorian Park (Japan) (Disc 1)
++ Victorian Park (Japan) (Disc 2)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- Atmark Town Ver. 1.0 (Japan) (Rev A)
+- Atmark Town Ver. 1.0 (Japan) (Rev B)
+- Atmark Town Ver. 2.0 (Japan) (Rev A)
+- Franky Online (Japan) (Rev A)
+- Franky Online (Japan) (Rev B)
+- Internet Kit (Japan) (Rev B)
+- Internet Kit Ver. 2.0 (Japan) (Rev A)
+- PEase (Japan) (002)
+- Pippin Navigator CD (Japan) (Rev A)
+- Pippin Navigator CD Ver. 1.1 (Japan) (Rev A)
+- Pippin Network CD (Japan) (Rev A)
+- Pippin Network CD (Japan) (Rev B)
+- Pippin Network CD Ver. 2.0 (Japan) (Rev A)
+- Pippin Network CD Ver. 2.1 (Japan) (Rev A)
+- Pippin Title CD-ROM Catalog - Vol. I - 1996.3 (Japan) (Rev A)
+- Post de Card Light Ver. 3.0 (Japan) (Rev A)
+- TV Works - Word Paint Mail Ver. 1.0 (Japan) (En,Ja) (Rev A)
+- TV Works - Word Paint Mail Ver. 2.0 (Japan) (Rev A)
+- TV Works Ver. POP (Japan) (En,Ja) (Rev A)
+
+MULTIMEDIA REMOVES
+==================
+These titles were removed because the user excluded multimedia titles.
+
+- Compton's Interactive Encyclopedia - @World Edition (USA) (Beta) (1996-10-28)
+
+PREPRODUCTION REMOVES
+=====================
+These titles were removed because the user excluded preproduction titles.
+
+- Mr. Potato Head Saves Veggie Valley (USA) (Beta) (1996-10-30)
+- Saban's Power Rangers Zeo Versus the Machine Empire (USA) (Beta) (1996-10-23)

@@ -1,0 +1,77 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+* MANUAL REMOVES
+* PREPRODUCTION REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Maliou Kadingche (China) (v5)
+  - Maliou Kadingche (China) (v4)
++ Xingji Huohu (China) (v5)
+  - Xingji Huohu (China) (v4)
++ iQue Club (China) (v3)
+  - iQue Club (China) (v2)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Dongwu Senlin (China) (v8)
++ F-Zero X Weilai Saiche (China) (v3)
++ Maliou Yisheng (China) (v4)
++ Rentiantang Mingxing Daluan Dou (China) (v5)
++ Saierda Chuanshuo - Shiguang zhi Di (China) (v4)
++ Shenyou Maliou (China) (v4)
++ Shuishang Motuo (China) (v4)
++ Yaoxi Gushi (China)
++ Yueye Motuo (China) (v8)
++ Zhipian Maliou (China) (v4)
++ Zuhe Jiqiren (China) (v3)
++ Zui yu Fa - Diqiu de Jicheng Zhe (China) (v3)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Shenyou Julebu (China)
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- F-Zero X Weilai Saiche (China) (v2) (Manual)
+- F-Zero X Weilai Saiche (China) (v4) (Manual)
+- Maliou Kadingche (China) (v2) (Manual)
+- Maliou Kadingche (China) (v6) (Manual)
+- Maliou Yisheng (China) (v2) (Manual)
+- Maliou Yisheng (China) (v4) (Manual)
+- Rentiantang Mingxing Daluan Dou (China) (Manual)
+- Saierda Chuanshuo - Shiguang zhi Di (China) (v2) (Manual)
+- Saierda Chuanshuo - Shiguang zhi Di (China) (v4) (Manual)
+- Shenyou Maliou (China) (v6) (Manual)
+- Shuishang Motuo (China) (v2) (Manual)
+- Shuishang Motuo (China) (v4) (Manual)
+- Xingji Huohu (China) (v4) (Manual)
+- Yaoxi Gushi (China) (v2) (Manual)
+- Yaoxi Gushi (China) (v4) (Manual)
+- Yaoxi Gushi (China) (v6) (Manual)
+- Yueye Motuo (China) (v2) (Manual)
+- Zhipian Maliou (China) (v2) (Manual)
+- Zhipian Maliou (China) (v4) (Manual)
+- Zui yu Fa - Diqiu de Jicheng Zhe (China) (Manual)
+
+PREPRODUCTION REMOVES
+=====================
+These titles were removed because the user excluded preproduction titles.
+
+- Saierda Chuanshuo - Shiguang zhi Di (China) (Proto)

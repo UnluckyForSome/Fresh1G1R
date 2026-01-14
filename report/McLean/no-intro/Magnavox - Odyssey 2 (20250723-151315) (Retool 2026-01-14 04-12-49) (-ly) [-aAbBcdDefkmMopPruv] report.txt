@@ -1,0 +1,170 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+* PREPRODUCTION REMOVES
+* LANGUAGE REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Catch the Ball + Noughts and Crosses (Europe)
+  - O Malabarista + Jogo da Velha (Brazil) (En)
++ Chinese Logic (Europe)
+  - Desafio Chines (Brazil) (En)
++ Computer Golf (USA)
+  - Golf (Europe)
++ Computer Intro (USA)
+  - Computer Programmer (Europe)
++ Cosmic Conflict (USA)
+  - Conflit Cosmique (Canada)
+  - Cosmic Conflict (Europe)
+  - Cosmic Conflict (Europe) (Alt)
++ Depth Charge + Marksman (Europe)
+  - Bombardeio Submarino + Tiro ao Alvo (Brazil) (En)
++ Dynasty (USA)
+  - Samurai (Europe)
++ Frogger (Europe)
+  - Frogger (Brazil) (En)
++ Great Wall Street Fortune Hunt, The (USA, Europe)
+  - Wall Street (Brazil) (En)
++ Invaders from Hyperspace (USA)
+  - Laser War (Europe)
++ K.C. Munchkin (USA)
+  - Munchkin (Europe)
++ Keyboard Creations (USA)
+  - Newscaster (Europe)
++ P.T. Barnum's Acrobats (USA)
+  - Jumping Acrobats (Europe)
+  - Jumping Acrobats (Europe) (Alt)
++ Popeye (Europe)
+  - Popeye (Brazil) (En)
++ Power Lords (USA)
+  - Power Lords (USA) (Alt)
++ Secret of the Pharaohs (Europe)
+  - O Segredo do Farao (Brazil) (En)
++ Showdown in 2100 A.D. (USA)
+  - Gunfighter (Europe)
++ Smithereens (USA)
+  - Stone Sling (Europe)
++ Super Bee (Europe)
+  - Super Bee (Brazil) (En)
++ Super Cobra (Europe)
+  - Super Cobra (Brazil) (En)
++ Turtles (USA)
+  - Turtles (Europe)
++ UFO (USA)
+  - Satellite Attack (Europe)
+
+TITLES WITHOUT CLONES
+=====================
+
++ 4 in 1 Row (Europe)
++ Alien Invaders - Plus (USA, Europe)
++ Alpine Skiing (USA, Europe)
++ Armored Encounter + Sub Chase (USA, Europe)
++ Atlantis (USA, Europe)
++ Attack of the Timelord (USA)
++ Baseball (USA, Europe)
++ Blobbers, The (Europe)
++ Blockout + Breakdown (USA, Europe)
++ Bowling + Basketball (USA, Europe)
++ Buraco Negro (Brazil) (En)
++ Casino Slot Machine (USA, Europe)
++ Chess (Europe)
++ Clay Pigeon (Brazil) (En)
++ Comando Noturno (Brazil) (En)
++ Conquest of the World (USA, Europe)
++ Demon Attack (USA, Europe)
++ Electronic Table Soccer (USA, Europe)
++ Football (USA, Europe)
++ Freedom Fighters (USA, Europe)
++ Hockey + Soccer (USA, Europe)
++ I've Got Your Number (USA, Europe)
++ K.C.'s Krazy Chase (USA, Europe)
++ Killer Bees (USA)
++ Labyrinth Game, A + Supermind (Europe)
++ Las Vegas Blackjack (USA, Europe)
++ Matchmaker + Logix + Buzzword (USA)
++ Math-A-Magic + Echo (USA, Europe)
++ Monkeyshines (USA, Europe)
++ Morse (Europe)
++ Mousing Cat, The (Europe)
++ Musician (Europe)
++ Nightmare (Europe)
++ Nimble Numbers Ned (USA)
++ Out of This World + Helicopter Rescue (USA)
++ Pachinko (USA, Europe)
++ Pairs + Space Rendezvous + Logic (Europe)
++ Pick Axe Pete (USA, Europe)
++ Pocket Billiards (USA, Europe)
++ Q-Bert (Europe)
++ Quest for the Rings (USA, Europe)
++ Sid the Spellbinder (USA)
++ Speedway + Spin-out + Crypto-logic (USA, Europe)
++ Take the Money and Run (USA, Europe)
++ Thunderball (USA, Europe)
++ Type & Tell (USA)
++ Volleyball (USA, Europe)
++ War of Nerves (USA, Europe)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Magnavox Odyssey2 (USA, Europe)
+- [BIOS] Philips C52 (France)
+
+PREPRODUCTION REMOVES
+=====================
+These titles were removed because the user excluded preproduction titles.
+
+- Interpol (Europe) (Proto)
+- Loony Balloon (Europe) (Proto)
+- Martian Threat (Europe) (Proto)
+- Martian Threat (Europe) (Proto) (Alt)
+- Mission Impossible (Brazil) (En) (Proto)
+- Neutron Star (Europe) (Proto)
+- Nightfighter (Europe) (Proto)
+- Pinball (USA) (Proto)
+- Playtag (Europe) (Proto)
+- Red Baron (Europe) (Proto)
+- Red Baron (Europe) (Proto) (Alt)
+- Robot City (Europe) (Proto)
+- Shark Hunter (Europe) (Proto)
+- Spider-Man (Europe) (Proto)
+- Spider-Man (Europe) (Proto) (Alt)
+- Tutankham (Europe) (Proto)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- 4 en 1 Ligne (France)
+- Billard Electrique (France)
+- Billiard Americain (France)
+- Blackjack (France)
+- Chat et Souris (France)
+- Course de Voitures + Autodrome + Cryptogramme (France)
+- Faire du ski (France)
+- Football Electronique + Hockey Electronique (France)
+- Guerre Laser (France)
+- Jeu de Quilles + Basket Ball (France)
+- Kinder im Verkehr 1 (Germany)
+- La Quete des Anneaux (France)
+- Las Vegas (France)
+- Mathematicien + Echo (France)
+- Morse (France)
+- Mur Magique, Le (France)
+- Prendre l'Argent et Fuir (France)
+- Verkehrsspiele 1 (Germany)
+- Verkehrsspiele 2 (Germany)
+- Volleyball Electronique (France)

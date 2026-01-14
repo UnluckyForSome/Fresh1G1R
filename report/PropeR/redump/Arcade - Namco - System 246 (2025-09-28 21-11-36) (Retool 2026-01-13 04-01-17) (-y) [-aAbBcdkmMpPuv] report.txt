@@ -1,0 +1,32 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+
+
+TITLES WITH CLONES
+==================
+
++ Kidou Senshi Z Gundam - AEUG vs. Titans DX (Japan)
+  - Kidou Senshi Z Gundam - AEUG vs. Titans (Japan)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Kidou Senshi Gundam - Gundam vs. Gundam (Japan) (NS256)
++ Kidou Senshi Gundam Seed - Rengou vs. Z.A.F.T. (Japan)
++ Kidou Senshi Gundam Seed Destiny - Rengou vs. Z.A.F.T. II (Japan)
++ Kinnikuman - Muscle Grand Prix 2 (Japan) (NS256)
++ Netchuu! Pro Yakyuu 2002 (Japan)
++ Ridge Racer V - Arcade Battle (Japan) (Rev A)
++ Sengoku Basara X (Japan)
++ Soulcalibur II (Japan) (Rev D)
++ Tekken 4 (Japan)
++ Tekken 5 (Japan)
++ Tekken 5 - Dark Resurrection (Japan)

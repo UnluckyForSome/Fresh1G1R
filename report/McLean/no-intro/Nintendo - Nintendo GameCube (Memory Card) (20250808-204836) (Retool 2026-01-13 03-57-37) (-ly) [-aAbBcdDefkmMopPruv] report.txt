@@ -1,0 +1,48 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* LANGUAGE REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Factory Memory Card - RVL Diag - 012E & 126J (Japan, USA)
+  - Factory Memory Card - RVL Diag - 012E & 126J (Japan, USA) (Alt 2)
+  - Factory Memory Card - RVL Diag - 012E & 126J (Japan, USA) (Alt 3)
+  - Factory Memory Card - RVL Diag - 012E & 126J (Japan, USA) (Alt)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Action Replay Memory Card (USA) (v1.14)
++ Animal Crossing - Special Present (USA)
++ Factory Memory Card - RVL Diag - 124P (Europe)
++ Factory Memory Card - RVL Uji Diag - 121J (USA)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Doubutsu no Mori+ - Omake Data (Japan)
+- Factory Memory Card - RVL Diag - 100J (Japan)
+- Factory Memory Card - RVL Diag - 100J (Japan) (Alt 2)
+- Factory Memory Card - RVL Diag - 100J (Japan) (Alt 3)
+- Factory Memory Card - RVL Diag - 100J (Japan) (Alt 4)
+- Factory Memory Card - RVL Diag - 100J (Japan) (Alt 5)
+- Factory Memory Card - RVL Diag - 100J (Japan) (Alt 6)
+- Factory Memory Card - RVL Diag - 100J (Japan) (Alt)
+- Factory Memory Card - RVL Uji Diag - 121J (Japan)
+- Factory Memory Card - RVL Uji Diag - 121J (Japan) (Alt 2)
+- Factory Memory Card - RVL Uji Diag - 121J (Japan) (Alt 3)
+- Factory Memory Card - RVL Uji Diag - 121J (Japan) (Alt 4)
+- Factory Memory Card - RVL Uji Diag - 121J (Japan) (Alt)
+- Factory Memory Card - RVL Uji Diag - 121J (Taiwan)
+- Factory Memory Card - Ukeire Kensa - 050J & 065J (Japan)

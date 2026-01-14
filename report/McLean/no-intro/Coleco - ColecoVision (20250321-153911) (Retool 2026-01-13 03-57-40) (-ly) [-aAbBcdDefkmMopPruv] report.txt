@@ -1,0 +1,256 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* BIOS AND OTHER CHIP REMOVES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+* PREPRODUCTION REMOVES
+* PROMOTIONAL REMOVES
+* UNLICENSED REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ BC's Quest for Tires (USA)
+  - BC's Quest for Tires (Canada)
++ BC's Quest for Tires II - Grog's Revenge (USA)
+  - BC's Quest for Tires II - Grog's Revenge (Canada)
++ Dam Busters, The (USA)
+  - Dam Busters, The (Canada)
++ Defender (USA) (BUG Fixed)
+  - Defender (USA)
++ Donkey Kong (USA, Europe) (v1.1)
+  - Donkey Kong (USA)
++ Front Line (USA, Europe) (Standard Controller)
+  - Front Line (USA, Europe) (Super Action Controller)
++ Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)
+  - Miner 2049er Starring Bounty Bob (USA, Europe)
++ Pitstop (USA, Europe) (v1.1)
+  - Pitstop (USA)
++ Victory (USA)
+  - Victory (Europe)
+
+TITLES WITHOUT CLONES
+=====================
+
++ 2010 - The Graphic Action Game (USA)
++ Activision Decathlon, The (USA)
++ Alcazar - The Forgotten Fortress (USA)
++ Alphabet Zoo (USA)
++ Amazing Bumpman (USA)
++ Antarctic Adventure (USA, Europe)
++ Aquattack (USA)
++ Artillery Duel (USA)
++ Beamrider (USA)
++ Blockade Runner (USA)
++ Boulder Dash (USA)
++ Brain Strainers (USA)
++ Buck Rogers - Planet of Zoom (USA, Europe)
++ Bump 'n' Jump (USA, Europe)
++ BurgerTime (USA, Europe)
++ Cabbage Patch Kids - Adventures in the Park (USA, Europe)
++ Cabbage Patch Kids - Picture Show (USA)
++ Campaign '84 (USA)
++ Carnival (USA, Europe)
++ Centipede (USA)
++ Choplifter! (USA)
++ Chuck Norris - Superkicks (USA)
++ Congo Bongo (USA)
++ Cosmic Avenger (USA, Europe)
++ Cosmic Crisis (Europe)
++ Dance Fantasy (USA)
++ Destructor (USA, Europe)
++ Donkey Kong Junior (USA, Europe)
++ Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA)
++ Dragonfire (USA)
++ Dukes of Hazzard, The (USA)
++ Evolution (Canada)
++ Facemaker (USA)
++ Fathom (USA)
++ Flipper Slipper (USA, Europe)
++ Fortune Builder (USA)
++ Fraction Fever (USA)
++ Frantic Freddy (USA)
++ Frenzy (USA, Europe)
++ Frogger (USA)
++ Frogger II - ThreeeDeep! (USA)
++ Galaxian (USA)
++ Gateway to Apshai (USA, Europe)
++ Gorf (USA, Europe)
++ Gust Buster (USA)
++ Gyruss (USA)
++ H.E.R.O. - Helicopter Emergency Rescue Operation (USA)
++ Heist, The (USA)
++ Illusions (USA)
++ It's Only Rock 'N' Roll (USA)
++ James Bond 007 (USA)
++ Jukebox (USA)
++ Julius Erving and Larry Bird Go - One-on-One (USA)
++ Jumpman Junior (USA, Europe)
++ Jungle Hunt (USA)
++ Ken Uston Blackjack-Poker (USA, Europe)
++ Keystone Kapers (USA)
++ Lady Bug (USA, Europe)
++ Learning with Leeper (USA)
++ Linking Logic (USA)
++ Logic Levels (USA)
++ Looping (USA, Europe)
++ Memory Manor (USA)
++ Meteoric Shower (Europe)
++ Monkey Academy (USA)
++ Montezuma's Revenge (USA)
++ Moonsweeper (USA, Europe)
++ Motocross Racer (USA)
++ Mountain King (USA)
++ Mouse Trap (USA, Europe)
++ Mr. Do! (USA, Europe)
++ Mr. Do!'s Castle (USA)
++ Nova Blast (USA, Europe)
++ Oil's Well (USA)
++ Omega Race (USA, Europe)
++ Pepper II (USA, Europe)
++ Pitfall II - Lost Caverns (USA)
++ Pitfall! (USA)
++ Popeye (USA)
++ Q-bert (USA)
++ Q-bert's Qubes (USA)
++ Quest for Quintana Roo (USA)
++ River Raid (USA)
++ Robin Hood (USA)
++ Roc 'N Rope (USA, Europe)
++ Rock n' Bolt (USA)
++ Rocky - Super Action Boxing (USA, Europe)
++ Rolloverture (USA)
++ Root Beer Tapper (USA)
++ Sammy Lightfoot (USA)
++ Sector Alpha (USA)
++ Sewer Sam (USA)
++ Sir Lancelot (USA)
++ Skiing (USA)
++ Slither (USA, Europe)
++ Slurpy (USA)
++ Smurf - Paint 'n' Play WORKSHOP (USA, Europe)
++ Smurf - Rescue in Gargamel's Castle (USA, Europe)
++ Space Fury (USA, Europe)
++ Space Panic (USA, Europe)
++ Spectron (USA)
++ Spy Hunter (USA)
++ Squish'em Featuring Sam (USA)
++ Star Trek - Strategic Operations Simulator (USA)
++ Star Wars - The Arcade Game (USA)
++ Strike It! (Europe)
++ Subroc (USA, Europe)
++ Super Action Baseball (USA)
++ Super Action Football (Europe)
++ Super Action Football (USA)
++ Super Cobra (USA)
++ Super Cross Force (USA, Europe)
++ TOMARC the Barbarian (USA)
++ Tank Wars (Europe)
++ Tarzan (USA, Europe)
++ Telly Turtle (USA)
++ Threshold (USA)
++ Time Pilot (USA, Europe)
++ Tournament Tennis (USA)
++ Turbo (USA, Europe)
++ Tutankham (USA)
++ Up 'n Down (USA)
++ Venture (USA, Europe)
++ War Room (USA)
++ WarGames (USA, Europe)
++ Wing War (USA)
++ Wizard of Id's - WizMath (USA)
++ Word Feud (USA)
++ Zaxxon (USA, Europe)
++ Zenji (USA)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- ColecoVision Monitor Test (USA, Europe)
+- Final Test Cartridge (USA)
+- Super Controller Tester (USA)
+- Super Sketch - Sketch Master (USA) (Program) (Unl)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] ColecoVision (USA, Europe)
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- Adam's Musicbox Demo (USA) (Demo)
+- Berenstain Bears, The (USA) (Demo)
+- Smurfs Save the Day (USA) (Demo)
+- Sword and the Sorcerer, The (USA) (Demo)
+- Tunnels & Trolls (USA) (Demo)
+
+PREPRODUCTION REMOVES
+=====================
+These titles were removed because the user excluded preproduction titles.
+
+- 2010 - The Graphic Action Game (USA) (Beta)
+- A.E. (USA) (Proto)
+- Antarctic Adventure (USA, Europe) (Beta)
+- Boulder Dash (USA) (Beta)
+- Bump 'n' Jump (USA, Europe) (Beta)
+- BurgerTime (USA, Europe) (Beta)
+- Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 1)
+- Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 2)
+- Dig Dug (USA) (Proto)
+- Dragon's Lair (USA) (Proto)
+- Energy Quiz (Canada) (En,Fr-CA) (1983-06-06) (Proto)
+- Escape from the Mindmaster (USA) (Proto)
+- Fall Guy (USA) (Proto)
+- Fireman (USA) (Proto)
+- Frogger II - ThreeeDeep! (USA) (Beta) (1984-06-15)
+- Gyruss (USA) (Beta)
+- Joust (USA) (Proto)
+- Lord of the Dungeon (USA) (Beta)
+- M.A.S.H (Europe) (Proto)
+- Masters of the Universe - The Power of He-Man (USA) (Proto)
+- Matt Patrol (USA) (Proto)
+- Matt Patrol (USA) (Proto) (Alt)
+- Monkey Academy (USA) (Beta)
+- Number Bumper (USA) (Beta)
+- Orbit (USA) (Proto)
+- Pac-Man (USA) (Proto)
+- Porky's (USA) (Proto)
+- Power Lords - Quest for Volcan (USA) (Proto 1)
+- Power Lords - Quest for Volcan (USA) (Proto 2)
+- Spy Hunter (USA) (Beta)
+- Star Fire (USA) (Proto)
+- Star Wars - The Arcade Game (USA) (Beta) (1984-04-12)
+- Steamroller (USA) (Proto)
+- Super DK! (USA) (Proto)
+- Super DK! Junior (USA) (Proto)
+- Video Hustler (USA) (Proto 1)
+- Video Hustler (USA) (Proto 2)
+- Yolk's on you, The (Europe) (Proto)
+
+PROMOTIONAL REMOVES
+===================
+These titles were removed because the user excluded promotional titles.
+
+- CAT S.O.S. Game, The (USA) (Promo)
+
+UNLICENSED REMOVES
+==================
+These titles were removed because the user excluded unlicensed titles.
+
+- Castelo (Brazil) (En) (Unl)
+- Evolution (USA) (Unl)
+- Flipper Slipper (USA) (Unl)
+- Zaxxon (Taiwan) (En) (Unl)

@@ -1,0 +1,58 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+* UNLICENSED REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Battle Morph (USA)
+  - Battle Morph (USA) (Songbird)
++ Blue Lightning (USA) (En,Fr,De) (Alt)
+  - Blue Lightning (USA)
++ World Tour Racing (USA)
+  - World Tour Racing (USA) (Songbird)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Baldies (USA) (Rev 1)
++ BrainDead 13 (USA)
++ Dragon's Lair (USA)
++ Highlander - The Last of the MacLeods (USA)
++ Hover Strike - Unconquered Lands (USA)
++ Iron Soldier 2 (USA) (Songbird)
++ Myst (USA)
++ Primal Rage (USA)
++ Space Ace (USA)
++ Vid Grid (USA)
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- Myst (USA) (Demo)
+- Myst (USA) (Demo) (Alt)
+
+UNLICENSED REMOVES
+==================
+These titles were removed because the user excluded unlicensed titles.
+
+- Ants (USA) (Unl)
+- Fast Food 64 (USA) (Unl)
+- Fast Food 64 - Holiday Snacks (USA) (Unl)
+- Frog Feast (USA) (Unl)
+- Frogz 64 (USA) (Unl)
+- Klax (USA) (Unl)
+- Robinson's Requiem (USA) (Unl)
+- Saucer Wars (USA) (Unl)
+- Simone (USA) (Unl)

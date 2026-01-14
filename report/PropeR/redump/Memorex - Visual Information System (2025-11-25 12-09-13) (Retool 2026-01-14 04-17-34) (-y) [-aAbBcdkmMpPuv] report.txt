@@ -1,0 +1,98 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+* MULTIMEDIA REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Adventures of Victor Vector & Yondo, The - Adventure No. 1 - The Vampire's Coffin (USA)
++ America's National Parks (USA)
++ Better Not Get Wet, Jesse Bear (USA)
++ December 24th (USA)
++ Discis Books Multimedia - The Cask of Amontillado - Edgar Allan Poe (USA) (En,Es)
++ Discis Books Multimedia - The Necklace - Guy de Maupassant (USA) (En,Es)
++ Discis Books Multimedia - The Tell-Tale Heart - Edgar Allan Poe (USA) (En,Es)
++ Great Lives Series - Interactive Biographies of American Heroes Vol. 1 (USA)
++ Henry and Mudge - The First Book (USA)
++ Henry and Mudge in the Sparkle Days (USA)
++ Jesse Bear, What Will You Wear (USA)
++ Kid-Fun (USA)
++ Kids Can Read! A Long Hard Day at the Ranch - Audrey Nelson (USA) (En,Es)
++ Kids Can Read! Aesop's Fables (USA) (En,Es)
++ Kids Can Read! Cinderella - The Original Fairy Tale (USA) (En,Es)
++ Kids Can Read! Heather Hits Her First Home Run by Ted Planos (USA) (En,Es)
++ Kids Can Read! Moving Gives Me a Stomach Ache - Story by Heather McKend (USA) (En,Es)
++ Kids Can Read! Mud Puddle - Robert N. Munsch (USA) (En,Es)
++ Kids Can Read! Scary Poems for Rotten Kids written by Sean O Huigin (USA) (En,Es)
++ Kids Can Read! The Night Before Christmas - Clement C. Moore LLD (USA) (En,Es)
++ Kids Can Read! The Paper Bag Princess - Robert N. Munsch (USA) (En,Es)
++ Kids Can Read! The Tale of Benjamin Bunny - Beatrix Potter (USA) (En,Es)
++ Kids Can Read! The Tale of Peter Rabbit - Beatrix Potter (USA) (En,Es)
++ Kids Can Read! Thomas' Snowsuit - R. Munsch (USA) (En,Es)
++ Learn to Play Guitar Volume 1 (USA)
++ Links - The Challenge of Golf (USA)
++ Manhole, The - New and Enhanced! (USA)
++ Meeting of Minds Series, The - Interactive Games of History, Art, Music, and Ideas (USA)
++ Mercer Mayer's Just Grandma and Me (USA) (En,Ja,Es)
++ Mosaic Magic (USA)
++ Mutanoid Math Challenge (USA)
++ Mutanoid Word Challenge (USA)
++ My Paint (USA)
++ Our House featuring The Family Circus (USA)
++ Playing with Language - Games in English (USA)
++ Playing with Language - Games in French (USA)
++ Playing with Language - Games in German (USA)
++ Playing with Language - Games in Japanese (USA)
++ Playing with Language - Games in Spanish (USA)
++ Race the Clock (USA) (En,Es)
++ Rick Ribbit - Adventures in Early Learning (USA)
++ Rodney's Funscreen (USA)
++ Search for the Sea (USA)
++ Secrets of Hosea Freeman, The (USA)
++ Sherlock Holmes - Consulting Detective - Vol. I (USA)
++ Sherlock Holmes - Consulting Detective - Vol. II (USA)
++ SmartKids Challenge One (USA)
++ Talking Stepping Stones - Bonus Pack (USA)
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- Title Sampler (USA)
+- Title Sampler (USA) (Alt)
+
+MULTIMEDIA REMOVES
+==================
+These titles were removed because the user excluded multimedia titles.
+
+- American Heritage - Illustrated Encyclopedic Dictionary (USA)
+- American Vista (USA)
+- Americans in Space (USA)
+- Astrology Source (USA)
+- Atlas of U.S. Presidents (USA)
+- Better Homes and Gardens - Healthy Cooking (USA)
+- Bible Lands, Bible Stories (USA)
+- Compton's MultiMedia Encyclopedia VIS Edition (USA)
+- Fitness Partner (USA)
+- Multimedia Animals Encyclopedia (USA)
+- New Basics Electronic Cookbook, The (USA)
+- Peter and the Wolf - A Multimedia Storybook (USA)
+- Sail with Columbus (USA)
+- Survey of Western Art, A - The Electronic Library of Art (USA)
+- Time Magazine Compact Almanac 1992 (USA)
+- Time Table of History - Arts and Entertainment - 1993 Edition (USA)
+- Time Table of History - Business, Politics & Media - 1993 Edition (USA)
+- Time Table of History - Science and Innovation - 1993 Edition (USA)
+- Video Movie Guide 1993 (USA)
+- Vision - Multimedia Bible for the Entire Family (USA)
+- Wild Animals! (USA)
+- World Vista (USA)

@@ -1,0 +1,45 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+* LANGUAGE REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)
++ King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)
++ Neo Cherry Master - Real Casino Series (Japan) (En,Ja)
++ NeoGeo Cup '98 (Japan, Europe) (En,Ja)
++ Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)
++ Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] SNK NeoGeo Pocket (Japan) (En) (Beta)
+- [BIOS] SNK NeoGeo Pocket (Japan, Europe) (En)
+- [BIOS] SNK NeoGeo Pocket (Japan, Europe) (En,Ja) (Monochrome)
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- King of Fighters R-1 - Pocket Kakutou Series & Melon-chan no Seichou Nikki (Japan) (Demo)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Melon-chan no Seichou Nikki (Japan)
+- Renketsu Puzzle Tsunagete Pon! (Japan)
+- Shougi no Tatsujin (Japan)

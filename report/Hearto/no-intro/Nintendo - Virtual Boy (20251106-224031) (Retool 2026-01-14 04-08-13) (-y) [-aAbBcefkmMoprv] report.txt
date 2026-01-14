@@ -1,0 +1,58 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* BAD DUMP REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Galactic Pinball (Japan, USA) (En)
+  - Space Pinball (Japan) (En) (Proto)
++ Golf (USA)
+  - T&E Virtual Golf (Japan)
++ Jack Bros. (USA)
+  - Jack Bros. no Meiro de Hiihoo! (Japan)
++ Panic Bomber (USA)
+  - Tobidase! Panibon (Japan)
++ Red Alarm (USA)
+  - Red Alarm (Japan)
++ Vertical Force (USA)
+  - Vertical Force (Japan)
++ Virtual League Baseball (USA)
+  - Virtual Pro Yakyuu '95 (Japan)
+
+TITLES WITHOUT CLONES
+=====================
+
++ 3-D Tetris (USA)
++ Bound High (World) (Proto 2)
++ Insmouth no Yakata (Japan)
++ Mario Clash (Japan, USA) (En)
++ Mario's Tennis (Japan, USA) (En)
++ Nester's Funky Bowling (USA)
++ Niko-chan Battle (Japan) (Proto)
++ SD Gundam - Dimension War (Japan)
++ Space Invaders - Virtual Collection (Japan)
++ Space Squash (Japan)
++ Teleroboxer (Japan, USA) (En)
++ V-Tetris (Japan) (En)
++ Virtual Bowling (Japan)
++ Virtual Boy Wario Land (Japan, USA) (En)
++ Virtual Fishing (Japan)
++ Virtual Lab (Japan)
++ Virtual League Baseball 2 (USA) (Proto)
++ Waterworld (USA)
+
+BAD DUMP REMOVES
+================
+These titles were removed because the user excluded bad dump titles.
+
+- Bound High (World) (Proto 1) [b]

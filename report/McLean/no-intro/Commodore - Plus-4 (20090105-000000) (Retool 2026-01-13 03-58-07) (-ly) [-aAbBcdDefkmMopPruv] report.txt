@@ -1,0 +1,44 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Atomic Mission (USA, Europe)
++ Jack Attack (USA, Europe)
++ Pirate Adventure (USA, Europe)
++ Strange Odyssey (USA, Europe)
++ Viduzzles (USA, Europe)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- Calc Plus (USA) (Program)
+- Commodore 16 Keyboard Tutorial Cartridge (USA) (Program)
+- Financial Advisor (USA) (Program)
+- LOGO (USA) (Program)
+- Octasoft BASIC v7.0 (Hungary) (Program)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Commodore 1551 (USA, Europe)
+- [BIOS] Commodore 232 (Japan) (Proto)
+- [BIOS] Commodore Plus-4 (Europe) (R3)
+- [BIOS] Commodore Plus-4 (Europe) (R4)
+- [BIOS] Commodore Plus-4 (Europe) (R5)
+- [BIOS] Commodore Plus-4 (USA) (R4)
+- [BIOS] Commodore Plus-4 (USA) (R5)
+- [BIOS] Commodore V364 (USA) (Proto)

@@ -1,0 +1,39 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+
+
+TITLES WITH CLONES
+==================
+
++ APS PowerTools (USA, Europe) (v4.1)
+  - APS PowerTools (USA, Europe)
++ Adobe Type Manager (USA, Europe) (v1.2)
+  - Adobe Type Manager (USA, Europe)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Adobe Illustrator 88 (USA, Europe)
++ Aladdin Spring Cleaning (USA, Europe)
++ Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 1)
++ Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 2)
++ Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 3)
++ Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 4)
++ Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 5)
++ Aldus IntelliDraw (USA, Europe) (v2.0.1) (Upgrade Disk)
++ Apache Strike (USA, Europe)
++ Apple Font Pack (USA, Europe)
++ Apple Multiple Scan Software for Macintosh (USA, Europe) (v1.2)
++ Apple Remote Access Client (USA, Europe) (Install Disk 1)
++ Apple Remote Access Client (USA, Europe) (Install Disk 2)
++ Apple Remote Access Client (USA, Europe) (Install Disk 3)
++ Battleship (USA, Europe)
++ Mind Forever Voyaging, A (USA, Europe)

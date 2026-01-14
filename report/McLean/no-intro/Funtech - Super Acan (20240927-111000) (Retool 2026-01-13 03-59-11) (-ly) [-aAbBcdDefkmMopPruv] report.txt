@@ -1,0 +1,32 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* LANGUAGE REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Rebel Star (Taiwan) (En)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Boom Zoo (Taiwan)
+- Formosa Duel (Taiwan)
+- Gambling Lord (Taiwan)
+- Journey to the Laugh (Taiwan)
+- Magical Pool (Taiwan)
+- Monopoly - Adventure in Africa (Taiwan)
+- Sango Fighter (Taiwan)
+- Speedy Dragon (Taiwan)
+- Super Dragon Force (Taiwan)
+- Super Taiwanese Baseball League (Taiwan)
+- The Son of Evil (Taiwan)

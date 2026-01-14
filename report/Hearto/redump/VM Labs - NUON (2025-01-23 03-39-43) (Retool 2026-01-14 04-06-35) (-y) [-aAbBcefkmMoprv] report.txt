@@ -1,0 +1,31 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* MIA REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Ballistic (USA, Europe)
++ Freefall 3050 A.D. (USA, Europe)
++ Interactive Sampler (USA)
++ Iron Soldier 3 (USA)
++ Jjangguneun Monmallyeo 3 - Doraon Jjanggu (Korea)
++ Merlin Racing (USA, Europe)
++ Next Tetris, The (USA)
++ Space Invaders XL (USA)
++ Tempest 3000 (USA, Europe)
+
+MIA REMOVES
+===========
+These titles were removed because the user excluded mia titles.
+
+- Interactive Sampler - Spring 2000 (USA)
+- Iron Soldier 3 (USA) (Songbird)

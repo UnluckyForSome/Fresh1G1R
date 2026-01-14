@@ -1,0 +1,33 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Enjoy English 01 Gou (Japan) (Unl)
++ Enjoy English 02 Gou (Japan) (Unl)
++ Enjoy English 03 Gou (Japan) (Unl)
++ Enjoy English 04 Gou (Japan) (Unl)
++ Enjoy English 05 Gou (Japan) (Unl)
++ Enjoy English 06 Gou (Japan) (Unl)
++ Enjoy English 07 Gou (Japan) (Unl)
++ Enjoy English 08 Gou (Japan) (Unl)
++ Enjoy English 09 Gou (Japan) (Unl)
++ Enjoy English 10 Gou (Japan) (Unl)
++ Enjoy English 11 Gou (Japan) (Unl)
++ Enjoy English 12 Gou (Japan) (Unl)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] StudyBox (Japan) (Unl)

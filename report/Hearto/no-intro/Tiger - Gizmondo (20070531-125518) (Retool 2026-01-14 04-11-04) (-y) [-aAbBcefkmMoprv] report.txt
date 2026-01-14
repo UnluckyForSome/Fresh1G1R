@@ -1,0 +1,47 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Agaju - The Sacred Path (Europe) (Beta) (Cracked by SHiZMO)
++ Ball Busters (Europe) (Beta) (Cracked by SHiZMO)
++ Carmageddon (Europe) (Multi5) (Beta) (Cracked by SHiZMO)
++ Catapult (Europe) (Beta) (Cracked by SHiZMO)
++ Chicane - Jenson Button Street Racing (Europe) (Multi5) (Beta) (Cracked by SHiZMO)
++ Classic Compendium (Europe) (Multi6) (Cracked by SHiZMO)
++ Classic Compendium 2 (Europe) (Multi6) (Cracked by SHiZMO)
++ Colors (Europe) (Beta) (Cracked by SHiZMO)
++ Conflict - Vietnam (Europe) (Beta) (Cracked by SHiZMO)
++ FIFA Football 2005 (Europe) (Multi5) (Cracked by SHiZMO)
++ Fathammer Classics (Europe) (Multi5) (Cracked by SHiZMO)
++ Gizmondo (Europe) (Demo Card) (Cracked by SHiZMO)
++ Gizmondo Motocross 2005 (Europe) (Cracked by SHiZMO)
++ Gizmondo Navigator 2006 (Europe) (Multi6) (Cracked by SHiZMO)
++ Hit & Myth (Europe) (Multi5) (Beta) (Cracked by SHiZMO)
++ Hockey Rage 2005 (Europe) (Cracked by SHiZMO)
++ Interstellar Flames 2 (Europe) (Multi5) (Cracked by SHiZMO)
++ Jump (Europe) (Beta) (Cracked by SHiZMO)
++ POD - Point of Destruction (Europe) (Multi5) (Cracked by SHiZMO)
++ Pocket Ping Pong 2005 (Europe) (Cracked by SHiZMO)
++ Richard Burns Rally (Europe) (Multi5) (Cracked by SHiZMO)
++ SSX 3 (Europe) (Multi5) (Cracked by SHiZMO)
++ Sticky Balls (Europe) (Multi5) (Cracked by SHiZMO)
++ Supernaturals (Europe) (Beta) (Cracked by SHiZMO)
++ Toy Golf (Europe) (Cracked by SHiZMO)
++ Trailblazer (Europe) (Multi5) (Cracked by SHiZMO)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Gizmondo Service Pack B (Europe) (Homebrew Enabled)

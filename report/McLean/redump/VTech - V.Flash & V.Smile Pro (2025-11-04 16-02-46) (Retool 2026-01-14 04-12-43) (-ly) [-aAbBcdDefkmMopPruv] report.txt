@@ -1,0 +1,76 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* LANGUAGE REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 2)
+  - Amazing Spider-Man, The - Countdown to Doom (UK)
+  - Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 1)
++ Disney Princess - The Crystal Ball Adventure (USA)
+  - Disney Princess - The Crystal Ball Adventure (UK)
+  - Disney Princess - The Crystal Ball Adventure (USA) (Alt 2)
+  - Disney Princess - The Crystal Ball Adventure (USA) (Alt)
++ Disney-Pixar Cars - In the Fast Lane (USA) (Rev 3)
+  - Disney-Pixar Cars - In the Fast Lane (USA)
+  - Disney-Pixar Cars - In the Fast Lane (USA) (Rev 1)
++ Incredibles, The - Mission Incredible (USA)
+  - Incredibles, The - Mission Incredible (UK)
++ Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 2)
+  - Nickelodeon SpongeBob SquarePants - Idea Sponge (UK)
+  - Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 1)
++ Scooby-Doo! Ancient Adventure (USA) (Rev 1)
+  - Scooby-Doo! Ancient Adventure (UK)
+  - Scooby-Doo! Ancient Adventure (USA)
++ Shrek the Third - The Search for Arthur (USA)
+  - Shrek the Third - The Search for Arthur (UK)
++ Wacky Race on Jumpin' Bean Island (USA) (Rev 3)
+  - Wacky Race on Jumpin' Bean Island (UK)
+  - Wacky Race on Jumpin' Bean Island (USA) (Rev 2)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Bratz - Fashion Pixiez - The Secret Necklace (USA)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Asombroso Spider-Man, El - Persecucion en la Ciudad (Spain)
+- Bob L'Eponge - Une Idee Spongieuse (France)
+- Bratz - El Misterio del Collar (Spain)
+- Bratz Fashion Pixiez - Le Collier Magique (France)
+- Carrera Loca en la Isla de las Vainas Fritas (Spain) (Rev 1)
+- Cars - Auf der Ueberholspur (Germany)
+- Cars - El Carril Rapido (Spain)
+- Defis Sports (France)
+- Dingo Rallye - Fou ! Fou ! Fou ! (France)
+- Disney Princess - Das Zauberhafte Maerchen-Abenteuer (Germany)
+- Disney Princess - El Castillo de las Princesas (Spain)
+- Disney Princesses - L'Aventure Enchantee (France)
+- Disney-Pixar Cars - A Fond la Caisse ! (France)
+- Increibles, Los - Mision Increible (Spain)
+- Indestructibles, Les - Les Indestructibles a la Rescousse (France)
+- Multisports (Germany)
+- Nick SpongeBob Schwammkopf - Ein Schwamm Voller Ideen (Germany)
+- Nickelodeon Bob Esponja - Mision Esponja (Spain)
+- Scooby-Doo - Viaje al Pasado (Spain)
+- Scooby-Doo! Les Civilisations Perdues (France)
+- Shrek Le Troisieme - En quete d'Artur (France)
+- Shrek Tercero - Donde Esta Arturo (Spain)
+- Shrek der Dritte - Die Suche nach Arthus (Germany)
+- Spider-Man - Angriff der Super-Schurken (Germany)
+- Spider-Man Course-Poursuite a Manhattan (France)
+- Unglaublichen, Die (The Incredibles) - In Unglaublicher Mission (Germany)
+- Verrueckte Rennen der Huepf-Bohnen Insel, Das (Germany)

@@ -1,0 +1,74 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* BONUS DISC REMOVES
+* COVERDISC REMOVES
+* EDUCATIONAL REMOVES
+* MULTIMEDIA REMOVES
+* VIDEO REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Ano, Subarashii o Mou Ichido (Japan)
++ Ran2 1999 Deco (Japan)
+
+BONUS DISC REMOVES
+==================
+These titles were removed because the user excluded bonus disc titles.
+
+- X68000 EX-System (Japan)
+
+COVERDISC REMOVES
+=================
+These titles were removed because the user excluded coverdisc titles.
+
+- Oh!X 1998 Spring Special CD-ROM (Japan) (Part 1)
+- Oh!X 1998 Spring Special CD-ROM (Japan) (Part 2) (Sampler Disc)
+- Oh!X 1999 Spring Special CD-ROM (Japan) (Part 1)
+- Oh!X 1999 Spring Special CD-ROM (Japan) (Part 2) (Sampler Disc)
+- Oh!X 1999 Summer Special CD-ROM (Japan)
+- Oh!X 2000 Spring Special CD-ROM (Japan) (Part 1)
+- Oh!X 2000 Spring Special CD-ROM (Japan) (Part 2)
+- Oh!X 2001 Spring Special CD-ROM (Japan)
+
+EDUCATIONAL REMOVES
+===================
+These titles were removed because the user excluded educational titles.
+
+- Secret of Video Architecture (Japan)
+
+MULTIMEDIA REMOVES
+==================
+These titles were removed because the user excluded multimedia titles.
+
+- Gekikou Dennou Club Vol. 1 (Japan)
+- Gekikou Dennou Club Vol. 2 (Japan)
+- Gekikou Dennou Club Vol. 3 (Japan)
+- Gekikou Dennou Club Vol. 4 (Japan)
+- Gekikou Dennou Club Vol. 5 (Japan)
+- Gekikou Dennou Club Vol. 6 (Japan)
+- Gekikou Dennou Club Vol. 7 (Japan)
+- Gekkan Dennou Club - 2000.1 Vol. 140 (Japan)
+- Gekkan Dennou Club - 2000.2 Vol. 141 (Japan)
+- Gekkan Dennou Club - 2000.3 Vol. 142 (Japan)
+- Gekkan Dennou Club - 2000.4 Vol. 143 (Japan)
+- Gekkan Dennou Club - 2000.5 Vol. 144 (Japan)
+- Gekkan Dennou Club - 2000.6 Vol. 145 (Japan)
+- Gekkan Dennou Club - 2000.7 Vol. 146 (Japan)
+- Gekkan Dennou Club - 2000.8 Vol. 147 (Japan)
+- Sugoi Dennou Club (Japan)
+- Suteki na Dennou Club (Japan)
+
+VIDEO REMOVES
+=============
+These titles were removed because the user excluded video titles.
+
+- One-derful Theater (Japan)

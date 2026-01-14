@@ -1,0 +1,59 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Melty Blood - Act Cadenza Ver. B (Japan)
+  - Melty Blood - Act Cadenza (Japan) (Rev C)
++ Puyo Pop Fever (World)
+  - Puyo Puyo Fever (Japan)
++ Senko no Ronde (Japan) (Rev A)
+  - Senko no Ronde (Japan)
++ Super Shanghai 2005 (Japan) (Rev A)
+  - Super Shanghai 2005 (Japan)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan) (Rev A)
++ Chaos Field (Japan)
++ Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A)
++ Guilty Gear XX - The Midnight Carnival (Japan)
++ Guilty Gear XX - The Midnight Carnival Reload (Japan)
++ Guilty Gear XX Accent Core (Japan)
++ Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A)
++ Keyboard, La (Japan)
++ Kidou Senshi Gundam - Renpou vs. Zeon (World) (En,Ja)
++ Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (USA, Japan) (En,Ja)
++ Maze of the Kings, The (World) (En,Ja)
++ Melty Blood - Act Cadenza Ver. B (Japan) (Rev A)
++ Monkey Ball (Japan)
++ NouKone Puzzle - Takoron (Japan)
++ Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja)
++ Radirgy (Japan)
++ Shikigami no Shiro II (Japan)
++ Slashout (World) (En,Ja)
++ Spikers Battle (World) (En,Ja)
++ Sports Jam (Japan)
++ Street Fighter Zero 3 Upper (Japan)
++ Tetris Kiwamemichi (Japan)
++ Virtua Athletics ~ Virtua Athlete (World)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- DIMM Firm Update (Japan) (Rev A)
+- DIMM Firm Update (Japan) (Rev C)
+- DIMM Firm Update (Japan) (Rev E)

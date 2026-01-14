@@ -1,0 +1,45 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* BAD DUMP REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ My Nintendo Original 'Hoshi no Kirby - Discovery' Kabegami (Japan) (Nintendo Switch) (Wallpaper)
++ My Nintendo Original 'Mario Strikers - Battle League' Kabegami (Japan) (Nintendo Switch) (Wallpaper)
++ My Nintendo Wallpapers (World) (1080x1920)
++ My Nintendo Wallpapers (World) (1125x2436)
++ My Nintendo Wallpapers (World) (1200x1900)
++ My Nintendo Wallpapers (World) (1242x2208)
++ My Nintendo Wallpapers (World) (1242x2688)
++ My Nintendo Wallpapers (World) (1280x1024)
++ My Nintendo Wallpapers (World) (1336x768)
++ My Nintendo Wallpapers (World) (1440x2560)
++ My Nintendo Wallpapers (World) (1536x2048)
++ My Nintendo Wallpapers (World) (1920x1080)
++ My Nintendo Wallpapers (World) (2560x1440)
++ My Nintendo Wallpapers (World) (3840x2160)
++ My Nintendo Wallpapers (World) (640x1136)
++ My Nintendo Wallpapers (World) (720x1280)
++ My Nintendo Wallpapers (World) (750x1334)
++ My Nintendo Wallpapers (World) (Other Sizes)
++ Twitter - @Nintendo - Luigi Mansion 3 (Japan) (Nintendo Switch) (Wallpaper)
++ Twitter - @Nintendo - Mario Kart 8 Deluxe (Japan) (Nintendo Switch) (Wallpaper)
++ Twitter - @Nintendo - Star Fox Zero - The Battle Begins - Short Anime (Japan) (Wii U) (Wallpaper)
++ Twitter - @Nintendo - Super Mario Maker 2 (Japan) (Nintendo Switch) (Wallpaper)
++ Twitter - @mario_odysseyJP - Super Mario Odyssey (Japan) (Nintendo Switch) (Wallpaper)
+
+BAD DUMP REMOVES
+================
+These titles were removed because the user excluded bad dump titles.
+
+- Line - @Nintendo - Hoshi no Kirby - Vol. 1 (Japan) (2015-11-20) (Wallpaper) [b]
+- Line - @Nintendo - Hoshi no Kirby - Vol. 2 (Japan) (2015-12-11) (Wallpaper) [b]

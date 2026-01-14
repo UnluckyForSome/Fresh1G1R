@@ -1,0 +1,69 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* MIA REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Action Deka (Japan) (Application Disc)
++ Action Deka (Japan) (System Disc)
++ Beatmania IIDX 18 - Resort Anthem (Japan) (Update Disc)
++ Beatmania IIDX 21 - Spada (Japan) (Update Disc) (JBA)
++ Beatmania IIDX 22 - Pendual (Japan) (Update Disc) (JCA)
++ Beatmania IIDX 23 - Copula (Japan) (Update Disc) (JDA)
++ Bishi Bashi, The (Japan) (Application Disc)
++ Bishi Bashi, The (Japan) (System Disc)
++ Mah-Jong Fight Club - Garyuu Tensei (Japan) (Client-you Application Disc)
++ Mah-Jong Fight Club - Garyuu Tensei (Japan) (Client-you System Disc)
++ Otomedius (Japan) (Application Disc 1)
++ Otomedius (Japan) (Application Disc 2)
++ Otomedius (Japan) (System Disc)
++ Pride of Professionals - Baseball Heroes 2012 (Japan) (System Disc - Ekishou Wide Monitor Taiouban)
++ Toukyuu Oukoku Gashaaaan (Asia) (Application Disc)
++ Toukyuu Oukoku Gashaaaan (Asia) (System Disc)
++ World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 1)
++ World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 2)
++ World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 3)
++ World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 4)
++ World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (System Disc)
++ World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 1)
++ World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 2)
++ World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 3)
++ World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 4)
++ World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (Application Disc 5)
++ World Soccer Winning Eleven - Arcade Championship 2012 (Japan) (System Disc)
+
+MIA REMOVES
+===========
+These titles were removed because the user excluded mia titles.
+
+- Castlevania - The Arcade (Japan) (Application Disc 1)
+- Castlevania - The Arcade (Japan) (Application Disc 2)
+- Castlevania - The Arcade (Japan) (System Disc)
+- Feature World (Japan) (Conversion Kit Application Disc)
+- Mah-Jong Fight Club 6 (Japan) (Client-you Application Disc)
+- Mah-Jong Fight Club 6 (Japan) (Client-you System Disc)
+- Mah-Jong Fight Club Series (Japan) (Client-you Application Disc)
+- Mah-Jong Fight Club Series (Japan) (Client-you System Disc)
+- Pride of Professionals - Baseball Heroes 2012 (Japan) (Application Disc 01 - Ekishou Wide Monitor Taiouban)
+- Pride of Professionals - Baseball Heroes 2012 (Japan) (Application Disc 02 - Ekishou Wide Monitor Taiouban)
+- Pride of Professionals - Baseball Heroes 2013 (Japan) (Application Disc 01 - Ekishou Wide Monitor Taiouban)
+- Pride of Professionals - Baseball Heroes 2013 (Japan) (Application Disc 02 - Ekishou Wide Monitor Taiouban)
+- Quiz Magic Academy - Kenja no Tobira (Japan) (Application Disc - Kuraianto Center Monitor Kyouyou)
+- Quiz Magic Academy - Kenja no Tobira (Japan) (System Disc - Kuraianto Center Monitor Kyouyou)
+- Quiz Magic Academy 6 (Japan) (Application Disc 1 - Kuraianto Center Monitor Kyouyou)
+- Quiz Magic Academy 6 (Japan) (Application Disc 2 - Kuraianto Center Monitor Kyouyou)
+- Quiz Magic Academy 6 (Japan) (Application Disc 3 - Kuraianto Center Monitor Kyouyou)
+- Quiz Magic Academy 6 (Japan) (System Disc - Kuraianto Center Monitor Kyouyou)
+- Quiz Magic Academy 7 (Japan) (Application Disc - Kuraianto Center Monitor Kyouyou)
+- Quiz Magic Academy 7 (Japan) (System Disc - Kuraianto Center Monitor Kyouyou)
+- Toukyuu Oukoku Gashaaaan (Japan) (Application Disc)
+- Toukyuu Oukoku Gashaaaan (Japan) (System Disc)

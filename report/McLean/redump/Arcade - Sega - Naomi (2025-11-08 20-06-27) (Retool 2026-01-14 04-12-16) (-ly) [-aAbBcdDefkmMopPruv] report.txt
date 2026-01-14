@@ -1,0 +1,60 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* LANGUAGE REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan) (Rev A)
++ Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A)
++ Kidou Senshi Gundam - Renpou vs. Zeon (World) (En,Ja)
++ Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (USA, Japan) (En,Ja)
++ Maze of the Kings, The (World) (En,Ja)
++ Monkey Ball (Japan)
++ Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja)
++ Puyo Pop Fever (World)
++ Slashout (World) (En,Ja)
++ Spikers Battle (World) (En,Ja)
++ Sports Jam (Japan)
++ Virtua Athletics ~ Virtua Athlete (World)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- DIMM Firm Update (Japan) (Rev A)
+- DIMM Firm Update (Japan) (Rev C)
+- DIMM Firm Update (Japan) (Rev E)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Chaos Field (Japan)
+- Guilty Gear XX - The Midnight Carnival (Japan)
+- Guilty Gear XX - The Midnight Carnival Reload (Japan)
+- Guilty Gear XX Accent Core (Japan)
+- Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A)
+- Keyboard, La (Japan)
+- Melty Blood - Act Cadenza (Japan) (Rev C)
+- Melty Blood - Act Cadenza Ver. B (Japan)
+- Melty Blood - Act Cadenza Ver. B (Japan) (Rev A)
+- NouKone Puzzle - Takoron (Japan)
+- Puyo Puyo Fever (Japan)
+- Radirgy (Japan)
+- Senko no Ronde (Japan)
+- Senko no Ronde (Japan) (Rev A)
+- Shikigami no Shiro II (Japan)
+- Street Fighter Zero 3 Upper (Japan)
+- Super Shanghai 2005 (Japan)
+- Super Shanghai 2005 (Japan) (Rev A)
+- Tetris Kiwamemichi (Japan)

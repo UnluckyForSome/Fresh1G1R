@@ -1,0 +1,22 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ DSvision Starter Kit (Japan)
++ Duel Masters Volume 1 (Japan)
++ Duel Masters Volume 2 (Japan)
++ Duel Masters Volume 3 (Japan)
++ Mew to Hadou no Yuusha Lucario - Special Pack (Japan)
++ Pokemon Premium Set (Japan)
++ Shonen Magazine Comics Special Pack (Japan)
++ Shonen Sunday Comics Special Pack (Japan)

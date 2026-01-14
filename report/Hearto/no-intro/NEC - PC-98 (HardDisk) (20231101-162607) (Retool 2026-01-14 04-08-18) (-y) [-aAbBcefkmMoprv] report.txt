@@ -1,0 +1,24 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ M Hand (Japan)
++ Rose Blood - Chi no Kawaki (Japan)
++ Touhou Fuumaroku - The Story of Eastern Wonderland (Japan)
++ Touhou Gensoukyou - Lotus Land Story (Japan)
++ Touhou Gensoukyou - Lotus Land Story (Japan) (Unknown, Original)
++ Touhou Kaikidan - Mystic Square (Japan)
++ Touhou Reiiden - The Highly Responsive to Prayers (Japan)
++ Touhou Yumejikuu - Phantasmagoria of Dim. Dream (Japan)
++ Yume no Sei (Japan)
++ Zest to Fantasy (Japan)

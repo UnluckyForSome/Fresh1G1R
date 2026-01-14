@@ -1,0 +1,70 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+* MIA REMOVES
+* MULTIMEDIA REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Aqua Adventure - Blue Lilty (Japan)
++ Bandai Item Collection 70' (Japan)
++ Bishoujo Senshi Sailor Moon S - Quiz Taiketsu! Sailor Power Shuketsu!! (Japan)
++ Dragon Ball Z - Shin Saiyajin Zetsumetsu Keikaku - Chikyuu-hen (Japan)
++ Dragon Ball Z - Shin Saiyajin Zetsumetsu Keikaku - Uchuu-hen (Japan)
++ Elements Voice Series - Aya Hisakawa - Forest Sways (Japan)
++ Elements Voice Series - Mariko Kouda - Welcome to the Marikotown! (Japan)
++ Elements Voice Series - Mika Kanai - Wind & Breeze (Japan)
++ Elements Voice Series - Rica Fukami - Private Step (Japan)
++ Elements Voice Series - Yuri Shiratori - Rainbow Harmony (Japan)
++ Gamera - The Time Adventure (Japan)
++ Hello Kitty - Yume no Kuni Daiboken (Japan)
++ Ie Naki Ko - Suzu no Sentaku (Japan)
++ Kero Kero Keroppi - Uki Uki Party Land!! (Japan)
++ Mari-nee no Heya (Japan)
++ Norimono Banzai!! Densha Daishuugou!! (Japan)
++ Norimono Banzai!! Kuruma Daishuugou!! (Japan)
++ Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Sailor Moon to Hajimete no Eigo (Japan)
++ Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Sailor Moon to Hiragana Lesson! (Japan)
++ Playdia iQ Kids - Bishoujo Senshi Sailor Moon SuperS - Youkoso! Sailor Youchien (Japan)
++ Playdia iQ Kids - Nintama Rantarou - Gungun Nobiru Chinou-hen (Japan)
++ Playdia iQ Kids - Nintama Rantarou - Hajimete Oboeru Chishiki-hen (Japan)
++ Playdia iQ Kids - Soreike! Anpanman - Picnic de Obenkyou (Japan)
++ Playdia iQ Kids - Ultraman - Chinou UP Daisakusen (Japan)
++ Playdia iQ Kids - Ultraman - Hiragana Daisakusen (Japan)
++ Playdia iQ Kids - Ultraman - Oide yo! Ultra Youchien (Japan)
++ Playdia iQ Kids - Ultraman - Suuji de Asobou Ultra Land (Japan)
++ SD Gundam - Daizukan (Japan)
++ Shuppatsu! Dobutsu Tankentai (Japan)
++ Ultra Seven - Chikyu Boei Sakusen (Japan)
++ Ultraman - Alphabet TV e Youkoso (Japan)
++ Ultraman Powered - Kaiju Gekimetsu Sakusen (Japan)
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- Playdia - Quick Interactive System - Sample Soft (Japan)
+
+MIA REMOVES
+===========
+These titles were removed because the user excluded mia titles.
+
+- Go! Go! Ackman Planet (Japan)
+
+MULTIMEDIA REMOVES
+==================
+These titles were removed because the user excluded multimedia titles.
+
+- Chougoukin Selections (Japan)
+- Newton Museum - Kyoryu Nendaiki Kohen (Japan)
+- Newton Museum - Kyoryu Nendaiki Zenpen (Japan)
+- Yumi to Tokoton Playdia (Japan) (Dokidoki Campaign)

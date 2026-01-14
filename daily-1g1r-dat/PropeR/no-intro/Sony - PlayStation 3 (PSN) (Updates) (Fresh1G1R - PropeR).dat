@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (Updates) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (Updates) (2,171) (-y) [-aAbBcdkmMpPuv] (20251013-105502) (Retool)</description>
+		<description>Sony - PlayStation 3 (PSN) (Updates) (2,170) (-y) [-aAbBcdkmMpPuv] (20251013-105502) (Retool)</description>
 		<version>20251013-105502</version>
-		<date>2026-01-12 04-01-33</date>
+		<date>2026-01-14 04-19-03</date>
 		<author>baldjared, bsbt, buckwheat, emstan784, Landcross, norkmetnoil577, rarenight, SonGoku, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2644,12 +2644,6 @@
 		<description>Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai All-Star Special (Japan) (v1.06) (Update)</description>
 		<game_id>JP0036-NPJB00618_00-KUNIOSUNDOKAIPKG</game_id>
 		<rom name="JP0036-NPJB00618_00-KUNIOSUNDOKAIPKG-A0106-V0100-PE.pkg" size="184184704" crc="6f14597c" md5="95519818ab75272f3a94aaa5142c252f" sha1="a57584e73eb151b896730c10e8ef37003acc1396"/>
-	</game>
-	<game name="Drag-On Dragoon 3 (Asia) (v1.01) (Update)" id="07732">
-		<category>Games</category>
-		<description>Drag-On Dragoon 3 (Asia) (v1.01) (Update)</description>
-		<game_id>HP0082-NPHB00633_00-DOD3MAINGAME0000</game_id>
-		<rom name="HP0082-NPHB00633_00-DOD3MAINGAME0000-A0101-V0101-PE.pkg" size="60129040" crc="a6618f4e" md5="49ef0fc91db67046add2e239545126ad" sha1="5f51f2ef8d8ffc87f4cfee4336c39d46ded87fd7"/>
 	</game>
 	<game name="Drag-On Dragoon 3 (Asia) (v1.02) (Update)" id="07733">
 		<category>Games</category>

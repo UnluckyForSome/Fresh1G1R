@@ -1,0 +1,43 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+
+
+TITLES WITH CLONES
+==================
+
++ Disk Battler (Japan) (Disk 1)
+  - Disk Battler (Japan) (Disk 1) (Alt)
++ Fire Arms (Japan) (Disk 1)
+  - Fire Arms (Japan) (Disk 1) (Alt)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Campaign-ban Daisenryaku II Unit Kaizou Pack (Japan)
++ Disk Battler (Japan) (Disk 2)
++ Disk Battler (Japan) (User Disk)
++ Fire Arms (Japan) (Disk 2)
++ M Hard (Japan) (Disk 1)
++ M Hard (Japan) (Disk 2)
++ M Hard (Japan) (Disk 3)
++ M Hard (Japan) (Set 1) (Disk 1)
++ M Hard (Japan) (Set 1) (Disk 2)
++ M Hard (Japan) (Set 1) (Disk 3)
++ Rose Blood - Chi no Kawaki (Japan) (Disk 1)
++ Rose Blood - Chi no Kawaki (Japan) (Disk 2)
++ Rose Blood - Chi no Kawaki (Japan) (Set 1) (Disk 1)
++ Rose Blood - Chi no Kawaki (Japan) (Set 1) (Disk 2)
++ Yume no Sei (Japan) (Disk 1)
++ Yume no Sei (Japan) (Disk 2)
++ Yume no Sei (Japan) (Disk 3)
++ Zest to fantasy (Japan) (Disk 1)
++ Zest to fantasy (Japan) (Disk 2)
++ Zest to fantasy (Japan) (Disk 3)

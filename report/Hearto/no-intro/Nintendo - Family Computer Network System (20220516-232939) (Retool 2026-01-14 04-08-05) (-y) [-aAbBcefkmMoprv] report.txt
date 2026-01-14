@@ -1,0 +1,47 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+* MIA REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ JRA-PAT (Japan) (FCN027-05)
++ JRA-PAT (Japan) (FCN027-06)
++ Nomura no Famicom Trade (Japan) (FCN001-03)
++ Super Mario Club (Japan) (FCN000-09 P)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] LH5323M1 Kanji Graphic ROM (Japan)
+- [BIOS] RF5A18 CPU2 ROM (Japan)
+
+MIA REMOVES
+===========
+These titles were removed because the user excluded mia titles.
+
+- Cosmo no Famicom Trade (Japan) (FCN003-03)
+- Famicom ANSER (Japan) (FCN000-05)
+- Heart no Benrikun Mini (Japan) (FCN014-01 A)
+- JRA-PAT (Japan) (FCN027-03 P)
+- Kangyou Sumimaru no Famicom Trade (Japan) (FCN007-01 A)
+- Nomura no Famicom Trade (Japan) (FCN001-01 A)
+- Nomura no Famicom Trade (Japan) (FCN001-01 B)
+- Nomura no Famicom Trade (Japan) (FCN001-05)
+- Okasan no Famicom Trade (Japan) (FCN005-01)
+- PiT - Motorboat Race (Japan) (FCN030-02)
+- PiT - Motorboat Race (Japan) (FCN030-03)
+- Shin Nihon no Famicom Home Trade (Japan) (FCN006-03)
+- Sumitomo Homeline (Japan) (FCN050-01 P)
+- Wako no Famicom Trade (Japan) (FCN004-03)
+- Yamatane no Famicom Trade (Japan) (FCN002-01)

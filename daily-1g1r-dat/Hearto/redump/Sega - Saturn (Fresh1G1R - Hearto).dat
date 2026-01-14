@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn (Retool)</name>
-		<description>Sega - Saturn (1,367) (-y) [-aAbBcefkmMoprv] (2025-12-29 08-15-07) (Retool)</description>
+		<description>Sega - Saturn (1,366) (-y) [-aAbBcefkmMoprv] (2025-12-29 08-15-07) (Retool)</description>
 		<version>2025-12-29 08-15-07</version>
-		<date>2026-01-12 03-48-52</date>
+		<date>2026-01-14 04-06-11</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1948,22 +1948,22 @@
 		<rom name="Can Can Bunny Extra (Japan) (Track 2).bin" size="1764000" crc="cec161e5" md5="c30078735eebd29de85fa8ef3d5d21e9" sha1="957a160b8db265c9a07c85ba462aa608d6f2e0fc"/>
 		<rom name="Can Can Bunny Extra (Japan).cue" size="247" crc="b035f2a4" md5="a41408a5c519a02d75bc9b4da88a021d" sha1="61481dcd0e53af36a57b2ea1fb0ec5efaa6b66ea"/>
 	</game>
-	<game name="Can Can Bunny Premiere (Japan) (2M)">
+	<game name="Can Can Bunny Premiere (Japan) (1M)">
 		<category>Games</category>
-		<description>Can Can Bunny Premiere (Japan) (2M)</description>
-		<rom name="Can Can Bunny Premiere (Japan) (2M) (Track 01).bin" size="158219040" crc="2d17460a" md5="3e815c1a7ac505c07af95fce622981c5" sha1="374b507cd390d4fcdd72a16bf2ab7e637f8e16e9"/>
-		<rom name="Can Can Bunny Premiere (Japan) (2M) (Track 02).bin" size="5562480" crc="932a2f89" md5="c2b3c7dd0fa6dc20a149f529cf1df694" sha1="c5d341eaac4499ff6f6015622dca694a9dae04c4"/>
-		<rom name="Can Can Bunny Premiere (Japan) (2M) (Track 03).bin" size="39000864" crc="d9d4ecd5" md5="58e28135a5cbd6c663009dbcd3877261" sha1="0e3ee4d64a50519e12b7bb755e1db199052e5ebc"/>
-		<rom name="Can Can Bunny Premiere (Japan) (2M) (Track 04).bin" size="29402352" crc="842ade51" md5="5b3282970d8eb3c32162bc53d69eaae4" sha1="43376a46fa9bd60eff23cc7105743f03f8b4bde7"/>
-		<rom name="Can Can Bunny Premiere (Japan) (2M) (Track 05).bin" size="24540768" crc="920c9af9" md5="7f3e6a57c65d0e77c308d557fedfbb11" sha1="aa0c0906c96539349e1ab28bd2ae842db8870a53"/>
-		<rom name="Can Can Bunny Premiere (Japan) (2M) (Track 06).bin" size="12376224" crc="c3854b20" md5="54de00d92ccd44bfb159688f8764ab43" sha1="9c2f0f83220cddc5354a79823dc2c6d246538a14"/>
-		<rom name="Can Can Bunny Premiere (Japan) (2M) (Track 07).bin" size="40546128" crc="0e9c7d4f" md5="0716bcd33c19a85de1f740433ebca346" sha1="fac244e07161781494fc38e38c4c9829678a0e29"/>
-		<rom name="Can Can Bunny Premiere (Japan) (2M) (Track 08).bin" size="28480368" crc="4c6b177b" md5="b693e8eab56aa01687912e9355256d16" sha1="651b45379ca45fe5c086257fea819e584991a77f"/>
-		<rom name="Can Can Bunny Premiere (Japan) (2M) (Track 09).bin" size="24437280" crc="f2bfbec6" md5="9074659e553a0af1a628bf05191df3b1" sha1="ff079866a8361fc7b319dc2a27c9295cdeeefce3"/>
-		<rom name="Can Can Bunny Premiere (Japan) (2M) (Track 10).bin" size="32283552" crc="41d7ce8f" md5="2ac7fe6738a551ede090ccd845bdb83c" sha1="d629fc1aa8bd957cc4498e6e83832b785ec124f6"/>
-		<rom name="Can Can Bunny Premiere (Japan) (2M) (Track 11).bin" size="27812400" crc="f81a69d4" md5="41c3cd82cf34fa707ffff9a89a654a8e" sha1="41e8db6df95b3fdef48f3a2eedd89ced075c52eb"/>
-		<rom name="Can Can Bunny Premiere (Japan) (2M) (Track 12).bin" size="34336848" crc="29c65d4e" md5="d9732e0d23585ed59472c88d0005898d" sha1="1d990f31580190beb706d69306bc5ff33e293cf1"/>
-		<rom name="Can Can Bunny Premiere (Japan) (2M).cue" size="1565" crc="bf22b2bf" md5="b1901c1f725d2285f16cf19802202fb4" sha1="f74d5218efb2976ba2a1787d61ae71e9282a3abd"/>
+		<description>Can Can Bunny Premiere (Japan) (1M)</description>
+		<rom name="Can Can Bunny Premiere (Japan) (1M) (Track 01).bin" size="158219040" crc="2d17460a" md5="3e815c1a7ac505c07af95fce622981c5" sha1="374b507cd390d4fcdd72a16bf2ab7e637f8e16e9"/>
+		<rom name="Can Can Bunny Premiere (Japan) (1M) (Track 02).bin" size="5562480" crc="6a07631c" md5="1f492abc178522331a19e3e20b723081" sha1="a0c38d8a72699066fc8cb23cbd205908c0f5152c"/>
+		<rom name="Can Can Bunny Premiere (Japan) (1M) (Track 03).bin" size="39000864" crc="84811833" md5="50d84c580ab77728dccebecf657ae40b" sha1="f336c1d77250e8d64f2974327d05f62eb363ae15"/>
+		<rom name="Can Can Bunny Premiere (Japan) (1M) (Track 04).bin" size="29402352" crc="a0fb7b2a" md5="305809b8273c11e797fe719b9c721f17" sha1="57cea5a495f79cb0737b5aa7467d1b67228614cb"/>
+		<rom name="Can Can Bunny Premiere (Japan) (1M) (Track 05).bin" size="24540768" crc="817ecdc7" md5="ddc0381fa7db87ceec2f0f133101476f" sha1="66f6738bc00caa1e5c8220496b3671be9a4a618a"/>
+		<rom name="Can Can Bunny Premiere (Japan) (1M) (Track 06).bin" size="12376224" crc="25d0fbf7" md5="e3284b5b9b12253751e3b3724e095e8a" sha1="1cd8e317642f57263d6a879bc820e38806fdd139"/>
+		<rom name="Can Can Bunny Premiere (Japan) (1M) (Track 07).bin" size="40546128" crc="f113d1e6" md5="e188146c9aa5c2d36e10d7b2ce19dca9" sha1="f2f172fdd47f28cc3e9e2ef7bc66707308773a94"/>
+		<rom name="Can Can Bunny Premiere (Japan) (1M) (Track 08).bin" size="28480368" crc="a86e7be6" md5="064d8c2370fe9d38922c748290158dae" sha1="2275a51ccc1b9334a4e58d6701ea19cedcda9734"/>
+		<rom name="Can Can Bunny Premiere (Japan) (1M) (Track 09).bin" size="24437280" crc="fe9e7f17" md5="26017de8b883b44416e6f82a4d4595b7" sha1="d3c6b3eca7086d38aa736f107287b07094a0714f"/>
+		<rom name="Can Can Bunny Premiere (Japan) (1M) (Track 10).bin" size="32283552" crc="367cc7c9" md5="7c77a0cceb24636f68b048e46655548b" sha1="cfd8db8ca32a925764ee70b24de5475d8decedb3"/>
+		<rom name="Can Can Bunny Premiere (Japan) (1M) (Track 11).bin" size="27812400" crc="57f0211d" md5="fc6634f8fcddcb6bd77802f76d182f81" sha1="47f09a93ffa60eabc86ce16b2930b25df16b46bc"/>
+		<rom name="Can Can Bunny Premiere (Japan) (1M) (Track 12).bin" size="34336848" crc="6b65ba24" md5="9c16197c7ccc034309090a5015c2f989" sha1="58dbd05e49c95f9e4a9f3d2c4feb99810eacd31f"/>
+		<rom name="Can Can Bunny Premiere (Japan) (1M).cue" size="1565" crc="fd90a58e" md5="cc8af3cad8b38ed519879bb1d7579a35" sha1="517172bcc7c2f6d542d7513173137acd4cbd46af"/>
 	</game>
 	<game name="Can Can Bunny Premiere 2 (Japan) (Disc 1) (Rev A)">
 		<category>Games</category>
@@ -3479,13 +3479,6 @@
 		<rom name="Deroon Dero Dero (Japan) (1M) (Track 17).bin" size="14836416" crc="948c8983" md5="2776e59f4f1946f013c5db28343a28d6" sha1="7082251be4b966431a45a0cabbea73ae94955dc6"/>
 		<rom name="Deroon Dero Dero (Japan) (1M) (Track 18).bin" size="78909600" crc="bfce60d7" md5="2b2382ed6519e17b879d121431233086" sha1="d30029f00872fcb1625f0e5ef98e92b5d9ab5533"/>
 		<rom name="Deroon Dero Dero (Japan) (1M).cue" size="2237" crc="2f5a9809" md5="5280f53fa021df4a60c3acaf94cd35bf" sha1="3e32bf5c3610ded3fe80f95e48ce7e2ea45b6e1c"/>
-	</game>
-	<game name="Desire (Japan) (Demo)">
-		<category>Demos</category>
-		<description>Desire (Japan) (Demo)</description>
-		<rom name="Desire (Japan) (Demo) (Track 1).bin" size="46200336" crc="8806c6b4" md5="466b33853b38060f16c031f7d13287b8" sha1="a89857f97541e405386e3dd4853af8a73492a4c5"/>
-		<rom name="Desire (Japan) (Demo) (Track 2).bin" size="2831808" crc="11f8f2c7" md5="0f1e8a1a80c1dc8836612629f5c81448" sha1="9d9c8ba602c7bc2c517cdda6c939ba4a7612a9b9"/>
-		<rom name="Desire (Japan) (Demo).cue" size="235" crc="f0fdecd5" md5="258e687c4ba76b517ab8e58f207ea86c" sha1="4c7736a3fc1131added8716bd3be15521134dc7a"/>
 	</game>
 	<game name="Desire (Japan) (Disc 1)">
 		<category>Games</category>
@@ -8311,12 +8304,12 @@
 		<rom name="Iron Storm (USA) (Track 2).bin" size="1820448" crc="18bbfdbc" md5="85e3c7b18b62ca92ac0f1dfabf520c81" sha1="37034a7c51fc833e31ef831934173fe193fba170"/>
 		<rom name="Iron Storm (USA).cue" size="225" crc="e9cd9663" md5="9089690f108435a4d030cb876b284228" sha1="18b9c0cc7799415b8c6132432e179a975995d158"/>
 	</game>
-	<game name="Ishin no Arashi (Japan) (Rev A)">
+	<game name="Ishin no Arashi (Japan)">
 		<category>Games</category>
-		<description>Ishin no Arashi (Japan) (Rev A)</description>
-		<rom name="Ishin no Arashi (Japan) (Rev A) (Track 1).bin" size="96217968" crc="c71737c2" md5="4dc8d5c39c220ef23968a94d6bb6fa92" sha1="19e0c9a0a72b7f824f7238ec177211d0d4462cea"/>
-		<rom name="Ishin no Arashi (Japan) (Rev A) (Track 2).bin" size="3880800" crc="7bfa94f5" md5="284b3445edd7c6ea1a26b1e42b16a199" sha1="49d76acd80e797d4349a95cfeb85ed3ef09c76c2"/>
-		<rom name="Ishin no Arashi (Japan) (Rev A).cue" size="255" crc="6e086444" md5="3b87f10b027e6313ad9018ff52db26fd" sha1="2846dd5eac88ac4c273af9a33ed734f04f5b0c63"/>
+		<description>Ishin no Arashi (Japan)</description>
+		<rom name="Ishin no Arashi (Japan) (Track 1).bin" size="96222672" crc="a67b4b7f" md5="15085c12594e4db0463f78308acc8eb4" sha1="0835641fb0387549d8a65f56618eb0cef366aea2"/>
+		<rom name="Ishin no Arashi (Japan) (Track 2).bin" size="1764000" crc="c82b40ba" md5="e9598a097b25189cbf4422d818ae9afc" sha1="414cf737661a4d3f6cdbbe38bccfa391f4507011"/>
+		<rom name="Ishin no Arashi (Japan).cue" size="239" crc="93ae0e97" md5="baf9d270d2f385dcae24d86686a56945" sha1="7f268bd553909cd2b37db829174a8b7d200dcb3b"/>
 	</game>
 	<game name="Isto E Zico - Zico no Kangaeru Soccer (Japan)">
 		<category>Games</category>
@@ -8401,25 +8394,25 @@
 		<rom name="J.League Pro Soccer Club o Tsukurou! 2 (Japan) (Rev D) (41M) (Track 2).bin" size="24557232" crc="312312ed" md5="bf752e3665afc3f8682bbccf53c054f2" sha1="b2a2027779a0254bedf713989c07b43b56d814ae"/>
 		<rom name="J.League Pro Soccer Club o Tsukurou! 2 (Japan) (Rev D) (41M).cue" size="313" crc="6e94c062" md5="d735943d7b3f98ea21588ebae2680fd7" sha1="7486f4801e3764a15919215efa992f3c359fe7c8"/>
 	</game>
-	<game name="J.League Victory Goal '96 (Japan) (Rev A)">
+	<game name="J.League Victory Goal '96 (Japan) (1M, 3M)">
 		<category>Games</category>
-		<description>J.League Victory Goal '96 (Japan) (Rev A)</description>
-		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 01).bin" size="399282576" crc="d4e91438" md5="cf27e9bd90285e92fe8870683a54697a" sha1="aaf9322c67cef4cb68cf76ec0fbb0c4ab1da2e85"/>
-		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 02).bin" size="6089328" crc="6fbf44c5" md5="0f372b7f8f3199c86dc2e232282c91a5" sha1="06e6e3442483ab11b96f36d0b892f405d8bf37d7"/>
-		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 03).bin" size="33504240" crc="086e317f" md5="c042032cb15f2e69bc2fe58360504878" sha1="bba8ca7b79e262b44cb8f0ed020777a5ac5afc36"/>
-		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 04).bin" size="47651520" crc="bb5626da" md5="a27a0866dac841cf2b7900334d6bb584" sha1="ca837ff473ff03e255255542bc506883c2c04f41"/>
-		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 05).bin" size="48578208" crc="269db7d9" md5="c43f821fd2cc4f8f8efa6d03723217fb" sha1="f9fcfab53a003f7cd20a58a5df7832e7745035f4"/>
-		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 06).bin" size="6432720" crc="d4ddb3b8" md5="53575ebc88c9d3a238a38ae6af5aa049" sha1="c168566021b02b8ebb53f93f2c51258a04e106f9"/>
-		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 07).bin" size="10689840" crc="4472d290" md5="83c52eedc6377ade39d62f760f117615" sha1="9e17a9ecacfc88f86bff90600733d08c5e422ef5"/>
-		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 08).bin" size="13843872" crc="f0369b8f" md5="44da2961df4319380e6b47e4858a8f13" sha1="9f5c43bbcba7f5567f9fd9e7b735e5a199ec4694"/>
-		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 09).bin" size="26481168" crc="0e750bdf" md5="00167089f7f3e0bb5f7449c310d8db77" sha1="ac8f6401522b08027df98bc0394e4cc057086a84"/>
-		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 10).bin" size="23385936" crc="1cf2d92b" md5="421c04c8b8851332fb5dd7c92124b2b1" sha1="6a8b13c9b7b68321754bf1cbb03c70cc69e127a7"/>
-		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 11).bin" size="8182608" crc="72405e86" md5="33334317ffe72f67dbff2566fa2cf3e6" sha1="b6e46c136d11027abbafaf5879b1dac95a561111"/>
-		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 12).bin" size="18425568" crc="bafa1b54" md5="730edb34ce3ec28bd46376e5c5ac6852" sha1="48871d3bbebc2bbb1b0e65d421ae545010b43233"/>
-		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 13).bin" size="3448032" crc="039751bc" md5="d6776186287d8d8dd94e77a7f8bb9fbc" sha1="e4b6d82773a51e89413c3d24c3dd23a1a19e984b"/>
-		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 14).bin" size="2989392" crc="cc218263" md5="e2a1d0dcff90aa64bc2c6fafaf864e62" sha1="20253b283e2fcdadcc4ece5789de70c0e949f532"/>
-		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 15).bin" size="5484864" crc="421e9d6e" md5="a7857326b7921a9ee250f991b477556e" sha1="d25442cbfefaee65f9966c69d05c0d659de1a07c"/>
-		<rom name="J.League Victory Goal '96 (Japan) (Rev A).cue" size="2045" crc="47da7051" md5="d0888c3c3ced5792a7a12cdd4e51a1fd" sha1="e0a2f86d8693c44dd2b1e2117b2d53fdd7a6c51d"/>
+		<description>J.League Victory Goal '96 (Japan) (1M, 3M)</description>
+		<rom name="J.League Victory Goal '96 (Japan) (1M, 3M) (Track 01).bin" size="399277872" crc="7dfc1e0c" md5="304cd5e15fb36e1c21a13f6210982e58" sha1="532cc6b1fe8f823ed4654440762a4a565a8a8610"/>
+		<rom name="J.League Victory Goal '96 (Japan) (1M, 3M) (Track 02).bin" size="6089328" crc="5f8b0e40" md5="df93a786218849535130d5b71b65593d" sha1="0c2712394713539b36046c3170134bfae5c2f0f1"/>
+		<rom name="J.League Victory Goal '96 (Japan) (1M, 3M) (Track 03).bin" size="33504240" crc="f5315dc2" md5="abbaee639c1c7653658e61df635df2a5" sha1="f612bf6b7f4deff2c37417e95ae5ce74737596c9"/>
+		<rom name="J.League Victory Goal '96 (Japan) (1M, 3M) (Track 04).bin" size="47651520" crc="8d1a859a" md5="c2ae78881622f0c1c96579593776f2b9" sha1="1c69af356aeb13237fa1813272a22605991c2569"/>
+		<rom name="J.League Victory Goal '96 (Japan) (1M, 3M) (Track 05).bin" size="48578208" crc="731a7b29" md5="46a7f2692add7b6e14c1964b5afd1e42" sha1="04aa848dc36ea802dde27e3a3b859a92c36855b5"/>
+		<rom name="J.League Victory Goal '96 (Japan) (1M, 3M) (Track 06).bin" size="6432720" crc="b9d967bf" md5="d43af68476f3e01b73193c97cdac3ed7" sha1="351957a5469671950ec0753fc63cf00400735ab1"/>
+		<rom name="J.League Victory Goal '96 (Japan) (1M, 3M) (Track 07).bin" size="10689840" crc="7e9f08e1" md5="0b1e1f6d33f5f8e7bc688d0fdb2feb62" sha1="11091e707aefdda27a0510a59ef9915329af0a2f"/>
+		<rom name="J.League Victory Goal '96 (Japan) (1M, 3M) (Track 08).bin" size="13843872" crc="500192be" md5="210520926e5a401c39fec7806d230124" sha1="2f8fc7541ab51d895aff9d12d482df9974c64bb0"/>
+		<rom name="J.League Victory Goal '96 (Japan) (1M, 3M) (Track 09).bin" size="26481168" crc="51bb7d20" md5="85242f47969abef490ed01d4d4729b51" sha1="0de9cfc901198af80873bb05b5c341a86ec19c4e"/>
+		<rom name="J.League Victory Goal '96 (Japan) (1M, 3M) (Track 10).bin" size="23385936" crc="c24b898f" md5="8109f68750b133febd8e8ef556b3d35e" sha1="2f5eadf73ce8d9bcb7033cce2f583f1043cd9884"/>
+		<rom name="J.League Victory Goal '96 (Japan) (1M, 3M) (Track 11).bin" size="8182608" crc="f6892d30" md5="49fe7f50b6bdb3c6800d21c3447caf75" sha1="829145e47c26c3ff9c90b236d8e79f05fac8fca6"/>
+		<rom name="J.League Victory Goal '96 (Japan) (1M, 3M) (Track 12).bin" size="18425568" crc="aac9e406" md5="86ff949a657fd8a522c95cee90c7227d" sha1="b0d7ca5281c3839eaf2f4cb0ef812f8be4ef0c54"/>
+		<rom name="J.League Victory Goal '96 (Japan) (1M, 3M) (Track 13).bin" size="3448032" crc="5ba453c8" md5="36e81e972eeee294193e66439dfb8c09" sha1="59e1137ab580b7f7ffa6fce12c1d3e3963aea39e"/>
+		<rom name="J.League Victory Goal '96 (Japan) (1M, 3M) (Track 14).bin" size="2989392" crc="04400d9f" md5="4152535791ae9b00c6a40f56431ea0e2" sha1="5a543908157c655deab67742544b96b93ef3f6ff"/>
+		<rom name="J.League Victory Goal '96 (Japan) (1M, 3M) (Track 15).bin" size="5484864" crc="71c082ec" md5="2b7e4b3a552ecfaaf58393f4653e6e7f" sha1="b51c422845af859e4fc877148379df40c6e5cfb4"/>
+		<rom name="J.League Victory Goal '96 (Japan) (1M, 3M).cue" size="2060" crc="190647d9" md5="380430414901eed96b3ad229f27ed1f1" sha1="b73ec4b174895b1e90a3bcbd28ac2d3d360174b9"/>
 	</game>
 	<game name="Jantei Battle Cos-Player (Japan) (Demo)">
 		<category>Demos</category>
@@ -21088,12 +21081,12 @@
 		<rom name="Winning Post 2 - Final '97 (Japan) (Track 2).bin" size="1764000" crc="82437320" md5="e03343a8c9f1853d8af2f154b67e2dac" sha1="8fd42dae3a71212cb64eb8eb2c7c4c8b037ebfbe"/>
 		<rom name="Winning Post 2 - Final '97 (Japan).cue" size="261" crc="00cbbe1b" md5="98506ca70f53c926b8c571a136805189" sha1="ad4cd4676400d5c4e9873982a74579f07f235b31"/>
 	</game>
-	<game name="Winning Post 2 - Program '96 (Japan) (Rev A)">
+	<game name="Winning Post 2 - Program '96 (Japan)">
 		<category>Games</category>
-		<description>Winning Post 2 - Program '96 (Japan) (Rev A)</description>
-		<rom name="Winning Post 2 - Program '96 (Japan) (Rev A) (Track 1).bin" size="137062800" crc="8b51fca5" md5="61b5bf40fca8e03ff3aeb559fe3df8fb" sha1="c352195dd36d577e77c44a8502a51d2433ce5e2a"/>
-		<rom name="Winning Post 2 - Program '96 (Japan) (Rev A) (Track 2).bin" size="1764000" crc="abdc0302" md5="7c0f9b105165b013366b534b6f8be141" sha1="5b02631e8aaf432f5815225ff1b92d9246c4ccdb"/>
-		<rom name="Winning Post 2 - Program '96 (Japan) (Rev A).cue" size="281" crc="e5944d22" md5="f1b9d83100b40ff279935900e66ba6f8" sha1="81093d9f39bfb0b57ec72232cbae6927b9fac075"/>
+		<description>Winning Post 2 - Program '96 (Japan)</description>
+		<rom name="Winning Post 2 - Program '96 (Japan) (Track 1).bin" size="137062800" crc="9503c37c" md5="474d62197e86b574e572db4b9204e7ac" sha1="855cf41bf3da4d8366399af560f754bb8dffd6c8"/>
+		<rom name="Winning Post 2 - Program '96 (Japan) (Track 2).bin" size="1764000" crc="d0f87957" md5="eef11c6c9b70d43e5389643ba1dad8a0" sha1="457d898a3ee6d55d740d7ba72f8822764722345d"/>
+		<rom name="Winning Post 2 - Program '96 (Japan).cue" size="265" crc="2db47792" md5="259d27566c8fdb19b02f06de54bba6af" sha1="6545fc0a775dbd9dc11901d2b003744b44d4c096"/>
 	</game>
 	<game name="Winning Post 3 (Japan) (3M)">
 		<category>Games</category>

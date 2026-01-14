@@ -1,0 +1,28 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+
+
+TITLES WITH CLONES
+==================
+
++ TI Text to Speech (Unknown)
+  - TI Text to Speech (Alt) (Unknown)
+
+TITLES WITHOUT CLONES
+=====================
+
++ TI Data Disk (Unknown)
++ TI Diagnostics (Unknown)
++ TI Disk Mgr 1000 (Unknown)
++ TI Disk Mgr 3 (Unknown)
++ TI Graphing Package (Unknown)
++ TI Logo (Sampler) (Unknown)
++ TI Writer (Unknown)

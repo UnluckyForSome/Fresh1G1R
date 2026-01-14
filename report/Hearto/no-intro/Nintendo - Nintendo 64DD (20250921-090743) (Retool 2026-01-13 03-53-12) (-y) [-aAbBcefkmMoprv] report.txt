@@ -1,0 +1,72 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* BAD DUMP REMOVES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Dezaemon DD (Japan) (Proto) (1998-02-23T192425) (Expansion)
+  - Dezaemon DD (Japan) (Proto) (1997-11-07) (Expansion)
++ Mario Artist - Paint Studio (Japan)
+  - Mario Artist - Paint Studio (Japan) (Beta) (1999-02-11)
++ Mario Artist - Talent Studio (Japan)
+  - Mario Artist - Talent Studio (Japan) (Beta) (1999-08-05)
+
+TITLES WITHOUT CLONES
+=====================
+
++ F-Zero X - Expansion Kit (Japan)
++ Kyojin no Doshin (Japan)
++ Mario Artist - Communication Kit (Japan)
++ Mario Artist - Polygon Studio (Japan)
++ SimCity 64 (Japan)
++ Super Mario 64 - Disk Version (Japan) (Proto)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- Randnet Disk (Japan) (Beta) (1999-09-28)
+- Randnet Disk (Japan) (Beta) (1999-11-27)
+- Randnet Disk (Japan) (Beta) (2000-02-04)
+- Randnet Disk (Japan) (Beta) (2000-02-17)
+- Randnet Disk (Japan) (Rev 1) [b]
+- Randnet Disk (Japan) [b]
+
+BAD DUMP REMOVES
+================
+These titles were removed because the user excluded bad dump titles.
+
+- Dezaemon DD (Japan) (Proto) (1998-02-23T210259) (Expansion) [b]
+- Kyojin no Doshin (Japan) (Demo) (Kiosk) [b]
+- Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b]
+- Nihon Pro Golf Tour 64 (Japan) [b]
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Nintendo 64DD Drive Controller (Japan) (Beta) (1997-04-03)
+- [BIOS] Nintendo 64DD Drive Controller (Japan) (Development) (1996-09-26)
+- [BIOS] Nintendo 64DD Drive Controller (Japan) (Development) (1997-01-14)
+- [BIOS] Nintendo 64DD Drive Controller (Japan) (Development) (1997-07-17)
+- [BIOS] Nintendo 64DD Drive Controller (Japan) (Development) (1997-12-09)
+- [BIOS] Nintendo 64DD Drive Controller (Japan) (Development) (1998-03-12)
+- [BIOS] Nintendo 64DD Drive Controller (Japan) (Development) (1998-06-16)
+- [BIOS] Nintendo 64DD Drive Controller (Japan) (Retail)
+- [BIOS] Nintendo 64DD IPL (Japan) (v1.0) (Beta)
+- [BIOS] Nintendo 64DD IPL (Japan) (v1.1) (Beta)
+- [BIOS] Nintendo 64DD IPL (Japan) (v1.2)
+- [BIOS] Nintendo 64DD IPL (USA) (Proto)
+- [BIOS] Nintendo 64DD Tool IPL (Japan) (Beta)

@@ -1,0 +1,157 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Ace of Aces (USA)
+  - Ace of Aces (Europe)
++ Alien Brigade (USA)
+  - Alien Brigade (Europe)
++ Asteroids (USA)
+  - Asteroids (USA) (Beta)
++ Ballblazer (USA)
+  - Ballblazer (Europe)
++ Barnyard Blaster (USA)
+  - Barnyard Blaster (Europe)
++ Basketbrawl (USA)
+  - Basketbrawl (Europe)
++ Centipede (USA)
+  - Centipede (Europe)
++ Choplifter! (USA)
+  - Choplifter! (Europe)
++ Commando (USA)
+  - Commando (Europe)
++ Crack'ed (USA)
+  - Crack'ed (Europe)
++ Crossbow (USA)
+  - Crossbow (Europe)
++ Dark Chambers (USA)
+  - Dark Chambers (Europe)
++ Desert Falcon (USA)
+  - Desert Falcon (Europe)
++ Dig Dug (USA)
+  - Dig Dug (Europe)
++ Donkey Kong (USA)
+  - Donkey Kong (Europe)
++ Donkey Kong Junior (USA)
+  - Donkey Kong Junior (Europe)
++ Double Dragon (USA)
+  - Double Dragon (Europe)
++ F-18 Hornet (USA)
+  - F-18 Hornet (Europe)
++ Fatal Run (USA)
+  - Fatal Run (Europe)
++ Fight Night (USA)
+  - Fight Night (Europe)
++ Food Fight (USA)
+  - Food Fight (Europe)
+  - Food Fight (USA) (Beta)
++ Galaga (USA)
+  - Galaga (Europe)
++ Hat Trick (USA)
+  - Hat Trick (Europe)
++ Ikari Warriors (USA)
+  - Ikari Warriors (Europe)
++ Impossible Mission (USA)
+  - Impossible Mission (Europe)
++ Jinks (USA)
+  - Jinks (Europe)
++ Joust (USA)
+  - Joust (Europe)
++ Karateka (USA)
+  - Karateka (Europe)
++ Kung-Fu Master (USA)
+  - Kung-Fu Master (Europe)
++ Mario Bros. (USA)
+  - Mario Bros. (Europe)
++ Mat Mania Challenge (USA)
+  - Mat Mania Challenge (Europe)
++ Mean 18 Ultimate Golf (USA)
+  - Mean 18 Ultimate Golf (Europe)
++ Meltdown (USA)
+  - Meltdown (Europe)
++ Midnight Mutants (USA)
+  - Midnight Mutants (Europe)
++ Motor Psycho (USA)
+  - Motor Psycho (Europe)
++ Ms. Pac-Man (USA)
+  - Ms. Pac-Man (Europe)
++ Ninja Golf (USA)
+  - Ninja Golf (Europe)
++ One-on-One Basketball (USA)
+  - One-on-One Basketball (Europe)
++ Pete Rose Baseball (USA)
+  - Baseball (Europe)
++ Planet Smashers (USA)
+  - Planet Smashers (Europe)
++ Pole Position II (USA)
+  - Pole Position II (Europe)
+  - Pole Position II (USA) (Beta)
++ Scrapyard Dog (USA)
+  - Scrapyard Dog (Europe)
++ Sentinel (Europe)
+  - Sentinel (USA) (Proto)
++ Super Huey UH-IX (USA)
+  - Super Huey UH-IX (Europe)
++ Super Skateboardin' (USA)
+  - Super Skateboardin' (Europe)
++ Title Match Pro Wrestling (USA)
+  - Title Match Pro Wrestling (Europe)
++ Tomcat - The F-14 Fighter Simulator (USA)
+  - Tomcat - The F-14 Fighter Simulator (Europe)
++ Tower Toppler (USA)
+  - Tower Toppler (Europe)
++ Xenophobe (USA)
+  - Xenophobe (Europe)
++ Xevious (USA)
+  - Xevious (Europe)
+  - Xevious (USA) (Beta)
+
+TITLES WITHOUT CLONES
+=====================
+
++ GATO (USA) (Proto)
++ High Score Cartridge (USA) (Proto)
++ Klax (USA) (Proto)
++ Missing in Action (USA) (Proto)
++ Pit Fighter (USA) (Proto)
++ Plutos (USA) (Proto)
++ Rampage (USA)
++ Rampart (USA) (Proto)
++ RealSports Baseball (USA)
++ Rescue on Fractalus (USA) (Proto)
++ Robotron - 2084 (USA)
++ Sirius (USA) (Proto)
++ Summer Games (USA)
++ Tank Command (USA)
++ Touchdown Football (USA)
++ Water Ski (USA)
++ Winter Games (USA)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- 7800 Monitor Cart (USA) (Program) (Unl)
+- Atari 7800 Development Card (USA)
+- Diagnostic Test Cartridge (USA)
+- Diagnostic Test Cartridge (USA) (Beta)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Atari 7800 (Europe)
+- [BIOS] Atari 7800 (USA)

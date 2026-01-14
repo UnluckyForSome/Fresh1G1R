@@ -1,0 +1,334 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* BAD DUMP REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola L6, 128x149) (v1.0.3, 2009-11)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola L6, 128x149) (v1.0.3, 2008-12)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola RAZR V3, 176x204) (v1.0.7, 2009-11)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola RAZR V3, 176x204) (v1.0.7, 2008-12)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia 6280, 240x320) (v1.0.4, 2008-12)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia 6280, 240x320) (v1.0.4, 2008-09-29 17.23)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia 6280, 240x320) (v1.0.4, 2008-09-29 17.24)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia N95, 240x320) (v1.0.6)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia N95, 240x320) (v1.0.6)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2, 128x128) (v1.0.5, 2008-12)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2, 128x128) (v1.0.5, 2008-09)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia s40v2, 128x128) (v1.0.5)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2a, 128x160) (v1.0.5, 2008-12)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2a, 128x160) (v1.0.5, 2008-09)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s40v2a, 128x160) (v1.0.5, 2008-10)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia s40v2a, 128x160) (v1.0.5)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia s60v1, 176x208) (v1.0.6)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia s60v1, 176x208) (v1.0.5)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia, 208x208) (v1.0.7, 2008-12)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia, 208x208) (v1.0.7, 2008-09)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia, 208x208) (v1.0.7)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-D900, 240x320) (v1.0.5, 2009-11)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-D900, 240x320) (v1.0.5, 2008-09)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-D900, 240x320) (v1.0.5, 2008-12)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-E250, 128x160) (v1.0.5, 2009-11)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-E250, 128x160) (v1.0.5, 2008-09)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-E250, 128x160) (v1.0.5, 2008-12)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-ZV10, 176x220) (v1.0.5, 2009-11)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-ZV10, 176x220) (v1.0.5, 2008-12)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K500, 128x160) (v1.0.4, 2009-11)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K500, 128x160) (v1.0.4, 2008-09)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K500, 128x160) (v1.0.4, 2008-12)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K750, 176x220) (v1.1.3, 2009-11)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K750, 176x220) (v1.1.3, 2008-09)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K750, 176x220) (v1.1.3, 2008-12)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K800, 240x320) (v1.0.7, 2009-11)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K800, 240x320) (v1.0.7, 2008-09)
+  - 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Sony Ericsson K800, 240x320) (v1.0.7, 2008-12)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,Pl,Cs) (Nokia s60v2, 176x208) (v1.0.4)
+  - 007 - Quantum of Solace (Unknown) (Nokia s60v2, 176x208) (v0.6.4)
++ 1941 Frozen Front (Unknown) (Nokia Series 40, 128x128)
+  - 1941 Frozen Front (Unknown) (Cs) (Nokia Series 40, 128x128)
+  - 1941 Frozen Front (Unknown) (De) (Nokia Series 40, 128x128) (v1.1)
++ Cannons (Unknown) (128x128) (v1.0.4)
+  - Cannons (Unknown) (128x128) (v1.0.3)
++ Cannons Tournament (Unknown) (Nokia Series 40, 128x128) (v1.2.1)
+  - Cannons Tournament (Unknown) (Es) (Nokia Series 40, 128x128) (v1.4.1)
++ Gorillaz Entertainment System (Unknown) (128x128) (v1.0.27)
+  - Gorillaz Entertainment System (Unknown) (128x128)
++ Hoverball (Unknown) (Nokia, 176x208) (v1.3.0)
+  - Hoverball (Unknown) (Nokia, 176x208) (v1.3)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 3250, 176x208) (v01.01.36)
+  - Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 3250, 176x208) (v01.01.26)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 5310, 240x320) (v01.00.71, 2010)
+  - Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 5310, 240x320) (v01.00.71, 2008)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 6220c, 240x320) (v01.01.63, 2010)
+  - Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 6220c, 240x320) (v01.01.63, 2008)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia E61, 320x240) (v01.00.74, 2010)
+  - Peggle (Unknown) (En,Fr,De,Es,It) (Nokia E61, 320x240) (v01.00.74, 2008)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson, 240x320) (v4.3.68)
+  - Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson, 240x320)
++ Pesky Marbles (Unknown) (128x128) (v1.5.3)
+  - Pesky Marbles (Unknown) (128x128) (v1.5.0)
++ Worms (Unknown) (En,Fr,De,Es,It) (176x208) (v1.0.5)
+  - Worms (Unknown) (Fr,De,Es,It,Ru) (176x208) (v1.3.3)
++ X-Files, The - The Deserter (Unknown) (Es) (Nokia Series 60, 176x208) (v1.3.1)
+  - X-Files, The - The Deserter (Unknown) (De) (Nokia Series 60, 176x208) (v1.1.8)
+
+TITLES WITHOUT CLONES
+=====================
+
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (LG KE970, 240x304) (v1.0.3)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (LG KG800, 176x206) (v1.0.4)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (LG KU990, 240x298) (v1.0.4)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (LG U8330, 176x220) (v1.0.6)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola E1000, 240x300) (v1.0.3)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola KRZR K1, 176x204) (v1.0.6)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola RAZR2 V8, 240x320) (v1.0.9)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia, 320x240) (v1.0.8)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Nokia, 352x416) (v1.0.3)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-E370, 128x160) (v1.0.3)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-F400, 240x320) (v1.0.8)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung SGH-ZV60, 176x206) (v1.0.4)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Samsung, 176x220) (v1.0.3)
++ 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Siemens, 132x176) (v1.0.3)
++ 1100 AD - Battle of Legends (Unknown) (Motorola, 128x116)
++ 1100 AD - Battle of Legends (Unknown) (Motorola, 128x149)
++ 1100 AD - Battle of Legends (Unknown) (Motorola, 176x204)
++ 1100 AD - Battle of Legends (Unknown) (Nokia s40v2, 128x128)
++ 1100 AD - Battle of Legends (Unknown) (Nokia s40v2a, 128x160)
++ 1100 AD - Battle of Legends (Unknown) (Nokia s40v3a, 240x320)
++ 1941 Frozen Front (Unknown) (Nokia Series 30, 96x65)
++ 1941 Frozen Front (Unknown) (Nokia Series 60, 176x208)
++ 1941 Frozen Front (Unknown) (Siemens, 130x130)
++ 1941 Frozen Front (Unknown) (Sony Ericsson, 128x128)
++ 1941 Frozen Front (Unknown) (Unknown Device 1)
++ 1941 Frozen Front (Unknown) (Unknown Device 2)
++ 1941 Frozen Front (Unknown) (Unknown Device 3)
++ Air Adrenaline (Unknown) (De) (Nokia Series 60, 176x208) (v1.0.1)
++ Air Adrenaline (Unknown) (Nokia Series 30, 96x65) (v1.0.1)
++ Air Adrenaline (Unknown) (Samsung, 128x128)
++ Air Adrenaline (Unknown) (Sony Ericsson Z600, 128x128) (v1.0.6)
++ Bejeweled and Peggle Combo (Unknown) (Nokia, 128x160) (v4.0.34)
++ Bejeweled and Peggle Combo (Unknown) (Nokia, 176x208) (v4.0.83)
++ Bejeweled and Peggle Combo (Unknown) (Nokia, 240x320) (v4.0.86)
++ Bejeweled and Peggle Combo (Unknown) (Nokia, 320x240) (v4.0.67)
++ Bejeweled and Peggle Combo (Unknown) (Nokia, 360x640) (v4.0.59)
++ Bejeweled and Peggle Combo (Unknown) (Samsung, 128x160) (v4.1.45)
++ Bejeweled and Peggle Combo (Unknown) (Samsung, 220x176) (v4.1.10)
++ Bejeweled and Peggle Combo (Unknown) (Samsung, 240x400) (v4.0.72)
++ Bejeweled and Peggle Combo (Unknown) (Sony Ericsson, 128x160) (v4.2.13)
++ Bejeweled and Peggle Combo (Unknown) (Sony Ericsson, 176x220) (v4.0.37)
++ Bejeweled and Peggle Combo (Unknown) (Sony Ericsson, 240x320) (v4.2.2)
++ Blub! (Unknown) (Nokia Series 30, 96x65) (v1.5.0)
++ Blub! (Unknown) (Nokia Series 60, 176x208) (v1.4.0)
++ Boarder Cross (Unknown) (Nokia Series 40, 128x128) (v1.5.0)
++ Cannons (Unknown) (120x146)
++ Cannons (Unknown) (Nokia Series 30, 96x65)
++ Cannons (Unknown) (Nokia Series 40, 128x128)
++ Cannons (Unknown) (Nokia Series 60, 176x208) (2002)
++ Cannons (Unknown) (Nokia Series 60, 176x208) (2003)
++ Cannons (Unknown) (Siemens, 101x80 Color)
++ Cannons (Unknown) (Siemens, 101x80 Monochrome)
++ Cannons (Unknown) (Sony Ericsson, 176x220) (v1.0.1)
++ Cannons Tournament (Unknown) (Nokia 3650, 176x208) (v1.2.9)
++ Cannons Tournament (Unknown) (Nokia Series 30, 96x65) (v1.2.9)
++ Cannons Tournament (Unknown) (Nokia Series 60, 176x208) (v1.2.3)
++ Colorclash (Unknown) (128x128) (v1.5.3)
++ Colorclash (Unknown) (Nokia Series 30, 96x65) (v1.5.0)
++ Colorclash (Unknown) (Nokia Series 60, 176x208) (v1.3)
++ Cybores (Unknown) (Nokia Series 30, 96x65) (v1.5.3)
++ Doom RPG (USA) (Samsung SPH-A880, 176x220) (v1.0.18)
++ Doom RPG (Unknown) (Nokia 5200, 128x160) (v1.11.7)
++ Doom RPG (Unknown) (Nokia 6151, 128x160) (v1.9.98)
++ Doom RPG (Unknown) (Nokia 6233, 240x320) (v1.8.94)
++ Doom RPG (Unknown) (Nokia 6600, 176x208) (v1.1.3)
++ Doom RPG (Unknown) (Nokia 6680, 176x208) (v1.2.50)
++ Doom RPG (Unknown) (Nokia N70, 176x208) (v1.11.85)
++ Doom RPG (Unknown) (Nokia s40v5, 240x320) (v1.4.67)
++ Doom RPG (Unknown) (Nokia, 208x208) (v1.1.24)
++ Down (Unknown) (Nokia Series 40, 128x128) (v1.5.3)
++ Down (Unknown) (Sony Ericsson Txxx, 128x128) (v1.5.3)
++ Empire Earth (Unknown) (En,Fr,De,Es,It) (Motorola, 128x116) (v0.3.3)
++ Empire Earth (Unknown) (En,Fr,De,Es,It) (Nokia s40v3, 208x208) (v0.3.4)
++ Empire Earth (Unknown) (En,Fr,De,Es,It) (Nokia, 176x208) (v0.2.4)
++ Empire Earth (Unknown) (En,Fr,De,Es,It) (Siemens, 132x176) (v0.3.1)
++ Empire Earth (Unknown) (En,Fr,De,Es,It) (Sony Ericsson, 176x220) (v0.1.9)
++ Glider (Unknown) (Nokia Series 40, 128x128) (v1.5.0)
++ Gorillaz Entertainment System (Unknown) (Cs) (Nokia, 176x208) (v1.0.1)
++ Gorillaz Entertainment System (Unknown) (Cs) (Siemens, 132x176) (v1.0.1)
++ Gorillaz Entertainment System (Unknown) (Nokia s40v2, 128x128) (v1.0.27)
++ Gorillaz Entertainment System (Unknown) (Nokia s40v2a, 128x160) (v1.0.27)
++ Gorillaz Entertainment System (Unknown) (Nokia s40v3, 208x208) (v1.0.27)
++ Gorillaz Entertainment System (Unknown) (Ru) (Sony Ericsson K700, 176x220)
++ Hokey Pokey (Unknown) (Nokia Series 30, 96x65) (v1.5.0)
++ Hokey Pokey (Unknown) (Unknown Device 1, 128x128) (v1.0)
++ Hokey Pokey (Unknown) (Unknown Device 2, 128x128) (v1.0)
++ Hokey Pokey (Unknown) (Unknown Device 3, 128x128) (v1.5.3)
++ Hoverball (Unknown) (Nokia Series 60, 176x208) (v1.5.0)
++ Hoverball (Unknown) (Siemens) (v1.4.0)
++ I-Bouncer (Russia) (LG, 128x128) (Demo)
++ I-Bouncer (Russia) (LG, 128x160) (Demo)
++ I-Bouncer (Russia) (LG, 176x220) (Demo)
++ I-Bouncer (Russia) (Motorola, 176x204) (Demo)
++ I-Bouncer (Russia) (Motorola, 240x320) (Demo)
++ I-Bouncer (Russia) (Nokia, 128x128) (Demo)
++ I-Bouncer (Russia) (Nokia, 128x160) (Demo)
++ I-Bouncer (Russia) (Nokia, 176x208) (Demo)
++ I-Bouncer (Russia) (Nokia, 240x320) (Demo)
++ I-Bouncer (Russia) (Samsung, 128x160) (Demo)
++ I-Bouncer (Russia) (Samsung, 176x220) (Demo)
++ I-Bouncer (Russia) (Samsung, 240x320) (Demo)
++ I-Bouncer (Russia) (Siemens, 128x160) (Demo)
++ I-Bouncer (Russia) (Siemens, 132x176) (Demo)
++ I-Bouncer (Russia) (Siemens, 176x220) (Demo)
++ I-Bouncer (Russia) (Siemens, 240x320) (Demo)
++ I-Bouncer (Russia) (Sony, 128x128) (Demo)
++ I-Bouncer (Russia) (Sony, 128x160) (Demo)
++ I-Bouncer (Russia) (Sony, 176x220) (Demo)
++ I-Bouncer (Russia) (Sony, 240x320) (Demo)
++ I-Digger (Russia) (LG, 128x160) (Demo)
++ I-Digger (Russia) (Motorola, 176x220) (Demo)
++ I-Digger (Russia) (Nokia, 128x128) (Demo)
++ I-Digger (Russia) (Nokia, 176x208) (Demo)
++ I-Digger (Russia) (Samsung, 128x160) (Demo)
++ I-Digger (Russia) (Siemens, 132x176) (Demo)
++ I-Digger (Russia) (Sony, 128x128) (Demo)
++ I-Digger (Russia) (Sony, 128x160) (Demo)
++ I-Digger (Russia) (Sony, 176x220) (Demo)
++ I-Digger 2 (Russia) (LG, 128x160) (Demo)
++ I-Digger 2 (Russia) (LG, 176x220) (Demo)
++ I-Digger 2 (Russia) (Motorola, 176x204) (Demo)
++ I-Digger 2 (Russia) (Motorola, 240x320) (Demo)
++ I-Digger 2 (Russia) (Nokia, 128x160) (Demo)
++ I-Digger 2 (Russia) (Nokia, 176x208) (Demo)
++ I-Digger 2 (Russia) (Nokia, 240x320) (Demo)
++ I-Digger 2 (Russia) (Samsung, 128x160) (Demo)
++ I-Digger 2 (Russia) (Samsung, 176x220) (Demo)
++ I-Digger 2 (Russia) (Samsung, 240x320) (Demo)
++ I-Digger 2 (Russia) (Siemens, 128x160) (Demo)
++ I-Digger 2 (Russia) (Siemens, 132x176) (Demo)
++ I-Digger 2 (Russia) (Siemens, 176x220) (Demo)
++ I-Digger 2 (Russia) (Siemens, 240x320) (Demo)
++ I-Digger 2 (Russia) (Sony, 128x160) (Demo)
++ I-Digger 2 (Russia) (Sony, 176x220) (Demo)
++ I-Digger 2 (Russia) (Sony, 240x320) (Demo)
++ I-Diver (Russia) (LG, 128x128) (Demo)
++ I-Diver 2 (Russia) (LG, 128x160) (Demo)
++ I-Dragon (Russia) (LG, 128x160) (Demo)
++ I-Fly (Russia) (LG, 128x128) (Demo)
++ I-Hipno (Russia) (LG, 128x128) (Demo)
++ I-Jump (Russia) (LG, 128x128) (Demo)
++ I-Volt (Russia) (LG, 128x128) (Demo)
++ Memero (Unknown) (Nokia Series 40, 128x128) (v1.5.0)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Motorola C975, 176x204) (v01.01.40)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Motorola V3x, 240x299) (v01.01.17)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 2700, 240x320) (v01.00.92)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 500, 360x640) (v4.3.67)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 5200, 128x160) (v01.01.63)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 5310, 240x320) (v01.00.71) (Demo)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 5800, 360x640) (v1.5.5)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 6111, 128x160) (v01.01.58)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 6233, 240x320) (v01.00.96)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 6600, 176x208) (v01.01.27)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia C3-00, 320x240) (v4.3.12)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia C5-00, 240x320) (v4.4.13)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia E61, 320x240) (2009)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia N70, 176x208) (2009)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia N70, 176x208) (v01.01.32, 2008)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia N73, 240x320) (v01.01.06)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia N95, 240x320) (v01.02.35)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia X2-00, 240x320) (v4.3.34)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia s40v3, 208x208) (v01.01.89)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia s40v5, 240x320) (v01.00.78)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Nokia, 240x320)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Samsung, 176x205) (v01.01.10)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson C902, 240x320) (v01.00.76)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson K300i, 128x128) (v01.00.65)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson K510i, 128x160) (v01.01.00)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson K700i, 176x220) (v01.01.24)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson M600, 240x320) (v01.02.50)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson W810i, 176x220) (v01.00.82)
++ Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson, 128x160)
++ Peggle (Unknown) (Motorola E550, 176x204) (v01.02.54)
++ Peggle (Unknown) (Nokia 6230i, 208x208) (2009)
++ Peggle (Unknown) (Nokia 6230i, 208x208) (v01.01.79, 2008)
++ Peggle (Unknown) (Nokia, 128x160)
++ Peggle (Unknown) (Samsung SGH-E250, 128x160)
++ Peggle (Unknown) (Samsung, 240x320)
++ Peggle (Unknown) (Unknown Device, 128x160) (v01.02.64)
++ Pesky Marbles (Unknown) (Nokia Series 60, 176x208) (v1.4.0)
++ Ratchet & Clank - Clone Home (World) (Sony Ericsson, 240x320) (v1.0.22) (Proto)
++ Section 7 (Unknown) (Nokia Series 60, 176x208) (v1.5.3)
++ Section 7 (Unknown) (Nokia, 176x208 alt) (v1.4.0)
++ Section 7 (Unknown) (Nokia, 176x208) (v1.4.0)
++ Taiko no Tatsujin (Unknown) (Zh) (128x128)
++ Taiko no Tatsujin (Unknown) (Zh) (176x208)
++ Taiko no Tatsujin (Unknown) (Zh) (Nokia, 240x320)
++ Taiko no Tatsujin (Unknown) (Zh) (Sony Ericsson, 240x320)
++ Tempest (Unknown) (Motorola V600, 176x182) (v1.1.2)
++ Worms Forts - Under Siege (Unknown) (En,Fr,De,Es,It) (176x208)
++ X-Files, The - The Deserter (Unknown) (Nokia s40v1, 128x128) (v1.1.3)
++ X-Files, The - The Deserter (Unknown) (Nokia s40v2, 128x128) (v1.1.8)
++ X-Files, The - The Deserter (Unknown) (Siemens, 132x176) (v1.1.3)
++ X-Files, The - The Deserter (Unknown) (Sony Ericsson, 128x128) (v1.1.3)
+
+BAD DUMP REMOVES
+================
+These titles were removed because the user excluded bad dump titles.
+
+- 007 - Quantum of Solace (Unknown) (En,Es,Pt) (Nokia s60v3, 240x320) [b]
+- 007 - Quantum of Solace (Unknown) (En,Es,Pt) (Sony Ericsson, 176x220) [b]
+- 007 - Quantum of Solace (Unknown) (En,Fr,De,Es,It,Pt) (Motorola, 128x116) (v1.0.3) [b]
+- 09 Formula Extreme (Unknown) (En,Fr,De,Es,It) (Nokia N70, 176x208) (v1.0.1) [b]
+- 09 Formula Extreme (Unknown) (En,Fr,De,Es,It) (Sony Ericsson K510, 128x160) (v1.0.1) [b]
+- 09 Formula Extreme (Unknown) (En,Fr,De,Es,It) (Sony Ericsson K800, 240x320) (v1.0.1) [b]
+- 09 Formula Extreme (Unknown) (En,Fr,De,Es,It) (Sony Ericsson W810, 176x220) (v1.0.1) [b]
+- 1941 Frozen Front (Unknown) (Nokia Series 60, 240x320) [b]
+- 1941 Frozen Front (Unknown) (Siemens, 132x176) [b]
+- Cannons (Unknown) (Nokia Series 60, 176x208) (2002 Alt) [b]
+- Cannons Tournament (Unknown) (Motorola, 176x204) (v1.3.7) [b]
+- Doom RPG (Unknown) (It) (Nokia N95, 240x320) (v1.8.84) [b]
+- Doom RPG (Unknown) (Motorola V551, 176x204) (v1.0.20) [b]
+- Doom RPG (Unknown) (Nokia 6280, 240x320) (v1.3.83) [b]
+- Doom RPG (Unknown) (Nokia s60v3, 240x320) (v1.6.89) [b]
+- Doom RPG (Unknown) (Sony Ericsson K500, 128x160) (v1.0.92) [b]
+- Empire Earth (Unknown) (En,Fr,De,Es,It) (Nokia s40v2, 128x128) (v0.2.8) [b]
+- Empire Earth (Unknown) (En,Fr,De,Es,It) (Sony Ericsson S700, 240x320) (v0.2.6) [b]
+- Glider (Unknown) (Nokia Series 30, 96x65) (v1.5.0) [b]
+- Gorillaz Entertainment System (Unknown) (Nokia 6280, 240x320) [b]
+- Gorillaz Entertainment System (Unknown) (Ru) (Nokia, 176x208) [b]
+- Gorillaz Entertainment System (Unknown) (Ru) (Sony Ericsson K300, 128x128) [b]
+- Gorillaz Entertainment System (Unknown) (Ru) (Sony Ericsson K500, 128x160) [b]
+- Hoverball (Unknown) (Nokia Series 30, 96x65) (v1.5.0) [b]
+- Memero (Unknown) (Nokia Series 30, 96x65) (v1.5.0) [b]
+- One on One Basket (Unknown) (128x160) (v1.0.16) [b]
+- One on One Basket (Unknown) (176x220) (v1.0.16) [b]
+- One on One Basket (Unknown) (240x320) (v1.0.16) [b]
+- One on One Basket (Unknown) (Nokia s40, 128x128) (v1.0.16) [b]
+- One on One Basket (Unknown) (Nokia s60, 176x208) (v1.0.16) [b]
+- One on One Basket (Unknown) (Siemens, 130x130) (v1.0.16) [b]
+- One on One Basket (Unknown) (Siemens, 132x176) (v1.0.16) [b]
+- One on One Basket (Unknown) (Sony Ericsson K300, 128x128) (v1.0.16) [b]
+- One on One Basket (Unknown) (Sony Ericsson T610, 128x128) (v1.0.17) [b]
+- Peggle (Unknown) (En,Fr,De,Es,It) (LG KU990, 240x298) [b]
+- Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 6126, 240x320) (v01.01.04) [b]
+- Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 6280, 240x320) [b]
+- Peggle (Unknown) (En,Fr,De,Es,It) (Nokia Asha 201, 320x240) (v4.4.14) [b]
+- Peggle (Unknown) (En,Fr,De,Es,It) (Nokia Asha 300, 240x320) (v4.4.2) [b]
+- Peggle (Unknown) (En,Fr,De,Es,It) (Samsung Chat 335, 320x240) (v4.4.3) [b]
+- Peggle (Unknown) (En,Fr,De,Es,It) (Samsung GT-E2121, 128x128) (v4.3.35) [b]
+- Peggle (Unknown) (En,Fr,De,Es,It) (Samsung GT-S8000, 240x400) (v4.3.16) [b]
+- Peggle (Unknown) (En,Fr,De,Es,It) (Samsung SGH-E250i, 128x160) (v4.3.44) [b]
+- Peggle (Unknown) (En,Fr,De,Es,It) (Samsung SGH-F480, 240x320) (v4.3.17) [b]
+- Tempest (Unknown) (128x128) [b]
+- X-Files, The - The Deserter (Unknown) (240x320) (v1.7.3) [b]
+- X-Files, The - The Deserter (Unknown) (Motorola, 176x182) (v1.1.5) [b]
+- X-Files, The - The Deserter (Unknown) (Nokia, 128x160) (v1.1.5) [b]

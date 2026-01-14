@@ -1,0 +1,51 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+* PREPRODUCTION REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Batman & Robin (USA)
++ Centipede (USA)
++ Duke Nukem 3D (USA)
++ Fighters Megamix (USA)
++ Frogger (USA)
++ Henry (USA)
++ Indy 500 (USA)
++ Internet (USA)
++ Jeopardy! (USA)
++ Jurassic Park - The Lost World (USA)
++ Lights Out (USA)
++ Monopoly (USA)
++ Mortal Kombat Trilogy (USA)
++ Quiz Wiz - Cyber Trivia (USA)
++ Resident Evil 2 (USA)
++ Scrabble (USA)
++ Sonic Jam (USA)
++ Tiger Casino (USA)
++ Tiger Web Link (USA)
++ Wheel of Fortune (USA)
++ Wheel of Fortune 2 (USA)
++ Williams Arcade Classics (USA)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Tiger Game.com (USA) (External)
+- [BIOS] Tiger Game.com (USA) (Internal)
+
+PREPRODUCTION REMOVES
+=====================
+These titles were removed because the user excluded preproduction titles.
+
+- Castlevania - Symphony of the Night (Unknown) (Proto)

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Arcade - Sega - RingEdge 2 (Retool)</name>
-		<description>Arcade - Sega - RingEdge 2 (15) (-y) [-aAbBcefkmMoprv] (2025-10-11 06-53-10) (Retool)</description>
+		<description>Arcade - Sega - RingEdge 2 (16) (-y) [-aAbBcefkmMoprv] (2025-10-11 06-53-10) (Retool)</description>
 		<version>2025-10-11 06-53-10</version>
-		<date>2026-01-12 03-48-49</date>
+		<date>2026-01-14 04-06-08</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -35,6 +35,11 @@
 		<category>Games</category>
 		<description>Horuka x Toruka (Japan) (Rev B)</description>
 		<rom name="Horuka x Toruka (Japan) (Rev B).iso" size="1371013120" crc="13337a3f" md5="33e8749a65758728af0eae7d3dbecdfc" sha1="740d1d576c7f4a4ebcf6822d02f5e5c0ed562d51"/>
+	</game>
+	<game name="Initial D - Arcade Stage 8 Infinity (Export)">
+		<category>Games</category>
+		<description>Initial D - Arcade Stage 8 Infinity (Export)</description>
+		<rom name="Initial D - Arcade Stage 8 Infinity (Export).iso" size="7328169984" crc="944fcd42" md5="ee9c8ae15ff5034e39e89f345402760e" sha1="74e2cd6f0c48c8dcd7db10dd7dcc36f135f405c9"/>
 	</game>
 	<game name="Maimai Pink Plus (Japan) (No. 1) (Rev B)">
 		<category>Games</category>

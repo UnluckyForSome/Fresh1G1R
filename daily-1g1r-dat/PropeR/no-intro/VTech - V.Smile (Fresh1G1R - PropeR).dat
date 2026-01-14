@@ -4,7 +4,7 @@
 		<name>VTech - V.Smile (Retool)</name>
 		<description>VTech - V.Smile (267) (-y) [-aAbBcdkmMpPuv] (20260106-005848) (Retool)</description>
 		<version>20260106-005848</version>
-		<date>2026-01-12 04-02-24</date>
+		<date>2026-01-14 04-19-52</date>
 		<author>Aringon, coraz, FakeShemp, Gefflon, Hiccup, InternalLoss, Larsenv, NESBrew12, nnssxx, omonim2007, relax, sCZther, SonGoku, Tauwasser, TeamEurope, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -21,10 +21,10 @@
 		<description>5, Rue Sesame - Les aventures imaginaires d'Ernest et Bart (France)</description>
 		<rom name="5, Rue Sesame - Les aventures imaginaires d'Ernest et Bart (France).bin" size="8388608" crc="80da2b1d" md5="0301889df0b3826def06df1cf9e9215b" sha1="0e16fabbef582893e51503a018d8e6edfe2a3fee" sha256="f90af0dc3c271d8ccd338f0cb9e33c0f81253a67c5ab0cc4cabfbcde635623bd"/>
 	</game>
-	<game name="Action Mania (USA) (Rev 4) (V.Smile Motion)" id="0193">
+	<game name="Action Mania (USA) (Rev 5) (V.Smile Motion)" id="0262">
 		<category>Educational</category>
-		<description>Action Mania (USA) (Rev 4) (V.Smile Motion)</description>
-		<rom name="Action Mania (USA) (Rev 4) (V.Smile Motion).bin" size="8388608" crc="790f097f" md5="6b1baa26c4f6df2d77406f6e1e4c477c" sha1="d1ff028837b4190173a0823ac518a58deee171b8" sha256="737b81e84d57f35e3bc1686c1d702fb92e10a416dd66d532e91d642502f7689a"/>
+		<description>Action Mania (USA) (Rev 5) (V.Smile Motion)</description>
+		<rom name="Action Mania (USA) (Rev 5) (V.Smile Motion).bin" size="8388608" crc="ea4aeb1a" md5="763bfb4dffd6bdf54d80835ff21ec329" sha1="74807f9306ccc691735acdca66588a80467bebbd" sha256="79066a3caa807164f14ec9372ea743d758395ef32672bb6795000073b5091e9e"/>
 	</game>
 	<game name="Adventures of Little Red Riding Hood, The (USA)" id="0187">
 		<category>Games</category>
@@ -777,10 +777,10 @@
 		<description>Dora the Explorer - Dora's Fix-it Adventure (USA) (2008)</description>
 		<rom name="Dora the Explorer - Dora's Fix-it Adventure (USA) (2008).bin" size="8388608" crc="034cf357" md5="3e8a8b75f0102e01bc72f9a771a4dba3" sha1="9c96af008b161f1bdc4ae9f33da161950dc47011" sha256="929cccb72afd40712a673862512699a5c0edf8bb55275f77b22ad35ad3fbed28"/>
 	</game>
-	<game name="Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 1) (V.Smile Motion)" id="0307">
+	<game name="Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 2) (V.Smile Motion)" id="0308">
 		<category>Educational</category>
-		<description>Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 1) (V.Smile Motion)</description>
-		<rom name="Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 1) (V.Smile Motion).bin" size="8388608" crc="04d168f0" md5="22e480c56117fe17d057935964736729" sha1="1ffb35bf7a1884c9ae3be1ce0c9bb9472d889f10" sha256="1e07aeaf2fed2f481483d901a95796ea32dc318f2203837481d173aac034e2fd"/>
+		<description>Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 2) (V.Smile Motion)</description>
+		<rom name="Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 2) (V.Smile Motion).bin" size="8388608" crc="73a3c852" md5="dd6ac092f0a2df83037d00c1731f8507" sha1="8ca7255ab3e45ef670d09cfb4959bc8769415dc2" sha256="a026d7d778d082611055fd74256b0c49206b9eb59a38a784ceba149444b22469"/>
 	</game>
 	<game name="Dora the Explorer - Dora's Got a Puppy (USA) (Smartbook)" id="0415">
 		<category>Games</category>

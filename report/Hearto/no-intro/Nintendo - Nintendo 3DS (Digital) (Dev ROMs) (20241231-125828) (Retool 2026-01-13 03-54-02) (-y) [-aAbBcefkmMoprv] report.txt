@@ -1,0 +1,39 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* VIDEO REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ 3D Challenge (Japan) (2011-01-12) (Tech Demo)
++ 3D Challenge (World) (En,Ja) (2010-07-07T120933 Rev 9410) (E3 2010 Tech Demo)
++ 3D Challenge (World) (En,Ja) (2010-07-12T083731 Rev 9543) (E3 2010 Tech Demo)
++ Big Hero 6 Battle in the Bay (USA) (Beta)
++ Camera Demo (World) (2010-05-28) (E3 2010 Tech Demo)
++ Photo Dojo DX (World) (2010-06-07T103141) (E3 2010 Tech Demo)
++ Tech Demo - 3D Hopper (World) (2010-06-07T113916) (E3 2010 Tech Demo)
++ Tech Demo - 3D Paddleball (World) (2010-06-03T151914) (E3 2010 Tech Demo)
++ Tech Demo - Face Ace (World) (2010-06-08T154314 Rev 8659) (E3 2010 Tech Demo)
++ Tech Demo - Target Shooting (World) (2010-06-07T104900) (E3 2010 Tech Demo)
++ Wan Nyan Pet Shop (Japan) (Beta)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- 3DS Testing Tool (World)
+
+VIDEO REMOVES
+=============
+These titles were removed because the user excluded video titles.
+
+- Paper Mario Preview (World) (Beta) (E3 2010 Trailer)

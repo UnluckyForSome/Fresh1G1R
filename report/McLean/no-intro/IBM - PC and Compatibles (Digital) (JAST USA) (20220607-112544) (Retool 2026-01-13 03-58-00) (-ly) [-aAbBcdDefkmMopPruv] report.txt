@@ -1,0 +1,83 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* LANGUAGE REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Aokana - Four Rhythms Across the Blue (World) (En,Ja) (Windows)
++ Aselia the Eternal - The Spirit of Eternity Sword (World) (Windows)
++ Aselia the Eternal - The Spirit of Eternity Sword - Manual (World) (Extra)
++ Cat Girl Alliance (World) (Windows)
++ Chain - The Lost Footprints (World) (Windows)
++ Cosplay Fetish Academy (World) (Windows)
++ Cosplay Fetish Academy - Manual (World) (Extra)
++ Crescendo (World) (Windows)
++ Critical Point (World) (Windows)
++ Deus Machina Demonbane (World) (Windows)
++ Deus Machina Demonbane - Manual (World) (Extra)
++ Do You Like Horny Bunnies (World) (Windows)
++ Do You Like Horny Bunnies - Complete Collection (World) (Windows)
++ Family Project ~ Kazoku Keikaku (World) (Windows)
++ Figures of Happiness (World) (Windows)
++ Gibo - Stepmother's Sin (World) (Windows)
++ Girlish Grimoire Littlewitch Romanesque - Editio Perfecta (World) (Windows)
++ Hanachirasu (World) (Windows)
++ Heart de Roommate (World) (Windows)
++ Kana - Little Sister (World) (Windows)
++ Kana Okaeri (World) (Windows)
++ Lightning Warrior Raidy (World) (Windows)
++ Lightning Warrior Raidy - Manual (World) (Extra)
++ Lightning Warrior Raidy II - Temple of Desire (World) (Windows)
++ Majikoi! Love Me Seriously! (World) (Windows)
++ Mamono Musume - Life with a Lamia (World) (Windows)
++ Moero Downhill Night (World) (Windows)
++ Moero Downhill Night - Manual (World) (Extra)
++ Moero Downhill Night 2 (World) (Windows)
++ Moero Downhill Night Blaze (World) (Windows)
++ My Girlfriend Is the President (World) (Windows)
++ My Girlfriend Is the President (World) (Windows) (Patch)
++ My Girlfriend Is the President Fandisc (World) (Windows)
++ My Little Maid (World) (Windows)
++ Pretty Soldier Wars A.D. 2048 (World) (Windows)
++ Pretty Soldier Wars A.D. 2048 - Manual (World) (Extra)
++ Princess Waltz (World) (Windows)
++ Princess Waltz - Soundtrack (World) (MP3) (Extra)
++ Private Nurse (World) (Windows)
++ Sabbat of the Witch (World) (Windows)
++ Saya no Uta ~ The Song of Saya (World) (Windows) (Original)
++ Saya no Uta ~ The Song of Saya (World) (Windows) (Remastered)
++ School Days HQ (World) (Windows)
++ School Days HQ - Manual (World) (Extra)
++ Snow Drop (World) (Windows)
++ Snow Sakura (World) (Windows)
++ Starless - Nymphomaniacs' Paradise (World) (Windows)
++ Starless - Nymphomaniacs' Paradise (World) (v1.2) (Windows) (Patch)
++ Steins-Gate (World) (Windows)
++ Steins-Gate - Manual (World) (Extra)
++ The Sagara Family (World) (Windows) (Original)
++ The Sagara Family (World) (Windows, Mac, Linux) (Remastered)
++ Water Closet - The Forbidden Chamber (World) (Windows)
++ YOU and ME and HER - A Love Story (World) (Windows)
++ Yin-Yang! X-Change Alternative (World) (Windows)
++ Yin-Yang! X-Change Alternative - Manual (World) (Extra)
++ Yo-Jin-Bo ~ The Bodyguards (World) (Windows)
++ Yukkuri Panic - Escalation (World) (Windows)
++ Yume Miru Kusuri - A Drug That Makes You Dream (World) (Windows)
++ Yume Miru Kusuri - A Drug That Makes You Dream - Manual (World) (Extra)
++ Yumina the Ethereal (World) (Windows)
++ Yumina the Ethereal - Manual (World) (Extra)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- YOU and ME and HER - A Love Story (World) (Zh-Hans) (Windows)

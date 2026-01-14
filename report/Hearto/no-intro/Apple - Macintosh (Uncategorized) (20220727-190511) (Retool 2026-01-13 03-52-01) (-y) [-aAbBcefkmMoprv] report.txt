@@ -1,0 +1,34 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Alge-Blaster Plus! (USA, Europe) (v1.1)
+  - Alge-Blaster Plus! (USA, Europe)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Baron (USA, Europe)
++ Beyond Dark Castle (USA) (Disk 1)
++ Beyond Dark Castle (USA, Europe) (Disk 2)
++ Dark Castle (USA, Europe) (Disk 1)
++ Dark Castle (USA, Europe) (Disk 2)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Ethernet Installer (USA) (v5.0) (Disk 1)
+- [BIOS] Ethernet Installer (USA) (v5.0) (Disk 2)

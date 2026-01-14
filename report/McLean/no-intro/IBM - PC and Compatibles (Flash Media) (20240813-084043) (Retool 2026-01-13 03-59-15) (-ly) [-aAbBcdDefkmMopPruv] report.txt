@@ -1,0 +1,76 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* ADD-ON REMOVES
+* AUDIO REMOVES
+* PROMOTIONAL REMOVES
+* LANGUAGE REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Lovers in a Dangerous Spacetime (USA) (IndieBox)
+  - Lovers in a Dangerous Spacetime (USA) (IndieBox) (Alt)
++ MouseCraft (USA) (IndieBox)
+  - MouseCraft (USA) (IndieBox) (Alt)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Apotheon (USA) (IndieBox)
++ Armello (USA) (IndieBox)
++ Assault Android Cactus (USA) (IndieBox)
++ Battlefield 2142 - Dog Tag (USA)
++ Captain Forever Remix (USA) (IndieBox)
++ Dust - An Elysian Tail (USA) (IndieBox)
++ Dyscourse (USA) (IndieBox)
++ Freedom Planet (USA) (IndieBox)
++ Game Bytes - Speed Racer (USA)
++ Gameband + Minecraft (USA) (Redstone)
++ Luftrausers (USA) (IndieBox)
++ Moon Hunters (USA) (IndieBox)
++ Mystery of Woolley Mountain (United Kingdom)
++ Next Penelope, The - Race to Odysseus (USA) (IndieBox)
++ Nuclear Throne (USA) (IndieBox)
++ Rogue Legacy (USA) (IndieBox)
++ Super Rare Mixtape Vol. 1 (United Kingdom)
++ Super Rare Mixtape Vol. 2 (United Kingdom)
++ Super Rare Mixtape Vol. 3 (United Kingdom)
++ Super Win the Game (USA) (IndieBox)
++ Terraria Pickaxe (Canada) (Xbox 360)
++ Xbox One Kiosk USB (Unknown)
+
+ADD-ON REMOVES
+==============
+These titles were removed because the user excluded add-on titles.
+
+- Yu-Gi-Oh Online USB Duelpass Key (USA)
+
+AUDIO REMOVES
+=============
+These titles were removed because the user excluded audio titles.
+
+- Legend of Zelda, The - Tears of the Kingdom - Original Soundtrack - Master Sword USB (Japan)
+
+PROMOTIONAL REMOVES
+===================
+These titles were removed because the user excluded promotional titles.
+
+- Master of Orion (Unknown) (Press Kit)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Sasudake Anshin PersoCom Kids Key - Doraemon (Japan)
+- Sasudake Anshin PersoCom Kids Key - Mickey Mouse (Japan)
+- Sasudake Anshin PersoCom Kids Key - Tamagotchi (Japan)
+- Sasudake Anshin PersoCom Kids Key - Winnie the Pooh (Japan)

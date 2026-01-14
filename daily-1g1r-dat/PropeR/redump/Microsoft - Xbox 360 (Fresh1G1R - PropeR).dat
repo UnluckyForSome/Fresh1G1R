@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,555) (-y) [-aAbBcdkmMpPuv] (2026-01-08 05-42-21) (Retool)</description>
-		<version>2026-01-08 05-42-21</version>
-		<date>2026-01-12 04-00-11</date>
+		<description>Microsoft - Xbox 360 (1,555) (-y) [-aAbBcdkmMpPuv] (2026-01-13 16-14-33) (Retool)</description>
+		<version>2026-01-13 16-14-33</version>
+		<date>2026-01-14 04-17-40</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -786,10 +786,10 @@
 		<description>Blazing Angels 2 - Secret Missions of WWII (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Blazing Angels 2 - Secret Missions of WWII (USA) (En,Fr,De,Es,It).iso" size="7835492352" crc="3e70ab40" md5="57987489b98c658c79f1febf5dbe0749" sha1="ba85b8d537de6716705a5c796afebef33a7313e0"/>
 	</game>
-	<game name="Blitz - The League (USA)">
+	<game name="Blitz - The League (USA, Europe)">
 		<category>Games</category>
-		<description>Blitz - The League (USA)</description>
-		<rom name="Blitz - The League (USA).iso" size="7834892288" crc="faeea810" md5="76c8f97abea311f81f607001fb54279b" sha1="3e59a56d4edb1f063cfabfac6a4518450c4cda62"/>
+		<description>Blitz - The League (USA, Europe)</description>
+		<rom name="Blitz - The League (USA, Europe).iso" size="7834892288" crc="faeea810" md5="76c8f97abea311f81f607001fb54279b" sha1="3e59a56d4edb1f063cfabfac6a4518450c4cda62"/>
 	</game>
 	<game name="Blitz - The League II (USA, Europe)">
 		<category>Games</category>
@@ -4541,10 +4541,10 @@
 		<description>Monster Jam - Path of Destruction (USA)</description>
 		<rom name="Monster Jam - Path of Destruction (USA).iso" size="7838695424" crc="7968285a" md5="2cd5b04bf34ec5817c197e3d6cad5ab7" sha1="08e23e939c7693f8b3a577250f40eeff4e1fbb90"/>
 	</game>
-	<game name="Monster Madness - Battle for Suburbia (USA) (En,Fr,De,Es,It)">
+	<game name="Monster Madness - Battle for Suburbia (USA, Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Monster Madness - Battle for Suburbia (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Monster Madness - Battle for Suburbia (USA) (En,Fr,De,Es,It).iso" size="7835492352" crc="06b16e32" md5="dd5e20465355fff187ddc90c00553edd" sha1="c252cdfe51da523f65af3ce0904cc5db02d86960"/>
+		<description>Monster Madness - Battle for Suburbia (USA, Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Monster Madness - Battle for Suburbia (USA, Europe) (En,Fr,De,Es,It).iso" size="7835492352" crc="06b16e32" md5="dd5e20465355fff187ddc90c00553edd" sha1="c252cdfe51da523f65af3ce0904cc5db02d86960"/>
 	</game>
 	<game name="MorphX (USA, Europe)">
 		<category>Games</category>
@@ -4946,10 +4946,10 @@
 		<description>NHL 11 (USA) (En,Fr)</description>
 		<rom name="NHL 11 (USA) (En,Fr).iso" size="7838695424" crc="32d1826c" md5="58d8f21559499d83e780ee40253ee947" sha1="7b42f5035ff10f542b2a09b338e40f6a34610b88"/>
 	</game>
-	<game name="NHL 12 (USA) (En,Fr,De,Sv,Fi,Ru,Cs)">
+	<game name="NHL 12 (USA, Europe) (En,Fr,De,Sv,Fi,Ru,Cs)">
 		<category>Games</category>
-		<description>NHL 12 (USA) (En,Fr,De,Sv,Fi,Ru,Cs)</description>
-		<rom name="NHL 12 (USA) (En,Fr,De,Sv,Fi,Ru,Cs).iso" size="7838695424" crc="3a4a4c44" md5="eaddf9ea77ca37d5db8f401d6ee2def9" sha1="813729837f81b581d7ce59c7984d67e6beb88ffd"/>
+		<description>NHL 12 (USA, Europe) (En,Fr,De,Sv,Fi,Ru,Cs)</description>
+		<rom name="NHL 12 (USA, Europe) (En,Fr,De,Sv,Fi,Ru,Cs).iso" size="7838695424" crc="3a4a4c44" md5="eaddf9ea77ca37d5db8f401d6ee2def9" sha1="813729837f81b581d7ce59c7984d67e6beb88ffd"/>
 	</game>
 	<game name="NHL 13 (USA, Europe) (En,Fr,De,Sv,Fi,Ru,Cs)">
 		<category>Games</category>

@@ -1,0 +1,63 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+
+
+TITLES WITH CLONES
+==================
+
++ Apple I Basic (USA)
+  - Apple I Basic (USA) (Alt 2)
+  - Apple I Basic (USA) (Alt 3)
+  - Apple I Basic (USA) (Alt)
++ Blackjack (USA)
+  - Blackjack (USA) (Alt)
++ Wumpus (USA)
+  - Wumpus (USA) (Alt)
+
+TITLES WITHOUT CLONES
+=====================
+
++ ASMmchess (USA)
++ Abandoned Farmhouse Adventure (USA) (Unl)
++ Acey Ducey (USA)
++ Apple 30th Anniversary (USA) (Unl)
++ Apple I Enhanced Checkers (USA) (Unl)
++ Apple Startrek (USA)
++ Applesoft Lite (USA) (Unl)
++ Bowling (USA)
++ Buzzword (USA)
++ Codebreaker (USA)
++ Columns (USA)
++ Concentration (USA)
++ Craps (USA)
++ Deal or No Deal (USA)
++ Dis-Assembler (USA)
++ Eliza (USA)
++ Extended Monitor (USA)
++ Football (USA)
++ Hamurabi (USA) (Apple)
++ Hamurabi (USA) (Computerland)
++ Hangman (USA)
++ HiLo (USA)
++ Life (USA)
++ Lunar Lander (USA)
++ Lunar Lander (USA) (ASCII Graphics) (Unl)
++ Mastermind (USA)
++ Matrix (USA)
++ Microchess (USA)
++ Nightmare #6 (USA)
++ Pasart (USA)
++ Slots (USA)
++ Star Trek 2003 (USA) (Unl)
++ Stopwatch (USA)
++ TREK II (USA)
++ Typing Tutor (USA) (Unl)
++ Word Cross (USA)

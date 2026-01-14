@@ -1,0 +1,69 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* UNLICENSED REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Apple I Basic (USA)
+  - Apple I Basic (USA) (Alt 2)
+  - Apple I Basic (USA) (Alt 3)
+  - Apple I Basic (USA) (Alt)
++ Blackjack (USA)
+  - Blackjack (USA) (Alt)
++ Wumpus (USA)
+  - Wumpus (USA) (Alt)
+
+TITLES WITHOUT CLONES
+=====================
+
++ ASMmchess (USA)
++ Acey Ducey (USA)
++ Apple Startrek (USA)
++ Bowling (USA)
++ Buzzword (USA)
++ Codebreaker (USA)
++ Columns (USA)
++ Concentration (USA)
++ Craps (USA)
++ Deal or No Deal (USA)
++ Dis-Assembler (USA)
++ Eliza (USA)
++ Extended Monitor (USA)
++ Football (USA)
++ Hamurabi (USA) (Apple)
++ Hamurabi (USA) (Computerland)
++ Hangman (USA)
++ HiLo (USA)
++ Life (USA)
++ Lunar Lander (USA)
++ Mastermind (USA)
++ Matrix (USA)
++ Microchess (USA)
++ Nightmare #6 (USA)
++ Pasart (USA)
++ Slots (USA)
++ Stopwatch (USA)
++ TREK II (USA)
++ Word Cross (USA)
+
+UNLICENSED REMOVES
+==================
+These titles were removed because the user excluded unlicensed titles.
+
+- Abandoned Farmhouse Adventure (USA) (Unl)
+- Apple 30th Anniversary (USA) (Unl)
+- Apple I Enhanced Checkers (USA) (Unl)
+- Applesoft Lite (USA) (Unl)
+- Lunar Lander (USA) (ASCII Graphics) (Unl)
+- Star Trek 2003 (USA) (Unl)
+- Typing Tutor (USA) (Unl)

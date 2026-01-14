@@ -1,0 +1,227 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* BAD DUMP REMOVES
+* BIOS AND OTHER CHIP REMOVES
+* EDUCATIONAL REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Boy and His Blob, A (USA) (Beta) (2009-05-27)
+  - Boy and His Blob, A (USA) (Beta) (2008-10-24)
++ Bully - Scholarship Edition (USA) (Beta) (2007-11-16) (Patched)
+  - Bully - Scholarship Edition (USA) (Beta) (2007-11-13) (Patched)
++ Bully - Scholarship Edition (USA) (Beta) (2007-11-16) (Unpatched)
+  - Bully - Scholarship Edition (USA) (Beta) (2007-11-13) (Unpatched)
++ Bully - Scholarship Edition (USA) (Beta) (Later)
+  - Bully - Scholarship Edition (USA) (Beta) (2008-01-11)
+  - Bully - Scholarship Edition (USA) (Beta) (Debug)
++ Dead Space - Extraction (USA) (Beta) (v1111)
+  - Dead Space - Extraction (USA) (Beta) (2009-04-22) (v441)
+  - Dead Space - Extraction (USA) (Beta) (v430)
+  - Dead Space - Extraction (USA) (Beta) (v512)
++ Def Jam - Rapstar (USA) (En,Fr,De,Es,It,Pt) (Beta) (2010-07-28)
+  - Def Jam - Rapstar (Europe) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-28)
+  - Def Jam - Rapstar (France) (En,Fr,De,Es,It,Pt) (Beta)
+  - Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-08-12)
+  - Def Jam - Rapstar (Germany) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-29)
+  - Def Jam - Rapstar (USA) (En,Fr,De,Es,It,Pt) (Beta) (2010-07-26)
+  - Def Jam - Rapstar (United Kingdom) (En,Fr,De,Es,It,Pt) (Beta) (2010-08-19)
++ Disney Epic Mickey 2 - The Power of Two (USA) (Beta 8) (2012-03-23)
+  - Disney Epic Mickey 2 - The Power of Two (USA) (Beta 1) (2011-07-28)
+  - Disney Epic Mickey 2 - The Power of Two (USA) (Beta 2) (2011-07-xx)
+  - Disney Epic Mickey 2 - The Power of Two (USA) (Beta 3) (2011-xx-xx)
+  - Disney Epic Mickey 2 - The Power of Two (USA) (Beta 4) (2012-02-xx)
+  - Disney Epic Mickey 2 - The Power of Two (USA) (Beta 5) (2012-xx-xx)
+  - Disney Epic Mickey 2 - The Power of Two (USA) (Beta 6) (2012-03-12)
+  - Disney Epic Mickey 2 - The Power of Two (USA) (Beta 7) (2012-03-23) (Debug)
++ Disney Universe (USA) (Beta) (2011-04-03)
+  - Disney Universe (USA) (Beta)
+  - Disney Universe (USA) (Beta) (2011-02-07)
+  - Disney Universe (USA) (Beta) (2011-03-29)
+  - Disney Universe (USA) (Beta) (Debug)
++ Food Network - Cook or Be Cooked (USA) (Beta) (2009-09-25T104611)
+  - Food Network - Cook or Be Cooked (USA) (Beta) (2009-09-25T104257)
++ G.I. Joe - The Rise of Cobra (USA) (Beta) (2009-03-10)
+  - G.I. Joe - The Rise of Cobra (USA) (Beta) (2009-03-09)
++ GoldenEye 007 (USA) (Beta) (2010-09-07) (v58000618)
+  - GoldenEye 007 (Europe) (Beta)
+  - GoldenEye 007 (Japan) (Beta) (2011-04-12) (v664)
+  - GoldenEye 007 (Japan) (Beta) (2011-04-27) (v664)
+  - GoldenEye 007 (USA) (Beta) (2010-08-02) (v376)
++ Green Lantern - Rise of the Manhunters (USA) (Beta) (2010-02-15)
+  - Green Lantern - Rise of the Manhunters (USA) (Beta) (2010-02-11)
++ Interpol - The Trail of Dr. Chaos (USA) (Proto) (2009-04-24)
+  - Interpol - The Trail of Dr. Chaos (USA) (Proto) (2009-04-21)
++ Kodai Ouja Kyouryuu King (Japan) (Proto 5)
+  - Kodai Ouja Kyouryuu King (Japan) (Proto 1)
+  - Kodai Ouja Kyouryuu King (Japan) (Proto 2)
+  - Kodai Ouja Kyouryuu King (Japan) (Proto 3)
+  - Kodai Ouja Kyouryuu King (Japan) (Proto 4)
++ LEGO Racers - The Video Game (Europe) (Proto) (2010-01-19)
+  - LEGO Racers - The Video Game (Europe) (Proto) (2008-12-05)
+  - LEGO Racers - The Video Game (Europe) (Proto) (2009-01-09)
++ Last Story, The (Europe) (Beta) (2011-11-28)
+  - Last Story, The (Europe) (Beta) (2011-11-25)
++ Mahjong Tales - Ancient Wisdom (USA) (Proto) (2009-04-24)
+  - Mahjong Tales - Ancient Wisdom (USA) (Proto)
+  - Mahjong Tales - Ancient Wisdom (USA) (Proto) (2009-04-14)
+  - Mahjong Tales - Ancient Wisdom (USA) (Proto) (2009-04-20)
+  - Mahjong Tales - Ancient Wisdom (USA) (Proto) (Earlier)
++ Netflix (USA) (Beta) (v1792)
+  - Netflix (USA) (Beta) (v1280)
++ Olympigs (World) (Beta) (2008-04-25) (PC Build)
+  - Olympigs (World) (Beta) (2008-04-21) (PC Build)
+  - Olympigs (World) (Beta) (2008-04-23) (PC Build)
++ Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-10-19)
+  - Rock Band 3 (USA) (Beta) (2010-01-19)
+  - Rock Band 3 (USA) (Beta) (2010-03-16)
+  - Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-08-29)
+  - Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-09-01)
++ SCORE International Baja 1000 (USA) (Beta) (2008-09-02)
+  - SCORE International Baja 1000 (USA) (Beta) (2008-08-22)
+  - SCORE International Baja 1000 (USA) (Beta) (2008-08-28)
++ Skylanders - Giants (USA) (Beta) (2012-08-04) (Tag Programmer)
+  - Skylanders - Giants (USA) (Beta) (2012-06-05) (Tag Programmer)
++ Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T160554)
+  - Skylanders - Giants (USA) (Beta) (2012-03-27)
+  - Skylanders - Giants (USA) (En,Fr) (Beta) (2012-04-10)
+  - Skylanders - Giants (USA) (En,Fr) (Beta) (2012-04-23)
+  - Skylanders - Giants (USA) (En,Fr) (Beta) (2012-06-28)
++ Uno (USA) (Beta)
+  - Uno (Europe) (Beta)
+  - Uno (Japan) (Beta)
++ We Cheer 2 (USA) (Beta) (2009-06-23T130804)
+  - We Cheer 2 (USA) (Beta) (2009-06-23T110537)
++ Wii Self Defense (USA) (Proto 2)
+  - Wii Self Defense (USA) (Proto 1)
++ Wii Station Menu (Japan) (Kiosk) (v1.0.1)
+  - Wii Station Menu (Japan) (Kiosk) (v0.1.26)
+
+TITLES WITHOUT CLONES
+=====================
+
++ 428 - Fuusa Sareta Shibuya de (Japan) (Taikenban) (Kiosk) (1247d98e00)
++ 428 - Fuusa Sareta Shibuya de (Japan) (Taikenban) (Kiosk) (d6d3a3e00)
++ Active Life - Explorer (USA) (Beta) (2010-06-09)
++ Active Life - Magical Carnival (USA) (Beta) (2010-07-02)
++ All Star Cheer Squad 2 (USA) (Beta) (2009-09-23)
++ Big Top Circus (USA) (Proto)
++ BondX (USA) (Beta) (2009-06-29)
++ Call of Duty - Modern Warfare - Reflex Edition (Europe) (En,Fr) (Beta)
++ Conduit 2 (Europe) (Beta) (2010-09-24)
++ Conduit, The (USA) (Beta) (2009-02-24)
++ Cooking Mama - Cook Off (USA) (Debug Signed)
++ Crazy Mini Golf 2 (USA) (Beta)
++ Disney Bolt (USA) (En,Fr,Es) (Debug Signed)
++ Donkey Kong Jungle Beat (Japan) (Taikenban) (Kiosk)
++ DreamWorks Kung Fu Panda (USA) (Beta) (2007-12-07)
++ Food Network - Cook or Be Cooked (USA) (Beta) (Demo)
++ Fragile - Sayonara Tsuki no Haikyo (Japan) (Taikenban) (Kiosk) (10f065be00)
++ Fragile - Sayonara Tsuki no Haikyo (Japan) (Taikenban) (Kiosk) (cf300fe00)
++ Gemini Golf (Europe) (Proto) (2008-02-15)
++ Go Vacation (USA) (Beta) (2010-07-02)
++ GoldenEye 2010 (USA) (Beta)
++ Iron Man 2 (USA) (Beta) (2009-04-24)
++ Kaze no Klonoa - Door to Phantomile (Japan) (Taikenban) (Kiosk)
++ Mario Kart Wii (Japan) (Taikenban) (Kiosk)
++ Mighty Switch Force! (USA) (Proto) (2011-12-01)
++ Monster Hunter 3 tri- (Japan) (Taikenban) (Kiosk)
++ Monster Lab (USA) (Beta) (2008-06-10)
++ Naruto Shippuuden - Gekitou Ninja Taisen! EX3 (Japan) (Taikenban) (Kiosk)
++ New Super Mario Bros. Wii (Japan) (Taikenban) (Kiosk)
++ Nitrobike (USA) (En,Fr,Es) (Beta) (2008-05-08)
++ Olympigs (World) (Beta) (2008-04-24T1617) (PC Build)
++ Olympigs (World) (Beta) (2008-04-24T1644) (PC Build)
++ Olympigs (World) (Beta) (2008-05-08T1657) (PC Build)
++ Olympigs (World) (Beta) (2008-05-08T1721) (PC Build)
++ Osu! Exercise Dojo (Japan) (Debug Signed)
++ SPOGS Racing (USA) (Beta)
++ Samantha Skye - Rock P.I. (USA) (Proto) (2009-09-23T145324)
++ Sengoku Basara 3 (Japan) (Taikenban) (Kiosk) (1cb100fe00)
++ Sengoku Basara 3 (Japan) (Taikenban) (Kiosk) (b309d1e00)
++ Sexy Poker (USA) (Beta)
++ Simpsons Game, The (USA) (Beta) (2007-07-06)
++ Sin and Punishment - Sora no Koukeisha (Japan) (Taikenban) (Kiosk)
++ Skylanders - SuperChargers Racing (USA) (Beta) (2015-06-26)
++ Skylanders - Swap Force (USA) (Beta) (2013-03-25)
++ Spider-Man 4 (USA) (Proto) (2010-01-15)
++ Star Wars - Battlefront III (USA) (Proto) (2008-11-21) (r2.91120a)
++ Star Wars - Battlefront III (USA) (Proto) (r1.90431a)
++ Star Wars - Battlefront III (USA) (Proto) (r90776a)
++ Super Robot Taisen Neo (Japan) (Taikenban) (Kiosk)
++ TV Show King 2 (USA) (Beta)
++ Tabemon (Japan) (Taikenban) (Kiosk)
++ Wario Land Shake (Japan) (Taikenban) (Kiosk)
++ Wii Station Menu (Japan) (Kiosk) (3acb80fe00)
++ Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Kyouryoku - Kanken - Minna de Wai Wai Kanji Nou (Japan) (Debug Signed)
++ ZooVets (USA) (Beta) (v0.5.0586)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- Bank 2 (Japan) (Program)
+- Bank 6 (Japan) (Program)
+- Bank 8 (Japan) (Program)
+- Board Checker RVL F (Japan) (Program)
+- Crusher for RVO (USA) (Program)
+- DS-Wii Remote Test (World) (Program)
+- Free Loader (Japan) (v0.5) (Program)
+- NWC24init (World) (Program)
+- SWUpdate (World) (v33.4.16 + RVL.114.33) (Program)
+- SWUpdate (World) (v53.16.17 + v55.18.25 + RVL.119.55) (Program)
+- SWUpdate (World) (v56.21.29 + RVL.121.56) (Program)
+- SWUpdate (World) (v64.1026.10 + RVL.111.21) (Program)
+- SWUpdate (World) (v64.21.2.2 + RVL.111.21) (Program)
+- Safe Frame Viewer (World) (Program)
+- Wii Menu Changer (World) (v1.08) (Program)
+- Wii Menu Changer (World) (v1.13) (Program)
+- Wii Menu Changer (World) (v1.16) (Program)
+
+BAD DUMP REMOVES
+================
+These titles were removed because the user excluded bad dump titles.
+
+- All Star Cheer Squad 2 (USA) (Beta) (Earlier) [b]
+- Samantha Skye - Rock P.I. (USA) (Proto) (2009-09-23T164244) [b]
+- School of Rock (USA) (Proto) [b]
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Factory Test NAND (Japan)
+- [BIOS] NDEV NAND (USA)
+- [BIOS] NDEV NAND (USA) (v4.2U) [b]
+- [BIOS] NDEV NAND - Factor 5 (Europe)
+- [BIOS] RVA Revolution Arcade NAND - Mario Party Fushigi no Korokoro Catcher 2 (Japan)
+- [BIOS] RVA Revolution Arcade NAND - Tatsunoko vs. Capcom - Cross Generation of Heroes (Japan)
+- [BIOS] RVT SD Card (World)
+- [BIOS] RVT-H Reader HDD - Gemini Golf & Skylanders - SuperChargers Racing (World)
+- [BIOS] RVT-H Reader HDD - Kodai Ouja Kyouryuu King (World)
+- [BIOS] RVT-H Reader HDD - Monster Lab & Rock Band 3 (World)
+- [BIOS] RVT-H Reader HDD - Wii Self Defense 1 (World)
+- [BIOS] RVT-H Reader HDD - Wii Self Defense 2 (World)
+- [BIOS] RVT-H Reader HDD - Wii Self Defense 3 (World)
+- [BIOS] RVT-H Reader NAND - Sega (Japan)
+- [BIOS] RVT-R Reader NAND - IE Institute (Japan)
+- [BIOS] RVT-R Reader NAND - Netflix 1 (USA)
+- [BIOS] RVT-R Reader NAND - Netflix 2 (USA)
+- [BIOS] Uji Factory SD Card (World)
+
+EDUCATIONAL REMOVES
+===================
+These titles were removed because the user excluded educational titles.
+
+- Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T161508)

@@ -1,0 +1,31 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ 16 MB Expansion Card (USA)
++ Atari Retro (USA)
++ Bejeweled Puzzle Pack (USA) (En,Fr,De,Es,It,Pt-BR)
++ Merriam-Webster - Crosswords & Word Challenges (USA)
++ Midway Arcade Classics (USA)
++ Monopoly + Scrabble + Battleship + Yahtzee (USA)
++ PalmPak Games Card - PopCap (USA) (En,Fr,De,Es,It,Pt)
++ PalmPak Productivity Card (USA)
++ SEGA Classics (USA)
++ Tetris Classic Game Pak (USA)
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- Palm Tungsten E and Tungsten T3 Demo (USA) (Kiosk)

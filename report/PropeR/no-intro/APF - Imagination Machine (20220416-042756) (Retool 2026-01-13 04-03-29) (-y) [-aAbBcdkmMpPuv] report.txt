@@ -1,0 +1,128 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* BAD DUMP REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Defender (USA) (York 10 Computerware)
+  - Defender (USA) (York 10 Computerware) (Alt)
++ Super 21 ~ Space Hunt (USA)
+  - Super 21 ~ Space Hunt (USA) (Alt)
+
+TITLES WITHOUT CLONES
+=====================
+
++ 16K Letter Writer (USA)
++ 40 Track Initialization Program (USA)
++ APF Man (USA)
++ Adventure in Murder, An (USA)
++ Alpha Centurion (USA)
++ Alpha-bit (USA)
++ Alpine Skiing (USA)
++ Artist and Easel (USA)
++ Asteroids (USA)
++ Astroid Patrol (USA)
++ BASIC Line Renumbering Program (USA) (v2.3)
++ BASIC Tutor (USA) (Tape 1)
++ BASIC Tutor (USA) (Tape 2)
++ Baja (USA)
++ Basic Trace (USA)
++ Battle Zone (USA)
++ Bi-Plane Rescue (USA)
++ Boxing (USA)
++ Burger Man (USA)
++ Centipeed (USA)
++ Choplifter (USA)
++ Chopper Interceptor (USA)
++ Concentration (USA)
++ Copy Cat (USA)
++ Death Tank (USA)
++ Defender (USA) (MR's)
++ Demo (USA)
++ Depth Charge!! (USA)
++ Disk Modification Program (USA)
++ Disk Test (USA)
++ Donki-Kong (USA)
++ Donki-Kong II (USA)
++ Donki-Kong Jr. (USA)
++ Draw Draw (USA)
++ Dungeon Treasure (USA)
++ E.T. (USA)
++ Electronic Billboard (USA)
++ Escape!!! (USA)
++ Excape Mommies Tumb (USA)
++ Ferzerx (USA)
++ Fire! (USA)
++ Fooseball! (USA)
++ Frogger (USA)
++ Gondola Pitts ~ Saucer Shoot (USA)
++ Graphics Helper (USA)
++ Graphics Tablet (USA)
++ Grayskull (USA)
++ Head-Hunter (USA)
++ Heart Attack (USA)
++ Hi-res Plot (USA)
++ IM-1 in a Million Club Newsletter Tape 4 (USA)
++ IM-1 in a Million Club Newsletter Tape 9 (USA)
++ Lo-res Plot (USA)
++ Lord Logic-Locks (USA)
++ MAE (USA)
++ Maze (USA)
++ Mimic My Music (USA)
++ Minotaur - A Game of Fantasy and Adventure (USA)
++ Mission - Improbable - Operation 'Alpha' (USA)
++ Mission - Improbable - Operation Bravo (USA)
++ Music Composer Player Piano (USA)
++ Mystry Mansion (USA)
++ Pak-Man (USA)
++ Pinball Wiz (USA)
++ Planet Atack (USA)
++ Rattler (USA)
++ Recollection (USA)
++ Renumber (USA)
++ Road Runner (USA)
++ Run Around (USA)
++ SY-40 Disassembler (USA)
++ SY-50 Diagnostics (USA)
++ Safari in Africa (USA)
++ Sailing (USA)
++ Sky Diver (USA)
++ Solar Wars! (USA)
++ Sound Effects Demo Program (USA)
++ Space Destroyers (USA)
++ Space Shuttle (USA)
++ Star Battle (USA)
++ Star Castle (USA)
++ Star Ship (USA)
++ Star Trex (USA)
++ Super Frog! (USA)
++ Theft at the Art Museum (USA)
++ Thief (USA)
++ Three for One - Space War ~ Air Fortress ~ Squeeze Play (USA)
++ Transport ~ 15 Matches (USA)
++ Treasure Hunt (USA)
++ Tronn (USA)
++ Turbo (USA)
++ U-Bet (USA)
++ Wall Street Cartel (USA)
++ Zap (USA)
+
+BAD DUMP REMOVES
+================
+These titles were removed because the user excluded bad dump titles.
+
+- Bugger (USA) [b]
+- Escape ~ 21 ~ Escape 2 (USA) [b]
+- Froggy (USA) [b]
+- Lunar Lander (USA) [b]
+- Pac-Rat (USA) [b]

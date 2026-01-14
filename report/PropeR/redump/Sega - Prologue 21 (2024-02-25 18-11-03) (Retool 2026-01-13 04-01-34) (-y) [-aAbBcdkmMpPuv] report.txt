@@ -1,0 +1,62 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* AUDIO REMOVES
+* VIDEO REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Super Prologue 21 Games Vol. 1 (Japan) (Rev A)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- Index File Vol. 1A (Japan)
+
+AUDIO REMOVES
+=============
+These titles were removed because the user excluded audio titles.
+
+- MIDI Gakkyoku Data Vol. 15A (Japan) (Rev A)
+- MIDI Gakkyoku Data Vol. 16B (Japan)
+- MIDI Gakkyoku Data Vol. 5K (Japan)
+- MIDI Gakkyoku Data Vol. 6H (Japan)
+- MIDI Gakkyoku Data Vol. 7H (Japan)
+
+VIDEO REMOVES
+=============
+These titles were removed because the user excluded video titles.
+
+- BGV Base Kit Vol. 1 (Japan) (A 01-10)
+- BGV Base Kit Vol. 1 (Japan) (A 02-10)
+- BGV Base Kit Vol. 1 (Japan) (A 03-10)
+- BGV Base Kit Vol. 1 (Japan) (A 04-10)
+- BGV Base Kit Vol. 1 (Japan) (A 05-10)
+- BGV Base Kit Vol. 1 (Japan) (A 05-10) (Rev A)
+- BGV Base Kit Vol. 1 (Japan) (A 06-10)
+- BGV Base Kit Vol. 1 (Japan) (A 07-10)
+- BGV Base Kit Vol. 1 (Japan) (A 08-10)
+- BGV Base Kit Vol. 1 (Japan) (A 09-10)
+- BGV Base Kit Vol. 1 (Japan) (A 10-10)
+- BGV Base Kit Vol. 2 (Japan) (A 01-10)
+- BGV Base Kit Vol. 2 (Japan) (A 02-10)
+- BGV Base Kit Vol. 2 (Japan) (A 03-10)
+- BGV Base Kit Vol. 2 (Japan) (A 04-10)
+- BGV Base Kit Vol. 2 (Japan) (A 05-10)
+- BGV Base Kit Vol. 2 (Japan) (A 06-10)
+- BGV Base Kit Vol. 2 (Japan) (A 07-10)
+- BGV Base Kit Vol. 2 (Japan) (A 08-10)
+- BGV Base Kit Vol. 2 (Japan) (A 09-10)
+- BGV Base Kit Vol. 2 (Japan) (A 10-10)
+- BGV Misora Hibari-hen (Japan) (2M)
+- BGV Star-hen Vol. 1 (Japan) (01-01)

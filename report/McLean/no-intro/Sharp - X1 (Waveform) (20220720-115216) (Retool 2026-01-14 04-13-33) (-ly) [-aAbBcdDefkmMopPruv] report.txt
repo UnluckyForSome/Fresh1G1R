@@ -1,0 +1,28 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* LANGUAGE REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Bousou Tokkyuu SOS (Japan) (En)
++ Mobile Suit Gundam - Luna Two no Tatakai (Unknown)
++ Police Dog (Japan) (En)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Cannon Ball (Japan)
+- El Alamein (Japan)
+- Fantasian (Japan)
+- Ginkou Goutou - Machinegun Joe vs. the Mafia (Japan)
+- Pinball (Japan)

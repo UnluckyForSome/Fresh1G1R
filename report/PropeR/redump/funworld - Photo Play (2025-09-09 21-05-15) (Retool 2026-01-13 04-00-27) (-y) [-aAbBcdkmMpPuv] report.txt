@@ -1,0 +1,37 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* MULTIMEDIA REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ I.G.O. 8 - New Games (Italy) (Disc 1)
++ I.G.O. 8 - New Games (Italy) (Disc 2)
++ I.G.O. Italy (Italy) (Disc 1)
++ I.G.O. Italy (Italy) (Disc 2)
++ Snake II (Europe)
++ Update 2000 (Italy) (Disc 1)
++ Update 2000 (Italy) (Disc 2)
++ Update 2001 (Europe) (Disc 1)
++ Update 2001 (Europe) (Disc 2)
+
+MULTIMEDIA REMOVES
+==================
+These titles were removed because the user excluded multimedia titles.
+
+- I.G.O. 5 (Italy) (Disc 1)
+- I.G.O. 5 (Italy) (Disc 2)
+- I.G.O. Ed. 4 Update (Italy) (Disc 1)
+- I.G.O. Ed. 4 Update (Italy) (Disc 2)
+- I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Greece) (Disc 1)
+- I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Greece) (Disc 2)
+- I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Italy) (Disc 1)
+- I.G.O. Intelligent Games Operation - Ed. 1 - Photo Play Power Pack (Italy) (Disc 2)

@@ -1,0 +1,159 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Big Bang Pro Wrestling (Japan) (En,Ja)
+  - Wrestling Madness (Japan) (En) (Beta)
++ Biomotor Unitron (USA, Europe)
+  - Biomotor Unitron (Japan)
++ Bust-A-Move Pocket (USA)
+  - Bust-A-Move Pocket (USA) (Beta)
+  - Puzzle Bobble Mini (Europe)
+  - Puzzle Bobble Mini (Japan) (En)
++ Cool Cool Jam (Japan)
+  - Cool Cool Jam (USA) (Proto)
++ Dive Alert - Becky's Version (USA, Europe)
+  - Dive Alert - Rebecca Hen (Japan)
++ Dive Alert - Matt's Version (USA, Europe)
+  - Dive Alert - Burn Hen (Japan)
+  - Dive Alert - Burn Hen (Japan) (Beta)
++ Evolution - Eternal Dungeons (Europe) (v03)
+  - Shinki Sekai Evolution - Hateshinai Dungeon (Japan)
++ Fantastic Night Dreams - Cotton (Europe)
+  - Fantastic Night Dreams - Cotton (Japan)
++ Faselei! (USA, Europe)
+  - Faselei! (Japan)
++ Koi Koi Mahjong (Japan) (v0B)
+  - Koi Koi Mahjong (Japan) (v08)
++ Last Blade, The - Beyond the Destiny (USA, Europe)
+  - Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)
++ Magical Drop Pocket (USA, Europe)
+  - Magical Drop Pocket (Japan)
++ Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (v16)
+  - Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (Beta)
+  - Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (v11)
++ Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13)
+  - Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v11)
++ Neo Poke Pro Yakyuu (Japan) (v32)
+  - Neo Poke Pro Yakyuu (Japan) (v1F)
++ Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v06)
+  - Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v03)
+  - Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v04)
++ Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v05)
+  - Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v03)
+  - Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v04)
++ Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan) (v04)
+  - Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan) (v03)
++ Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan) (v04)
+  - Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan) (v03)
++ Pachinko Hisshou Guide - Pocket Parlor (Japan)
+  - Pachinko Hisshou Guide - Pocket Parlor (Japan) (Beta)
++ Party Mail (Japan)
+  - Party Mail (Japan) (Beta)
++ Picture Puzzle (Europe)
+  - Oekaki Puzzle (Japan)
++ Pocket Reversi (Europe) (v03)
+  - Pocket Reversi (Japan)
++ Puyo Pop (USA) (En,Ja) (v06)
+  - Puyo Pop (Japan) (En,Ja) (v05)
++ Puzzle Link (USA, Europe)
+  - Renketsu Puzzle Tsunagete Pon! Color (Japan)
++ Puzzle Link 2 (USA, Europe)
+  - Tsunagete Pon! 2 (Japan)
++ SNK Gals' Fighters (USA, Europe)
+  - SNK Gals' Fighters (Japan)
++ SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)
+  - SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)
++ SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)
+  - SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)
++ Shanghai Mini (World) (En,Ja)
+  - Shanghai Mini (World) (En,Ja) (Beta 1)
+  - Shanghai Mini (World) (En,Ja) (Beta 2)
++ Sonic The Hedgehog - Pocket Adventure (World) (En,Ja)
+  - Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Baseball Stars Color - Pocket Sports Series (World) (En,Ja)
++ Bikkuriman 2000 - Viva! Pocket Festival! (Japan)
++ Biomotor Unitron (Japan) (Demo)
++ Cool Boarders Pocket (Japan, Europe) (En,Ja)
++ Crush Roller (World) (En,Ja)
++ Dark Arms - Beast Buster 1999 (World) (En,Ja)
++ Delta Warp (Japan) (Demo)
++ Delta Warp (Japan) (En,Ja)
++ Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)
++ Densha de Go! 2 on NeoGeo Pocket (Japan)
++ Densha de Go! 2 on NeoGeo Pocket (Japan) (Demo)
++ Dokodemo Mahjong (Japan)
++ Dynamite Slugger (Japan, Europe) (En,Ja)
++ Evolution - Eternal Dungeons (Europe) (vA1)
++ Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)
++ Ganbare Neo Poke-kun (Kari) (Japan)
++ Infinity Cure (Japan)
++ Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)
++ King of Fighters R-2 - Pocket Fighting Series (Japan) (En,Ja) (Demo 1)
++ King of Fighters R-2 - Pocket Fighting Series (Japan) (En,Ja) (Demo 2)
++ King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)
++ King of Fighters, The - Battle de Paradise (Japan)
++ Magical Drop Pocket (Japan) (Demo)
++ Memories Off - Pure (Japan)
++ Metal Slug - 1st Mission (World) (En,Ja)
++ Metal Slug - 2nd Mission (World) (En,Ja)
++ Metal Slug - 2nd Mission (World) (En,Ja) (Demo)
++ Mezase! Kanji Ou (Japan)
++ Mizuki Shigeru no Youkai Shashinkan (Japan)
++ Neo 21 - Pocket Casino Series (World)
++ Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)
++ Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo)
++ Neo Derby Champ Daiyosou (Japan)
++ Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)
++ Neo Turf Masters (World) (En,Ja)
++ NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)
++ Nige-ron-pa (Japan)
++ Pac-Man (World) (En,Ja)
++ Pachi-Slot Aruze Oukoku - Porcano 2 (Japan)
++ Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)
++ Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)
++ Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan)
++ Pocket Love - if (Japan)
++ Pocket Reversi (Europe) (vA1)
++ Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)
++ Rockman - Battle & Fighters (Japan)
++ Rockman - Battle & Fighters (Japan) (Demo)
++ SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)
++ SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)
++ SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo)
++ SNK vs. Capcom - The Match of the Millennium (Japan) (Demo)
++ SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)
++ Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)
++ Shougi no Tatsujin Color (Japan)
++ Sonic The Hedgehog - Pocket Adventure (World) (Demo)
++ Soreike!! Hanafuda Doujou (Japan)
++ Super Real Mahjong - Premium Collection (Japan)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] SNK NeoGeo Pocket Color (World) (En,Ja)
