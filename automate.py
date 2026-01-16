@@ -854,9 +854,11 @@ def run_retool(input_dat: Path, retool_dir: Path, output_dat_dir: Path, report_d
             temp_dat = max(output_files, key=lambda p: p.stat().st_mtime)
             # Extract system name (without date) from input DAT for constant filename
             system_name = extract_system_name(input_dat.stem, collection)
-            # Build constant output filename: "System Name (Fresh1G1R - config).dat"
+            # Build constant output filename: "System Name (Collection - Fresh1G1R - config).dat"
             if config_name:
-                new_name = f"{system_name} (Fresh1G1R - {config_name}){temp_dat.suffix}"
+                # Format collection name for display
+                collection_display = {"no-intro": "No-Intro", "redump": "Redump"}.get(collection, collection.title())
+                new_name = f"{system_name} ({collection_display} - Fresh1G1R - {config_name}){temp_dat.suffix}"
             else:
                 new_name = f"{system_name}{temp_dat.suffix}"
             
@@ -899,7 +901,7 @@ def run_retool(input_dat: Path, retool_dir: Path, output_dat_dir: Path, report_d
         except Exception:
             pass  # Ignore cleanup errors
         
-            # Determine status
+        # Determine status
         retool_output = (result.stdout or "") + "\n" + (result.stderr or "")
         no_titles_match = (
             "No titles in the input DAT match your preferences" in retool_output or
@@ -936,7 +938,7 @@ def extract_system_name(filename_stem: str, collection: str) -> str:
     - Redump: "Sony - PlayStation (2025-10-23 18-11-28) - Datfile (77)" -> "Sony - PlayStation"
     """
     # Remove Fresh1G1R suffix if present
-    filename_stem = re.sub(r' \(Fresh1G1R - [^)]+\)$', '', filename_stem)
+    filename_stem = re.sub(r' \([^)]+- Fresh1G1R - [^)]+\)$', '', filename_stem)
     
     if collection == "no-intro":
         # No-Intro: Extract everything before (YYYYMMDD-HHMMSS)
@@ -1136,7 +1138,7 @@ def cleanup_old_files(directory: Path, pattern: str, keep_count: int = 7, collec
         # Reports have format: "System Name (date) (Retool ...).txt"
         stem = file_path.stem
         # Remove Fresh1G1R suffix if present
-        stem = re.sub(r' \(Fresh1G1R - [^)]+\)$', '', stem)
+        stem = re.sub(r' \([^)]+- Fresh1G1R - [^)]+\)$', '', stem)
         
         if collection == "no-intro":
             # Extract up to and including date: (YYYYMMDD-HHMMSS)
@@ -1194,8 +1196,8 @@ def cleanup_previous_dats(output_dir: Path, config_name: str, collection: str, p
                 dat_file.unlink()
                 # Remove metadata entry if it exists for this file
                 # Extract system name from output filename (which has constant format)
-                # Format: "System Name (Fresh1G1R - config).dat"
-                system_name_match = re.match(r'^(.+?) \(Fresh1G1R - [^)]+\)\.dat$', dat_file.name)
+                # Format: "System Name (Collection - Fresh1G1R - config).dat"
+                system_name_match = re.match(r'^(.+?) \([^)]+- Fresh1G1R - [^)]+\)\.dat$', dat_file.name)
                 if system_name_match:
                     system_name = system_name_match.group(1)
                     if system_name in metadata and metadata[system_name].get("output_path") == dat_file.name:
