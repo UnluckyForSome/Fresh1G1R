@@ -1,0 +1,69 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Pokemon Party Mini (USA)
+  - Pokemon Party Mini (Europe)
+  - Pokemon Party Mini (Japan)
++ Pokemon Party Mini - Baseline Judge (USA) (GameCube)
+  - Pokemon Party Mini - Baseline Judge (Europe) (GameCube)
+  - Pokemon Party Mini - Baseline Judge (Japan) (GameCube)
++ Pokemon Party Mini - Ricochet Dribble (USA) (GameCube)
+  - Pokemon Party Mini - Ricochet Dribble (Japan) (GameCube)
++ Pokemon Party Mini - Rocket Start (USA) (GameCube)
+  - Pokemon Party Mini - Pikachu's Rocket Start (Europe) (GameCube)
++ Pokemon Pinball Mini (USA, Europe)
+  - Pokemon Pinball Mini (Japan)
++ Pokemon Pinball Mini (USA, Europe, Australia) (Demo) (Pokemon Channel)
+  - Pokemon Pinball Mini (Japan) (Demo) (Pokemon Channel)
++ Pokemon Puzzle Collection (USA) (GameCube Preview)
+  - Pokemon Puzzle Collection (France) (GameCube Preview)
+  - Pokemon Puzzle Collection (Germany) (GameCube Preview)
++ Pokemon Puzzle Collection (USA, Europe)
+  - Pokemon Puzzle Collection (France)
+  - Pokemon Puzzle Collection (Germany)
+  - Pokemon Puzzle Collection (Japan)
+  - Pokemon Puzzle Collection (Japan) (GameCube)
++ Pokemon Tetris (Europe) (En,Fr,De)
+  - Pokemon Shock Tetris (Japan)
++ Pokemon Zany Cards (USA, Europe)
+  - Pokemon Anime Card Daisakusen (Japan)
+  - Pokemon Zany Cards (France)
+  - Pokemon Zany Cards (Germany)
++ Snorlax's Lunch Time (Europe) (GameCube)
+  - Snorlax's Lunch Time (Japan) (GameCube)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Lunch Time (Europe) (Demo) (Pokemon Channel)
++ Pichu Bros. Mini (Japan)
++ Pichu Bros. Mini - Hoppip's Jump Match (Japan) (Preview)
++ Pichu Bros. Mini - Netsukikyuu (Japan) (Preview)
++ Pichu Bros. Mini - Skateboard (Japan) (Preview)
++ Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube)
++ Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)
++ Pokemon Puzzle Collection Vol. 2 (Japan)
++ Pokemon Race Mini (Japan)
++ Pokemon Race Mini (Japan) (Preview)
++ Pokemon Sodateyasan Mini (Japan)
++ Togepi no Daibouken (Japan)
++ Togepi no Daibouken (Japan) (Preview)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Nintendo Pokemon Mini (World)

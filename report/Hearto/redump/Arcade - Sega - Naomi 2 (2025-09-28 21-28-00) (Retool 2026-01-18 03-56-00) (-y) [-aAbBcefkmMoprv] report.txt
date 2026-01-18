@@ -1,0 +1,32 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+
+
+TITLES WITH CLONES
+==================
+
++ Virtua Fighter 4 (Japan) (Rev C)
+  - Virtua Fighter 4 (Japan) (Rev B)
++ Virtua Fighter 4 - Evolution (Japan) (Rev B)
+  - Virtua Fighter 4 - Evolution (Japan) (Rev A)
++ Virtua Fighter 4 - Final Tuned (World) (Rev A)
+  - Virtua Fighter 4 - Final Tuned (Japan) (Rev D)
+  - Virtua Fighter 4 - Final Tuned (Japan) (Rev F)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Beach Spikers - Virtua Beach Volleyball (World) (En,Ja)
++ Initial D (World) (Rev A)
++ Initial D Arcade Stage (Japan) (Rev B)
++ Initial D Version 3 (World)
++ Initial D Version 3 for Cycraft (World) (Rev B)
++ Virtua Striker 3 (World) (En,Ja)

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast (Retool)</name>
-		<description>Sega - Dreamcast (819) (-y) [-aAbBcefkmMoprv] (2026-01-10 08-39-37) (Retool)</description>
-		<version>2026-01-10 08-39-37</version>
-		<date>2026-01-17 03-32-34</date>
+		<description>Sega - Dreamcast (819) (-y) [-aAbBcefkmMoprv] (2026-01-17 20-56-16) (Retool)</description>
+		<version>2026-01-17 20-56-16</version>
+		<date>2026-01-18 03-55-57</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -377,21 +377,21 @@
 		<rom name="Atari Anniversary Edition (USA) (Track 5).bin" size="945047712" crc="a23bb3bc" md5="5a3bc29d16ad7a1783a85b6cf5982087" sha1="11b9243169233a6014f9a9dcfd11a01075fa88b0"/>
 		<rom name="Atari Anniversary Edition (USA).cue" size="642" crc="f74eb5f2" md5="1be76fbeff38ef4cb51aeb2632447318" sha1="648c5f2dc006cc0b0b1d35d7b3ed869fc12e74b2"/>
 	</game>
-	<game name="Atsumare! Guru Guru Onsen (Japan) (Demo 1)">
+	<game name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 1)">
 		<category>Demos</category>
-		<description>Atsumare! Guru Guru Onsen (Japan) (Demo 1)</description>
-		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 1) (Track 1).bin" size="1470000" crc="66724bcc" md5="bc0ff850834c4730abc062f23f197820" sha1="103ceec87a1c769c5bdb9887d0ba5cc675fd2614"/>
-		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 1) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
-		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 1) (Track 3).bin" size="1185760800" crc="d2e4a39a" md5="c4eb429c5a2baf19022b5a93628d49bc" sha1="e592e9432d6af9195394dc723d47fe52206dd28e"/>
-		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 1).cue" size="420" crc="57b437f2" md5="1c1d539048ff1818d5666a1a24f40d28" sha1="986c6fcbd444787f26c4106f8a4b9b8fd37a5a09"/>
+		<description>Atsumare! Guru Guru Onsen (Japan) (Taikenban 1)</description>
+		<rom name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 1) (Track 1).bin" size="1470000" crc="66724bcc" md5="bc0ff850834c4730abc062f23f197820" sha1="103ceec87a1c769c5bdb9887d0ba5cc675fd2614"/>
+		<rom name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 1) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
+		<rom name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 1) (Track 3).bin" size="1185760800" crc="d2e4a39a" md5="c4eb429c5a2baf19022b5a93628d49bc" sha1="e592e9432d6af9195394dc723d47fe52206dd28e"/>
+		<rom name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 1).cue" size="435" crc="938e9180" md5="e2e58f61610f2b72efcf32dd3f37e29b" sha1="b379a3403c74fde22b8fed4e0852d9f6df175ad2"/>
 	</game>
-	<game name="Atsumare! Guru Guru Onsen (Japan) (Demo 2)">
+	<game name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 2)">
 		<category>Demos</category>
-		<description>Atsumare! Guru Guru Onsen (Japan) (Demo 2)</description>
-		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 2) (Track 1).bin" size="1470000" crc="2aadb6d7" md5="6b599ced39a8e949449d7d243ffb7130" sha1="50a33639a742a83ac3a19ea89e18943c47f429c1"/>
-		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 2) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
-		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 2) (Track 3).bin" size="1185760800" crc="c2e71479" md5="2a8fdd8d917cd223167728e6b790bed2" sha1="405b4776f715e07402986a55d2c1078bcb6df4b4"/>
-		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 2).cue" size="420" crc="e8db1820" md5="0c07ea72a3e6c92f5c4176d05537debe" sha1="42c54bea521105d04ad45cd4e29d6ab38d5c1b40"/>
+		<description>Atsumare! Guru Guru Onsen (Japan) (Taikenban 2)</description>
+		<rom name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 2) (Track 1).bin" size="1470000" crc="2aadb6d7" md5="6b599ced39a8e949449d7d243ffb7130" sha1="50a33639a742a83ac3a19ea89e18943c47f429c1"/>
+		<rom name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 2) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
+		<rom name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 2) (Track 3).bin" size="1185760800" crc="c2e71479" md5="2a8fdd8d917cd223167728e6b790bed2" sha1="405b4776f715e07402986a55d2c1078bcb6df4b4"/>
+		<rom name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 2).cue" size="435" crc="f6b46676" md5="b71453896b1a7f1696c00eb825cddc5e" sha1="820e22301d4691d4d803c7a08613775661339f4c"/>
 	</game>
 	<game name="Atsumare! Guru Guru Onsen BB (Japan) (Rev A)">
 		<category>Games</category>
@@ -991,13 +991,13 @@
 		<rom name="Chocolat - Maid Cafe Curio (Japan) (Track 3).bin" size="1185760800" crc="49ff060e" md5="c21e90c0ca78f8203651797e3e41ae0a" sha1="f47ffe679b63c9bc37581b9818e9809c5a035058"/>
 		<rom name="Chocolat - Maid Cafe Curio (Japan).cue" size="396" crc="9c1ccd8c" md5="47b012647963cf26c6b1195d22c253f8" sha1="56602183569320c3cd0ffffb63951ff17f30d45e"/>
 	</game>
-	<game name="Chocolat - Maid Cafe Curio (Japan) (Demo)">
+	<game name="Chocolat - Maid Cafe Curio (Japan) (Taikenban)">
 		<category>Demos</category>
-		<description>Chocolat - Maid Cafe Curio (Japan) (Demo)</description>
-		<rom name="Chocolat - Maid Cafe Curio (Japan) (Demo) (Track 1).bin" size="705600" crc="60b4057c" md5="3d6b30772f7fffc352058d9a7a72049f" sha1="efc1a3ed37d873edc874436cf2fe1b18efd28112"/>
-		<rom name="Chocolat - Maid Cafe Curio (Japan) (Demo) (Track 2).bin" size="5268480" crc="cc64e5d5" md5="4ef539c4f9fce5a719a2282115464eb1" sha1="2be6dc6c95cece5e406b85c7e1f8651e677ac084"/>
-		<rom name="Chocolat - Maid Cafe Curio (Japan) (Demo) (Track 3).bin" size="1185760800" crc="a7451710" md5="40063879b1825d013144d3e203bcbaa1" sha1="61ded0ebafe3d53248904eeb718b572cb72d3ea9"/>
-		<rom name="Chocolat - Maid Cafe Curio (Japan) (Demo).cue" size="417" crc="c894cda5" md5="6ea0f6250126da4dd048517412e32c76" sha1="9600a42ad5e255d4dcd9a9434373e0f00721ad21"/>
+		<description>Chocolat - Maid Cafe Curio (Japan) (Taikenban)</description>
+		<rom name="Chocolat - Maid Cafe Curio (Japan) (Taikenban) (Track 1).bin" size="705600" crc="60b4057c" md5="3d6b30772f7fffc352058d9a7a72049f" sha1="efc1a3ed37d873edc874436cf2fe1b18efd28112"/>
+		<rom name="Chocolat - Maid Cafe Curio (Japan) (Taikenban) (Track 2).bin" size="5268480" crc="cc64e5d5" md5="4ef539c4f9fce5a719a2282115464eb1" sha1="2be6dc6c95cece5e406b85c7e1f8651e677ac084"/>
+		<rom name="Chocolat - Maid Cafe Curio (Japan) (Taikenban) (Track 3).bin" size="1185760800" crc="a7451710" md5="40063879b1825d013144d3e203bcbaa1" sha1="61ded0ebafe3d53248904eeb718b572cb72d3ea9"/>
+		<rom name="Chocolat - Maid Cafe Curio (Japan) (Taikenban).cue" size="432" crc="dad345b8" md5="be1714fb4f8ffef3bea37ba11b703f16" sha1="3723bb4b775e8a5dcdc2852b1b41d60d9723d8c5"/>
 	</game>
 	<game name="Chou Hatsumei Boy Kanipan - Bousou Robot no Nazo! (Japan)">
 		<category>Games</category>
@@ -7123,13 +7123,13 @@
 		<rom name="Sakura Momoko Gekijou - Coji-Coji (Japan) (Track 3).bin" size="1185760800" crc="553f2c14" md5="963e9d9a31f9f4cb5a86188ead50690f" sha1="dd1d8cee1d683f41a29af3cc85cff74bb9412a66"/>
 		<rom name="Sakura Momoko Gekijou - Coji-Coji (Japan).cue" size="417" crc="12c9c4be" md5="ae0714a28d46b21778371a8d84a9c121" sha1="3d849b0b7f827dcd79f3e4c0471221532caa3067"/>
 	</game>
-	<game name="Sakura Taisen (Japan) (Disc 1)">
+	<game name="Sakura Taisen (Japan) (Disc 1) (Rev A)">
 		<category>Games</category>
-		<description>Sakura Taisen (Japan) (Disc 1)</description>
-		<rom name="Sakura Taisen (Japan) (Disc 1) (Track 1).bin" size="705600" crc="a4dc0757" md5="6fe7c844c5372a649e9c5a6a2e2161b9" sha1="129fc9679818d92d0bbf99450019dae37e8d073a"/>
-		<rom name="Sakura Taisen (Japan) (Disc 1) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
-		<rom name="Sakura Taisen (Japan) (Disc 1) (Track 3).bin" size="1185760800" crc="afd23241" md5="9f9a7792b3425e7c3e4526e6e3f2c247" sha1="a7c66254b88072afebdf2c842f6dffcb025c20b9"/>
-		<rom name="Sakura Taisen (Japan) (Disc 1).cue" size="384" crc="20102641" md5="5e7adeb3387bd77cc7e7c82936929a62" sha1="9e1fabff7acbe73ac0eff17280ac136a476bd671"/>
+		<description>Sakura Taisen (Japan) (Disc 1) (Rev A)</description>
+		<rom name="Sakura Taisen (Japan) (Disc 1) (Rev A) (Track 1).bin" size="705600" crc="60851f18" md5="7af762924158ce757c0eb6a9a09311f9" sha1="a9042bc74c4e10e0db2d8a6e72872da3813128cc"/>
+		<rom name="Sakura Taisen (Japan) (Disc 1) (Rev A) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
+		<rom name="Sakura Taisen (Japan) (Disc 1) (Rev A) (Track 3).bin" size="1185760800" crc="240b4117" md5="5f8da8e838af9b41dea8b1872d809a2c" sha1="f4077a914e66ff7ec0f53f403ea2a61b5dfbfd83"/>
+		<rom name="Sakura Taisen (Japan) (Disc 1) (Rev A).cue" size="408" crc="0f1e37b3" md5="bae5198d60b37ffb6625b30f10a3b9e4" sha1="9d7964ac96e6fcb6aac82e9453eaca3a9cd4603d"/>
 	</game>
 	<game name="Sakura Taisen (Japan) (Disc 2) (Rev A)">
 		<category>Games</category>

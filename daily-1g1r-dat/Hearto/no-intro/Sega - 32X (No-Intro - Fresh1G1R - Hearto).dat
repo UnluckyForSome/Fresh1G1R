@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - 32X (Retool)</name>
-		<description>Sega - 32X (42) (-y) [-aAbBcefkmMoprv] (20260115-202607) (Retool)</description>
-		<version>20260115-202607</version>
-		<date>2026-01-17 03-36-15</date>
+		<description>Sega - 32X (42) (-y) [-aAbBcefkmMoprv] (20260116-211056) (Retool)</description>
+		<version>20260116-211056</version>
+		<date>2026-01-18 04-00-37</date>
 		<author>bikerspade, BitLooter, ElBarto, FakeShemp, gigadeath, Hiccup, norkmetnoil577, omonim2007, psykopat, relax, Seventy7, SonGoku, Special T, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -34,17 +34,18 @@
 	<game name="Brutal - Above the Claw (USA)" id="0010">
 		<category>Games</category>
 		<description>Brutal - Above the Claw (USA)</description>
-		<rom name="Brutal - Above the Claw (USA).32x" size="3145728" crc="7a72c939" md5="1738a479b0253bcb0bcfb7bf09c03add" sha1="40aa2c787f37772cdbd7280b8be06b15421fabae"/>
+		<rom name="Brutal - Above the Claw (USA).32x" size="3145728" crc="7a72c939" md5="1738a479b0253bcb0bcfb7bf09c03add" sha1="40aa2c787f37772cdbd7280b8be06b15421fabae" sha256="f8279a81a76445cd68df0bc0e0fb0e53379406f462195e1799f2d90a097afe29"/>
 	</game>
-	<game name="ClayFighter 2 (USA) (Proto) (1995-04-28)" id="0064">
+	<game name="ClayFighter 2 (USA) (Proto)" id="0064">
+		<category>Games</category>
 		<category>Preproduction</category>
-		<description>ClayFighter 2 (USA) (Proto) (1995-04-28)</description>
-		<rom name="ClayFighter 2 (USA) (Proto) (1995-04-28).32x" size="1048576" crc="59701755" md5="dee27ac83240ddebdcaa92e9f58fde4f" sha1="1d3c372b55fa1418556aea1949995f997227b5fa"/>
+		<description>ClayFighter 2 (USA) (Proto)</description>
+		<rom name="ClayFighter 2 (USA) (Proto).32x" size="1048576" crc="59701755" md5="dee27ac83240ddebdcaa92e9f58fde4f" sha1="1d3c372b55fa1418556aea1949995f997227b5fa" sha256="3c886661adb8a10a37021815d75dfe23c1f795a6ed24f66f4aa8c9dcc66de420"/>
 	</game>
 	<game name="Cosmic Carnage (Japan, USA) (En)" id="0013">
 		<category>Games</category>
 		<description>Cosmic Carnage (Japan, USA) (En)</description>
-		<rom name="Cosmic Carnage (Japan, USA) (En).32x" size="3145728" crc="7c7be6a2" md5="32f3002a46a462735aa12ca856cb7652" sha1="9a563ed821b483148339561ebd2b876efa58847b"/>
+		<rom name="Cosmic Carnage (Japan, USA) (En).32x" size="3145728" crc="7c7be6a2" md5="32f3002a46a462735aa12ca856cb7652" sha1="9a563ed821b483148339561ebd2b876efa58847b" sha256="7a4b355ca4dac233a1246e662b274d548f6dd6c0e4bb27a382b6bba42b354d37"/>
 	</game>
 	<game name="Darxide (Europe) (En,Fr,De,Es)" id="0014">
 		<category>Games</category>
@@ -56,10 +57,10 @@
 		<description>Doom (Japan, USA) (En)</description>
 		<rom name="Doom (Japan, USA) (En).32x" size="3145728" crc="208332fd" md5="79339867d9d4f58b169753d9a29ea1a5" sha1="b68e9c7af81853b8f05b8696033dfe4c80327e38"/>
 	</game>
-	<game name="Ecco the Dolphin (USA) (Demo) (Developer Cart)" id="0017">
+	<game name="Ecco the Dolphin (USA) (Auto Demo)" id="0017">
 		<category>Demos</category>
-		<description>Ecco the Dolphin (USA) (Demo) (Developer Cart)</description>
-		<rom name="Ecco the Dolphin (USA) (Demo) (Developer Cart).32x" size="3145728" crc="b06178df" md5="c2b642fdcfff8bff511e45203a1e8679" sha1="10409f2245b058e8a32cba51e1ea391ca4480108"/>
+		<description>Ecco the Dolphin (USA) (Auto Demo)</description>
+		<rom name="Ecco the Dolphin (USA) (Auto Demo).32x" size="3145728" crc="b06178df" md5="c2b642fdcfff8bff511e45203a1e8679" sha1="10409f2245b058e8a32cba51e1ea391ca4480108" sha256="d4b03b9f77280b4b0067b4428e6a7458f39c0291b726fa283a75ffdfc8afc3fd"/>
 	</game>
 	<game name="FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)" id="0018">
 		<category>Games</category>
@@ -89,7 +90,7 @@
 	<game name="Mortal Kombat II (Japan, USA) (En)" id="0032">
 		<category>Games</category>
 		<description>Mortal Kombat II (Japan, USA) (En)</description>
-		<rom name="Mortal Kombat II (Japan, USA) (En).32x" size="4194304" crc="773c0a85" md5="a95c0e7c1d35fd42cd2e3eb7b06cb6d0" sha1="d55964bd935110ac2d9cbd3b085b7e8b71b11df2"/>
+		<rom name="Mortal Kombat II (Japan, USA) (En).32x" size="4194304" crc="773c0a85" md5="a95c0e7c1d35fd42cd2e3eb7b06cb6d0" sha1="d55964bd935110ac2d9cbd3b085b7e8b71b11df2" sha256="2cb563914f6187f0f97588c46ccb112c7de2194b346a33992f5c69ca7611a65b"/>
 	</game>
 	<game name="Motherbase (Europe) (Sample)" id="0212">
 		<category>Demos</category>
@@ -124,7 +125,7 @@
 	<game name="Primal Rage (USA, Europe)" id="0039">
 		<category>Games</category>
 		<description>Primal Rage (USA, Europe)</description>
-		<rom name="Primal Rage (USA, Europe).32x" size="4194304" crc="e78a4d28" md5="e1efc5804d3360e7b19f7542219bf964" sha1="5084dcca51d76173c383ab7d04cbc661673545f7"/>
+		<rom name="Primal Rage (USA, Europe).32x" size="4194304" crc="e78a4d28" md5="e1efc5804d3360e7b19f7542219bf964" sha1="5084dcca51d76173c383ab7d04cbc661673545f7" sha256="04de760f8c87d9ccb9bdc4a756e70dbc71f70b3084849e5fd945ceccee39cc2a"/>
 	</game>
 	<game name="RBI Baseball '95 (USA)" id="0040">
 		<category>Games</category>
@@ -185,12 +186,13 @@
 	<game name="Virtua Fighter (Japan, USA) (En)" id="0053">
 		<category>Games</category>
 		<description>Virtua Fighter (Japan, USA) (En)</description>
-		<rom name="Virtua Fighter (Japan, USA) (En).32x" size="4194304" crc="b5de9626" md5="901e97c9f731fbdf1f1ead0fbf58249a" sha1="f35754f4bfe3a53722d7a799f88face0fd13c424"/>
+		<rom name="Virtua Fighter (Japan, USA) (En).32x" size="4194304" crc="b5de9626" md5="901e97c9f731fbdf1f1ead0fbf58249a" sha1="f35754f4bfe3a53722d7a799f88face0fd13c424" sha256="c595e136c91a012b1e7d591acfb9d965926cac51acea998b90969d74391bfa08"/>
 	</game>
 	<game name="Virtua Hamster (USA) (Proto)" id="0061">
+		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Virtua Hamster (USA) (Proto)</description>
-		<rom name="Virtua Hamster (USA) (Proto).32x" size="2097152" crc="cd54ac37" md5="b3a4929fcb61bc9ecdfd9ac453860fc1" sha1="c10f98d9db73ae90be5e5d556b663a5aff015cef"/>
+		<rom name="Virtua Hamster (USA) (Proto).32x" size="2097152" crc="cd54ac37" md5="b3a4929fcb61bc9ecdfd9ac453860fc1" sha1="c10f98d9db73ae90be5e5d556b663a5aff015cef" sha256="5ac6524ba0b7dc32d83f373b63ae4e808834d87b0254f196460c71b74de10275"/>
 	</game>
 	<game name="Virtua Racing Deluxe (USA)" id="0056">
 		<category>Games</category>
@@ -213,9 +215,10 @@
 		<rom name="World Series Baseball Starring Deion Sanders (USA).32x" size="3145728" crc="6de1bc75" md5="4d14eab0585e79e2fc4789e090755f2d" sha1="ab3026eae46a775adb7eaebc13702699557ddc41"/>
 	</game>
 	<game name="X-Men (USA) (Proto)" id="0062">
+		<category>Games</category>
 		<category>Preproduction</category>
 		<description>X-Men (USA) (Proto)</description>
-		<rom name="X-Men (USA) (Proto).32x" size="4194304" crc="d61febc0" md5="bdd19a34a887a4aa6067ccfb617b9041" sha1="cd3fa2ace2fdbf4b6402cb52eeb208010bf31029"/>
+		<rom name="X-Men (USA) (Proto).32x" size="4194304" crc="d61febc0" md5="bdd19a34a887a4aa6067ccfb617b9041" sha1="cd3fa2ace2fdbf4b6402cb52eeb208010bf31029" sha256="a68fef8167be7be2d4a15f0711f49e5de30c1cd348bc51334e67905774f42229"/>
 	</game>
 	<game name="Zaxxon's Motherbase 2000 (Japan, USA) (En)" id="0037">
 		<category>Games</category>

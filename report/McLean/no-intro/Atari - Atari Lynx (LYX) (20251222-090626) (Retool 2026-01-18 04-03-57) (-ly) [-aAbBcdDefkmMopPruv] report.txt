@@ -1,0 +1,177 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* BIOS AND OTHER CHIP REMOVES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+* PIRATE REMOVES
+* PREPRODUCTION REMOVES
+* UNLICENSED REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ A.P.B. (USA, Europe)
++ Awesome Golf (USA, Europe)
++ Baseball Heroes (USA, Europe)
++ Basketbrawl (USA, Europe)
++ Batman Returns (USA, Europe)
++ Battle Wheels (USA, Europe)
++ Battlezone 2000 (USA, Europe)
++ Bill & Ted's Excellent Adventure (USA, Europe)
++ Block Out (USA, Europe)
++ Blue Lightning (World)
++ Bubble Trouble (USA, Europe)
++ California Games (World)
++ Checkered Flag (USA, Europe)
++ Chip's Challenge (World)
++ Crystal Mines II (USA, Europe)
++ Desert Strike - Return to the Gulf (USA, Europe)
++ Dinolympics (USA, Europe)
++ Dirty Larry - Renegade Cop (USA, Europe)
++ Double Dragon (USA, Europe)
++ Dracula - The Undead (USA, Europe)
++ Electrocop (World)
++ European Soccer Challenge (USA, Europe)
++ Fat Bobby (USA, Europe)
++ Fidelity Ultimate Chess Challenge, The (USA, Europe)
++ Gates of Zendocon (World)
++ Gauntlet - The Third Encounter (World)
++ Gordo 106 (USA, Europe)
++ Hard Drivin' (USA, Europe)
++ Hockey (USA, Europe)
++ Hydra (USA, Europe)
++ Ishido - The Way of Stones (USA, Europe)
++ Jimmy Connors' Tennis (USA, Europe)
++ Joust (USA, Europe)
++ Klax (World)
++ Krazy Ace - Miniature Golf (USA, Europe)
++ Kung Food (USA, Europe)
++ Lemmings (USA, Europe)
++ Lynx Casino (USA, Europe)
++ Malibu Bikini Volleyball (USA, Europe)
++ Ms. Pac-Man (World)
++ NFL Football (USA, Europe)
++ Ninja Gaiden (USA, Europe)
++ Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)
++ Pac-Land (USA, Europe)
++ Paperboy (World)
++ Pinball Jam (USA, Europe)
++ Pit-Fighter (USA, Europe)
++ Power Factor (USA, Europe)
++ QIX (USA, Europe)
++ Rampage (World)
++ Rampart (USA, Europe)
++ RoadBlasters (World)
++ Robo-Squash (World)
++ Robotron 2084 (USA, Europe)
++ Rygar (World)
++ S.T.U.N. Runner (USA, Europe)
++ Scrapyard Dog (USA, Europe)
++ Shadow of the Beast (USA, Europe)
++ Shanghai (World)
++ Steel Talons (USA, Europe)
++ Super Asteroids, Missile Command (USA, Europe)
++ Super Off-Road (USA, Europe)
++ Super Skweek (USA, Europe)
++ Switchblade II (USA, Europe)
++ Todd's Adventures in Slime World (World)
++ Toki (USA, Europe)
++ Tournament Cyberball (USA, Europe)
++ Turbo Sub (USA, Europe)
++ Viking Child (USA, Europe)
++ Warbirds (USA, Europe)
++ World Class Soccer (USA, Europe)
++ Xenophobe (World)
++ Xybots (USA, Europe)
++ Zarlor Mercenary (World)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- Lynx II Production Test Program (USA)
+- RAM cart (USA) (Proto) (Program)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Atari Lynx (World)
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- Blue Lightning (World) (Demo)
+- Cabal (USA) (Demo)
+- Conquest of Zow (World) (Demo) (Unl)
+- Friendly (World) (Demo) (Unl)
+- Geoduel (USA) (Demo)
+- Mines 2 (World) (Demo) (Unl)
+- Ninja Nerd (USA) (Demo)
+- Spacewar (USA) (Demo)
+- Wolfman (USA) (Demo) (Kiosk)
+
+PIRATE REMOVES
+==============
+These titles were removed because the user excluded pirate titles.
+
+- T-Tris (World) (Pirate)
+- T-Tris (World) (Pirate) (Alt)
+
+PREPRODUCTION REMOVES
+=====================
+These titles were removed because the user excluded preproduction titles.
+
+- Alien vs Predator (Europe) (Proto) (1993-12-17)
+- Centipede (USA) (Proto)
+- Daemon's Gate (USA) (Proto 1)
+- Daemon's Gate (USA) (Proto 2)
+- Eye of the Beholder (USA) (Proto 1)
+- Full Court Press (USA) (Proto)
+- Gauntlet - The Third Encounter (World) (Beta) (1990-06-04)
+- Guardians, The - Storm Over Doria (USA) (Proto 1)
+- Guardians, The - Storm Over Doria (USA) (Proto 2)
+- Klax (World) (Beta)
+- Loopz (USA) (v0.04) (Proto) (1992-09-16)
+- Loopz (USA) (v0.06) (Proto) (1992-11-05)
+- Malibu Bikini Volleyball (USA, Europe) (Beta) (1993-05-11)
+- Marlboro Go! (Europe) (Proto 1)
+- Marlboro Go! (Europe) (Proto 2)
+- Pit-Fighter (USA, Europe) (Beta) (1992-10-13)
+- Poker (Europe) (Fr) (Proto)
+- Pounce! (USA) (Proto)
+- Puzzler 2000 (World) (Proto) (Unl)
+- Raiden (USA) (Beta)
+- Road Riot 4WD (USA) (Proto 1)
+- Road Riot 4WD (USA) (Proto 2)
+- Road Riot 4WD (USA) (Proto 3)
+- Road Riot 4WD (USA) (Proto 4)
+- Rolling Thunder (USA) (Proto)
+- Vindicators (USA) (Proto)
+- Zaku (World) (Beta) (Unl)
+
+UNLICENSED REMOVES
+==================
+These titles were removed because the user excluded unlicensed titles.
+
+- Awesome Golf (World) (Atari Lynx Collection 1) (Unl)
+- Basketbrawl (World) (Atari Lynx Collection 1) (Unl)
+- Crystal Mines II - Buried Treasure (World) (Unl)
+- Dracula - The Undead (World) (Atari Lynx Collection 1) (Unl)
+- Eye of the Beholder (World) (Unl)
+- Gordo 106 (World) (Atari Lynx Collection 1) (Unl)
+- Ishido - The Way of Stones (World) (Atari Lynx Collection 1) (Unl)
+- Jimmy Connors' Tennis (World) (Atari Lynx Collection 1) (Unl)
+- Malibu Bikini Volleyball (World) (Atari Lynx Collection 1) (Unl)
+- Power Factor (World) (Atari Lynx Collection 1) (Unl)
+- Super Skweek (World) (Atari Lynx Collection 1) (Unl)
+- Zaku (World) (Unl)

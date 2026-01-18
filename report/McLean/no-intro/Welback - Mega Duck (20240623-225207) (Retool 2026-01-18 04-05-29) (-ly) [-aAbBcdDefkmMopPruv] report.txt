@@ -1,0 +1,44 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+
+
+TITLES WITH CLONES
+==================
+
++ Pile Wonder (World)
+  - Pile Wonder (World) (Alt)
+
+TITLES WITHOUT CLONES
+=====================
+
++ 2nd Space (World)
++ Ant Soldiers (World)
++ Arctic Zone (World)
++ Armour Force (World)
++ Beast Fighter (World)
++ Black Forest Tale (World)
++ Bomb Disposer (World)
++ Captain Knick Knack (World)
++ Commin 5 in 1 (World)
++ Duck Adventures (World)
++ Magic Maze (World)
++ Magical Tower (World)
++ Mega Duck 4 in 1 (World)
++ Puppet Knight (World)
++ Railway (World)
++ Snake Roy (World)
++ Street Rider (World)
++ Suleiman's Treasure (World)
++ The Brick Wall (World)
++ Trap Turn (World)
++ Vex (World)
++ Worm Visitor (World)
++ Zipball (World)

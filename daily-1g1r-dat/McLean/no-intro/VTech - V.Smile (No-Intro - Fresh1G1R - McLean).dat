@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>VTech - V.Smile (Retool)</name>
-		<description>VTech - V.Smile (44) (-ly) [-aAbBcdDefkmMopPruv] (20260106-005848) (Retool)</description>
+		<description>VTech - V.Smile (40) (-ly) [-aAbBcdDefkmMopPruv] (20260106-005848) (Retool)</description>
 		<version>20260106-005848</version>
-		<date>2026-01-17 03-40-23</date>
+		<date>2026-01-18 04-03-30</date>
 		<author>Aringon, coraz, FakeShemp, Gefflon, Hiccup, InternalLoss, Larsenv, NESBrew12, nnssxx, omonim2007, relax, sCZther, SonGoku, Tauwasser, TeamEurope, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -66,11 +66,6 @@
 		<description>Disney's Mickey Mouse - Mickey's Magical Adventure (USA)</description>
 		<rom name="Disney's Mickey Mouse - Mickey's Magical Adventure (USA).bin" size="8388608" crc="997a8a07" md5="966104df000938c5e663ba80d348d0c4" sha1="cd70c7249e25a37aeb3a3b85f56bd2b39dbf3d73" sha256="9c3b76e00b7830220bbe6dbbb17fab2e4179dd42f25b87459a659edfe20deba6"/>
 	</game>
-	<game name="Disney's The Lion King - Simba's Big Adventure (USA)" id="0382">
-		<category>Games</category>
-		<description>Disney's The Lion King - Simba's Big Adventure (USA)</description>
-		<rom name="Disney's The Lion King - Simba's Big Adventure (USA).bin" size="6291456" crc="c2dd93d5" md5="a8b02f172a3efcac9b840a994119537a" sha1="742607eb325210da56be6d8a0c781c48b799a629" sha256="21a0640626524167f7015cbabaa4cd0674537d58780cf6d3265b31467dedede4"/>
-	</game>
 	<game name="Disney's The Lion King - Simba's Big Adventure (USA) (2004)" id="0085">
 		<category>Games</category>
 		<description>Disney's The Lion King - Simba's Big Adventure (USA) (2004)</description>
@@ -121,11 +116,6 @@
 		<description>Dora the Explorer - Dora's Fix-It Adventure (USA, United Kingdom) (2005)</description>
 		<rom name="Dora the Explorer - Dora's Fix-It Adventure (USA, United Kingdom) (2005).bin" size="8388608" crc="225c3133" md5="b941dba85d040afc620e7df286fc70da" sha1="97610c09834251d1960dbc67da18dad91e832dba" sha256="8ffe67125c89fc1b9f72a5bb40718bf14fe2e700c7768d57262b3ec2d1b0b14e"/>
 		<rom name="Dora the Explorer - Dora's Fix-It Adventure (USA, United Kingdom) (2005).bin" size="8388608" crc="225c3133" md5="b941dba85d040afc620e7df286fc70da" sha1="97610c09834251d1960dbc67da18dad91e832dba"/>
-	</game>
-	<game name="Dora the Explorer - Dora's Fix-it Adventure (United Kingdom) (2007)" id="0414">
-		<category>Games</category>
-		<description>Dora the Explorer - Dora's Fix-it Adventure (United Kingdom) (2007)</description>
-		<rom name="Dora the Explorer - Dora's Fix-it Adventure (United Kingdom) (2007).bin" size="8388608" crc="3a96b71d" md5="baa245b43dbdbd6fbd079c04fa4f5d47" sha1="1ad68250dab5be23b634c5528e28ab5198012ee9" sha256="643de2e876a9b35a273d29832c5e150e76fce1cc00567097e5a40c5f36d1fd3e"/>
 	</game>
 	<game name="Dora the Explorer - Dora's Got a Puppy (USA) (Smartbook)" id="0415">
 		<category>Games</category>
@@ -202,11 +192,6 @@
 		<description>Thomas &amp; Friends - Engines Working Together (USA)</description>
 		<rom name="Thomas &amp; Friends - Engines Working Together (USA).bin" size="8388608" crc="ff0d3dca" md5="3ee81bcb662e4bf66c38f8cd149b3bc1" sha1="23a9a05289a9fc858bb7b91a6efad8c1ed54bced" sha256="ccc4c40c3b3391bf2fe3265f43f5f20234b82d3a334b78d95fec15ed98980b20"/>
 	</game>
-	<game name="V.Smile - Soccer Challenge (USA) (Rev 2)" id="0448">
-		<category>Games</category>
-		<description>V.Smile - Soccer Challenge (USA) (Rev 2)</description>
-		<rom name="V.Smile - Soccer Challenge (USA) (Rev 2).bin" size="8388608" crc="e96f49df" md5="56e0aee9c808d344c460ac86c1d270e3" sha1="e06eb8657d179a80ad23e832b46c6e85235b66c8" sha256="f1760b66008913880a7aedd9e94ab7cf0e0bae9615712505d8039ba33f07bd9d"/>
-	</game>
 	<game name="Wild Waves (USA) (V.Smile Motion)" id="0257">
 		<category>Games</category>
 		<description>Wild Waves (USA) (V.Smile Motion)</description>
@@ -226,10 +211,5 @@
 		<category>Games</category>
 		<description>Zayzoo - An Earth Adventure (USA, United Kingdom) (Rev 4)</description>
 		<rom name="Zayzoo - An Earth Adventure (USA, United Kingdom) (Rev 4).bin" size="8388608" crc="4e94fce2" md5="f5ae93c7e57a2f6aedef7a3572a9250d" sha1="b65a446199d390d6b25046fb66fb7e7f329e84c5" sha256="5b3f5139e94227b6200e1dc499cd6f346f256e217f79247c97d99634d65342b2"/>
-	</game>
-	<game name="Zayzoo - My Alien Classmate (USA)" id="0457">
-		<category>Games</category>
-		<description>Zayzoo - My Alien Classmate (USA)</description>
-		<rom name="Zayzoo - My Alien Classmate (USA).bin" size="8388608" crc="76ff9718" md5="585f0a8cf4380d44cecd4d8d26d3e0e6" sha1="be783c1abe96f785564f5b5b6b4ea089b799c1d4" sha256="6aad2003754cab4c8104ead553f5722d097e2c6144929fb1370f03249524bfe5"/>
 	</game>
 </datafile>

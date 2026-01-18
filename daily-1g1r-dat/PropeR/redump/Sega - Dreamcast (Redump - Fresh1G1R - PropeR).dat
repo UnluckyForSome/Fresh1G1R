@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast (Retool)</name>
-		<description>Sega - Dreamcast (656) (-y) [-aAbBcdkmMpPuv] (2026-01-10 08-39-37) (Retool)</description>
-		<version>2026-01-10 08-39-37</version>
-		<date>2026-01-17 03-44-09</date>
+		<description>Sega - Dreamcast (656) (-y) [-aAbBcdkmMpPuv] (2026-01-17 20-56-16) (Retool)</description>
+		<version>2026-01-17 20-56-16</version>
+		<date>2026-01-18 04-07-38</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -5491,13 +5491,13 @@
 		<rom name="Sakura Momoko Gekijou - Coji-Coji (Japan) (Track 3).bin" size="1185760800" crc="553f2c14" md5="963e9d9a31f9f4cb5a86188ead50690f" sha1="dd1d8cee1d683f41a29af3cc85cff74bb9412a66"/>
 		<rom name="Sakura Momoko Gekijou - Coji-Coji (Japan).cue" size="417" crc="12c9c4be" md5="ae0714a28d46b21778371a8d84a9c121" sha1="3d849b0b7f827dcd79f3e4c0471221532caa3067"/>
 	</game>
-	<game name="Sakura Taisen (Japan) (Disc 1)">
+	<game name="Sakura Taisen (Japan) (Disc 1) (Rev A)">
 		<category>Games</category>
-		<description>Sakura Taisen (Japan) (Disc 1)</description>
-		<rom name="Sakura Taisen (Japan) (Disc 1) (Track 1).bin" size="705600" crc="a4dc0757" md5="6fe7c844c5372a649e9c5a6a2e2161b9" sha1="129fc9679818d92d0bbf99450019dae37e8d073a"/>
-		<rom name="Sakura Taisen (Japan) (Disc 1) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
-		<rom name="Sakura Taisen (Japan) (Disc 1) (Track 3).bin" size="1185760800" crc="afd23241" md5="9f9a7792b3425e7c3e4526e6e3f2c247" sha1="a7c66254b88072afebdf2c842f6dffcb025c20b9"/>
-		<rom name="Sakura Taisen (Japan) (Disc 1).cue" size="384" crc="20102641" md5="5e7adeb3387bd77cc7e7c82936929a62" sha1="9e1fabff7acbe73ac0eff17280ac136a476bd671"/>
+		<description>Sakura Taisen (Japan) (Disc 1) (Rev A)</description>
+		<rom name="Sakura Taisen (Japan) (Disc 1) (Rev A) (Track 1).bin" size="705600" crc="60851f18" md5="7af762924158ce757c0eb6a9a09311f9" sha1="a9042bc74c4e10e0db2d8a6e72872da3813128cc"/>
+		<rom name="Sakura Taisen (Japan) (Disc 1) (Rev A) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
+		<rom name="Sakura Taisen (Japan) (Disc 1) (Rev A) (Track 3).bin" size="1185760800" crc="240b4117" md5="5f8da8e838af9b41dea8b1872d809a2c" sha1="f4077a914e66ff7ec0f53f403ea2a61b5dfbfd83"/>
+		<rom name="Sakura Taisen (Japan) (Disc 1) (Rev A).cue" size="408" crc="0f1e37b3" md5="bae5198d60b37ffb6625b30f10a3b9e4" sha1="9d7964ac96e6fcb6aac82e9453eaca3a9cd4603d"/>
 	</game>
 	<game name="Sakura Taisen (Japan) (Disc 2) (Rev A)">
 		<category>Games</category>

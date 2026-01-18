@@ -1,0 +1,70 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+
+
+TITLES WITH CLONES
+==================
+
++ Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 2)
+  - Amazing Spider-Man, The - Countdown to Doom (UK)
+  - Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 1)
+  - Asombroso Spider-Man, El - Persecucion en la Ciudad (Spain)
+  - Spider-Man - Angriff der Super-Schurken (Germany)
+  - Spider-Man Course-Poursuite a Manhattan (France)
++ Bratz - Fashion Pixiez - The Secret Necklace (USA)
+  - Bratz - El Misterio del Collar (Spain)
+  - Bratz Fashion Pixiez - Le Collier Magique (France)
++ Defis Sports (France)
+  - Multisports (Germany)
++ Disney Princess - The Crystal Ball Adventure (USA)
+  - Disney Princess - Das Zauberhafte Maerchen-Abenteuer (Germany)
+  - Disney Princess - El Castillo de las Princesas (Spain)
+  - Disney Princess - The Crystal Ball Adventure (UK)
+  - Disney Princess - The Crystal Ball Adventure (USA) (Alt 2)
+  - Disney Princess - The Crystal Ball Adventure (USA) (Alt)
+  - Disney Princesses - L'Aventure Enchantee (France)
++ Disney-Pixar Cars - In the Fast Lane (USA) (Rev 3)
+  - Cars - Auf der Ueberholspur (Germany)
+  - Cars - El Carril Rapido (Spain)
+  - Disney-Pixar Cars - In the Fast Lane (USA)
+  - Disney-Pixar Cars - In the Fast Lane (USA) (Rev 1)
++ Incredibles, The - Mission Incredible (USA)
+  - Incredibles, The - Mission Incredible (UK)
+  - Increibles, Los - Mision Increible (Spain)
+  - Indestructibles, Les - Les Indestructibles a la Rescousse (France)
+  - Unglaublichen, Die (The Incredibles) - In Unglaublicher Mission (Germany)
++ Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 2)
+  - Bob L'Eponge - Une Idee Spongieuse (France)
+  - Nick SpongeBob Schwammkopf - Ein Schwamm Voller Ideen (Germany)
+  - Nickelodeon Bob Esponja - Mision Esponja (Spain)
+  - Nickelodeon SpongeBob SquarePants - Idea Sponge (UK)
+  - Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 1)
++ Scooby-Doo! Ancient Adventure (USA) (Rev 1)
+  - Scooby-Doo - Viaje al Pasado (Spain)
+  - Scooby-Doo! Ancient Adventure (UK)
+  - Scooby-Doo! Ancient Adventure (USA)
+  - Scooby-Doo! Les Civilisations Perdues (France)
++ Shrek the Third - The Search for Arthur (USA)
+  - Shrek Le Troisieme - En quete d'Artur (France)
+  - Shrek Tercero - Donde Esta Arturo (Spain)
+  - Shrek der Dritte - Die Suche nach Arthus (Germany)
+  - Shrek the Third - The Search for Arthur (UK)
++ Wacky Race on Jumpin' Bean Island (USA) (Rev 3)
+  - Carrera Loca en la Isla de las Vainas Fritas (Spain) (Rev 1)
+  - Dingo Rallye - Fou ! Fou ! Fou ! (France)
+  - Verrueckte Rennen der Huepf-Bohnen Insel, Das (Germany)
+  - Wacky Race on Jumpin' Bean Island (UK)
+  - Wacky Race on Jumpin' Bean Island (USA) (Rev 2)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Disney-Pixar Cars - A Fond la Caisse ! (France)

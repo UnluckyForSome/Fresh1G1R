@@ -2,29 +2,19 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>VTech - V.Smile (Retool)</name>
-		<description>VTech - V.Smile (267) (-y) [-aAbBcdkmMpPuv] (20260106-005848) (Retool)</description>
+		<description>VTech - V.Smile (89) (-y) [-aAbBcdkmMpPuv] (20260106-005848) (Retool)</description>
 		<version>20260106-005848</version>
-		<date>2026-01-17 03-46-08</date>
+		<date>2026-01-18 04-09-15</date>
 		<author>Aringon, coraz, FakeShemp, Gefflon, Hiccup, InternalLoss, Larsenv, NESBrew12, nnssxx, omonim2007, relax, sCZther, SonGoku, Tauwasser, TeamEurope, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
 		<retool>Created by Retool 2.4.8</retool>
 	</header>
-	<game name="5, Rue Sesame - Le Monde d'Elmo - Les grandes decouvertes d'Elmo (France)" id="0102">
-		<category>Games</category>
-		<description>5, Rue Sesame - Le Monde d'Elmo - Les grandes decouvertes d'Elmo (France)</description>
-		<rom name="5, Rue Sesame - Le Monde d'Elmo - Les grandes decouvertes d'Elmo (France).bin" size="8388608" crc="def351e7" md5="3c5064c05008700db8d790f1ef28e935" sha1="95d005b6e2bf36add42916025558744ccffc8863" sha256="0c961d4fb008cd5487cd4f67fb5c09f4e0af8c36f01862a73f3392a7eeaba2eb"/>
-	</game>
-	<game name="5, Rue Sesame - Les aventures imaginaires d'Ernest et Bart (France)" id="0216">
+	<game name="Action Mania (USA) (Rev 2) (V.Smile Motion)" id="0259">
 		<category>Educational</category>
-		<description>5, Rue Sesame - Les aventures imaginaires d'Ernest et Bart (France)</description>
-		<rom name="5, Rue Sesame - Les aventures imaginaires d'Ernest et Bart (France).bin" size="8388608" crc="80da2b1d" md5="0301889df0b3826def06df1cf9e9215b" sha1="0e16fabbef582893e51503a018d8e6edfe2a3fee" sha256="f90af0dc3c271d8ccd338f0cb9e33c0f81253a67c5ab0cc4cabfbcde635623bd"/>
-	</game>
-	<game name="Action Mania (USA) (Rev 1) (V.Smile Motion)" id="0260">
-		<category>Educational</category>
-		<description>Action Mania (USA) (Rev 1) (V.Smile Motion)</description>
-		<rom name="Action Mania (USA) (Rev 1) (V.Smile Motion).bin" size="8388608" crc="65b5a102" md5="a6b865722d49ed6987572635e3e7d8c9" sha1="336bab256596756931d7821244d9d659e55992e8" sha256="713a0f53c6c79c4e63600c2dba2663d0c8b13286df1ca2ccf80b25caea1cfc21"/>
+		<description>Action Mania (USA) (Rev 2) (V.Smile Motion)</description>
+		<rom name="Action Mania (USA) (Rev 2) (V.Smile Motion).bin" size="8388608" crc="c3ca971e" md5="2a4016fe02f923584c1727b5e9671db0" sha1="5c63215280ec3fdb01e8b4a0c151496718b6bc0a" sha256="87f7460d4dd8a76e5b238ec6aadca38930690dc8e636bcce9388a8e76ca6dce0"/>
 	</game>
 	<game name="Adventures of Little Red Riding Hood, The (USA)" id="0187">
 		<category>Games</category>
@@ -41,21 +31,6 @@
 		<description>Alphabet Park Adventure (USA) (Rev 3)</description>
 		<rom name="Alphabet Park Adventure (USA) (Rev 3).bin" size="8388608" crc="d8583aa2" md5="5295fa35b2aef72be934a8f786bade66" sha1="5b83f4c7fed4f86182ae3cd2b25ec403d129b81b" sha256="ab0099e749e61879aa9ba1b5361e6a2ce1f0a369cb1957bc9bcb47bcee06980b"/>
 	</game>
-	<game name="Arche de Noe, L' - L'aventure des animaux (France) (V.Smile Baby)" id="0323">
-		<category>Games</category>
-		<description>Arche de Noe, L' - L'aventure des animaux (France) (V.Smile Baby)</description>
-		<rom name="Arche de Noe, L' - L'aventure des animaux (France) (V.Smile Baby).bin" size="8388608" crc="745f97b3" md5="47288a6eab3190327a59dedbffab482f" sha1="a1d82044e215730a4c8ad7440360ee6336e01b01" sha256="9f2171eeb3eb1be69878316df8af1570b9c493d4717cca7abfc76f4958930963"/>
-	</game>
-	<game name="Aventures du Petit Chaperon Rouge, Les (France)" id="0230">
-		<category>Games</category>
-		<description>Aventures du Petit Chaperon Rouge, Les (France)</description>
-		<rom name="Aventures du Petit Chaperon Rouge, Les (France).bin" size="8388608" crc="a22ffa89" md5="c8748364dfeba628ad32db0a3aceb1ea" sha1="4e2daa67b0617b3ea4a0e05eb2eb5a5550645d20" sha256="0815e1ed70851f1c36398b61f713bad122512fad0f2da8f0b686d6d8f8c6eb74"/>
-	</game>
-	<game name="Baby Einstein - Un monde de decouvertes (France) (V.Smile Baby)" id="0319">
-		<category>Educational</category>
-		<description>Baby Einstein - Un monde de decouvertes (France) (V.Smile Baby)</description>
-		<rom name="Baby Einstein - Un monde de decouvertes (France) (V.Smile Baby).bin" size="8388608" crc="d0690ae6" md5="d798faa12c0041a843e39542abc36063" sha1="bde281db67b477798974983a505bed7497e25763" sha256="b7bc7d2f56b25b0aad605d7aeb5b8fb096efef5490bdee3091a45b5edac548c4"/>
-	</game>
 	<game name="Baby Einstein - World of Discoveries (USA) (V.Smile Baby)" id="0202">
 		<category>Educational</category>
 		<description>Baby Einstein - World of Discoveries (USA) (V.Smile Baby)</description>
@@ -65,11 +40,6 @@
 		<category>Educational</category>
 		<description>Backyardigans, The - Big Backyard Adventures (USA) (V.Smile Baby)</description>
 		<rom name="Backyardigans, The - Big Backyard Adventures (USA) (V.Smile Baby).bin" size="8388608" crc="2a1d80a4" md5="b11fd2e425da5790caf0c6065050f683" sha1="aeab9a3458f2740a959a05e0ffe8103ecfcee3bf" sha256="4879acc62e09401609125b1627f93a6fa853e0fe457594c4e62197acc367a043"/>
-	</game>
-	<game name="Backyardigans, The - Viking Voyage (USA) (2006)" id="0188">
-		<category>Educational</category>
-		<description>Backyardigans, The - Viking Voyage (USA) (2006)</description>
-		<rom name="Backyardigans, The - Viking Voyage (USA) (2006).bin" size="8388608" crc="68e3129b" md5="69da74d7011e80126a5bd83b2ab83e60" sha1="bf70c4b601fc19008a434b0cbf6b8ad0a2106e89"/>
 	</game>
 	<game name="Backyardigans, The - Viking Voyage (USA) (2008)" id="0189">
 		<category>Educational</category>
@@ -86,95 +56,20 @@
 		<description>Barney - The Land of Make Believe (USA) (Rev 1)</description>
 		<rom name="Barney - The Land of Make Believe (USA) (Rev 1).bin" size="8388608" crc="a527a382" md5="543e41a308baafac9ad8c7de8444ceba" sha1="14a5d997ba60807316eede17b7970e1d4537922f" sha256="51c7fdf41ab6ef5b9f2c6a8b58c5295a8a9ba718bb14c81da28f5871d5b6ce49"/>
 	</game>
-	<game name="Barrio Sesamo - El Mundo Fantastico de Epi y Blas (Spain)" id="0336">
-		<category>Educational</category>
-		<description>Barrio Sesamo - El Mundo Fantastico de Epi y Blas (Spain)</description>
-		<rom name="Barrio Sesamo - El Mundo Fantastico de Epi y Blas (Spain).bin" size="8388608" crc="619e1530" md5="2e36a1e7b7a9203d3357c2272c6e8b15" sha1="f1294726ff035c0c67a9e6845302c11f3ba2ee91" sha256="6ed7655fa765f0a309b89d3e9bd27324a691ff9dc448b02f91fa8b4cfc7ef073"/>
-	</game>
-	<game name="Barrio Sesamo - El Mundo de Elmo - Grandes descubrimientos de Elmo (Spain)" id="0399">
-		<category>Games</category>
-		<description>Barrio Sesamo - El Mundo de Elmo - Grandes descubrimientos de Elmo (Spain)</description>
-		<rom name="Barrio Sesamo - El Mundo de Elmo - Grandes descubrimientos de Elmo (Spain).bin" size="8388608" crc="9cbc133f" md5="8254daf12a287ad82b723a2bfae660f2" sha1="407dfedaf9a42b09633330a7e646529b39b2c673" sha256="a19ebb16c2519e8b23df7137eb1197e7f29ff876141b5708c5606c6b1f3f5e0b"/>
-	</game>
-	<game name="Batman - De redding van Gotham City (Netherlands)" id="0433">
-		<category>Games</category>
-		<description>Batman - De redding van Gotham City (Netherlands)</description>
-		<rom name="Batman - De redding van Gotham City (Netherlands).bin" size="8388608" crc="d6df687c" md5="0f3c4c8ccb32ead127106c81f95452d2" sha1="bb2e86c32fe29207f540622dc68fed14e6d8ff29" sha256="9511ba27499bb2ce519e6d3e9797426ad40e3d2f1a13606411ab9534f04897e3"/>
-	</game>
 	<game name="Batman - Gotham City Rescue (USA, United Kingdom)" id="0120">
 		<category>Games</category>
 		<description>Batman - Gotham City Rescue (USA, United Kingdom)</description>
 		<rom name="Batman - Gotham City Rescue (USA, United Kingdom).bin" size="8388608" crc="fde620e9" md5="61a9a08a76c370bad91c420b5680c2ca" sha1="81d014800f06bb964f23919fa16f9d14c8189c7d" sha256="1becad5e0b1fd3217499ee2ec136c7b3d713c88cab0a6eb96718b7263d179bfa"/>
-	</game>
-	<game name="Batman - Panique a Gotham City (France)" id="0434">
-		<category>Games</category>
-		<description>Batman - Panique a Gotham City (France)</description>
-		<rom name="Batman - Panique a Gotham City (France).bin" size="8388608" crc="8a550348" md5="3c72a3cbcec1f6647dd55cd6af016917" sha1="1cbc6f64ff5bd78f8dc760025467c1715c6a11c2" sha256="31843979af7be8f91b889e6fd859e7aac5ce580537660f6ee63f35b8bc3c9a23"/>
-	</game>
-	<game name="Batman - Rescate en Gotham City (Spain)" id="0435">
-		<category>Games</category>
-		<description>Batman - Rescate en Gotham City (Spain)</description>
-		<rom name="Batman - Rescate en Gotham City (Spain).bin" size="8388608" crc="5526c511" md5="dd710e532bb77cc6cac1ac72398eb531" sha1="f49ed294dd7259bf077423a99b65dbe1c387b35b" sha256="95795f74632290391771c410adecfa955ed3b70351a5db796a839e5c4ecbf8b8"/>
-	</game>
-	<game name="Batman - Rettung von Gotham City (Germany)" id="0436">
-		<category>Games</category>
-		<description>Batman - Rettung von Gotham City (Germany)</description>
-		<rom name="Batman - Rettung von Gotham City (Germany).bin" size="8388608" crc="7718f2f2" md5="b71f891291a9411b34b659af661ea662" sha1="4b34dcfae721d82392dc486ac531b7b8def97257" sha256="c04a0c3c44849e3cd53ca9bd36efbd360872a1fbdca5784290e9e29e076e635b"/>
-	</game>
-	<game name="Bianfuxia - Zhengjiu Chengshi (China)" id="0337">
-		<category>Games</category>
-		<description>Bianfuxia - Zhengjiu Chengshi (China)</description>
-		<rom name="Bianfuxia - Zhengjiu Chengshi (China).bin" size="8388608" crc="1b8f118a" md5="5bd4c819f7d8cab3bf458ee8e60f5634" sha1="b921dfe8fdb8694f11b575a18b529e2d9de66160" sha256="2fd7fbfb21b0830ee7ae611395e293bb450fb442d70980b78295987a6a865891"/>
-	</game>
-	<game name="Bisounous, Les - Le monde merveilleux des Bisounours (France)" id="0404">
-		<category>Educational</category>
-		<description>Bisounous, Les - Le monde merveilleux des Bisounours (France)</description>
-		<rom name="Bisounous, Les - Le monde merveilleux des Bisounours (France).bin" size="8388608" crc="7de5716b" md5="ad67b76140cc3d34ab00fa808e4307fa" sha1="463fb552790ce25cdd4adecb8218ba3766446efa" sha256="1682b472252fa9623bbbe97b52112ea02f650e2f411631695e666089879b961b"/>
 	</game>
 	<game name="Blue's Clues - Collection Day (USA)" id="0135">
 		<category>Games</category>
 		<description>Blue's Clues - Collection Day (USA)</description>
 		<rom name="Blue's Clues - Collection Day (USA).bin" size="8388608" crc="031c6a38" md5="1c4f9885c9dc286e2e1194ddac402e28" sha1="0b8e2b17a146d903dd2708c06562787e47d7ec4e" sha256="497d5bbd04aa8263ee9d0321eda16cb04b8f2316dbb2349a48611b4aecdd6fb9"/>
 	</game>
-	<game name="Bob Esponja - Un dia en la vida de una esponja (Spain)" id="0416">
-		<category>Games</category>
-		<description>Bob Esponja - Un dia en la vida de una esponja (Spain)</description>
-		<rom name="Bob Esponja - Un dia en la vida de una esponja (Spain).bin" size="8388608" crc="176d5a11" md5="c63861cc2a0deb0cbada3316ce7bfb18" sha1="e334d4d3b6d75a0a4e1dff9aab7a990de1a2879e" sha256="90bb31dddd38aa891736685ce3736fcdb244c7550abdbd47a5fdf1b9e99f372c"/>
-	</game>
-	<game name="Bob L'eponge - Une journee dans la vie d'une eponge (France)" id="0235">
-		<category>Games</category>
-		<description>Bob L'eponge - Une journee dans la vie d'une eponge (France)</description>
-		<rom name="Bob L'eponge - Une journee dans la vie d'une eponge (France).bin" size="8388608" crc="0434bd33" md5="0749733b58000d46b03321f887687985" sha1="64cd5ef60474da4304966a03e5c3c9a34417642b" sha256="9e48b826aed34bc1eb433cbeefa824f487425986713285f37a60add4a1c6fc91"/>
-	</game>
-	<game name="Bob der Baumeister - Bobs spannender Arbeitstag (Germany) (2005)" id="0010">
-		<category>Games</category>
-		<description>Bob der Baumeister - Bobs spannender Arbeitstag (Germany) (2005)</description>
-		<rom name="Bob der Baumeister - Bobs spannender Arbeitstag (Germany) (2005).bin" size="8388608" crc="70c83b25" md5="f46e76f83cb4a63db6e690043dbbb63c" sha1="bebe311cfbeb25e01892b7636f4427ae0e0e4c9e" sha256="23b22f54d9344d6aaba9869c6b4cbc446c8f14f6155c68f53756c4984d4cdd70"/>
-	</game>
-	<game name="Bob der Baumeister - Bobs spannender Arbeitstag (Germany) (2008)" id="0338">
-		<category>Games</category>
-		<description>Bob der Baumeister - Bobs spannender Arbeitstag (Germany) (2008)</description>
-		<rom name="Bob der Baumeister - Bobs spannender Arbeitstag (Germany) (2008).bin" size="8388608" crc="b0623371" md5="013bffeeec8dbda9578a1801680346c6" sha1="9c5d7cfbdf21495b8a461408a1969f5095d4d914" sha256="e233ef180cfad6a7cf3bc53deffa3fe023eeadd901684ae949e91dc22a71720a"/>
-	</game>
-	<game name="Bob le Bricoleur - Les p'tits chantiers de Bob (France)" id="0227">
-		<category>Games</category>
-		<description>Bob le Bricoleur - Les p'tits chantiers de Bob (France)</description>
-		<rom name="Bob le Bricoleur - Les p'tits chantiers de Bob (France).bin" size="8388608" crc="608c9a0e" md5="1445b515699fbee3204a9fc8cbea2fd6" sha1="30ceea73edb0ecea4c1d9ebd29eb8cdeee052a1a" sha256="16cdeaaf24899ffd5eabdeb30bffde720159ab54cdb8aa5863436f40faf1196f"/>
-	</game>
 	<game name="Bob the Builder - Bob's Busy Day (USA)" id="0031">
 		<category>Games</category>
 		<description>Bob the Builder - Bob's Busy Day (USA)</description>
 		<rom name="Bob the Builder - Bob's Busy Day (USA).bin" size="8388608" crc="6aea957b" md5="c9413b1b3cc19ce80ce10dec1f4defcd" sha1="947008c882733a8284a000c9c4d379e2c213526e" sha256="cb2728e740671d2c51df7494ff9692f432a808985ebcbebb1634d1325d4f311b"/>
-	</game>
-	<game name="Bob y sus Amigos - Un Dia De Trabajo (Spain)" id="0339">
-		<category>Games</category>
-		<description>Bob y sus Amigos - Un Dia De Trabajo (Spain)</description>
-		<rom name="Bob y sus Amigos - Un Dia De Trabajo (Spain).bin" size="8388608" crc="c39b08f9" md5="2d2618a25beb3e6b0b6bc3bce25012d6" sha1="c38a77fc615302a649b6f0668fbcad7f2ade02bd" sha256="1bc411a61a85d27dec976b4b396e3d9d533f5d52087273a229f60d6a481e5de6"/>
-	</game>
-	<game name="Campeonato de Futbol V.Smile (Spain) (V.Smile Motion)" id="0340">
-		<category>Games</category>
-		<description>Campeonato de Futbol V.Smile (Spain) (V.Smile Motion)</description>
-		<rom name="Campeonato de Futbol V.Smile (Spain) (V.Smile Motion).bin" size="8388608" crc="6921c270" md5="9891270a59f085191b261141903a9f87" sha1="c74875dfadfebe52cc30f6accfe2064bf790d75a" sha256="fc7ef662fdd457978b974bdaff8b7a52cbd5300c3cf72b748b4c4589b0ced72e"/>
 	</game>
 	<game name="Care Bears (USA) (V.Smile Baby)" id="0205">
 		<category>Educational</category>
@@ -186,55 +81,15 @@
 		<description>Care Bears - A Lesson in Caring (USA)</description>
 		<rom name="Care Bears - A Lesson in Caring (USA).bin" size="8388608" crc="7d711a0e" md5="a232f50ebeca526b53f4b4e4e5653cf2" sha1="6bd5ec6407f8c450293f18095d2d3474245f7817" sha256="24107caffe392c32e4aa4e434b8390e9f5f4cdf689b700d4c82d6f05722b5444"/>
 	</game>
-	<game name="Cars - Acelera el Motor en Radiador Springs (Spain) (V.Smile Motion)" id="0243">
-		<category>Educational</category>
-		<description>Cars - Acelera el Motor en Radiador Springs (Spain) (V.Smile Motion)</description>
-		<rom name="Cars - Acelera el Motor en Radiador Springs (Spain) (V.Smile Motion).bin" size="8388608" crc="0adff74e" md5="b22369b6c410b523ecd66d09a8bcae23" sha1="7110d97905c955467d2c1529b91b83633f963086" sha256="3d2014aeccec18812df48e15e474e10c11d9757707b17e49d136d0f6e4673137"/>
-	</game>
-	<game name="Cars - Quatre roues (France) (2009)" id="0228">
-		<category>Games</category>
-		<description>Cars - Quatre roues (France) (2009)</description>
-		<rom name="Cars - Quatre roues (France) (2009).bin" size="8388608" crc="155d969f" md5="827a653ee5a9bf6edb3b8874e81348d9" sha1="4871fb0a95bd2f41f67863091fa22b8fdd3a67e0" sha256="92aea448498a2d0b1d85a3d1f7d9efc58ba786907cf7e0218043c1c6b6b38487"/>
-	</game>
-	<game name="Cars - Quatre roues (France) (Rev 1) (2006)" id="0082">
-		<category>Games</category>
-		<description>Cars - Quatre roues (France) (Rev 1) (2006)</description>
-		<rom name="Cars - Quatre roues (France) (Rev 1) (2006).bin" size="8388608" crc="c1f63c2e" md5="ea8ce4b0f0fd5f51372d02d73c07b21d" sha1="3a6726a0a5dd5543d632dfbf57144da780994ba5" sha256="2950bc4768292e7e5157232a593c99a58c5d068b0e63b975609690401229ed4d"/>
-	</game>
 	<game name="Cars - Rev It Up in Radiator Springs (USA) (V.Smile Motion)" id="0275">
 		<category>Games</category>
 		<description>Cars - Rev It Up in Radiator Springs (USA) (V.Smile Motion)</description>
 		<rom name="Cars - Rev It Up in Radiator Springs (USA) (V.Smile Motion).bin" size="8388608" crc="1e6363ef" md5="b45f02c52fb94156603766acf21ce24c" sha1="5db9fe5626ebae102ee0ec8e6b42c7987c7df686" sha256="80878d4d4b2bde9f77f4a42400de365eba814b13fd6675426772f5bc87d7a2d0"/>
 	</game>
-	<game name="Cars 2 (USA) (Rev 1) (V.Smile Motion) (Pocket Version)" id="0194">
-		<category>Educational</category>
-		<description>Cars 2 (USA) (Rev 1) (V.Smile Motion) (Pocket Version)</description>
-		<rom name="Cars 2 (USA) (Rev 1) (V.Smile Motion) (Pocket Version).bin" size="16777216" crc="d19699cf" md5="1ed97198e1c12f68fee184e0cd80d370" sha1="15bcd9b8209e89058d09ee24c8b9f07b294efd66" sha256="11abff74046a7ae5f57211e06ca076a0ab7b6f76c0346681ce5570f75edd5044"/>
-	</game>
 	<game name="Cars 2 (USA) (V.Smile Motion)" id="0458">
 		<category>Educational</category>
 		<description>Cars 2 (USA) (V.Smile Motion)</description>
 		<rom name="Cars 2 (USA) (V.Smile Motion).bin" size="16777216" crc="d695994b" md5="eb01e72c532df222516663e9c329ebdd" sha1="bcb17d8381a90d0c587dd03d530331b25fbacca4" sha256="6ac30cb745e7d054bc9047a75db0cf5987ec47e541a93888ed7152dac24f90bd"/>
-	</game>
-	<game name="Conduccion Divertida (Spain)" id="0342">
-		<category>Games</category>
-		<description>Conduccion Divertida (Spain)</description>
-		<rom name="Conduccion Divertida (Spain).bin" size="8388608" crc="c52ff5d8" md5="005de9b37fb3817f2c624c4c48851bfe" sha1="ce48bb9ea53cbdfa243170217908cc1f4352e4f0" sha256="733340f7ef28486f175abd4acee8e2496d60676fb0a48e4e0b888d5d556c1bfa"/>
-	</game>
-	<game name="Cranium - Freizeit Park - Ein Jahrmarkt Voller Spiel-Und Lernspass (Germany)" id="0343">
-		<category>Games</category>
-		<description>Cranium - Freizeit Park - Ein Jahrmarkt Voller Spiel-Und Lernspass (Germany)</description>
-		<rom name="Cranium - Freizeit Park - Ein Jahrmarkt Voller Spiel-Und Lernspass (Germany).bin" size="8388608" crc="ccaa8438" md5="b46837d58aebfc34f04fe796bb4fb93e" sha1="33e6c815d669888bdf6d43a4aade97e8a9e693ea" sha256="d7bd96a5d4f97aa6a3c7f98d97bb7341df7663bceaf9989ae28088d3173845ca"/>
-	</game>
-	<game name="Cranium - Le parc d'attractions (France)" id="0344">
-		<category>Games</category>
-		<description>Cranium - Le parc d'attractions (France)</description>
-		<rom name="Cranium - Le parc d'attractions (France).bin" size="8388608" crc="d805b153" md5="20acef2f7950b7f0262759b935d41910" sha1="c17c4eac3e6b2ed974dc6793104fd9e6f3e0243c" sha256="4dbb9db6f4b7b8c7364fb1c94cd1621446a4d95e98f8f094ec0247568a6d3c26"/>
-	</game>
-	<game name="Cranium - Parque de Atracciones de Cranium (Spain)" id="0345">
-		<category>Games</category>
-		<description>Cranium - Parque de Atracciones de Cranium (Spain)</description>
-		<rom name="Cranium - Parque de Atracciones de Cranium (Spain).bin" size="8388608" crc="8fd7aff1" md5="e147975e979d2514a7eab380902ca313" sha1="2723f4c72edd087ceb8c306bbb993811ba480fb7" sha256="0d52ecbbe1b2028a85ca32f392d6944a29e05de9d908598d13122c41458ec258"/>
 	</game>
 	<game name="Cranium - Partyland Park - A Carnival of Play-and-Learn Fun (USA) (Rev 1)" id="0036">
 		<category>Games</category>
@@ -251,11 +106,6 @@
 		<description>Day on the Farm, A (USA) (V.Smile Baby)</description>
 		<rom name="Day on the Farm, A (USA) (V.Smile Baby).bin" size="8388608" crc="7f93ea7b" md5="81f8a42493dbed1c2b8d1a34d85d77b9" sha1="a130881e45c6a6a6158f64c2e7fb51d55fb2a15f" sha256="dd8c7eec8d6b0331fedc4a33367ce0ad346b0052da903f56c0afc20b489df5fa"/>
 	</game>
-	<game name="Decouvertes de Mickey et ses amis, Les (France) (V.Smile Baby)" id="0324">
-		<category>Games</category>
-		<description>Decouvertes de Mickey et ses amis, Les (France) (V.Smile Baby)</description>
-		<rom name="Decouvertes de Mickey et ses amis, Les (France) (V.Smile Baby).bin" size="8388608" crc="2d1e5884" md5="8904a992587128f1f5698579250f48ac" sha1="9b3b00e8a7c29155ce2dfab28c6bc09b0ffa11b8" sha256="641993b0509747360bb39c23c0ca67573989ebb3d60be895add146b7f9ffbc67"/>
-	</game>
 	<game name="Dierenhuis (Netherlands) (V.Smile Baby)" id="0320">
 		<category>Games</category>
 		<description>Dierenhuis (Netherlands) (V.Smile Baby)</description>
@@ -266,310 +116,40 @@
 		<description>Discovery with Baby Mickey &amp; Friends (USA) (V.Smile Baby)</description>
 		<rom name="Discovery with Baby Mickey &amp; Friends (USA) (V.Smile Baby).bin" size="8388608" crc="8b694c2c" md5="84388dc67b9dfcd19abd2f8e5113cf87" sha1="7d3ac29cda9728545bd040af182cb78f9a7b7c02" sha256="2ce62b0c6b276adbe5eec8ada633e4f88f8879c9de57ef112c9df3ee52efca8f"/>
 	</game>
-	<game name="Disney Aladdin - El Maravilloso Mundo de Aladdin (Spain)" id="0130">
-		<category>Games</category>
-		<description>Disney Aladdin - El Maravilloso Mundo de Aladdin (Spain)</description>
-		<rom name="Disney Aladdin - El Maravilloso Mundo de Aladdin (Spain).bin" size="8388608" crc="5e01645f" md5="cbf6fe6456192e90c29662b865eb9029" sha1="de4d420a7bfb9a33fbd739a5111e331b7ba6c85a" sha256="4a510f1949d2afdd3edfe3a7d8cefffa09f50ad833a360b2edeec0ecd935d6bf"/>
-	</game>
-	<game name="Disney Aladdin - Il magico mondo di Aladdin (Italy)" id="0138">
-		<category>Games</category>
-		<description>Disney Aladdin - Il magico mondo di Aladdin (Italy)</description>
-		<rom name="Disney Aladdin - Il magico mondo di Aladdin (Italy).bin" size="8388608" crc="4ea0f59a" md5="41887cccd9c6d01140d780f15ae1f8fe" sha1="0810f65d356b421ac384578daaa7af9406807299" sha256="e6028b93960c4ebc002f2f789ac314038f73872637f6501275edfeb2aa29c9b7"/>
-	</game>
-	<game name="Disney Baby - Nalle Puhs aeventyr i Sjumilaskogen (Sweden) (V.Smile Baby)" id="0061">
-		<category>Games</category>
-		<description>Disney Baby - Nalle Puhs aeventyr i Sjumilaskogen (Sweden) (V.Smile Baby)</description>
-		<rom name="Disney Baby - Nalle Puhs aeventyr i Sjumilaskogen (Sweden) (V.Smile Baby).bin" size="8388608" crc="5dbe1c20" md5="62bff1f7c9c2fbfc0c41317fb2602aab" sha1="51f56cedbe99fc7438429a4c02c08f65d2313790" sha256="211208777b76fe17d4c3d14708a5c0177f7c65743003c0f58fbcf71cf9ea96fe"/>
-	</game>
 	<game name="Disney Baby - Pooh's Hundred Acre Wood Adventure (USA) (V.Smile Baby)" id="0142">
 		<category>Educational</category>
 		<description>Disney Baby - Pooh's Hundred Acre Wood Adventure (USA) (V.Smile Baby)</description>
 		<rom name="Disney Baby - Pooh's Hundred Acre Wood Adventure (USA) (V.Smile Baby).bin" size="8388608" crc="31e6ccc5" md5="2aed2aba031b5ad26ad55f05a668bccb" sha1="2379b95910b171aa984d41b3a11d295639e5c8da" sha256="309bbe08b844920a7cd56188cd67d00338c3e8da39ef7d170ecedf72d90a8466"/>
-	</game>
-	<game name="Disney Den lille havfrue - Ariels majestaetiske rejse! (Denmark)" id="0055">
-		<category>Games</category>
-		<description>Disney Den lille havfrue - Ariels majestaetiske rejse! (Denmark)</description>
-		<rom name="Disney Den lille havfrue - Ariels majestaetiske rejse! (Denmark).bin" size="8388608" crc="182b5973" md5="cfd9dbc6d77a9e3ed679fb70dc3435f7" sha1="7f356a9890c7ea20c81db94f81037355b8cfb2c9" sha256="4fe5dd1cf226dd2c60a37063bdbfd905437601cab6c9df77bc70335cfee92b51"/>
-	</game>
-	<game name="Disney Der Koenig der Loewen - Simbas grosses Abenteuer (Germany)" id="0347">
-		<category>Educational</category>
-		<description>Disney Der Koenig der Loewen - Simbas grosses Abenteuer (Germany)</description>
-		<rom name="Disney Der Koenig der Loewen - Simbas grosses Abenteuer (Germany).bin" size="8388608" crc="f2394e3a" md5="b2803584967720febcde094ca8d18433" sha1="e39e05400279a1328832c873f811ce432be59d13" sha256="7192476d4561e258644bdd869901671c302f171f5ae661189bd33d6c4a0c2a39"/>
-	</game>
-	<game name="Disney El Rey Leon - La Gran Aventura de Simba (Spain)" id="0352">
-		<category>Games</category>
-		<description>Disney El Rey Leon - La Gran Aventura de Simba (Spain)</description>
-		<rom name="Disney El Rey Leon - La Gran Aventura de Simba (Spain).bin" size="8388608" crc="eefc51d2" md5="c630522295a2f48b8432dbb1b8f294d9" sha1="294164e8df7cc5510e0dd9ea658976054fcf9e7e" sha256="4de1975ac104abe4c074d483586f6d7317ec0a76387f2a31f65401b80dab59f5"/>
-	</game>
-	<game name="Disney Fairies - Campanilla (Spain) (V.Smile Motion)" id="0265">
-		<category>Games</category>
-		<description>Disney Fairies - Campanilla (Spain) (V.Smile Motion)</description>
-		<rom name="Disney Fairies - Campanilla (Spain) (V.Smile Motion).bin" size="8388608" crc="dc99e5b3" md5="b9447037be4bb233f035f6602ac3e69b" sha1="9104605d6a5f2828bdccbf719de255c45511dc99" sha256="d7492ec1a2a8e16077b4ec1e5d9a3134da5ac3c5f40eaa0edef016efc5b251af"/>
-	</game>
-	<game name="Disney Fairies - La Fee Clochette (France) (V.Smile Motion)" id="0248">
-		<category>Games</category>
-		<description>Disney Fairies - La Fee Clochette (France) (V.Smile Motion)</description>
-		<rom name="Disney Fairies - La Fee Clochette (France) (V.Smile Motion).bin" size="8388608" crc="0b2645fd" md5="977a3e705541c452395a971d56856702" sha1="8ad3b1f8082852c947c1c5a22a82e954861a0cc5" sha256="51ddf892085ede09a0a6fbb0be58b042adfc2b33517186694cbb523dcd01fdc5"/>
-	</game>
-	<game name="Disney Fairies - Tingeling (Sweden)" id="0089">
-		<category>Games</category>
-		<description>Disney Fairies - Tingeling (Sweden)</description>
-		<rom name="Disney Fairies - Tingeling (Sweden).bin" size="8388608" crc="5ae6dced" md5="b5514747c03a0c90506ef9b66f362270" sha1="3298bf1fb43173e1c4c2200ddc5a1a6af57d4323" sha256="eeb9c512b0a7adfdfe6fcc28b303846233f8d7236d25dcf3f8034ce6d37c256a"/>
 	</game>
 	<game name="Disney Fairies - TinkerBell (USA) (Rev 1) (V.Smile Motion)" id="0318">
 		<category>Educational</category>
 		<description>Disney Fairies - TinkerBell (USA) (Rev 1) (V.Smile Motion)</description>
 		<rom name="Disney Fairies - TinkerBell (USA) (Rev 1) (V.Smile Motion).bin" size="8388608" crc="fa8d9640" md5="1a1187e6101fe1fb5c9e6fad9fac756c" sha1="23a69fbc2b70658b827f1b8196ee55e3efd85ef5" sha256="3786df6ba087761f72fa3b5714ef0953456d0f12e1464c75c06205af7657ae12"/>
 	</game>
-	<game name="Disney Il Re Leone - La Grande Avventura di Simba (Italy)" id="0109">
-		<category>Games</category>
-		<description>Disney Il Re Leone - La Grande Avventura di Simba (Italy)</description>
-		<rom name="Disney Il Re Leone - La Grande Avventura di Simba (Italy).bin" size="8388608" crc="6f807218" md5="93b777cc5a77a9f2c851bde6b1ea98e3" sha1="2783734d1596021f0aadf1b20d7398d2f73abb04" sha256="86578a2c06929f2728754f7fa636653ff2c1fe7dfa4f98be93bbec78f7fa83f2"/>
-	</game>
-	<game name="Disney Kuss den Frosch - Tianas grosser Traum (Germany) (V.Smile Motion)" id="0278">
-		<category>Games</category>
-		<description>Disney Kuss den Frosch - Tianas grosser Traum (Germany) (V.Smile Motion)</description>
-		<rom name="Disney Kuss den Frosch - Tianas grosser Traum (Germany) (V.Smile Motion).bin" size="8388608" crc="8abc088c" md5="0f390932742427ab8690efcabd409d61" sha1="3637de0af0371a4bb473ae28b35141b10bbb047f" sha256="0bc89852965ba214c2e5473d4fe3a3f825745643a8ffb051fdcef8c5951689a3"/>
-	</game>
-	<game name="Disney La Casa de Mickey Mouse (Spain) (V.Smile Motion)" id="0240">
-		<category>Games</category>
-		<description>Disney La Casa de Mickey Mouse (Spain) (V.Smile Motion)</description>
-		<rom name="Disney La Casa de Mickey Mouse (Spain) (V.Smile Motion).bin" size="8388608" crc="d0acb307" md5="548c5c21505292a3e2de3f489a982641" sha1="ff777127884649e62413aac03228a60b073f23c4" sha256="354206ce8b6a41e57ca55c79d12383a30c37b2fd6f619c4e084bd0e1ad02fe95"/>
-	</game>
-	<game name="Disney La Maison de Mickey (France) (V.Smile Motion)" id="0219">
-		<category>Games</category>
-		<description>Disney La Maison de Mickey (France) (V.Smile Motion)</description>
-		<rom name="Disney La Maison de Mickey (France) (V.Smile Motion).bin" size="8388608" crc="7d77f657" md5="9e36d574e8bcf44a88cc818db65ea86b" sha1="90cea293ebd539ac22baa343a1efb771d91ffe4d" sha256="483936ccf96da53a25231d6786ef283508b41746816602db71986f8d79cb9de9"/>
-	</game>
-	<game name="Disney La Petite Sirene - Ariel devient une princesse (France)" id="0078">
-		<category>Games</category>
-		<description>Disney La Petite Sirene - Ariel devient une princesse (France)</description>
-		<rom name="Disney La Petite Sirene - Ariel devient une princesse (France).bin" size="8388608" crc="341b2f6c" md5="b845e786ee715da3fc0179f0837318ba" sha1="a9f6a30037dc814b6cf8e8485ee9778038a20c23" sha256="056e110ead1e8f064de393026e1edfad9f0303bd308e005debe926ab68b1d7f4"/>
-	</game>
-	<game name="Disney La Sirenetta - Ariel e la Crociera Magica (Italy)" id="0107">
-		<category>Games</category>
-		<description>Disney La Sirenetta - Ariel e la Crociera Magica (Italy)</description>
-		<rom name="Disney La Sirenetta - Ariel e la Crociera Magica (Italy).bin" size="8388608" crc="280b335b" md5="9236c3a35aad92b434b0af701406dede" sha1="256ea4f5725dcfd51be08ea6c135ad71701cc296" sha256="5d4602a136621127d15b5b373a170be9a8a4b7190802a4ab856db0b684636206"/>
-	</game>
-	<game name="Disney La Sirenita - El Viaje Fantastico de Ariel (Spain)" id="0134">
-		<category>Games</category>
-		<description>Disney La Sirenita - El Viaje Fantastico de Ariel (Spain)</description>
-		<rom name="Disney La Sirenita - El Viaje Fantastico de Ariel (Spain).bin" size="8388608" crc="785f8c6b" md5="a8a626216242aa397a90fe74c2d8f4e5" sha1="abba1985e7f5bc3708fe6f34e8e7e4e5b0327f9d" sha256="423b4b5b0f19a96b36d3ca5d613b25c7b755c6b09e915bb044ad6106156380c0"/>
-	</game>
-	<game name="Disney Le Roi Lion - Simba decouvre la jungle (France) (Rev 1)" id="0209">
-		<category>Games</category>
-		<description>Disney Le Roi Lion - Simba decouvre la jungle (France) (Rev 1)</description>
-		<rom name="Disney Le Roi Lion - Simba decouvre la jungle (France) (Rev 1).bin" size="8388608" crc="918ccbfb" md5="edac2348cbc9511258b227b3f61299b1" sha1="f396bb2a325046e2463c7cb9438e56ba9c765d79" sha256="38ebeaac8efa92b0e286e85caa2137a53c1714a71619c77dff5f6436a49e2628"/>
-	</game>
-	<game name="Disney Lejonkungen - Simbas stora aeventyr (Sweden)" id="0091">
-		<category>Games</category>
-		<description>Disney Lejonkungen - Simbas stora aeventyr (Sweden)</description>
-		<rom name="Disney Lejonkungen - Simbas stora aeventyr (Sweden).bin" size="8388608" crc="e1123089" md5="8537dcba1c06eb8ff4665d276b9ac314" sha1="058c60342c49844b4855d11ce1219879bfd2b6be" sha256="a124fe7511a40bfd5d7b6ac3e0e5c36683baab0d07b8c843edee5b3a5a29c8eb"/>
-	</game>
-	<game name="Disney Lovernes Konge - Simbas store eventyr (Denmark)" id="0054">
-		<category>Games</category>
-		<description>Disney Lovernes Konge - Simbas store eventyr (Denmark)</description>
-		<rom name="Disney Lovernes Konge - Simbas store eventyr (Denmark).bin" size="8388608" crc="924efa89" md5="ef048f4645f5ae842454e87f4eed53e6" sha1="fd111f99ef101d318a66a728927d379559dc0106" sha256="e278508b39d0ebe8e78a62462892b9a31976ae9900b66bc28eca400759e1b06e"/>
-	</game>
-	<game name="Disney Mes Amis Tigrou et Winnie - La chasse au miel de Winnie (France)" id="0236">
-		<category>Games</category>
-		<description>Disney Mes Amis Tigrou et Winnie - La chasse au miel de Winnie (France)</description>
-		<rom name="Disney Mes Amis Tigrou et Winnie - La chasse au miel de Winnie (France).bin" size="8388608" crc="a9df1913" md5="9b5cba0da4c38f96d8c1001239c89235" sha1="6c33440888e06fdf7c9a1bdf36faa6a9328ce7a7" sha256="d7f3eb3046703da0df41ce1e86a1ed8fe3db8d0b82ff3261b2f8cbb9eedf672a"/>
-	</game>
-	<game name="Disney Mickey - La Aventura Magica de Mickey (Spain)" id="0356">
-		<category>Games</category>
-		<description>Disney Mickey - La Aventura Magica de Mickey (Spain)</description>
-		<rom name="Disney Mickey - La Aventura Magica de Mickey (Spain).bin" size="8388608" crc="85e30a67" md5="c68319b88cdc941a18a78ef5db43409b" sha1="4059485db625955c2a9aad1769f5e21da1c24c62" sha256="e5dd074262ce203ecbca3527a97ba863f00591a46e0d3b1c8eb8709f2cb024e8"/>
-	</game>
 	<game name="Disney Mickey - Mickey a la recherche de Pluto (France)" id="0355">
 		<category>Games</category>
 		<description>Disney Mickey - Mickey a la recherche de Pluto (France)</description>
 		<rom name="Disney Mickey - Mickey a la recherche de Pluto (France).bin" size="8388608" crc="223f11b1" md5="d883a11b8dee9c938d228e52951140b6" sha1="a212a6e78d9563aff2850d60299c92e525368bac" sha256="16e4f73c5850b0ef0fe157a6f2fec30caa5309886c65a32b76130d4d312d2f9a"/>
-	</game>
-	<game name="Disney Mickey Mouse - De wonderwereld van Micke (Netherlands)" id="0366">
-		<category>Games</category>
-		<description>Disney Mickey Mouse - De wonderwereld van Micke (Netherlands)</description>
-		<rom name="Disney Mickey Mouse - De wonderwereld van Micke (Netherlands).bin" size="8388608" crc="aef4d01c" md5="594fb4637e4aa307cb4bb0621f8d94e6" sha1="afa7193a9a97c41ad2a337f8527b53cc1bcb8758" sha256="702d2ffb656a15dfaeaeda560b25e26a00c7f84fe236e0791b6041fa6f48d9e6"/>
 	</game>
 	<game name="Disney Mickey Mouse Clubhouse (USA) (V.Smile Motion)" id="0269">
 		<category>Games</category>
 		<description>Disney Mickey Mouse Clubhouse (USA) (V.Smile Motion)</description>
 		<rom name="Disney Mickey Mouse Clubhouse (USA) (V.Smile Motion).bin" size="8388608" crc="2538c1d2" md5="73f113963bc61460461735911d88b050" sha1="481af1fe5de995854068329aabf08ae9c197d175" sha256="de0f3b6a9d04a71946cfc5456d4125eac96641c2b88eb65a3277a63ddcb6939f"/>
 	</game>
-	<game name="Disney Micky Maus Wunderhaus (Germany) (V.Smile Motion)" id="0271">
-		<category>Games</category>
-		<description>Disney Micky Maus Wunderhaus (Germany) (V.Smile Motion)</description>
-		<rom name="Disney Micky Maus Wunderhaus (Germany) (V.Smile Motion).bin" size="8388608" crc="64dcc828" md5="af2978dd3eada81b5753c769aef4026e" sha1="5759bf07ba4b79d58baec9418e3cd9b9f5f9fa7f" sha256="09f6ab91073758e6d984b0823c784f7f705317f8d5ce111a000aca1cf353090d"/>
-	</game>
-	<game name="Disney My Friends Tigger &amp; Pooh - Die Honigjagd (Germany) (Rev 2)" id="0090">
-		<category>Games</category>
-		<description>Disney My Friends Tigger &amp; Pooh - Die Honigjagd (Germany) (Rev 2)</description>
-		<rom name="Disney My Friends Tigger &amp; Pooh - Die Honigjagd (Germany) (Rev 2).bin" size="8388608" crc="081e414d" md5="fcab8838fc0c4544e663b3af9face439" sha1="e612aee1f62ca260bc0b011a512fd8c207eeb833" sha256="3454ed5aa992cfa25f6cf7252694a6dda55ff4bb2622ad744624c86ff1575f18"/>
-	</game>
-	<game name="Disney My Friends Tigger and Pooh - En Busca de la Miel (Spain)" id="0359">
-		<category>Games</category>
-		<description>Disney My Friends Tigger and Pooh - En Busca de la Miel (Spain)</description>
-		<rom name="Disney My Friends Tigger and Pooh - En Busca de la Miel (Spain).bin" size="8388608" crc="836353ed" md5="c4fc0ad5a5aa4865a4257d0830e7296a" sha1="7d8f5d5f743d40441b714e47a26a611d7fca7f03" sha256="1775422c1e182134db0a166dd6a4f0535ac70af39a0a9db146fabec9a0d3780a"/>
-	</game>
-	<game name="Disney Nalle Puh - Honungsjakten (Sweden)" id="0043">
-		<category>Games</category>
-		<description>Disney Nalle Puh - Honungsjakten (Sweden)</description>
-		<rom name="Disney Nalle Puh - Honungsjakten (Sweden).bin" size="8388608" crc="70bde4da" md5="45c7fe8e21d8ccd262fa599994ed336d" sha1="788a8b471ef97106fbcaeb053cd6aa19c6ac299a" sha256="eaeddaafe53c66995c4cb5f9dde41ba27de14eab7fafcffeed414a2957d9b2ce"/>
-	</game>
-	<game name="Disney Peter Plys - Honningjagten (Denmark)" id="0042">
-		<category>Games</category>
-		<description>Disney Peter Plys - Honningjagten (Denmark)</description>
-		<rom name="Disney Peter Plys - Honningjagten (Denmark).bin" size="8388608" crc="f2cf8e50" md5="21744fe61fe5113ebe1d890d32a236e5" sha1="9ef7e8a3f03c252970348f2eabc53010c1ee588b" sha256="598700c60f2916649612be9ab0d8651ada33bcdc712209fdd7acc9962d611886"/>
-	</game>
-	<game name="Disney Princesas - Cenicienta, La - Los suenos magicos de Cenicienta (Spain) (2005)" id="0450">
-		<category>Games</category>
-		<description>Disney Princesas - Cenicienta, La - Los suenos magicos de Cenicienta (Spain) (2005)</description>
-		<rom name="Disney Princesas - Cenicienta, La - Los suenos magicos de Cenicienta (Spain) (2005).bin" size="8388608" crc="dbb7b765" md5="e455e79b0c2b91939710d706ffdc8618" sha1="442609ef00cb96b21c854239eb3f815722f644e3" sha256="cd5d96ebeb611f438dd3a21c3310a4d50e2209916b1859a551af1834a0c09295"/>
-	</game>
-	<game name="Disney Princesas - Cenicienta, La - Los suenos magicos de Cenicienta (Spain) (2007)" id="0451">
-		<category>Games</category>
-		<description>Disney Princesas - Cenicienta, La - Los suenos magicos de Cenicienta (Spain) (2007)</description>
-		<rom name="Disney Princesas - Cenicienta, La - Los suenos magicos de Cenicienta (Spain) (2007).bin" size="8388608" crc="2f53195c" md5="269b7a52af62a72c6fcd02e06a2d2498" sha1="832e0b78d459df52dcefb152471e8464affdc6f4" sha256="7a73169387ab45606465157fa0e1a9afe6ed6aaa0f34997e85e0541eaca90347"/>
-	</game>
-	<game name="Disney Princesas - Cenicienta, La - Los suenos magicos de Cenicienta (Spain) (2008)" id="0452">
-		<category>Games</category>
-		<description>Disney Princesas - Cenicienta, La - Los suenos magicos de Cenicienta (Spain) (2008)</description>
-		<rom name="Disney Princesas - Cenicienta, La - Los suenos magicos de Cenicienta (Spain) (2008).bin" size="8388608" crc="41be74d6" md5="92eaf9185764b8a9874dba43ce8f5873" sha1="bfac64f8a8d9535fd5bea113319c4f8de0242c09" sha256="53b6e132f63e7016a2cf59e17a13f1f1dd3f987885877c0221b9f0cbaa0ce3a0"/>
-	</game>
-	<game name="Disney Princess - Assepoester - De wonderwereld van Assepoester (Netherlands) (2005)" id="0453">
-		<category>Games</category>
-		<description>Disney Princess - Assepoester - De wonderwereld van Assepoester (Netherlands) (2005)</description>
-		<rom name="Disney Princess - Assepoester - De wonderwereld van Assepoester (Netherlands) (2005).bin" size="8388608" crc="1153e6fa" md5="c7a9a3602787ba0b624305e7cfe8cbc7" sha1="f06990cd698fc41b5705dc3ffbd8751f9a6d4654" sha256="d2e1c23462fb20b6a2efa4735d23ec82f2508333b5043f1e41b25f7a569f42a4"/>
-	</game>
-	<game name="Disney Princess - Assepoester - De wonderwereld van Assepoester (Netherlands) (2007)" id="0455">
-		<category>Games</category>
-		<description>Disney Princess - Assepoester - De wonderwereld van Assepoester (Netherlands) (2007)</description>
-		<rom name="Disney Princess - Assepoester - De wonderwereld van Assepoester (Netherlands) (2007).bin" size="8388608" crc="c3e937e4" md5="23c2997a4e6608303c83c40f16460bee" sha1="19f899f373eb419fa85a4da4e48c011c2447643e" sha256="e21905b0e4e02e6251ed9391a5803ec12428cf2ad246602101242dc0b1f7326c"/>
-	</game>
-	<game name="Disney Princess - Assepoester - De wonderwereld van Assepoester (Netherlands) (2010)" id="0454">
-		<category>Games</category>
-		<description>Disney Princess - Assepoester - De wonderwereld van Assepoester (Netherlands) (2010)</description>
-		<rom name="Disney Princess - Assepoester - De wonderwereld van Assepoester (Netherlands) (2010).bin" size="8388608" crc="84d27007" md5="12e3307af40119c374ebbd2d69a0804f" sha1="1dfc92b3264545affb74c623cbd8704f0981a283" sha256="894bd989c6effeecdc7d0437a793519910234193c48855edef75798d9aacd5d2"/>
-	</game>
-	<game name="Disney Princess - Cinderella - Askepots magiske onsker (Denmark) (2006)" id="0047">
-		<category>Games</category>
-		<description>Disney Princess - Cinderella - Askepots magiske onsker (Denmark) (2006)</description>
-		<rom name="Disney Princess - Cinderella - Askepots magiske onsker (Denmark) (2006).bin" size="8388608" crc="81edbee0" md5="3b39766986e30f1beffd27775fb86a54" sha1="cf4bca5a1f28049a40060eead7f10c940574107f" sha256="f21da038879cd8dad7221e7d4615459ce9d2d734a84c9528753ccee6d68105ae"/>
-	</game>
-	<game name="Disney Princess - Cinderella - Askungens magiska oenskningar (Sweden) (2006)" id="0048">
-		<category>Games</category>
-		<description>Disney Princess - Cinderella - Askungens magiska oenskningar (Sweden) (2006)</description>
-		<rom name="Disney Princess - Cinderella - Askungens magiska oenskningar (Sweden) (2006).bin" size="8388608" crc="946472af" md5="f852ffbb08320b4bb7aac58b2903dcfe" sha1="9009a81689be949f9a5fbf91a6a1d2398f7e8d90" sha256="f6e0e10bf54aa11dcfaa71320d96758a38325d791a34c248bde3cec46f2cbeda"/>
-	</game>
-	<game name="Disney Princess - Cinderella - Cinderella's Magic Wishes (USA) (2005)" id="0039">
-		<category>Games</category>
-		<description>Disney Princess - Cinderella - Cinderella's Magic Wishes (USA) (2005)</description>
-		<rom name="Disney Princess - Cinderella - Cinderella's Magic Wishes (USA) (2005).bin" size="8388608" crc="2723728c" md5="e533b9126de9aeb8a88ae1523dcc20a9" sha1="32fd6a5b9718ccc7e10e64046d7ac320cfa47362" sha256="6266f5fef2f249066157ece46ce91a3a254f56f4c0169741eab142d321acafd7"/>
-	</game>
 	<game name="Disney Princess - Cinderella - Cinderella's Magic Wishes (USA) (2007)" id="0168">
 		<category>Educational</category>
 		<description>Disney Princess - Cinderella - Cinderella's Magic Wishes (USA) (2007)</description>
 		<rom name="Disney Princess - Cinderella - Cinderella's Magic Wishes (USA) (2007).bin" size="8388608" crc="19e7080d" md5="d54c38eb0495dc8376947d69239d8a4c" sha1="5b123f9f6dbc3892d9c7025639b87e70f2656e31" sha256="6cf1989e77f1d417a3b6942e14b0be893bf2b9f09c1d4bea33a0fdf552aa7b57"/>
-	</game>
-	<game name="Disney Princess - Cinderella - Lernen im Maerchenland (Germany) (2005)" id="0020">
-		<category>Games</category>
-		<description>Disney Princess - Cinderella - Lernen im Maerchenland (Germany) (2005)</description>
-		<rom name="Disney Princess - Cinderella - Lernen im Maerchenland (Germany) (2005).bin" size="8388608" crc="b08a50f3" md5="e140e962b7558646ad56b0b534127a94" sha1="a8e6b8b427115d01d35c27b41385ac5d430484c3" sha256="1b2ef1d03c66280f77184a300bfbe1de74a292abee69e578b8133ddecb693502"/>
-	</game>
-	<game name="Disney Princess - Cinderella - Lernen im Maerchenland (Germany) (2007)" id="0019">
-		<category>Games</category>
-		<description>Disney Princess - Cinderella - Lernen im Maerchenland (Germany) (2007)</description>
-		<rom name="Disney Princess - Cinderella - Lernen im Maerchenland (Germany) (2007).bin" size="8388608" crc="7dbe47a2" md5="11292320bc0bc132cef9ba7f33c064d9" sha1="d74d24d1d87a456f11a98f822b8c59d155734cea" sha256="a6305e38e1af78556f0bd4c81f16254eff3090ff969bbfb8bb3c2e7602929603"/>
-	</game>
-	<game name="Disney Princess - Cinderella - Lernen im Maerchenland (Germany) (2008)" id="0381">
-		<category>Games</category>
-		<description>Disney Princess - Cinderella - Lernen im Maerchenland (Germany) (2008)</description>
-		<rom name="Disney Princess - Cinderella - Lernen im Maerchenland (Germany) (2008).bin" size="8388608" crc="778c4f0e" md5="7eaf44f61491bbf9f45a3406ca10a881" sha1="fde2e7f898408b84c3fb9c43c0abfac088ce81df" sha256="07683194be3568c12b0e2165437bf542698a3fb787e30ab35bebafcf508498aa"/>
-	</game>
-	<game name="Disney Princess - Cinderella - Lernen im Maerchenland (Germany) (2010) (V.Smile Motion)" id="0024">
-		<category>Games</category>
-		<description>Disney Princess - Cinderella - Lernen im Maerchenland (Germany) (2010) (V.Smile Motion)</description>
-		<rom name="Disney Princess - Cinderella - Lernen im Maerchenland (Germany) (2010) (V.Smile Motion).bin" size="8388608" crc="0229cf3a" md5="e73ee87bd4ba8e5e27245d14f6cb79da" sha1="9c08e6370ecf08992924f067b64dd1950e3a2c6c" sha256="29a1182a440533ebf9596a63cf575ff8246f9317fb51492e530345aac7f6ca6c"/>
-	</game>
-	<game name="Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (France) (2005)" id="0080">
-		<category>Games</category>
-		<description>Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (France) (2005)</description>
-		<rom name="Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (France) (2005).bin" size="8388608" crc="7c63221f" md5="6927f9e0ab62153584cafe4c8fcd2a22" sha1="227e1d3b63714e6bf8d0fc0897bab9ffc1721ff5" sha256="7000b554b97e8dbd6786e3faa02c42471fc112ab3550f2c65f56675785c8e550"/>
-	</game>
-	<game name="Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (France) (2007)" id="0290">
-		<category>Games</category>
-		<description>Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (France) (2007)</description>
-		<rom name="Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (France) (2007).bin" size="8388608" crc="b199c517" md5="7288b588ae6b770b3e27ae18e9a252d6" sha1="7ae42f873aa0c533c716e6e94d00cbc74002b002" sha256="85a28fa89e9c86be8bbdb29011ddf1aa885bdbb49425ca39ddb288d4ec80562c"/>
-	</game>
-	<game name="Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (France) (2008)" id="0449">
-		<category>Games</category>
-		<description>Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (France) (2008)</description>
-		<rom name="Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (France) (2008).bin" size="8388608" crc="d15de2f6" md5="b63e72f8089b2b3771269f5e810e37d6" sha1="65b9ea951a7dae2b09b38cd29c1ac18ee5624047" sha256="d4681dd9e6df177952a9c09a9b4a8cd68fc076c6e7f14a4218a9c0c33528cf87"/>
-	</game>
-	<game name="Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (France) (2010) (V.Smile Motion)" id="0249">
-		<category>Games</category>
-		<description>Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (France) (2010) (V.Smile Motion)</description>
-		<rom name="Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (France) (2010) (V.Smile Motion).bin" size="8388608" crc="d594cf40" md5="ad7b6447dfd402443901f83e0972d4ec" sha1="69350029a2382b1849efd73c7a4429da5564d28f" sha256="513b2d6d089755c1a53503a942091422b3510853fce9fb1c472989cece3acbe3"/>
-	</game>
-	<game name="Disney Principesse - Cenerentola - I desideri magici di Cenerentola (Italy) (2006)" id="0105">
-		<category>Games</category>
-		<description>Disney Principesse - Cenerentola - I desideri magici di Cenerentola (Italy) (2006)</description>
-		<rom name="Disney Principesse - Cenerentola - I desideri magici di Cenerentola (Italy) (2006).bin" size="8388608" crc="cb28ac0d" md5="39a5189cac2cca44d16b94de4d1036cb" sha1="e938504a40a4f47cd4b09489f515c0a6545a1800" sha256="d16a41b6f0d3752e1b722e3add090ce5ebbeabb7b9bfd096d94254e15ba39686"/>
-	</game>
-	<game name="Disney Topolino - Le Magiche Avventure di Topolino (Italy)" id="0139">
-		<category>Games</category>
-		<description>Disney Topolino - Le Magiche Avventure di Topolino (Italy)</description>
-		<rom name="Disney Topolino - Le Magiche Avventure di Topolino (Italy).bin" size="8388608" crc="cc2f661d" md5="0c665632bc5c9df2630afa74dee2ed57" sha1="20cfd75031ff42d1f446e478edc6ccc78e8df66f" sha256="6b2af1f619f19a7f06808fe29ebbe61e7c8564e00f7beba786ff2d62042a7540"/>
-	</game>
-	<game name="Disney Winnie Puuh - Die Honigjagd (Germany) (V.Smile Motion)" id="0023">
-		<category>Games</category>
-		<description>Disney Winnie Puuh - Die Honigjagd (Germany) (V.Smile Motion)</description>
-		<rom name="Disney Winnie Puuh - Die Honigjagd (Germany) (V.Smile Motion).bin" size="8388608" crc="60649955" md5="895b1c8383d57573b239a94427cbcb89" sha1="2eda79cbf138e25ffb33281987cc885ec98e9b04" sha256="5d19a6ee051f17d4dc3d2a58b82186f66452db42e7a0fa278f100be8e140de97"/>
-	</game>
-	<game name="Disney Winnie l'Ourson - La Chasse au miel de Winnie (France) (V.Smile Motion)" id="0281">
-		<category>Games</category>
-		<description>Disney Winnie l'Ourson - La Chasse au miel de Winnie (France) (V.Smile Motion)</description>
-		<rom name="Disney Winnie l'Ourson - La Chasse au miel de Winnie (France) (V.Smile Motion).bin" size="8388608" crc="c71c2280" md5="cbe984d684d77a73bcebd33ca8289b40" sha1="f59a96402eadba3f937e13a4569c4b309fdec7b8" sha256="f520242192f181725de83bd1a3db47f15efb8d00ad0ffa3dc09d9537336b0585"/>
-	</game>
-	<game name="Disney Winnie the Pooh - E la caccia al miele (Italy)" id="0140">
-		<category>Games</category>
-		<description>Disney Winnie the Pooh - E la caccia al miele (Italy)</description>
-		<rom name="Disney Winnie the Pooh - E la caccia al miele (Italy).bin" size="8388608" crc="980520c0" md5="6a06d859acfc76cafe0f6a10876725e4" sha1="09d9d6be5f17406ca3f600c432d5066226508802" sha256="0ee12835f6cbc2fd733c39f68bc25daf9a4f41e9d3f3a8796100fd813cea1c8e"/>
 	</game>
 	<game name="Disney's Aladdin - Aladdin's Wonders of the World (USA)" id="0170">
 		<category>Educational</category>
 		<description>Disney's Aladdin - Aladdin's Wonders of the World (USA)</description>
 		<rom name="Disney's Aladdin - Aladdin's Wonders of the World (USA).bin" size="8388608" crc="6bd75183" md5="fb92950da5f771d8f9a082c6c41d4a0c" sha1="83626fa943a4c866952f58beb3f4ece93eeed5af" sha256="861ec09a1c24ae87bf209a03881f3c1ee64579d6c01cf48513984b7bbbb5b111"/>
 	</game>
-	<game name="Disney's Aladdin - De wonderwereld van Aladdin (Netherlands)" id="0363">
-		<category>Educational</category>
-		<description>Disney's Aladdin - De wonderwereld van Aladdin (Netherlands)</description>
-		<rom name="Disney's Aladdin - De wonderwereld van Aladdin (Netherlands).bin" size="8388608" crc="44fb6eea" md5="58fb4491322f509cb84afe77b6926f1e" sha1="8a05cadf0ecf6e47c13137ac99dacdf9ee8b0810" sha256="b162077cefc6115fe21e9e2f924bb5dc82182376509c62ed7ffab0c14a09a55e"/>
-	</game>
-	<game name="Disney's Aladdin - Les fabuleuses aventures d'Aladdin (France)" id="0351">
-		<category>Games</category>
-		<description>Disney's Aladdin - Les fabuleuses aventures d'Aladdin (France)</description>
-		<rom name="Disney's Aladdin - Les fabuleuses aventures d'Aladdin (France).bin" size="8388608" crc="08aa0570" md5="5b8444b2d301dc8309c3b5d968d4c857" sha1="ba7268cb7ffe858abbb69745dbf2279e0bb8b234" sha256="2b9c0bb140db41f0cfa0b1943737e513053286538835da33da2e7f3341c83516"/>
-	</game>
 	<game name="Disney's Mickey Mouse - Mickey's Magical Adventure (USA)" id="0367">
 		<category>Games</category>
 		<description>Disney's Mickey Mouse - Mickey's Magical Adventure (USA)</description>
 		<rom name="Disney's Mickey Mouse - Mickey's Magical Adventure (USA).bin" size="8388608" crc="997a8a07" md5="966104df000938c5e663ba80d348d0c4" sha1="cd70c7249e25a37aeb3a3b85f56bd2b39dbf3d73" sha256="9c3b76e00b7830220bbe6dbbb17fab2e4179dd42f25b87459a659edfe20deba6"/>
-	</game>
-	<game name="Disney's Micky - Mickys magisches Abenteuer (Germany)" id="0084">
-		<category>Games</category>
-		<description>Disney's Micky - Mickys magisches Abenteuer (Germany)</description>
-		<rom name="Disney's Micky - Mickys magisches Abenteuer (Germany).bin" size="8388608" crc="e50692f3" md5="439f4f02f71c2fe855f6c8d97b4ac9b0" sha1="5c5a338e0186fdd643441455c778780ef5936042" sha256="d9818547c0536c5e9e2ef2b4526800aa3ec88d1037bc5800556cd09766c9bb9e"/>
-	</game>
-	<game name="Disney's Musse Pigg - Musses magiska aeventyr (Sweden)" id="0044">
-		<category>Games</category>
-		<description>Disney's Musse Pigg - Musses magiska aeventyr (Sweden)</description>
-		<rom name="Disney's Musse Pigg - Musses magiska aeventyr (Sweden).bin" size="8388608" crc="9ec8d52f" md5="c2848036ee62b81832352a0cdf7295ca" sha1="0f6f6cc4a34aacfa4ad97a73f4c5ad04e7bcec40" sha256="c42ae0a4d2eeb43d9573f44db35b0d5873f085df3ea76031547ee458a846d487"/>
-	</game>
-	<game name="Disney's The Lion King - Simba's Big Adventure (USA)" id="0382">
-		<category>Games</category>
-		<description>Disney's The Lion King - Simba's Big Adventure (USA)</description>
-		<rom name="Disney's The Lion King - Simba's Big Adventure (USA).bin" size="6291456" crc="c2dd93d5" md5="a8b02f172a3efcac9b840a994119537a" sha1="742607eb325210da56be6d8a0c781c48b799a629" sha256="21a0640626524167f7015cbabaa4cd0674537d58780cf6d3265b31467dedede4"/>
 	</game>
 	<game name="Disney's The Lion King - Simba's Big Adventure (USA) (2004)" id="0085">
 		<category>Games</category>
@@ -581,105 +161,25 @@
 		<description>Disney's The Little Mermaid - Ariel's Majestic Journey (USA) (Rev 1)</description>
 		<rom name="Disney's The Little Mermaid - Ariel's Majestic Journey (USA) (Rev 1).bin" size="8388608" crc="4dc6a113" md5="51cb0ac2f89f67bca5a43036779448d0" sha1="28179d4215a2f541f53c851915f3eb91796b58fb" sha256="3b2f62018186802f9589a04b463f611d0b4cf379f2ca065b3b5ba4c7cc449e25"/>
 	</game>
-	<game name="Disney's Winnie de Poeh - De wonderwereld van Poeh (Netherlands)" id="0383">
-		<category>Games</category>
-		<description>Disney's Winnie de Poeh - De wonderwereld van Poeh (Netherlands)</description>
-		<rom name="Disney's Winnie de Poeh - De wonderwereld van Poeh (Netherlands).bin" size="8388608" crc="ecf7bce5" md5="56361a8334ec0ac03ccdd19e1a456a22" sha1="d045ca2e5e57c8a4efc49dbaba43d9b52d5b7612" sha256="a30657fa6ceba09dd1bc10d84c71adb48778f8cbe843972443348a229aa9c8cc"/>
-	</game>
 	<game name="Disney's Winnie the Pooh - The Honey Hunt (USA) (V.Smile Motion)" id="0253">
 		<category>Games</category>
 		<description>Disney's Winnie the Pooh - The Honey Hunt (USA) (V.Smile Motion)</description>
 		<rom name="Disney's Winnie the Pooh - The Honey Hunt (USA) (V.Smile Motion).bin" size="8388608" crc="5ffb0e13" md5="f602001b262f20dac5aacb32375834e0" sha1="44dfc7ea047d3d8ae2e36f8906a5053db16f2d8d" sha256="2f5641f4b6a204828e5343687b14cfbd9a0f640988016beaec9d60f69056e543"/>
-	</game>
-	<game name="Disney-Pixar A Procura de Nemo - Nemo A Descoberta do Oceano (Portugal)" id="0360">
-		<category>Games</category>
-		<description>Disney-Pixar A Procura de Nemo - Nemo A Descoberta do Oceano (Portugal)</description>
-		<rom name="Disney-Pixar A Procura de Nemo - Nemo A Descoberta do Oceano (Portugal).bin" size="8388608" crc="4f9324a4" md5="d14fe121bb99ff3129fab1ba73d874bc" sha1="5c8f557dce6a94111a9b5064d71e8c88ea23855f" sha256="2f64499d93f9b2d3f2ff6f8159c2800d045651e33602f2c3c49c3a0e75ad50e9"/>
-	</game>
-	<game name="Disney-Pixar Buscando a Nemo - Los Descubrimientos de Nemo (Spain)" id="0361">
-		<category>Games</category>
-		<description>Disney-Pixar Buscando a Nemo - Los Descubrimientos de Nemo (Spain)</description>
-		<rom name="Disney-Pixar Buscando a Nemo - Los Descubrimientos de Nemo (Spain).bin" size="8388608" crc="3ffa61f1" md5="df41b98cab3b53104c03d99a91188139" sha1="3f48b05018d46addd3de664fc7354eba76594e61" sha256="f70d219df77fb73444a74ef222ea39cc6ca82adb0ae14c62b638dabb4a8a0905"/>
-	</game>
-	<game name="Disney-Pixar Findet Nemo - Nemos Unterwasserabenteuer (Germany)" id="0368">
-		<category>Games</category>
-		<description>Disney-Pixar Findet Nemo - Nemos Unterwasserabenteuer (Germany)</description>
-		<rom name="Disney-Pixar Findet Nemo - Nemos Unterwasserabenteuer (Germany).bin" size="8388608" crc="71518458" md5="d5aeabad66f3ed7030f10aac44f73f70" sha1="a20f59c29391fc2b3ece92b599e42c98d846fdfe" sha256="62d86fbd648f8e6b8807c285ef5a33c87f773e59677220dbc30e53f3e936c920"/>
-	</game>
-	<game name="Disney-Pixar Finding Nemo - De wonderwereld van Nemo (Netherlands)" id="0097">
-		<category>Games</category>
-		<description>Disney-Pixar Finding Nemo - De wonderwereld van Nemo (Netherlands)</description>
-		<rom name="Disney-Pixar Finding Nemo - De wonderwereld van Nemo (Netherlands).bin" size="8388608" crc="1fd88d60" md5="e17a8b123a1eb62798cbc6626f7cb38f" sha1="6274134d0441e55c81268af331176ac3cc2e9cb5" sha256="439e581b892f902c1d1709445b3633c536ada7735191ff18a99eacc8d230dbbf"/>
 	</game>
 	<game name="Disney-Pixar Finding Nemo - Nemo's Ocean Discoveries (USA)" id="0032">
 		<category>Games</category>
 		<description>Disney-Pixar Finding Nemo - Nemo's Ocean Discoveries (USA)</description>
 		<rom name="Disney-Pixar Finding Nemo - Nemo's Ocean Discoveries (USA).bin" size="8388608" crc="e40e46dc" md5="9133aeca1fb0bc033eac96ece5e495fc" sha1="ac78178cff76ed264589113b73211b1f4cfe6dbf" sha256="55e19935fc19459d64ebca5c7c6df21483820395e8fbb18683a721a5e4572dba"/>
 	</game>
-	<game name="Disney-Pixar La-Haut (France) (V.Smile Motion)" id="0283">
-		<category>Educational</category>
-		<description>Disney-Pixar La-Haut (France) (V.Smile Motion)</description>
-		<rom name="Disney-Pixar La-Haut (France) (V.Smile Motion).bin" size="8388608" crc="57bf92d0" md5="104e2953d087041925cb7e9ec8d4c2c1" sha1="4fb3f99392bb2c9c45c0b64041a766156d1a2292" sha256="e4892a5e8ae9cdc1678dddf7b4ac9ca06228390ca4fbf48aea32d4c1bc7078a7"/>
-	</game>
-	<game name="Disney-Pixar Le Monde de Nemo - Nemo a la decouverte de l'ocean (France) (V.Smile Motion)" id="0297">
-		<category>Games</category>
-		<description>Disney-Pixar Le Monde de Nemo - Nemo a la decouverte de l'ocean (France) (V.Smile Motion)</description>
-		<rom name="Disney-Pixar Le Monde de Nemo - Nemo a la decouverte de l'ocean (France) (V.Smile Motion).bin" size="8388608" crc="9c0074ff" md5="fa64496c551722e417fe3c8803c32c8c" sha1="1541117ae29196b797976a8ebf47c5099a4feb08" sha256="de0343d62500b7906552c05266247b59796dd2a5eabc859e4bbc44ab26203b6d"/>
-	</game>
-	<game name="Disney-Pixar Oben (Germany)" id="0004">
-		<category>Games</category>
-		<description>Disney-Pixar Oben (Germany)</description>
-		<rom name="Disney-Pixar Oben (Germany).bin" size="8388608" crc="e1b9c194" md5="041060915c462b633c97d2892ab02010" sha1="a5547757e566a854c5dc1173565c7de47e4877f2" sha256="329f3ee6cea8cb174fcb290d52290e61f2b5faaa87d8954e72b9ca09530ba5ef"/>
-	</game>
-	<game name="Disney-Pixar Ratatouille - Las recetas del Remy (Spain)" id="0370">
-		<category>Educational</category>
-		<description>Disney-Pixar Ratatouille - Las recetas del Remy (Spain)</description>
-		<rom name="Disney-Pixar Ratatouille - Las recetas del Remy (Spain).bin" size="8388608" crc="23a058bf" md5="b96aa0ae48a5e4ddabf525c627a3ae40" sha1="4e78a949f84c7aa4db38ca48eae76c5f05f0d8fe" sha256="62fbc290da98af8ae590d0ca678c00454d3a466eb5858b080884daf9b16726b3"/>
-	</game>
-	<game name="Disney-Pixar Ratatouille - Le nuove Ricette di Remy (Italy) (Rev 2)" id="0108">
-		<category>Games</category>
-		<description>Disney-Pixar Ratatouille - Le nuove Ricette di Remy (Italy) (Rev 2)</description>
-		<rom name="Disney-Pixar Ratatouille - Le nuove Ricette di Remy (Italy) (Rev 2).bin" size="8388608" crc="438550fb" md5="e695bd1a6b527d4781ace44c9bde7917" sha1="1edc845aecac91eb640185895d3f7a3cdf462159" sha256="21dc7b84fdcd5e512911496d289f9c6f0bafc54b204797ab81e186e0a3712464"/>
-	</game>
-	<game name="Disney-Pixar Ratatouille - Les nouvelles recettes de Remy (France) (Rev 1)" id="0371">
-		<category>Educational</category>
-		<description>Disney-Pixar Ratatouille - Les nouvelles recettes de Remy (France) (Rev 1)</description>
-		<rom name="Disney-Pixar Ratatouille - Les nouvelles recettes de Remy (France) (Rev 1).bin" size="8388608" crc="f7b6a151" md5="89f60ac7c42ddd78fa9536611029eedf" sha1="d16ae71df4d9fec9ae30962b46fc503dd450a998" sha256="4bc41d9c1d9f9d0b8e5b6603a2e1cff190c6cdc699c3b4ef903d030f60764f7b"/>
-	</game>
 	<game name="Disney-Pixar Ratatouille - Remy's New Recipes (USA) (Rev 1)" id="0179">
 		<category>Educational</category>
 		<description>Disney-Pixar Ratatouille - Remy's New Recipes (USA) (Rev 1)</description>
 		<rom name="Disney-Pixar Ratatouille - Remy's New Recipes (USA) (Rev 1).bin" size="8388608" crc="dc949431" md5="f54134ab67e9a88f83afacdc31bba86a" sha1="885e2fa8d3731cc60bf121a945cd56c9790c457a" sha256="32fcfcb0e5e871e87b49739bb076879b955b00956855e390dab98b566e695646"/>
 	</game>
-	<game name="Disney-Pixar Ratatouille - Remy's Nieuwe Recepten (Netherlands)" id="0372">
-		<category>Educational</category>
-		<description>Disney-Pixar Ratatouille - Remy's Nieuwe Recepten (Netherlands)</description>
-		<rom name="Disney-Pixar Ratatouille - Remy's Nieuwe Recepten (Netherlands).bin" size="8388608" crc="9d43c928" md5="619842d971e454273dd4dbcc9f4916ac" sha1="eea694b1def53bc26badd05eb5bd30e6f17a5a66" sha256="0196f382f346fbfe08705ca4ea489b0a7dd83b81a4b3a8e788581fe84fa1041f"/>
-	</game>
-	<game name="Disney-Pixar Ratatouille - Remys neue Rezepte (Germany)" id="0018">
-		<category>Games</category>
-		<description>Disney-Pixar Ratatouille - Remys neue Rezepte (Germany)</description>
-		<rom name="Disney-Pixar Ratatouille - Remys neue Rezepte (Germany).bin" size="8388608" crc="d8e36793" md5="fc382e2cc8fb18a0592df13116d8c59f" sha1="e8d7078726b077d1bf0a13b715de4a03fd93189c" sha256="c39f2e0458f457f4766c3eaac02623fb6fa8afe608593d2bb2ff72b2e11914d7"/>
-	</game>
 	<game name="Disney-Pixar Toy Story 2 (USA) (Smartbook)" id="0377">
 		<category>Games</category>
 		<description>Disney-Pixar Toy Story 2 (USA) (Smartbook)</description>
 		<rom name="Disney-Pixar Toy Story 2 (USA) (Smartbook).bin" size="8388608" crc="4f5e84e0" md5="5f612f649d96cd0e81c73de592bc636b" sha1="7d82f4607b69221a565556e3f63ee3b20b8cd318" sha256="74a6b9260b2b76a147861486986e050e05dc5c0b248fdf21ec6f75a042c959d4"/>
-	</game>
-	<game name="Disney-Pixar Toy Story 2 - Buzz a la rescousse ! (France)" id="0217">
-		<category>Games</category>
-		<description>Disney-Pixar Toy Story 2 - Buzz a la rescousse ! (France)</description>
-		<rom name="Disney-Pixar Toy Story 2 - Buzz a la rescousse ! (France).bin" size="8388608" crc="be47bd65" md5="ac2d7745fa2566c0b74df89a5d542da9" sha1="391420bab3ec9c5a82bfe6aa4af5ec5e519f21fb" sha256="06b97e8cb6b8804588fac942a90d2947f8c81baba6bca5151936e443725ee15b"/>
-	</game>
-	<game name="Disney-Pixar Toy Story 2 - El Rescate De Woody (Spain)" id="0373">
-		<category>Games</category>
-		<description>Disney-Pixar Toy Story 2 - El Rescate De Woody (Spain)</description>
-		<rom name="Disney-Pixar Toy Story 2 - El Rescate De Woody (Spain).bin" size="8388608" crc="83924979" md5="02fd58c61425893d23f519b331f5d05f" sha1="3aa17cdc3977644a6a4441d3e03b9aeb3e9c96ff" sha256="d183ffe1162ca195b134302b75feb85ef06f95c7d131004251ae2943bfea9801"/>
-	</game>
-	<game name="Disney-Pixar Toy Story 2 - Operation - Raedda Woody! (Sweden)" id="0057">
-		<category>Games</category>
-		<description>Disney-Pixar Toy Story 2 - Operation - Raedda Woody! (Sweden)</description>
-		<rom name="Disney-Pixar Toy Story 2 - Operation - Raedda Woody! (Sweden).bin" size="8388608" crc="a6aa6d6b" md5="1cac2c0afd34e5a063d9f8b827bdea18" sha1="ca576d994441ffaac96e015f5a9309e0326280e1" sha256="fbd92a0fb2b3225567e3ba72e1df75b9024401a6a506f25632928ac9cc023d94"/>
 	</game>
 	<game name="Disney-Pixar Toy Story 2 - Operation - Rescue Woody! (United Kingdom)" id="0129">
 		<category>Games</category>
@@ -690,16 +190,6 @@
 		<category>Games</category>
 		<description>Disney-Pixar Toy Story 2 - Operation Rescue Woody! (USA)</description>
 		<rom name="Disney-Pixar Toy Story 2 - Operation Rescue Woody! (USA).bin" size="8388608" crc="6335b0e1" md5="dab3b64e48d9f6b50ea84033caab91b1" sha1="ddb4bcc5f9b155041bf4ffce236f57cfae3fdec2" sha256="9a3082216a97f89a3a296f65eb2c04831465635dcac360b6121d4110f37aac18"/>
-	</game>
-	<game name="Disney-Pixar Toy Story 2 - Operazione - Salvataggio di Woody! (Italy)" id="0150">
-		<category>Games</category>
-		<description>Disney-Pixar Toy Story 2 - Operazione - Salvataggio di Woody! (Italy)</description>
-		<rom name="Disney-Pixar Toy Story 2 - Operazione - Salvataggio di Woody! (Italy).bin" size="8388608" crc="2f14862c" md5="75786ed13c1068d48d165e639116c610" sha1="97a969ebc29220f8a0ab5fc8c368c4fbe99bfce4" sha256="7900f241a8ce25bb67dc687887328423d65c2c7122f3a713b842bcf1dfa1d7e2"/>
-	</game>
-	<game name="Disney-Pixar Toy Story 2 - Woodys spannende Rettung (Germany)" id="0015">
-		<category>Games</category>
-		<description>Disney-Pixar Toy Story 2 - Woodys spannende Rettung (Germany)</description>
-		<rom name="Disney-Pixar Toy Story 2 - Woodys spannende Rettung (Germany).bin" size="8388608" crc="c6fbdb94" md5="abb200c331f5c5a8043a976191473f92" sha1="887f1d2acadc6902d386488577654a6786d802a9" sha256="87760ef399b0cb88f10cd36a6b07e39ac14191c1da00072761364ee88442ea32"/>
 	</game>
 	<game name="Disney-Pixar Toy Story 3 (USA) (V.Smile Motion)" id="0199">
 		<category>Educational</category>
@@ -716,111 +206,20 @@
 		<description>Disney-Pixar Wall-E (USA) (V.Smile Motion)</description>
 		<rom name="Disney-Pixar Wall-E (USA) (V.Smile Motion).bin" size="8388608" crc="63b0ae95" md5="4a632b6b2393586eadfdb0cb0f695ff5" sha1="0ae362c743e690175d07b61822f897fc16094eb9" sha256="eb596f1fcddf32befc06a8e19ce9bf4a041c2fc3062c80b4b03a8447040228d1"/>
 	</game>
-	<game name="Disneys Aladdin - Aladdins Welt der Wunder (Germany)" id="0014">
-		<category>Games</category>
-		<description>Disneys Aladdin - Aladdins Welt der Wunder (Germany)</description>
-		<rom name="Disneys Aladdin - Aladdins Welt der Wunder (Germany).bin" size="8388608" crc="dfa7b720" md5="63bd5548aa9914545959e29790ae6411" sha1="c4f7bcbe95c7eb5dfd0dd97f5d496db6ac158ea6" sha256="425905059f22c6f63b78e7ff365bce138a58c75ccb9e7f87e97aa6bbaca05076"/>
-	</game>
-	<game name="Disneys Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany) (Rev 1)" id="0083">
-		<category>Games</category>
-		<description>Disneys Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany) (Rev 1)</description>
-		<rom name="Disneys Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany) (Rev 1).bin" size="8388608" crc="fc2d6d64" md5="729506ca5fcc0c0d34db5a2cec1995a8" sha1="3747eb33304bb49a8f9ff912c0e3e07611e078dd" sha256="c040990180792fa02da8e8b450abbaf91db39d01027e2ff863e97a08ecefc818"/>
-	</game>
-	<game name="Disneys Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden)" id="0056">
-		<category>Games</category>
-		<description>Disneys Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden)</description>
-		<rom name="Disneys Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden).bin" size="8388608" crc="e567db85" md5="35087851aae4a14fdf8da5fe5cce28df" sha1="ca52eaca6cf1b361fd4b1ae2b2380095c612668d" sha256="ade707bfeca95d833bf8666ba8386c8a237cb8f66ed24f23fbd3d67bf4ef7960"/>
-	</game>
-	<game name="Dolphis Wasser-abenteuer (Germany)" id="0387">
-		<category>Games</category>
-		<description>Dolphis Wasser-abenteuer (Germany)</description>
-		<rom name="Dolphis Wasser-abenteuer (Germany).bin" size="8388608" crc="3fd78b1b" md5="1938a86036173c3921c9790dca34dcad" sha1="eadbc8b2a9bf09f623f27d3b94a1b19643685629" sha256="f9f2d35d75a51f9b170618a2df7b6aa4ed5e26fcc37dccf337458c10f78f6152"/>
-	</game>
-	<game name="Dora - Dora's Reparatie Avontuur (Netherlands) (V.Smile Motion)" id="0306">
-		<category>Educational</category>
-		<description>Dora - Dora's Reparatie Avontuur (Netherlands) (V.Smile Motion)</description>
-		<rom name="Dora - Dora's Reparatie Avontuur (Netherlands) (V.Smile Motion).bin" size="8388608" crc="0ed6ba5e" md5="3c0377c83c286fcb3e53d34f81a83b16" sha1="48adad64724a57ee231d01129099e8419b75c083" sha256="b74359753ab8c111aad85bb0932be20ae61aeb4a424baf4fbd800c32602adb8f"/>
-	</game>
-	<game name="Dora - Dora's Reparatie Avontuur! (Netherlands)" id="0412">
-		<category>Games</category>
-		<description>Dora - Dora's Reparatie Avontuur! (Netherlands)</description>
-		<rom name="Dora - Dora's Reparatie Avontuur! (Netherlands).bin" size="8388608" crc="d9a47ec3" md5="9b1bfd6fd8c566ff8ea9034fb0fb8466" sha1="e0a9e7d9cba1d05db08b32aeaf3fa517ce013a50" sha256="4625870f07e19b7c7db89d32ab3d0ff619e4d7671c776cdfd6155050660ae89a"/>
-	</game>
-	<game name="Dora La Exploradora - La Aventura Arregla-Todo de Dora (Spain) (V.Smile Motion)" id="0274">
-		<category>Educational</category>
-		<description>Dora La Exploradora - La Aventura Arregla-Todo de Dora (Spain) (V.Smile Motion)</description>
-		<rom name="Dora La Exploradora - La Aventura Arregla-Todo de Dora (Spain) (V.Smile Motion).bin" size="8388608" crc="6394e5c0" md5="73919bf659cd60e7ce81d0108d4abd79" sha1="a1df78187d167cf4bf15322cc4fa6b5a669217c2" sha256="113d09e73dcfab72ee76d350d89255f03253633d977448f1b554ec6e6aaab27a"/>
-	</game>
 	<game name="Dora l'Exploratrice - Les aventures de Dora Apprentie Mecano (France) (2007)" id="0218">
 		<category>Games</category>
 		<description>Dora l'Exploratrice - Les aventures de Dora Apprentie Mecano (France) (2007)</description>
 		<rom name="Dora l'Exploratrice - Les aventures de Dora Apprentie Mecano (France) (2007).bin" size="8388608" crc="645876b1" md5="91711f36253f3f7b3c23cc6dda9ab243" sha1="fe6710e69f5e26ec4299301532238654cf2b748c" sha256="ca5f85fb3b17b767329c2a27e846478bcff6afe6f55c6c2a9867cc5abc583330"/>
-	</game>
-	<game name="Dora l'exploratrice - Les aventures de Dora Apprentie Mecano (France) (2005)" id="0069">
-		<category>Games</category>
-		<description>Dora l'exploratrice - Les aventures de Dora Apprentie Mecano (France) (2005)</description>
-		<rom name="Dora l'exploratrice - Les aventures de Dora Apprentie Mecano (France) (2005).bin" size="8388608" crc="5f47e1d5" md5="ead3e28fd2a2dbfa0aaa4bddfccd3ed6" sha1="046b5ce7669755e8d8a9be9be2684828b1f1dd9d" sha256="769b482c0109a35662f57bf4b711c70919b6a4e6330187ca6569c72a0eeee7e1"/>
-	</game>
-	<game name="Dora the Explorer - Dora's Fix-It Adventure (USA, United Kingdom) (2005)" id="0030">
-		<category>Games</category>
-		<description>Dora the Explorer - Dora's Fix-It Adventure (USA, United Kingdom) (2005)</description>
-		<rom name="Dora the Explorer - Dora's Fix-It Adventure (USA, United Kingdom) (2005).bin" size="8388608" crc="225c3133" md5="b941dba85d040afc620e7df286fc70da" sha1="97610c09834251d1960dbc67da18dad91e832dba" sha256="8ffe67125c89fc1b9f72a5bb40718bf14fe2e700c7768d57262b3ec2d1b0b14e"/>
-		<rom name="Dora the Explorer - Dora's Fix-It Adventure (USA, United Kingdom) (2005).bin" size="8388608" crc="225c3133" md5="b941dba85d040afc620e7df286fc70da" sha1="97610c09834251d1960dbc67da18dad91e832dba"/>
-	</game>
-	<game name="Dora the Explorer - Dora's Fix-it Adventure (USA) (2007)" id="0174">
-		<category>Educational</category>
-		<description>Dora the Explorer - Dora's Fix-it Adventure (USA) (2007)</description>
-		<rom name="Dora the Explorer - Dora's Fix-it Adventure (USA) (2007).bin" size="8388608" crc="4f6e473e" md5="a4c724a6d3de3f6fda17101a6ee5b284" sha1="fd9151828a7dca50b075485822a7acdfc0b4f5b0"/>
 	</game>
 	<game name="Dora the Explorer - Dora's Fix-it Adventure (USA) (2008)" id="0417">
 		<category>Educational</category>
 		<description>Dora the Explorer - Dora's Fix-it Adventure (USA) (2008)</description>
 		<rom name="Dora the Explorer - Dora's Fix-it Adventure (USA) (2008).bin" size="8388608" crc="034cf357" md5="3e8a8b75f0102e01bc72f9a771a4dba3" sha1="9c96af008b161f1bdc4ae9f33da161950dc47011" sha256="929cccb72afd40712a673862512699a5c0edf8bb55275f77b22ad35ad3fbed28"/>
 	</game>
-	<game name="Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 1) (V.Smile Motion)" id="0307">
-		<category>Educational</category>
-		<description>Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 1) (V.Smile Motion)</description>
-		<rom name="Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 1) (V.Smile Motion).bin" size="8388608" crc="04d168f0" md5="22e480c56117fe17d057935964736729" sha1="1ffb35bf7a1884c9ae3be1ce0c9bb9472d889f10" sha256="1e07aeaf2fed2f481483d901a95796ea32dc318f2203837481d173aac034e2fd"/>
-	</game>
 	<game name="Dora the Explorer - Dora's Got a Puppy (USA) (Smartbook)" id="0415">
 		<category>Games</category>
 		<description>Dora the Explorer - Dora's Got a Puppy (USA) (Smartbook)</description>
 		<rom name="Dora the Explorer - Dora's Got a Puppy (USA) (Smartbook).bin" size="8388608" crc="aabcbb49" md5="53dd985e3bca75ec85df73a44397ddb6" sha1="7edc5ba03125b9fef55b4d8f7993b415fb99c639" sha256="4d15dfd2e12a5ff4b672b44ca2977789d19ca6b80d53e583780bd430ca86d63a"/>
-	</game>
-	<game name="Flitzers Schlaue Stadtetour (Germany)" id="0400">
-		<category>Games</category>
-		<description>Flitzers Schlaue Stadtetour (Germany)</description>
-		<rom name="Flitzers Schlaue Stadtetour (Germany).bin" size="8388608" crc="1bdd6066" md5="1cfeb56d60f15923ee7060af9d5121a7" sha1="1e2a9090c0bfe08c31e750e263bad4a4a1fb2e73" sha256="e1b3631f8654a04dca529e35e1793563f1dbd91392ff406d27e61276ef038ce1"/>
-	</game>
-	<game name="Football Challenge (France) (V.Smile Motion)" id="0296">
-		<category>Games</category>
-		<description>Football Challenge (France) (V.Smile Motion)</description>
-		<rom name="Football Challenge (France) (V.Smile Motion).bin" size="8388608" crc="bca67fe6" md5="4bebd844b6bc4561afa5bc6a74832fa4" sha1="9949f36d4584290371b0126b59b7bd0b96a7c77b" sha256="613445ceb97183d2dfacf75d4d287ecbbffcee590954062f099ccc5fd5f5adc9"/>
-	</game>
-	<game name="Fur immer Shrek (Germany) (Rev 1) (V.Smile Motion)" id="0247">
-		<category>Educational</category>
-		<description>Fur immer Shrek (Germany) (Rev 1) (V.Smile Motion)</description>
-		<rom name="Fur immer Shrek (Germany) (Rev 1) (V.Smile Motion).bin" size="16777216" crc="10b5d990" md5="420b4f208f045a0733f17137287edfe1" sha1="1d4286e8c4dbd644a3bcd222073803b41b7c2ee1" sha256="611597effbb7c521675255e7d29c861e16fa5dd1b6e68b1244ebc3a65c6b9a14"/>
-	</game>
-	<game name="Fussball Meisterschaft (Germany) (V.Smile Motion)" id="0273">
-		<category>Games</category>
-		<description>Fussball Meisterschaft (Germany) (V.Smile Motion)</description>
-		<rom name="Fussball Meisterschaft (Germany) (V.Smile Motion).bin" size="8388608" crc="17ff1dd6" md5="144a3077dd8bf93781f502dc4957036b" sha1="2a071d6bc43c9b2922ec82739ba4b3b661c7cf57" sha256="0f63740ce77a4ec5ee68e615b1bb464ccc3884c7d97c32e6f97161e84f659085"/>
-	</game>
-	<game name="Fussball Schule (Germany)" id="0008">
-		<category>Games</category>
-		<description>Fussball Schule (Germany)</description>
-		<rom name="Fussball Schule (Germany).bin" size="8388608" crc="620b9ebb" md5="60bcb471bb9e623a4c01789de5f53428" sha1="e22ff87a03c6cac3186613a9e804dd6d4e3a3dc4" sha256="540c2af623e4020ead6719f08d31998b0b989d88f23ed17d9b3814d4446f2b43"/>
-	</game>
-	<game name="Gimnasio Interactivo V.Smile (Spain) (Jammin' Gym Class Exercise Mat)" id="0401">
-		<category>Educational</category>
-		<description>Gimnasio Interactivo V.Smile (Spain) (Jammin' Gym Class Exercise Mat)</description>
-		<rom name="Gimnasio Interactivo V.Smile (Spain) (Jammin' Gym Class Exercise Mat).bin" size="8388608" crc="a203eaf7" md5="5c2a88d93f61c278aa7788a8e99eb715" sha1="bb7c7ecf6b208cd8b81daba58748345d3109268a" sha256="faf291f5c073937045403b7849d1cfa0a1a1cbb5339efb41a661ad8298cffe4e"/>
-	</game>
-	<game name="Go Diego ! - A la rescousse des animaux ! (France)" id="0212">
-		<category>Games</category>
-		<description>Go Diego ! - A la rescousse des animaux ! (France)</description>
-		<rom name="Go Diego ! - A la rescousse des animaux ! (France).bin" size="8388608" crc="d5b9f1f6" md5="e45b68a92e6e5c7f13057f26132b4d37" sha1="92ffecb0a9572279bc9d2f0449868a24c7d772f9" sha256="164d4035d48843f0428e0084ced492c0b7581ef480ecaa711b633b6ef29e20a6"/>
 	</game>
 	<game name="Go Diego Go! - Save the Animal Families! (United Kingdom) (Rev 1)" id="0158">
 		<category>Games</category>
@@ -832,21 +231,6 @@
 		<description>Handy Manny (USA) (Rev 1) (V.Smile Motion)</description>
 		<rom name="Handy Manny (USA) (Rev 1) (V.Smile Motion).bin" size="8388608" crc="a6ee705b" md5="ec31796b7a53eea66c639697357ccf09" sha1="50a94ca17efbeb3a69decab948c945df272f9c69" sha256="fbd54998e5eb80a1dee5df7cba4da039488330e48cdd2de67cd8c79f5b7d9d74"/>
 	</game>
-	<game name="Kleine Einsteins (Germany) (V.Smile Motion)" id="0094">
-		<category>Games</category>
-		<description>Kleine Einsteins (Germany) (V.Smile Motion)</description>
-		<rom name="Kleine Einsteins (Germany) (V.Smile Motion).bin" size="8388608" crc="b0ec807e" md5="a3da2ef132d53d59bce6a8051bd08cd7" sha1="e947c84efd3f061cbf10f73e412d4cfdd474bade" sha256="d4f693321e1fa2f52ea8d7e731b5a90e5422b5fd8178c6ac8ef0538fefe8aef2"/>
-	</game>
-	<game name="Kung Fu Panda - Aventura en el Valle de la Paz (Spain)" id="0402">
-		<category>Games</category>
-		<description>Kung Fu Panda - Aventura en el Valle de la Paz (Spain)</description>
-		<rom name="Kung Fu Panda - Aventura en el Valle de la Paz (Spain).bin" size="8388608" crc="e6d26579" md5="89c911eb6b8bb6524d129541d3eaa826" sha1="425e9d0524dcb76461c2d2f733f07633429ca367" sha256="e2d13ba796521c56d401a0a39a6f41f60f7b5a2ff0c54135d272e6d212b8add3"/>
-	</game>
-	<game name="Kung Fu Panda - La mission de Po (France) (V.Smile Motion)" id="0267">
-		<category>Games</category>
-		<description>Kung Fu Panda - La mission de Po (France) (V.Smile Motion)</description>
-		<rom name="Kung Fu Panda - La mission de Po (France) (V.Smile Motion).bin" size="8388608" crc="58d7ad17" md5="76e913e9e72c783a2dacb6b32362d1b0" sha1="f854a42b64a90ab9b8ea08ebfb57264654f108a8" sha256="ce4d19e80fef41da5eef5bd2af7cd60b24555fb18e79ebc24dd6b3f2136bba84"/>
-	</game>
 	<game name="Kung Fu Panda - Path of the Panda (USA) (V.Smile Motion)" id="0293">
 		<category>Games</category>
 		<description>Kung Fu Panda - Path of the Panda (USA) (V.Smile Motion)</description>
@@ -857,20 +241,10 @@
 		<description>Learnin' Wheels (USA)</description>
 		<rom name="Learnin' Wheels (USA).bin" size="8388608" crc="271957d2" md5="166c231accf6e47e95c91b21f0fa8126" sha1="715cb81b92350a302bb88ac7d56875b312445608" sha256="f1a3f0d06819243496a231fc3252df1e157ff01ccda146441dda190939aa1380"/>
 	</game>
-	<game name="Lil' Bratz - Au Top de la Mode - Complices, Cools et Class' (France)" id="0220">
-		<category>Educational</category>
-		<description>Lil' Bratz - Au Top de la Mode - Complices, Cools et Class' (France)</description>
-		<rom name="Lil' Bratz - Au Top de la Mode - Complices, Cools et Class' (France).bin" size="8388608" crc="ca0ff497" md5="70779d140fdcf55d8ec433f2e1f016e2" sha1="69f95c84d31423451aa580f196270e3cabab165b" sha256="6c4f87cb079008fd113a354ede2cf906a4945e8f79eeb184df9cc3cd370f0817"/>
-	</game>
 	<game name="Lil' Bratz - Dressed-Up - Friends, Fashion and Fun (USA)" id="0178">
 		<category>Educational</category>
 		<description>Lil' Bratz - Dressed-Up - Friends, Fashion and Fun (USA)</description>
 		<rom name="Lil' Bratz - Dressed-Up - Friends, Fashion and Fun (USA).bin" size="8388608" crc="f8e3beac" md5="84cff15fd1f2e8392ed78685b2b4ed6c" sha1="4874bdf5a437ab26cf7418ea9ffb4ee9e167316a" sha256="d3ae56f1186d5da0d104bb83c335f4792c5a5c2f2fe4d821f545a07b3c655663"/>
-	</game>
-	<game name="Lil' Bratz - Estrellas De La Moda - Amigos, Moda y Diversion (Spain)" id="0405">
-		<category>Educational</category>
-		<description>Lil' Bratz - Estrellas De La Moda - Amigos, Moda y Diversion (Spain)</description>
-		<rom name="Lil' Bratz - Estrellas De La Moda - Amigos, Moda y Diversion (Spain).bin" size="8388608" crc="10c1e031" md5="df64cf6ace4bbadc2f240ab246a7ca44" sha1="20ec494294480fbacd1f9ed9a8b21d5bb70541f8" sha256="d551f1ca1f0b525a3f5333d84e8e7b435e678f59bd4c8b239a705ea0c136e8b8"/>
 	</game>
 	<game name="Little Einsteins (USA) (V.Smile Motion)" id="0288">
 		<category>Educational</category>
@@ -882,70 +256,10 @@
 		<description>Maison Des Animaux, La (France) (V.Smile Baby)</description>
 		<rom name="Maison Des Animaux, La (France) (V.Smile Baby).bin" size="8388608" crc="4ab4d311" md5="0aab6c2dd5f608b1e87c69534ba12bed" sha1="584a5b359010636286de626a51c71c0c5bdcb864" sha256="f53abed646b9df7e328ae7afd60c66ee72828bbd7206bab99856a6464e433945"/>
 	</game>
-	<game name="Manny et ses outils (France) (V.Smile Motion)" id="0214">
-		<category>Educational</category>
-		<description>Manny et ses outils (France) (V.Smile Motion)</description>
-		<rom name="Manny et ses outils (France) (V.Smile Motion).bin" size="8388608" crc="a664071e" md5="55ae9e3a3f6ae0d0e2ebe3e2f8924d49" sha1="6900419492aa7424290b3db4b37c47b14a17ab61" sha256="c08d7a7c3e7ef222b2c05d2b13197ca2593913c5553e70780e91f16cfe5583a0"/>
-	</game>
-	<game name="Martin le Dauphin (France) (V.Smile Motion)" id="0298">
-		<category>Games</category>
-		<description>Martin le Dauphin (France) (V.Smile Motion)</description>
-		<rom name="Martin le Dauphin (France) (V.Smile Motion).bin" size="8388608" crc="0b224331" md5="980af641e5da631b76f8a14916015c8e" sha1="1f93ddd81648058312640c95682069267e06de9e" sha256="39e9145d1ca023e382d73c914910234f3d8cae946be82f8cb638719ca724342a"/>
-	</game>
-	<game name="Mein erster Bauernhof (Germany) (V.Smile Baby)" id="0028">
-		<category>Games</category>
-		<description>Mein erster Bauernhof (Germany) (V.Smile Baby)</description>
-		<rom name="Mein erster Bauernhof (Germany) (V.Smile Baby).bin" size="8388608" crc="581e16f9" md5="6de80be065e53c9e3c8927c5591b1f7f" sha1="330b309644db9f017d275b9df0ffe7530ed5bcef" sha256="6c7b05b0e3cfe784a3873549b98ae32e02421a820ceca5618f84af63f1bc0620"/>
-	</game>
-	<game name="Mein erster Hund (Germany) (V.Smile Motion)" id="0302">
-		<category>Educational</category>
-		<description>Mein erster Hund (Germany) (V.Smile Motion)</description>
-		<rom name="Mein erster Hund (Germany) (V.Smile Motion).bin" size="8388608" crc="ca98e437" md5="1f47278aeba9b198fde619f0370e4f0f" sha1="8c4964a671c6c3d3c8bd5859b14143b901d54021" sha256="e2c1777cfed7f351c85ab423ac1fbf5093365544a2ac19d8a8079ef1685ab3e4"/>
-	</game>
-	<game name="Mein erster Mausklick (Germany) (Smart Keyboard)" id="0443">
-		<category>Educational</category>
-		<description>Mein erster Mausklick (Germany) (Smart Keyboard)</description>
-		<rom name="Mein erster Mausklick (Germany) (Smart Keyboard).bin" size="8388608" crc="df4474f0" md5="ae122458467cb33725c2f45d3b93bd42" sha1="d858eb61efe23643a45c10ee1c332344caaed0fd" sha256="97f2360d5042893395ff3230fa0c77e5429178e85dcbe0e03247042974319676"/>
-	</game>
-	<game name="Meine kleinen Tierfreunde (Germany) (V.Smile Baby)" id="0037">
-		<category>Games</category>
-		<description>Meine kleinen Tierfreunde (Germany) (V.Smile Baby)</description>
-		<rom name="Meine kleinen Tierfreunde (Germany) (V.Smile Baby).bin" size="8388608" crc="7b48544b" md5="712d6042fe127a1dd2f80d887b6c0634" sha1="a736ef1313762c493a366990406c3a7393457b6e" sha256="553f9c41ae0c9a529965e36e97faa42bdbc015add3f36883e7abd9f2d66887bf"/>
-	</game>
-	<game name="Melodilous, Les - Les explorateurs vikings (France)" id="0070">
-		<category>Games</category>
-		<description>Melodilous, Les - Les explorateurs vikings (France)</description>
-		<rom name="Melodilous, Les - Les explorateurs vikings (France).bin" size="8388608" crc="99d3d704" md5="12a56604177967faa9d58fdeabbf29f4" sha1="5ba4489849a4e49a22a5083750b4e41a565a4cd6" sha256="98f1cb4a7d060c6a6cf4c1567d0944b4f411500895564f4107da4f904cc8423c"/>
-	</game>
-	<game name="Mes premiers clics (France) (Smart Keyboard)" id="0221">
-		<category>Educational</category>
-		<description>Mes premiers clics (France) (Smart Keyboard)</description>
-		<rom name="Mes premiers clics (France) (Smart Keyboard).bin" size="8388608" crc="7e2380db" md5="a1321c7a0adb543f933aa58edaf99ed7" sha1="be870a2a60157022d4849fab22515ae0ab716b68" sha256="a5c734a90052b83496c6e7e26d649bf8a047a2f3506626c37397576feca74ae1"/>
-	</game>
-	<game name="Mijn Puppy! (Netherlands) (V.Smile Motion)" id="0303">
-		<category>Educational</category>
-		<description>Mijn Puppy! (Netherlands) (V.Smile Motion)</description>
-		<rom name="Mijn Puppy! (Netherlands) (V.Smile Motion).bin" size="8388608" crc="1a2b6da1" md5="7dd902921c5e2aaeed2e34e99d639df1" sha1="ca346f0b8e9d4cdea83b57e66b86ddc4c0eca88a" sha256="5b76a5ad6867ac6c032a1f756d4ec6c1780aef365a6674ac8c3ef2c4b38bb443"/>
-	</game>
-	<game name="Mission Pilote (France)" id="0411">
-		<category>Games</category>
-		<description>Mission Pilote (France)</description>
-		<rom name="Mission Pilote (France).bin" size="8388608" crc="81531074" md5="27e645f26289481dbe4e6d32e642e33d" sha1="11631a6e837d3aa7a7bd6c0bcefa8289440a60b8" sha256="ef05ccf1310a17b5b96b37543112c4db62835453a3498d800772c4c42c42c858"/>
-	</game>
-	<game name="Mon Toutou tout fou ! (France) (V.Smile Motion)" id="0304">
-		<category>Educational</category>
-		<description>Mon Toutou tout fou ! (France) (V.Smile Motion)</description>
-		<rom name="Mon Toutou tout fou ! (France) (V.Smile Motion).bin" size="8388608" crc="d4bf54aa" md5="ff4792ee3879abc8e527995fdac1cc4d" sha1="2a411d6bf8c46e67ed29c308ede2b0c740a9d083" sha256="5d2ab2b30d9fbeeba59f9628bf906905ca44b184466ccf6722cd4080309d77ac"/>
-	</game>
 	<game name="Monsters vs. Aliens (USA) (V.Smile Motion)" id="0195">
 		<category>Educational</category>
 		<description>Monsters vs. Aliens (USA) (V.Smile Motion)</description>
 		<rom name="Monsters vs. Aliens (USA) (V.Smile Motion).bin" size="8388608" crc="81f7affb" md5="674b5d89b3a5359ed2ed794e50b43c93" sha1="3208b5f2d6616396b2bd3a5446bd4e3ee277dc9a" sha256="cb4362c4473962745f2fe1c7bd38a065e8c526b08e4d56fc19efc05689cc08b0"/>
-	</game>
-	<game name="Monstres contre Aliens (France) (V.Smile Motion)" id="0295">
-		<category>Educational</category>
-		<description>Monstres contre Aliens (France) (V.Smile Motion)</description>
-		<rom name="Monstres contre Aliens (France) (V.Smile Motion).bin" size="8388608" crc="62b63a0a" md5="7e3d1861dd8ba5e4a03155e035b26e64" sha1="0012b363e643b386908d912df74b38d276cdc4c5" sha256="5aae87a0a5fe2c32b8d917256143bb0029d257c040af3dc2cadfd3ad2edaa76a"/>
 	</game>
 	<game name="Monstruos contra Alienigenas (Spain) (V.Smile Motion)" id="0245">
 		<category>Educational</category>
@@ -967,40 +281,20 @@
 		<description>Ni Hao Kai Lan - Happy Chinese New Year! (USA) (V.Smile Motion)</description>
 		<rom name="Ni Hao Kai Lan - Happy Chinese New Year! (USA) (V.Smile Motion).bin" size="8388608" crc="3c3ddb1a" md5="fa27219ec882ec011647cbebf7ec5dcb" sha1="1a37f28f8893e130f55e6cae964490a9b3a60528" sha256="04f33ff3d0690aef312c63a3f1e3ff4cc45979e337fce1559060f38e9fc3c3ac"/>
 	</game>
-	<game name="Ni Hao Kai Lan - Joyeux nouvel an chinois ! (France) (V.Smile Motion)" id="0284">
-		<category>Educational</category>
-		<description>Ni Hao Kai Lan - Joyeux nouvel an chinois ! (France) (V.Smile Motion)</description>
-		<rom name="Ni Hao Kai Lan - Joyeux nouvel an chinois ! (France) (V.Smile Motion).bin" size="8388608" crc="2e0596e1" md5="de1297fd462f3fcc02c1d52ac3920aec" sha1="b55e6f7c3eab9636cf12da29e0a8c3cd77916fe7" sha256="3d111817b32950fc6475645160e3058ad48105bcf391f6a58900b0b8de8dfd30"/>
-	</game>
 	<game name="Noah's Ark - Animal Adventures (USA) (V.Smile Baby)" id="0327">
 		<category>Games</category>
 		<description>Noah's Ark - Animal Adventures (USA) (V.Smile Baby)</description>
 		<rom name="Noah's Ark - Animal Adventures (USA) (V.Smile Baby).bin" size="8388608" crc="039d0465" md5="4cf90a2721cef912978dafd92a17992b" sha1="826fd675f300fb14293344f6f180abc38b794e40" sha256="39c7f5b4aa96f7366e7cf14732a03c152b288628ea7943bafebed7bb38f702f7"/>
-	</game>
-	<game name="Noddy - Detective Por um Dia (Portugal)" id="0420">
-		<category>Games</category>
-		<description>Noddy - Detective Por um Dia (Portugal)</description>
-		<rom name="Noddy - Detective Por um Dia (Portugal).bin" size="8388608" crc="c2293d0c" md5="1fdb26e14f8f2ebdbd00eb47d67ceef6" sha1="625c186cb56871c0a8b7e5136cd7302812c81823" sha256="10f587431c80af93c6ffe294f490bbd3d8ea601dd258bba537b9cb44611c951c"/>
 	</game>
 	<game name="Noddy - Detective for a Day (USA)" id="0419">
 		<category>Games</category>
 		<description>Noddy - Detective for a Day (USA)</description>
 		<rom name="Noddy - Detective for a Day (USA).bin" size="8388608" crc="0510eb62" md5="10e74eec3e7f858158fe7422be8e67cf" sha1="bdd30453f89a619f1539647ffc27bb2ac3f6b267" sha256="c75f5ec7ce9ebb97326afe12f09bfcb0d40801226a3dfaaa0e26a4d8edff3dff"/>
 	</game>
-	<game name="Petits Einsteins, Les - Le bal du soulier de verre (France)" id="0348">
-		<category>Games</category>
-		<description>Petits Einsteins, Les - Le bal du soulier de verre (France)</description>
-		<rom name="Petits Einsteins, Les - Le bal du soulier de verre (France).bin" size="8388608" crc="6608d3d1" md5="e80a46c4ed32cdbeffe24c985292fab0" sha1="023b69ef0939cc8a8879f94498be16f8b2ad4341" sha256="44de3a2e0b13cf52daac707586d17f7c6101295466bddedab82b30c14d382658"/>
-	</game>
 	<game name="Princess and the Frog, The - Tiana's Big Dream (USA) (V.Smile Motion)" id="0254">
 		<category>Games</category>
 		<description>Princess and the Frog, The - Tiana's Big Dream (USA) (V.Smile Motion)</description>
 		<rom name="Princess and the Frog, The - Tiana's Big Dream (USA) (V.Smile Motion).bin" size="8388608" crc="90fde71c" md5="3ac907621fcb34ee298e9ad1cc41de56" sha1="a081771ff3610b65a91af545b0d0f7f3896bd45b" sha256="65dcb86052d935e97260ed6661745adf53fa7ef661b2f7fe2161443fe8ff2621"/>
-	</game>
-	<game name="Princesse Et La Grenouille, La - Le grand reve de Tiana (France) (V.Smile Motion)" id="0279">
-		<category>Games</category>
-		<description>Princesse Et La Grenouille, La - Le grand reve de Tiana (France) (V.Smile Motion)</description>
-		<rom name="Princesse Et La Grenouille, La - Le grand reve de Tiana (France) (V.Smile Motion).bin" size="8388608" crc="1e1e84a2" md5="06365e4ae0b92e4816c0844fa4d901cc" sha1="01543d05122809e6bb5e8bdac213eedc22f442bd" sha256="91c86f79ccf5a293ac6d206f515d2d598f66b9675d58e119a8b002d6d6b6fefb"/>
 	</game>
 	<game name="Scooby-Doo! - A Night of Fright is no Delight (USA) (Rev 1) (Smartbook)" id="0423">
 		<category>Games</category>
@@ -1012,16 +306,6 @@
 		<description>Scooby-Doo! - Funland Frenzy (USA) (V.Smile Motion)</description>
 		<rom name="Scooby-Doo! - Funland Frenzy (USA) (V.Smile Motion).bin" size="8388608" crc="aaa1293d" md5="9810a73839078f5da4340fa01d47c27b" sha1="bef9409a1045c1a4367006b75c0dfc80da052372" sha256="1d279cf9e139fc7b583b0d0dbcdc52471e04c3ae9a554f26de98def46371d2e1"/>
 	</game>
-	<game name="Scooby-Doo! - Griezelen in het Pretpark (Netherlands)" id="0424">
-		<category>Games</category>
-		<description>Scooby-Doo! - Griezelen in het Pretpark (Netherlands)</description>
-		<rom name="Scooby-Doo! - Griezelen in het Pretpark (Netherlands).bin" size="8388608" crc="85c19af1" md5="16b857b84b5cd20b05dce8b3613b0e02" sha1="976286ff9b74d8ab018c885f56914e33dbb50386" sha256="3b5a08e3cb5cd8713e48109b0e3bccf4752d95cf5c00cddd54bd181f6674e4ac"/>
-	</game>
-	<game name="Scooby-Doo!! - Misterio en el parque (Spain) (V.Smile Motion)" id="0238">
-		<category>Educational</category>
-		<description>Scooby-Doo!! - Misterio en el parque (Spain) (V.Smile Motion)</description>
-		<rom name="Scooby-Doo!! - Misterio en el parque (Spain) (V.Smile Motion).bin" size="8388608" crc="154c4c55" md5="5fd5142c902268a4900934d9145f14eb" sha1="8826480a9771c432671d849f920fb009dd733519" sha256="42921424c923d40632ae7087c68df86ddd0f6abdde16fdbe68a0d1e9c947ab64"/>
-	</game>
 	<game name="Sesame Street - Bert &amp; Ernie's Imagination Adventure (USA)" id="0181">
 		<category>Educational</category>
 		<description>Sesame Street - Bert &amp; Ernie's Imagination Adventure (USA)</description>
@@ -1032,45 +316,15 @@
 		<description>Sesame Street - Elmo's World - Elmo's Big Discoveries (USA)</description>
 		<rom name="Sesame Street - Elmo's World - Elmo's Big Discoveries (USA).bin" size="8388608" crc="1b4c8e92" md5="06efb73eac8f5e5ef2c009ff788ffefc" sha1="8b5d2240c39adfc96c451114f8efbdfb434b307b" sha256="5c4b1ee4386452d1c99af9d709379581b77e1e47e4b6ac85c25eb3e938407d5f"/>
 	</game>
-	<game name="Sesamstrasse - Elmos Welt - Elmos grosses Abenteuer (Germany)" id="0064">
-		<category>Games</category>
-		<description>Sesamstrasse - Elmos Welt - Elmos grosses Abenteuer (Germany)</description>
-		<rom name="Sesamstrasse - Elmos Welt - Elmos grosses Abenteuer (Germany).bin" size="8388608" crc="906b6496" md5="ad25143343832b0b3582275e097bce2d" sha1="8932008fef144d2ad3d056fd24f64264825af8ce" sha256="ead1d4350a5ca75aead49c8de29b303d642baa1997f10906eaa440ae132ce0a6"/>
-	</game>
-	<game name="Sesamstrasse - Ernies &amp; Berts Fantastisches Abenteuer (Germany)" id="0066">
-		<category>Games</category>
-		<description>Sesamstrasse - Ernies &amp; Berts Fantastisches Abenteuer (Germany)</description>
-		<rom name="Sesamstrasse - Ernies &amp; Berts Fantastisches Abenteuer (Germany).bin" size="8388608" crc="064c620c" md5="d93520389970deb083410248ec3d35e8" sha1="d44e8a5507f18e544de707cae4b9a7d309c56fdf" sha256="19bc0bdb41c739b846ba9e605e3275ac5f921763322ffb16cc9cc3b6715738bc"/>
-	</game>
 	<game name="Shrek - Dragon's Tale (USA) (Rev 2)" id="0182">
 		<category>Educational</category>
 		<description>Shrek - Dragon's Tale (USA) (Rev 2)</description>
 		<rom name="Shrek - Dragon's Tale (USA) (Rev 2).bin" size="8388608" crc="78f90774" md5="e41790797ecfba7e2d778bd349639e6c" sha1="d5e76eaa1d7e257e21e25c54db28aa04e6b74397" sha256="99ebdf3f8beaa382936ade95fbdeaf5b9979a4286c1c012a3259190ab149ccd1"/>
 	</game>
-	<game name="Shrek - El Cuento de la Dragona (Spain)" id="0396">
-		<category>Games</category>
-		<description>Shrek - El Cuento de la Dragona (Spain)</description>
-		<rom name="Shrek - El Cuento de la Dragona (Spain).bin" size="8388608" crc="4145d0ad" md5="9aba44bf41efeedd0d301f08392739a6" sha1="ab249596bffd661097d51a42e5b582dfe1ec1e07" sha256="dc834512d169668746f82c56f5ad5b2b26e73bed6ef70b1543d6d314d30af6f9"/>
-	</game>
-	<game name="Shrek 4 - Il etait une fin (France) (Rev 1) (V.Smile Motion)" id="0315">
-		<category>Educational</category>
-		<description>Shrek 4 - Il etait une fin (France) (Rev 1) (V.Smile Motion)</description>
-		<rom name="Shrek 4 - Il etait une fin (France) (Rev 1) (V.Smile Motion).bin" size="16777216" crc="03c22772" md5="686f4d9401e9547cc77c380e40a7a1da" sha1="187ad687652f0c5751b99d674da332c26792f51d" sha256="81bd45f4125e6c2e2af37408e5020809c2263b5b23e769b0e88586f453d122e6"/>
-	</game>
 	<game name="Shrek Forever After (USA) (V.Smile Motion)" id="0196">
 		<category>Educational</category>
 		<description>Shrek Forever After (USA) (V.Smile Motion)</description>
 		<rom name="Shrek Forever After (USA) (V.Smile Motion).bin" size="16777216" crc="13808d00" md5="b731ba6a769a133d4e25e47fa2d19a38" sha1="3279a261c1498d4e1845c7243cc85c0e791ff21f" sha256="061e1906114fdbecf33d4939350005bca8efe936fb61680280371b35a6ff86fd"/>
-	</game>
-	<game name="Shrek Le Troisieme - L'aventure d'Arthur (France) (Rev 1)" id="0350">
-		<category>Games</category>
-		<description>Shrek Le Troisieme - L'aventure d'Arthur (France) (Rev 1)</description>
-		<rom name="Shrek Le Troisieme - L'aventure d'Arthur (France) (Rev 1).bin" size="8388608" crc="a1380b79" md5="1660829195e691f15636d5150cbf2171" sha1="311d1658e921a99cd3126a1ef0c2d8baa8a84d70" sha256="cf4f2131c384e6460120bb617584bc90ca86e530fc69deb88a214c79e554168a"/>
-	</game>
-	<game name="Shrek der Dritte - Ein Spannender Schultag (Germany) (Rev 1)" id="0397">
-		<category>Games</category>
-		<description>Shrek der Dritte - Ein Spannender Schultag (Germany) (Rev 1)</description>
-		<rom name="Shrek der Dritte - Ein Spannender Schultag (Germany) (Rev 1).bin" size="8388608" crc="0f11e49d" md5="5f5514a99f3a482fa9f6ecf9cb01d33f" sha1="c936505dabc4043665f429a9109a1e533b9dc311" sha256="2aedb15505b552a3a0d281f466fb87946182222d56b8ac86c9ddd8e1c4d51346"/>
 	</game>
 	<game name="Shrek the Third - Arthur's School Day Adventure (USA) (Rev 2)" id="0398">
 		<category>Games</category>
@@ -1087,11 +341,6 @@
 		<description>Soccer Challenge (USA) (V.Smile Motion)</description>
 		<rom name="Soccer Challenge (USA) (V.Smile Motion).bin" size="8388608" crc="4d0dd939" md5="cf15cdf04c0b725fe6fb8c4b9268ebf9" sha1="b5411b036fa91daf56f654be4ce71b4ac15541ca" sha256="e04df4ae7af85cf692b43dca535638de0b1ac93e2bbcee3466ec87550544e6c5"/>
 	</game>
-	<game name="Spider-Man &amp; Freunde - Geheime Missionen (Germany) (V.Smile Motion)" id="0300">
-		<category>Games</category>
-		<description>Spider-Man &amp; Freunde - Geheime Missionen (Germany) (V.Smile Motion)</description>
-		<rom name="Spider-Man &amp; Freunde - Geheime Missionen (Germany) (V.Smile Motion).bin" size="8388608" crc="93d129ef" md5="39228bd40ec44c63bbdbdb18bd4912f4" sha1="8e67e2ad36104c34b6fd944e25bbfbf0313a1d7c" sha256="8f2d44a2a7704eae6d71ae4e46f375bb4520e404a40b82572f2982226f53815b"/>
-	</game>
 	<game name="Spider-Man &amp; Friends - Doc Ock's Challenge (USA)" id="0184">
 		<category>Educational</category>
 		<description>Spider-Man &amp; Friends - Doc Ock's Challenge (USA)</description>
@@ -1102,95 +351,20 @@
 		<description>Spider-Man &amp; Friends - Secret Missions (USA) (V.Smile Motion)</description>
 		<rom name="Spider-Man &amp; Friends - Secret Missions (USA) (V.Smile Motion).bin" size="8388608" crc="be4f9c32" md5="8cd10dd64bc50fb4accc9b21e409aba6" sha1="9f7d77f1cdf64ab993a5d07b91d435a861c91758" sha256="1960125f68c9b85f26b2d0dfc48cbf5a09952b2250e57fc967fbb58a474d8298"/>
 	</game>
-	<game name="Spider-Man &amp; ses amis - Le Defi du Docteur Ock (France)" id="0146">
-		<category>Games</category>
-		<description>Spider-Man &amp; ses amis - Le Defi du Docteur Ock (France)</description>
-		<rom name="Spider-Man &amp; ses amis - Le Defi du Docteur Ock (France).bin" size="8388608" crc="ecd7acf1" md5="52a7fbb65d13b9bc332b42de17d2baaa" sha1="c0a46f1d777b31f44f38df36247430a4930e7fd5" sha256="58161bd083a4e7e302400d63d6b150b256c81c72bd3b8b782bab57f4b12cf979"/>
-	</game>
-	<game name="Spider-Man &amp; ses amis - Missions secretes (France) (2004)" id="0234">
-		<category>Games</category>
-		<description>Spider-Man &amp; ses amis - Missions secretes (France) (2004)</description>
-		<rom name="Spider-Man &amp; ses amis - Missions secretes (France) (2004).bin" size="8388608" crc="1d8bd16a" md5="4ab912a99c547be06bb09154c83d315e" sha1="5667cabc4e023984440ce0690ef0de25d1332491" sha256="c1d04e1b04538f38e056187a142941dd15779415c98f517a1ff864e0cde134e6"/>
-	</game>
-	<game name="Spider-Man &amp; ses amis - Missions secretes (France) (2005)" id="0068">
-		<category>Games</category>
-		<description>Spider-Man &amp; ses amis - Missions secretes (France) (2005)</description>
-		<rom name="Spider-Man &amp; ses amis - Missions secretes (France) (2005).bin" size="8388608" crc="906b0ab6" md5="6e25f315ee8095360f3a1ba88e06ea19" sha1="da5435366a439afd70ff210c0e655839f66fbef3" sha256="8e2bb5efe796ff2b7ec09c1771681b4b37f12df948a45aa8539992de7e8a612c"/>
-	</game>
-	<game name="Spider-Man &amp; ses amis - Missions secretes (France) (2007)" id="0407">
-		<category>Games</category>
-		<description>Spider-Man &amp; ses amis - Missions secretes (France) (2007)</description>
-		<rom name="Spider-Man &amp; ses amis - Missions secretes (France) (2007).bin" size="8388608" crc="81bcdabd" md5="1dc556483a4bacf19b37c2ca45b2dd4e" sha1="ab284a43d44e7745d1e9ced6794a5a13bff3b09f" sha256="8d33b08c9d47bc91f2b434cfacb965763a323ba96b4dbac78640466234f1c5b5"/>
-	</game>
-	<game name="Spider-Man &amp; ses amis - Missions secretes (France) (2009)" id="0408">
-		<category>Games</category>
-		<description>Spider-Man &amp; ses amis - Missions secretes (France) (2009)</description>
-		<rom name="Spider-Man &amp; ses amis - Missions secretes (France) (2009).bin" size="8388608" crc="922a7274" md5="ac62b06ac3c655c92b66daf7ccff928d" sha1="a954a9e9aab93fa6bbcd12fb3651fa9937986400" sha256="6dd37847660fc3a5e4cd44f123d96da0c0ed212904603ae0625754393959f52e"/>
-	</game>
 	<game name="Spider-Man and Friends - Where is Hulk (USA) (Smartbook)" id="0409">
 		<category>Games</category>
 		<description>Spider-Man and Friends - Where is Hulk (USA) (Smartbook)</description>
 		<rom name="Spider-Man and Friends - Where is Hulk (USA) (Smartbook).bin" size="8388608" crc="5294d9ac" md5="8e5e6b30009aa47895d6b7a44f559127" sha1="2b64cd58aab4474747b2bea0d75d180f9765ec4e" sha256="e26b8890f503421bc699d1189613977ed2dd75fef0e1a087367a0f1826a0bbd7"/>
-	</game>
-	<game name="Spider-Man en Vrienden - Geheime Missies (Netherlands) (2005)" id="0426">
-		<category>Games</category>
-		<description>Spider-Man en Vrienden - Geheime Missies (Netherlands) (2005)</description>
-		<rom name="Spider-Man en Vrienden - Geheime Missies (Netherlands) (2005).bin" size="8388608" crc="07714231" md5="22fc1a93da54fea41280497612513a6d" sha1="13d854a3794dcbb28b5bd3e524b2c5cd1d81636e" sha256="ac006f4054f0f5ba8c7728c4cf8e1bdf5e77115080738301f3088127453833f7"/>
-	</game>
-	<game name="Spider-Man en Vrienden - Geheime Missies (Netherlands) (2008)" id="0410">
-		<category>Games</category>
-		<description>Spider-Man en Vrienden - Geheime Missies (Netherlands) (2008)</description>
-		<rom name="Spider-Man en Vrienden - Geheime Missies (Netherlands) (2008).bin" size="8388608" crc="af58e0d2" md5="9f1db8438b1aa357808b4562ac487ab6" sha1="a7e9228819fcebdc9af6532e62b94ef9c7a6f500" sha256="d068141c9841527e335f75f17669a5572ab16329f646ce9b0c7a81d6748134ae"/>
-	</game>
-	<game name="Spider-Man y Amigos - La Aventura Del Doctor Octopus (Spain)" id="0427">
-		<category>Games</category>
-		<description>Spider-Man y Amigos - La Aventura Del Doctor Octopus (Spain)</description>
-		<rom name="Spider-Man y Amigos - La Aventura Del Doctor Octopus (Spain).bin" size="8388608" crc="65a86a62" md5="0b9f71cc64b34c23c3d8f0c51be1e11d" sha1="a5f40505e1adc6bb7485570cdecbba5f8bf5931b" sha256="5563ba16809793d9b5c668d878b2e4d267eed873d94e61b37ff7d2c087a95079"/>
-	</game>
-	<game name="Spider-Man y Amigos - Misiones Secretas (Spain) (2005)" id="0428">
-		<category>Games</category>
-		<description>Spider-Man y Amigos - Misiones Secretas (Spain) (2005)</description>
-		<rom name="Spider-Man y Amigos - Misiones Secretas (Spain) (2005).bin" size="8388608" crc="ffda1d3d" md5="6cf50a37911ef4d9c8c5d2840d6b3cd2" sha1="12c52915d758d50ae221a4dafe1a8f2892219089" sha256="effd977c9061f4bab979a34439c9169f6a04b67d8efe80708baedda62a8898f9"/>
-	</game>
-	<game name="Spider-Man y Amigos - Misiones Secretas (Spain) (2008)" id="0429">
-		<category>Games</category>
-		<description>Spider-Man y Amigos - Misiones Secretas (Spain) (2008)</description>
-		<rom name="Spider-Man y Amigos - Misiones Secretas (Spain) (2008).bin" size="8388608" crc="a377ece5" md5="e1276b891843a5f4ea02b4105d7857c9" sha1="2e4f646780f61121bfc32e171cdcacbb8dbb1e0a" sha256="b3c68b4e9aa08beff09569fa123fc407dc13a3f2132acc628a17b0710661dd86"/>
 	</game>
 	<game name="SpongeBob SquarePants - A Day in the Life of a Sponge (USA) (Rev 1)" id="0185">
 		<category>Educational</category>
 		<description>SpongeBob SquarePants - A Day in the Life of a Sponge (USA) (Rev 1)</description>
 		<rom name="SpongeBob SquarePants - A Day in the Life of a Sponge (USA) (Rev 1).bin" size="8388608" crc="0c29e2a9" md5="bb3b563f9813633f2367bc92881550dd" sha1="e19ed8a5fa896173642daa1ac00c859d8768a4a5" sha256="bbfb4deedbba53ce99f736b90ba2571d4fb6251f4da26d4302d30f0c10eb40b4"/>
 	</game>
-	<game name="SpongeBob SquarePants - Een Dag uit het Leven van een Spons (Netherlands)" id="0418">
-		<category>Games</category>
-		<description>SpongeBob SquarePants - Een Dag uit het Leven van een Spons (Netherlands)</description>
-		<rom name="SpongeBob SquarePants - Een Dag uit het Leven van een Spons (Netherlands).bin" size="8388608" crc="7b2ec510" md5="cf693f03bd344e33855018e0b9ef09b1" sha1="d446c88dc557df23a51a48b11c8cee42e86ae1ac" sha256="91e563cf44d189a31bf11d21106a68a7184444f8751bf375fdd4f29b3ef97c1f"/>
-	</game>
-	<game name="Sport Games (Netherlands) (V.Smile Motion)" id="0316">
-		<category>Educational</category>
-		<description>Sport Games (Netherlands) (V.Smile Motion)</description>
-		<rom name="Sport Games (Netherlands) (V.Smile Motion).bin" size="8388608" crc="d7e6412b" md5="0a19691a72d05ecddda5bf72fe3a39d4" sha1="01296d41ce277573688bec470241ca75449ba61a" sha256="fe97d3f9b02850d4cdfcabd854f34ebf442feb643d3e7bb491c90ea3a94fd0c6"/>
-	</game>
-	<game name="Sporti'Folies (France) (V.Smile Motion)" id="0222">
-		<category>Educational</category>
-		<description>Sporti'Folies (France) (V.Smile Motion)</description>
-		<rom name="Sporti'Folies (France) (V.Smile Motion).bin" size="8388608" crc="c6aee288" md5="9238979d5a948cf72c305d7e26878f9a" sha1="b8d96d0b1c0e8e41ab39d9d6bc1fc39060af4f26" sha256="f4d176fe7328a69759dfe5876ea863dc90594b9dc6173a86785f25ef8354a5b5"/>
-	</game>
-	<game name="Sportskanone (Germany) (V.Smile Motion)" id="0272">
-		<category>Educational</category>
-		<description>Sportskanone (Germany) (V.Smile Motion)</description>
-		<rom name="Sportskanone (Germany) (V.Smile Motion).bin" size="8388608" crc="004ad4e5" md5="95842ab23c7b175e7f8ec1d757bb745a" sha1="7cbc9e5a27fac455ea2b03cebad7f1694937f790" sha256="db042a2fe9853107d8ccb884c26834b6c309a3b2dfae21d6e194843a9d048160"/>
-	</game>
 	<game name="Super WHY! - The Beach Day Mystery (USA) (V.Smile Motion)" id="0197">
 		<category>Educational</category>
 		<description>Super WHY! - The Beach Day Mystery (USA) (V.Smile Motion)</description>
 		<rom name="Super WHY! - The Beach Day Mystery (USA) (V.Smile Motion).bin" size="16777216" crc="33d98a32" md5="42115bf6662c0bb4ccebf1baa0b57eaa" sha1="f0ca68d355b8ccdace13754ebd80ae25999a38ef" sha256="42f6c7568c338531bb8dcc28f73aeb43f9aec20073dffbc81373cadef34745d0"/>
-	</game>
-	<game name="Superman - De Grootste Held (Netherlands)" id="0430">
-		<category>Games</category>
-		<description>Superman - De Grootste Held (Netherlands)</description>
-		<rom name="Superman - De Grootste Held (Netherlands).bin" size="8388608" crc="b7f1a750" md5="41fea515a14c94b3ad78ef62a34648c0" sha1="c6e60ef2333250c9e0e41d3a7d04fe4178d9be8a" sha256="962bdf49e51dd3674ab63d48a17775c0c0f8b48c6969761bee0e84413f97431e"/>
 	</game>
 	<game name="Superman - El Hombre de Acero (Spain)" id="0431">
 		<category>Educational</category>
@@ -1202,21 +376,6 @@
 		<description>Superman - The Greatest Hero (USA)</description>
 		<rom name="Superman - The Greatest Hero (USA).bin" size="8388608" crc="993b0a69" md5="eaaf0e13d35b2b5a25f6e3ecf2c0ed5a" sha1="c1865247da17d5e6d276d1b8144c48ef774bb5d3"/>
 	</game>
-	<game name="Teclado Interactivo V.Smile (Spain) (Smart Keyboard)" id="0432">
-		<category>Educational</category>
-		<description>Teclado Interactivo V.Smile (Spain) (Smart Keyboard)</description>
-		<rom name="Teclado Interactivo V.Smile (Spain) (Smart Keyboard).bin" size="8388608" crc="a7ae2ba8" md5="48906a9e2d73b8a47182caada0b5019b" sha1="ba6b0ad2845090bfc6f50e3c995b25a571d07c87" sha256="4dd7a76b0b6d6436742d294755320cd9bc866a4045d3aa7e1ffd1ae31a69a3f6"/>
-	</game>
-	<game name="Teletubbies - C'est l'heure des Teletubbies (France) (V.Smile Baby)" id="0329">
-		<category>Educational</category>
-		<description>Teletubbies - C'est l'heure des Teletubbies (France) (V.Smile Baby)</description>
-		<rom name="Teletubbies - C'est l'heure des Teletubbies (France) (V.Smile Baby).bin" size="8388608" crc="374cc936" md5="c0f51dc77a53172c46cd7b6a42934d40" sha1="462bf0a16eb16bd4ca008d9e57a914f88986920b" sha256="002922cad494832ffe3ef5af90d11838cbc8d754e51042efe70618a0b275bf89"/>
-	</game>
-	<game name="Teletubbies - Es la hora de los Teletubbies! (Spain) (V.Smile Baby)" id="0328">
-		<category>Games</category>
-		<description>Teletubbies - Es la hora de los Teletubbies! (Spain) (V.Smile Baby)</description>
-		<rom name="Teletubbies - Es la hora de los Teletubbies! (Spain) (V.Smile Baby).bin" size="8388608" crc="51e726e0" md5="f93cad35ea8c4f7927233dfd0fa027e3" sha1="108c68f8b089b337f996c01ca6b2455e34231b82" sha256="e47ca4545aa11f66fad9294e4e243f74565c3e5e87afa724cd7dd4272bad41cb"/>
-	</game>
 	<game name="Teletubbies - Time for Teletubbies (USA) (V.Smile Baby)" id="0330">
 		<category>Educational</category>
 		<description>Teletubbies - Time for Teletubbies (USA) (V.Smile Baby)</description>
@@ -1227,30 +386,10 @@
 		<description>Thomas &amp; Friends - Engines Working Together (USA) (V.Smile Motion)</description>
 		<rom name="Thomas &amp; Friends - Engines Working Together (USA) (V.Smile Motion).bin" size="8388608" crc="37ac541b" md5="6890738e51516c490ce3112ca01c8001" sha1="5f75fc5e006986b086fb58b522ffb3db0f5822eb" sha256="6d83fa726a09e69be71ea13e3e8f11de2c4ef31c1bc67fadc1ec83372d68d540"/>
 	</game>
-	<game name="Un Dia en la Granja (Spain) (V.Smile Baby)" id="0141">
-		<category>Games</category>
-		<description>Un Dia en la Granja (Spain) (V.Smile Baby)</description>
-		<rom name="Un Dia en la Granja (Spain) (V.Smile Baby).bin" size="8388608" crc="03735215" md5="98a5410f3239b75e33b1ca284bf71f84" sha1="228dc683ba1f7f7f4a61a34b29d61fe9077d2cab" sha256="585c5a3f5ed56d702c16b5ee61aeccf70b03507f2d3b25be89ad3a83ae50cb2b"/>
-	</game>
-	<game name="Un jour a la ferme (France) (V.Smile Baby)" id="0331">
-		<category>Educational</category>
-		<description>Un jour a la ferme (France) (V.Smile Baby)</description>
-		<rom name="Un jour a la ferme (France) (V.Smile Baby).bin" size="8388608" crc="a2777808" md5="5e7c575b8061f3532408fa9f83220c94" sha1="bbd2ae83d7ff43caa1e1d74b050d6130a0cd5e6f" sha256="301653baf98a7f5c369643a1481551703b4fbc9cd98165a46d39f112c47af069"/>
-	</game>
 	<game name="V.Smile - Art Studio (USA) (V.Smile Art Studio)" id="0152">
 		<category>Educational</category>
 		<description>V.Smile - Art Studio (USA) (V.Smile Art Studio)</description>
 		<rom name="V.Smile - Art Studio (USA) (V.Smile Art Studio).bin" size="4194304" crc="3bbfb917" md5="231344ba4f8592c995372656d194d521" sha1="62eff99609f4958f7059408f588aaed4ba6fc2be" sha256="eea58f2eb6482d6bc2101051f65a80cd1eb2943236a530c463e9be7e6015c471"/>
-	</game>
-	<game name="V.Smile - Clavier Tip Tap (France) (Smart Keyboard)" id="0440">
-		<category>Educational</category>
-		<description>V.Smile - Clavier Tip Tap (France) (Smart Keyboard)</description>
-		<rom name="V.Smile - Clavier Tip Tap (France) (Smart Keyboard).bin" size="8388608" crc="93a8cc75" md5="53edf58d19ea0b875a63d49d6eadc161" sha1="3fc1e93f18782b3f38ec7d97b3c70f8a9358230d" sha256="4a328e40ce9b9459c7519702883ef5286e57dce4b9bc02b21cbb0490f3a29b80"/>
-	</game>
-	<game name="V.Smile - Defi Gym (France) (Jammin' Gym Class Exercise Mat)" id="0224">
-		<category>Educational</category>
-		<description>V.Smile - Defi Gym (France) (Jammin' Gym Class Exercise Mat)</description>
-		<rom name="V.Smile - Defi Gym (France) (Jammin' Gym Class Exercise Mat).bin" size="8388608" crc="31c55c70" md5="98d89bc90d40798dbb707a1a34238040" sha1="c7c3abe7b8c634a8b96dac826aea42780012f549" sha256="543a1bfa5ef17751e018e18cc349b762df90505ab2d8648614ff3f0efc2026f5"/>
 	</game>
 	<game name="V.Smile - Estudio De Arte (Spain) (V.Smile Art Studio)" id="0441">
 		<category>Educational</category>
@@ -1267,35 +406,30 @@
 		<description>V.Smile - Lern- und Tanzmatte (Germany)</description>
 		<rom name="V.Smile - Lern- und Tanzmatte (Germany).bin" size="8388608" crc="db81c1e1" md5="b6dac6a08b391b89368fc9bd7b71ad4c" sha1="fbe3f9ee65b7a692c568dde8986df7a2bba8b133" sha256="a3aeee9c4d978b887d3d546c55e1bdf053d576b218cc9d3e137121546299f819"/>
 	</game>
-	<game name="V.Smile - PC (Spain) (Smart Keyboard)" id="0444">
-		<category>Educational</category>
-		<description>V.Smile - PC (Spain) (Smart Keyboard)</description>
-		<rom name="V.Smile - PC (Spain) (Smart Keyboard).bin" size="8388608" crc="e08afbf5" md5="976654aeda99dce38e43266d46cdaf88" sha1="ff5f6b283b552f0130d30a574559bfbfa7332bf1" sha256="d377e014c686780d3797482e183897d23d6550eb67221d086aab6a0137908a2c"/>
-	</game>
 	<game name="V.Smile - PC Pal Island (USA) (Smart Keyboard)" id="0445">
 		<category>Educational</category>
 		<description>V.Smile - PC Pal Island (USA) (Smart Keyboard)</description>
 		<rom name="V.Smile - PC Pal Island (USA) (Smart Keyboard).bin" size="8388608" crc="7e53c0a1" md5="a503bffd2ac35ddd8f6f6ef66139a314" sha1="68b8d09c933b17e1342ef31cfb283dc5609e990a" sha256="8945c51158702b99efe3afffd07e252b50a9457aca98b8c5fb770680cd6ce300"/>
-	</game>
-	<game name="V.Smile - Schreibspass (Germany) (Smart Keyboard)" id="0446">
-		<category>Educational</category>
-		<description>V.Smile - Schreibspass (Germany) (Smart Keyboard)</description>
-		<rom name="V.Smile - Schreibspass (Germany) (Smart Keyboard).bin" size="8388608" crc="1fcf586f" md5="39344ca4f43f0aaf180593bc67f62d31" sha1="e13d229887ea31bfd9fea43683f65162b9626ffa" sha256="79f76062cd67deb7cfebe370c7f5889a311c34a2e151172da528e6c9216b5873"/>
 	</game>
 	<game name="V.Smile - Smart Keyboard (USA) (Smart Keyboard)" id="0447">
 		<category>Educational</category>
 		<description>V.Smile - Smart Keyboard (USA) (Smart Keyboard)</description>
 		<rom name="V.Smile - Smart Keyboard (USA) (Smart Keyboard).bin" size="8388608" crc="4e8ca1bb" md5="943009a6770aec7a8597b5c2c959fff0" sha1="ef8aa08a01bdbbbf01c481efd3a0def6326aa6ac" sha256="5ca9ccd2ecb719730b7f81a8380ef4238801d8a6f34befbcef32320c95cbbe8c"/>
 	</game>
-	<game name="V.Smile - Soccer Challenge (USA) (Rev 2)" id="0448">
-		<category>Games</category>
-		<description>V.Smile - Soccer Challenge (USA) (Rev 2)</description>
-		<rom name="V.Smile - Soccer Challenge (USA) (Rev 2).bin" size="8388608" crc="e96f49df" md5="56e0aee9c808d344c460ac86c1d270e3" sha1="e06eb8657d179a80ad23e832b46c6e85235b66c8" sha256="f1760b66008913880a7aedd9e94ab7cf0e0bae9615712505d8039ba33f07bd9d"/>
-	</game>
 	<game name="V.Smile - Studio de dessin (France) (V.Smile Art Studio)" id="0223">
 		<category>Educational</category>
 		<description>V.Smile - Studio de dessin (France) (V.Smile Art Studio)</description>
 		<rom name="V.Smile - Studio de dessin (France) (V.Smile Art Studio).bin" size="4194304" crc="fec3361e" md5="b348e5a0644f819c55d436fd37011a56" sha1="42ae399bc442bb9dbeb4b9aa5fe9d1e721664849" sha256="526c2fb7f141882006df7dadc68b195a558029d795fd673b7776572231377f21"/>
+	</game>
+	<game name="V.Smile - Tecknarstudio (Sweden) (V.Smile Art Studio)" id="0040">
+		<category>Educational</category>
+		<description>V.Smile - Tecknarstudio (Sweden) (V.Smile Art Studio)</description>
+		<rom name="V.Smile - Tecknarstudio (Sweden) (V.Smile Art Studio).bin" size="4194304" crc="27449e15" md5="2485576139d306d7a50a17bde111ddbd" sha1="5c13865dffb04c98c69f3422c965d76a9aa36c33" sha256="7c0b9e8f4e9c556c22d0de4231701fef7c660ac2309be2149cabe2229cfbdfaf"/>
+	</game>
+	<game name="V.Smile - Zeichenatelier (Germany) (V.Smile Art Studio)" id="0073">
+		<category>Games</category>
+		<description>V.Smile - Zeichenatelier (Germany) (V.Smile Art Studio)</description>
+		<rom name="V.Smile - Zeichenatelier (Germany) (V.Smile Art Studio).bin" size="4194304" crc="ae5f4fe2" md5="a2d513e510e109bdaeb1caef1a3179b9" sha1="1c5428da7464182e6ee0585d1ebc211f91667238" sha256="2f49a2e1e924408a572b198d8cc8b0b86ac0a04fc02c947958142605b71db591"/>
 	</game>
 	<game name="Wiggles, The - It's Wiggle Time! (USA)" id="0190">
 		<category>Educational</category>
@@ -1307,16 +441,6 @@
 		<description>Wild Waves (USA) (V.Smile Motion)</description>
 		<rom name="Wild Waves (USA) (V.Smile Motion).bin" size="8388608" crc="358506ff" md5="270c6a2edb050ebb9ef62f5931ebd3fc" sha1="ed99c63d6b1f2d6303fa96512f2e15d04d2eabc7" sha256="84a6c82233b72c40f3aca2c088e367204e40bcda10b1964f62ffbf1fb9eda383"/>
 	</game>
-	<game name="Winnie the Pooh - En busca de la miel (Spain) (V.Smile Motion)" id="0242">
-		<category>Games</category>
-		<description>Winnie the Pooh - En busca de la miel (Spain) (V.Smile Motion)</description>
-		<rom name="Winnie the Pooh - En busca de la miel (Spain) (V.Smile Motion).bin" size="8388608" crc="4e6da62d" md5="fff87a98eaf1dcf67c32fe23f214d492" sha1="be1021edc2106dc3db1c783258a414b387196ce1" sha256="a30eb3e0218424cf862f4fc4b1b77dd9ef3f185722990166cc9e2695dd2c8db2"/>
-	</game>
-	<game name="Wintersport (Germany) (V.Smile Motion)" id="0251">
-		<category>Games</category>
-		<description>Wintersport (Germany) (V.Smile Motion)</description>
-		<rom name="Wintersport (Germany) (V.Smile Motion).bin" size="8388608" crc="76e0952f" md5="bbcc9afec9a0335384f3a7c6b42b5cdd" sha1="fd4bed2303a0e98af85645a477edb34281a5d17d" sha256="1927e95f4778043f9a872a337cd1e003dbd374e748ca775664f967bd6ff4ddfb"/>
-	</game>
 	<game name="Wonder Pets! - Save the Animals! (USA) (V.Smile Motion)" id="0256">
 		<category>Games</category>
 		<description>Wonder Pets! - Save the Animals! (USA) (V.Smile Motion)</description>
@@ -1327,24 +451,9 @@
 		<description>Wow! Wow! Wubbzy! - Attack of the 50-foot Fleegle (World)</description>
 		<rom name="Wow! Wow! Wubbzy! - Attack of the 50-foot Fleegle (World).bin" size="8388608" crc="62da284f" md5="3954c5861172ea693d1133457d84e215" sha1="1931473d50d8ba2f505a6fd22625810b8d7dbaf6" sha256="fe9f5ebdb1cea52aefefa48294ffc94459de77f55af1d06fcca455121acfe111"/>
 	</game>
-	<game name="Yingyu Yundongyuan (China) (V.Smile Motion)" id="0250">
-		<category>Educational</category>
-		<description>Yingyu Yundongyuan (China) (V.Smile Motion)</description>
-		<rom name="Yingyu Yundongyuan (China) (V.Smile Motion).bin" size="8388608" crc="e9fab386" md5="308ebe81298c0657c2efe7aa4b420ce4" sha1="9f2b3ab9c3c217ae50c398a6ea080141efabc1fc" sha256="81c6107f5fc92114777a5958d9c29fd8648736a3cb4a27223066b6a793d73a1a"/>
-	</game>
 	<game name="Zayzoo - An Earth Adventure (USA, United Kingdom) (Rev 4)" id="0112">
 		<category>Games</category>
 		<description>Zayzoo - An Earth Adventure (USA, United Kingdom) (Rev 4)</description>
 		<rom name="Zayzoo - An Earth Adventure (USA, United Kingdom) (Rev 4).bin" size="8388608" crc="4e94fce2" md5="f5ae93c7e57a2f6aedef7a3572a9250d" sha1="b65a446199d390d6b25046fb66fb7e7f329e84c5" sha256="5b3f5139e94227b6200e1dc499cd6f346f256e217f79247c97d99634d65342b2"/>
-	</game>
-	<game name="Zayzoo - Mi Amiga del Espacio (Spain)" id="0456">
-		<category>Games</category>
-		<description>Zayzoo - Mi Amiga del Espacio (Spain)</description>
-		<rom name="Zayzoo - Mi Amiga del Espacio (Spain).bin" size="8388608" crc="ce601e55" md5="d528497260876ff2e6dba5de8847bb94" sha1="8b628101b605f4688b580a9e7511c3bfa6f7d5bc" sha256="85a63a0d3353cb8fdf9e3422f6665ccbdc70ddf8aa4d08c98c3b89e0e971efcb"/>
-	</game>
-	<game name="Zayzoo - My Alien Classmate (USA)" id="0457">
-		<category>Games</category>
-		<description>Zayzoo - My Alien Classmate (USA)</description>
-		<rom name="Zayzoo - My Alien Classmate (USA).bin" size="8388608" crc="76ff9718" md5="585f0a8cf4380d44cecd4d8d26d3e0e6" sha1="be783c1abe96f785564f5b5b6b4ea089b799c1d4" sha256="6aad2003754cab4c8104ead553f5722d097e2c6144929fb1370f03249524bfe5"/>
 	</game>
 </datafile>

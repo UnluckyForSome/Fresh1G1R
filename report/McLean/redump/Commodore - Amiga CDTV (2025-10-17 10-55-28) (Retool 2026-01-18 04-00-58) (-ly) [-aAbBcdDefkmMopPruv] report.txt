@@ -1,0 +1,102 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+* EDUCATIONAL REMOVES
+* MULTIMEDIA REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Defender of the Crown II (USA) (En,Fr,De,Es,It)
+  - Defender of the Crown II (Europe)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Battlestorm (Europe)
++ Case of the Cautious Condor, The (Europe)
++ Classic Board Games (Europe) (En,Ja,Fr,De,Es,It)
++ Curse of RA, The (Germany)
++ Defender of the Crown (Europe)
++ Fantastic Voyage (USA)
++ Games & Goodies (UK)
++ Garden Fax - Trees, Shrubs, Roses & Conifers (USA)
++ Insight Dinosaurs (Europe)
++ Lemmings (Europe)
++ Log!cal (Europe)
++ Now That's What I Call Games (UK)
++ Prehistorik (Europe)
++ Psycho Killer (Europe)
++ Raffles (Sweden)
++ SimCity (Europe) (En,Fr,De,Es,It)
++ Snoopy - The Case of the Missing Blanket (Sweden)
++ Team Yankee (Europe)
++ Town with No Name (Europe) (En,Fr,De,Es,It,Da)
++ Trivial Pursuit - The CDTV Edition (Europe) (Disc 1)
++ Trivial Pursuit - The CDTV Edition (Europe) (Disc 2)
++ Turrican (Germany)
++ Turrican II - The Final Fight (Germany)
++ Will Bridge Vol. 1 - Initiation aux Encheres - Practice (France)
++ Wrath of the Demon (USA)
++ Xenon 2 - Megablast (Europe) (En,Fr,De,It)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- 17 Bit - Continuation Disc (Europe)
+- CD Remix Version II (Europe)
+- CDPD 1 (Europe)
+- CDPD 1 (Europe) (CD32 Compatible)
+- CDPD 2 (Europe)
+- CDPD 3 (Europe)
+- Demo Collection for Amiga CDTV, The (Europe) (Black Disc)
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- CDTV Demo Disc (Europe) (Disc 1) (Amiga CD Psygnosis Demo)
+- Welcome to CDTV Multimedia (USA)
+
+EDUCATIONAL REMOVES
+===================
+These titles were removed because the user excluded educational titles.
+
+- Barney Bear Goes to School (USA)
+- Bun for Barney, A (USA)
+- Cinderella - The Original Fairy Tale (USA) (En,Fr,De,Es,It)
+- Language TV - English (France)
+- Mud Puddle (USA) (En,Fr,De,Es,It)
+
+MULTIMEDIA REMOVES
+==================
+These titles were removed because the user excluded multimedia titles.
+
+- 17 Bit - Collection for Amiga CDTV (Europe) (Disc A) (The Early Classics)
+- 17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch)
+- 17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch) (Rev 1)
+- AMOS PD (UK)
+- Advanced Military Systems (Europe)
+- American Heritage - Illustrated Encyclopedic Dictionary - 1991a Edition (USA)
+- CDTV Demo Disc (Europe) (Disc 2) (Amiga CDTV - Amiga 600 - Amiga 600 HD)
+- Demo II - Amiga Public Domain Collection (Europe)
+- Deutschland Kompakt (Germany)
+- Garden Fax - Fruits, Vegetables & Herbs (USA)
+- Garden Fax - Garden Plants (USA)
+- Garden Fax - Indoor Plants (USA)
+- Hutchinson Encyclopedia, The (Europe)
+- Insight Technology (Europe)
+- New Basics Electronic Cookbook, The - 1991a Edition (USA)
+- Pandora's CD (Europe)
+- Time Table of History - Business, Politics & Media - 1991a Edition (USA)

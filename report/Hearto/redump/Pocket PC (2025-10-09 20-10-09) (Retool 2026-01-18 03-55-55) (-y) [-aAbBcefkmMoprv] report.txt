@@ -1,0 +1,110 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* EDUCATIONAL REMOVES
+* MULTIMEDIA REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Metalion (USA)
+  - Metalion (Japan)
++ Rayman (Europe)
+  - Rayman (Japan) (En,Ja)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Call of Duty 2 (USA)
++ Chopper Alley (USA)
++ Dragon's Breed - The Ancient Augury (UK)
++ Empire of the Undead (USA)
++ EverQuest for the Pocket PC (USA)
++ FIFA Soccer 2002 (USA)
++ G-Pod (Germany)
++ G-Prime (Germany)
++ Graduate Chess (Europe) (En,Fr,De)
++ Links - Pocket PC Edition (USA)
++ Microsoft Entertainment Pack 2.0 for Windows CE (USA)
++ Microsoft Entertainment PocketPak (USA)
++ Midway Classics - Marble Madness (USA)
++ Motocross Stunt Racer (USA)
++ Okigaru Igo Taikyoku (Japan)
++ Pocket Athlete (USA)
++ Pocket Bass Pro (USA)
++ Pocket Chess (Japan)
++ Pocket Fritz (Europe) (En,Fr,De,Es,It,Nl,Sv)
++ Pocket Gambler (USA)
++ Pocket Mahjong (Japan)
++ Pocket Shougi (Japan)
++ Pow Wow - Animalcraft (Japan)
++ Rayman Ultimate (USA)
++ RocketElite (USA) (En,Fr,De)
++ ShadowGate Classic (USA)
++ SimCity 2000 for Pocket PC (USA)
++ Soccer Addict - 2002 International Cup (Japan)
++ Tomb Raider for Pocket PC (USA)
++ Tony Hawk's Pro Skater 2 (USA)
++ Ultima Underworld - The Stygian Abyss (USA)
++ Vegas Casino - Vol. 1 & 2 (Canada)
++ ZIO FunPack (USA)
++ ZIOGolf 2 (USA)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- CoPilot Live - Pocket PC 4 (Europe) (En,Fr,De,Es) (Data Disc - Maps of Europe)
+- CoPilot Live - Pocket PC 4 (Europe) (En,Fr,De,Es) (Install Disc - Europe)
+- Microsoft Expedia Streets 98 (USA)
+- Microsoft Productivity Pack (USA)
+- Microsoft Streets & Trips 2003 (USA) (Run)
+- Microsoft Streets & Trips 2003 (USA) (Setup)
+- Pocket Flash Format (Japan)
+- Pocket Fritz 3 (Europe) (En,De)
+- Pocket PC Software Pack (Germany)
+- Pocket Picture Viewer (Japan)
+- Pocket Slide Show (Japan)
+- Pocket Zipper (Japan)
+- PostPet for Windows CE (Japan)
+- PowerBuyer 6.5 (Japan)
+- RSPB Birds of Britain & Ireland (UK)
+- Socket Low Power SDIO WLAN (USA)
+- Surasura Gaikokugo Kaiwa for Pocket PC (Japan)
+- TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 1)
+- TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 2)
+- TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 3)
+- TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 4)
+- TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 5)
+- TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 6)
+- TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 7)
+- TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 8)
+- WingX (USA)
+
+EDUCATIONAL REMOVES
+===================
+These titles were removed because the user excluded educational titles.
+
+- Pocket CT-ART (Russia) (En,Fr,De,Es,It,Ru)
+- TOEIC Test no Tame no Pocket PC Soft (Japan) (En,Ja)
+
+MULTIMEDIA REMOVES
+==================
+These titles were removed because the user excluded multimedia titles.
+
+- Best Pocket PC Games & Utilities, The (Europe)
+- HP Jornada 520 Series CD-ROM (USA) (En,Fr,De)
+- Microsoft ActiveSync 3.1 (USA)
+- Microsoft Fun Pocket PC Expansion Pack (USA)
+- Pocket PC StarterPak for Dummies (USA)
+- Rom-Man Technologies' Windows CE Professional (USA)
+- Windows Media Play Pack for Pocket PC (USA)

@@ -1,0 +1,115 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* COVERDISC REMOVES
+* EDUCATIONAL REMOVES
+* MULTIMEDIA REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ !ogic Mania (UK)
++ Ankh - The Tales of Mystery (UK)
++ Desktop Repton - Issue Two (UK)
++ Dune II - Battle for Arrakis (UK)
++ Simon the Sorcerer (UK)
++ Soft Rock Games Collection CD, The (UK)
++ Wizard Apprentice (UK)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- ARM Club, The (UK)
+- Acorn World 97 Beta CD (UK)
+- ArtWorks (UK)
+- DrawWorks - New Millennium (UK)
+- EFF1 Professional Typography 1997 (UK)
+- EasiWriter Pro (UK)
+- Oregano (UK)
+- Ovation (UK)
+- Photodesk v3.12 (UK)
+- RISC OS Collector's CD (UK)
+- Revelation 2 - CD Edition (UK)
+- StrongARM CD-ROM, The (UK)
+- Textease Studio Plus (UK)
+- Typography (UK)
+
+COVERDISC REMOVES
+=================
+These titles were removed because the user excluded coverdisc titles.
+
+- Acorn Archimedes World CD-ROM (UK)
+- Acorn User - 200th Issue Cover CD (UK)
+- Acorn User - Collector's CD-ROM 3 (UK)
+- Acorn User - Collector's CD-ROM No. 1 (UK)
+- Acorn User - Collector's CD-ROM No. 2 (UK)
+- Acorn User CD 10 (UK)
+- Acorn User CD 12 (UK)
+- Acorn User CD 13 (UK)
+- Acorn User CD 14 (UK)
+- Acorn User CD 5 (UK)
+- Acorn User CD 6 (UK)
+- Acorn User CD 7 (UK)
+- Acorn User CD 8 (UK)
+- Acorn User CD 9 (UK)
+- Acorn User China CD-ROM (UK) (Disc A)
+- Acorn User China CD-ROM (UK) (Disc B)
+- Computer Shopper - Issue 137 July 1999 (UK)
+- RISC Domain - Issue Two - December 2001 (UK)
+- RISC Domain - Issue Two - December 2001 (UK) (Alt)
+
+EDUCATIONAL REMOVES
+===================
+These titles were removed because the user excluded educational titles.
+
+- APDL Education Resources CD (UK)
+- All About Handwriting & All About Planes (UK)
+- British Countrysides - Education Version (UK)
+- Creepy Crawlies (UK)
+- Dictionary of the Living World (UK)
+- En Route - Beginners' French CD-ROM (UK)
+- Garden Wildlife (UK)
+- How We Used to Live - Early Victorians (UK)
+- Introduction to Digital Art, An (UK)
+- King Arthur - Legends of Saxon Conquest and Medieval Chivalry (UK)
+- Looking at Animals (UK)
+- Photography - Education Version (UK)
+- Romans (UK)
+- Science & Nature - Elements (UK)
+- Science & Nature - Materials (UK)
+- Science - Electricity and Magnetism - Secondary Edition (UK)
+- Seashore Life (UK)
+- Technology and Design for My World 2 (UK)
+- Vikings! (UK)
+- Window on the World (UK) (Covermount)
+
+MULTIMEDIA REMOVES
+==================
+These titles were removed because the user excluded multimedia titles.
+
+- 10th Anniversary Archive Magazine CD (UK)
+- APDL DTP-3 Clip Art CD (UK)
+- Acorn CD-ROM Aug 97 (UK)
+- Acorn Education - Products & Services Catalogue Spring 1996 (UK)
+- Acorn Replay - VideoClip Collection One (UK)
+- All Fonts - Vol. 1 (UK)
+- Archive Magazine CD 1996 (UK)
+- Bitfolio - Edition 7 (UK)
+- Free 4000 Public Domain Fonts (UK)
+- PDCD-3 (UK)
+- PDCD-4 (UK)
+- RISC OS Font Emporium (UK)
+- RISC World - Volume 6 Issue 6 April 2006 (UK)
+- Risc Disc, The - Volume One (UK)
+- Risc Disc, The - Volume Three (UK)
+- Risc Disc, The - Volume Two (UK)
+- Soft Rock Software Collection, The (UK)

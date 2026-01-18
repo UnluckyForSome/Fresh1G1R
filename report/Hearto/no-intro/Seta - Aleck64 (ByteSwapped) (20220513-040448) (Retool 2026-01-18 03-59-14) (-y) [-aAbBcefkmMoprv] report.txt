@@ -1,0 +1,33 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+
+
+TITLES WITH CLONES
+==================
+
++ Super Real Mahjong VS (Japan) (Rev 1)
+  - Super Real Mahjong VS (Japan)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Eleven Beat (Japan)
++ Hanabi de Doon! - Don-chan Puzzle (Japan)
++ Hi Pai Paradise (Japan)
++ Hi Pai Paradise 2 (Japan)
++ Kuru Kuru Fever (Japan)
++ Magical Tetris Challenge (Japan)
++ Mayjinsen 3 (Japan)
++ Pachislo DX (Japan)
++ Slosseum Dual (Japan)
++ Star Soldier - Vanishing Earth (Japan)
++ Tower & Shaft (Japan)
++ Vivid Dolls (Japan)

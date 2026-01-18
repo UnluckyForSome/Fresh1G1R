@@ -1,0 +1,260 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* COVERDISC REMOVES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+* EDUCATIONAL REMOVES
+* MULTIMEDIA REMOVES
+* LANGUAGE REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Arcade Pool (Europe) (En,Fr,De,It)
+  - Arcade Pool (Europe) (En,Fr,De,It) (Alt)
++ Bump 'n' Burn (Europe)
+  - Grandslam Gamer Gold Collection (Europe)
++ Chaos Engine, The (Europe) (En,Fr,De,It)
+  - Chaos Engine, The (Europe) (Spectacular Voyage)
++ Deep Core (Europe) (v1.01)
+  - Deep Core (Europe) (v1.00)
++ Diggers & Oscar (Europe) (Rev 1)
+  - Diggers & Oscar (Europe)
+  - Diggers & Oscar (Europe) (Rev 1) (Alt)
++ Guardian (Europe)
+  - Guardian (Europe) (Alt)
++ Gulp! (Europe) (En,Fr,De,Es,It)
+  - Gulp! (Europe) (En,Fr,De,Es,It) (Alt)
++ James Pond 3 - Operation Starfi5h (Europe) (Kixx)
+  - James Pond 3 - Operation Starfi5h (Europe)
++ Liberation - Captive II (Europe) (Rev 3)
+  - Liberation - Captive II (Europe)
+  - Liberation - Captive II (Europe) (Rev 1)
+  - Liberation - Captive II (Europe) (Rev 2)
++ Manchester United - Premier League Champions (Europe) (En,Fr,De,It) (Rev 1)
+  - Manchester United - Premier League Champions (Europe) (En,Fr,De,It)
++ Microcosm (Europe)
+  - Microcosm (Europe) (Alt)
++ Nigel Mansell's World Championship (Europe)
+  - Nigel Mansell's World Championship (Europe) (Alt)
++ Project-X & F17 Challenge (Europe) (En,Fr,De,It,Da) (v2.0)
+  - Project-X & F17 Challenge (Europe) (En,Fr,De,It,Da)
+  - Project-X & Ultimate Body Blows (Europe)
++ Projekt - Lila (Germany) (Rev 1)
+  - Projekt - Lila (Germany)
++ Roadkill (Europe)
+  - Roadkill (Europe) (Alt)
++ Super Methane Bros. (Europe)
+  - Super Methane Bros. (Europe) (Alt)
++ Super Skidmarks (Europe)
+  - Super Skidmarks (Europe) (Alt)
++ Vital Light (Europe)
+  - Vital Light (Europe) (Alt)
++ Whale's Voyage (Europe) (Rev 1)
+  - Whale's Voyage (Europe)
++ Zool 2 (Europe)
+  - Zool 2 (Europe) (Alt)
+
+TITLES WITHOUT CLONES
+=====================
+
++ ATR - All Terrain Racing (Europe)
++ Akira (Europe)
++ Alfred Chicken (Europe)
++ Alien Breed - Tower Assault (Europe)
++ Alien Breed 3D (Europe)
++ Alien Breed Special Edition & Qwak (Europe) (En,Fr,De,It,Da)
++ Arabian Nights (Europe) (En,Fr,De,It)
++ Assassins - Ultimate Games Compact Disc (Europe) (v2.0)
++ Banshee (Europe) (En,Fr,De,Da)
++ Base Jumpers (Europe)
++ Battle Chess (Europe)
++ Battletoads (Europe)
++ Beavers (Europe)
++ Beneath a Steel Sky (Europe) (En,Fr,De,It)
++ Benefactor (Europe)
++ Big 6, The (Europe)
++ Black Viper (Europe) (En,De,It)
++ Brian the Lion (Europe) (En,Fr,De,It) (Gameplay CD-ROM)
++ Brutal Football (Europe)
++ Bubba 'n' Stix (Europe)
++ Bubble and Squeak (Europe)
++ Cannon Fodder (Europe)
++ Castles II - Siege & Conquest (Europe)
++ Chambers of Shaolin (Europe)
++ Chuck Rock (Europe)
++ Chuck Rock II - Son of Chuck (Europe)
++ Classic Lotus Trilogy, The (Europe)
++ Clockwiser (Europe)
++ D-Generation (Europe)
++ Dangerous Streets & Wing Commander (Europe) (En,Fr,De,It)
++ Dangerous Streets (Europe) (En,Fr,De,It)
++ Darkseed (Europe)
++ Death Mask (Europe) (En,Fr,De,It)
++ Dennis (Europe)
++ Disposable Hero (Europe)
++ Donk! The Samurai Duck! (Europe)
++ Dragonstone (Europe) (En,Fr,De)
++ Emerald Mines (Europe)
++ Exile (Europe)
++ Fears (Europe)
++ Fields of Glory (Europe) (En,Fr,De)
++ Fightin' Spirit (Europe) (En,De,It)
++ Fire & Ice - The Daring Adventures of Cool Coyote (Europe) (En,Fr,De,It)
++ Fire Force (Europe)
++ Flink (Europe)
++ Fly Harder (Europe)
++ Frontier - Elite II (Europe)
++ Fury of the Furries (Europe)
++ Gamers' Delight (Europe) (En,De)
++ Global Effect (Europe)
++ Gloom (Europe)
++ Gunship 2000 (Europe)
++ Heimdall 2 - Into the Hall of Worlds (Europe)
++ HeroQuest II - Legacy of Sorasil (Europe) (En,Fr,De)
++ Humans (Europe) (En,Fr,De,Es,It)
++ Humans 3 - Evolution - Lost in Time... (Europe)
++ Impossible Mission 2025 - The Special Edition (Europe)
++ International Karate + (Europe)
++ International Sensible Soccer - World Champions (Europe) (En,Fr,De,It)
++ James Pond 2 - Robocod (Europe)
++ Jetstrike CD32 (Europe)
++ Jim Power in Mutant Planet (Europe)
++ John Barnes European Football (Europe) (En,Fr,De,Es,It)
++ Jungle Strike - The Sequel to Desert Strike (Europe)
++ Kid Chaos (Europe)
++ Kingpin - Arcade Sports Bowling (Europe) (En,Fr,De,It)
++ Labyrinth of Time, The (Europe)
++ Lamborghini - American Challenge (Europe)
++ Last Ninja 3 (Europe)
++ Legends (Europe) (En,Fr,De)
++ Litil Divil (Europe)
++ Lost Vikings, The (Europe)
++ Marvin's Marvellous Adventure (Europe) (En,Fr,De,Es,It)
++ Mean Arenas (Europe)
++ Morph (Europe)
++ Myth - History in the Making (Europe)
++ Naughty Ones (Europe)
++ Nick Faldos Championship Golf (Europe)
++ Overkill & Lunar-C (Europe)
++ PGA European Tour (Europe)
++ Pierre Le Chef Is ... Out to Lunch (Europe)
++ Pinball Fantasies (Europe)
++ Pinball Illusions (Europe)
++ Pirates! Gold (Europe) (En,De)
++ Power Drive (Europe) (En,Fr,De,Es,It)
++ Power-Games (Europe) (En,De)
++ Premiere (Europe)
++ Prey - An Alien Encounter (Europe)
++ Quik the Thunder Rabbit (Europe)
++ Rise of the Robots (Europe)
++ Ryder Cup - Johnnie Walker (Europe)
++ Sabre Team (Europe) (En,Fr,De,Es,It)
++ Seek and Destroy (Europe)
++ Sensible Soccer - European Champions (Europe) (En,Fr,De,It)
++ Seven Gates of Jambala, The (Europe)
++ Shadow Fighter (Europe)
++ Simon the Sorcerer (Europe)
++ Skeleton Krew (Europe)
++ Sleepwalker (Europe)
++ Soccer Kid (Europe) (En,Fr,De,Es,It)
++ Speedball 2 (Europe)
++ Speris Legacy, The (Europe)
++ Sports - Football (USA)
++ Striker (Europe)
++ Strip Pot (Europe)
++ Subwar 2050 (Europe) (En,Fr,De)
++ Summer Olympix (Europe)
++ Super Putty (Europe)
++ Super Stardust (Europe)
++ Super Street Fighter II Turbo (Europe)
++ Superfrog (Europe)
++ Surf Ninjas (Europe)
++ Syndicate (Europe) (En,Fr,It)
++ Theme Park (Europe) (En,Fr,De,It)
++ Top Gear 2 (Europe)
++ Total Carnage (Europe)
++ Trivial Pursuit - The CD32 Edition (Europe)
++ Trolls (Europe)
++ UFO - Enemy Unknown (Europe) (En,Fr,De)
++ Ultimate Body Blows (Europe)
++ Universe (Europe) (En,Fr,De,It)
++ Wembley International Soccer (Europe)
++ Wild Cup Soccer (Europe)
++ Worms (Europe) (En,Fr,De)
++ Zool - Ninja of the Nth Dimension (Europe)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- Amiga Workbench 3.0 (Europe)
+- Communicator (Germany) (En,De)
+
+COVERDISC REMOVES
+=================
+These titles were removed because the user excluded coverdisc titles.
+
+- Amiga CD32 Gamer - Demos, Shareware & PD Games - Volume 1 (UK)
+- Amiga CD32 Gamer - Game Demos - Volume 2 (UK)
+- Amiga CD32 Magazine - Spring 1994 (Europe)
+- Amiga CD32 Magazine - Winter 1994 (Europe)
+- Amiga Power Techno Nation - Game Massive - The Essential CD32 Collection Volume 1 (Europe)
+- CD32 Gamer - Playable Game Demos - Volume 3 (UK)
+- CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 10 (UK)
+- CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 11 (UK)
+- CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 12 (UK)
+- CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 13 (UK)
+- CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 14 (UK)
+- CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 15 (UK)
+- CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 18 (UK)
+- CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 19 (UK)
+- CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 20 (UK)
+- CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 21 (UK)
+- CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 4 (UK)
+- CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 5 (UK)
+- CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 6 (UK)
+- CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 7 (UK)
+- CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 8 (UK)
+- CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 9 (UK)
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (Europe)
+- Microcosm (Europe) (Demo)
+
+EDUCATIONAL REMOVES
+===================
+These titles were removed because the user excluded educational titles.
+
+- CD Micro French (Europe)
+
+MULTIMEDIA REMOVES
+==================
+These titles were removed because the user excluded multimedia titles.
+
+- CD Exchange - Volume 1 (UK)
+- Fest- och snapskaraoke (Sweden)
+- Guinness Disc of Records, The - Second Edition (UK)
+- Karaoke - Julsanger I (Sweden)
+- Sheer Delight (USA, Europe)
+- Video Creator (Europe)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Clou!, Der (Germany)
+- Magic Island (Czech)
+- Whale's Voyage (Germany)

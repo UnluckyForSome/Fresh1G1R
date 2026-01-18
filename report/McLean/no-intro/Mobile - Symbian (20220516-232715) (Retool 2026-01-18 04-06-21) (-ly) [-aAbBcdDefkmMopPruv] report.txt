@@ -1,0 +1,53 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+* LANGUAGE REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Atomic (USA)
++ Cheez! (USA)
++ F-Rogger (Europe)
++ Frozen Bubble (France) (En)
++ Frozen Bubble (France) (En) (S60)
++ Hangman (Europe)
++ Jack or 100 Ways to Barbecue (Europe)
++ Legacy (USA)
++ Meltdown (USA)
++ QBubbleMP (Europe)
++ Space Impact (USA)
++ Sugatris (USA)
++ V-Rally - Championship Edition (Japan) (En,Fr,De)
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- Aqua Blocks+ (USA) (Demo)
+- Cannons (USA) (Demo)
+- Dropathon (USA) (Demo)
+- Dropathon (USA) (v0.99b) (Demo)
+- HoverZone (USA) (Demo)
+- Jack or 100 Ways to Barbecue (Europe) (Demo)
+- Meteor (USA) (Demo)
+- Quartz 2 (USA) (Demo) (S60)
+- Quartz 2 (USA) (Demo) (UIQ)
+- V-Rally - Championship Edition (Japan) (En,Fr,De) (Demo)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Bowling Master (France)
+- MotoGear (France)
+- MotoGear (France) (Nx0)
+- Sudoku Pro (France)

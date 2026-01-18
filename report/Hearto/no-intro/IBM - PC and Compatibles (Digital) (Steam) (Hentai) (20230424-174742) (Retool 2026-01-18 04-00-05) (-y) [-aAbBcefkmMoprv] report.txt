@@ -1,0 +1,18 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ 1412310 - Girls! Girls! Girls! (World) (En) (Windows)
++ 2375180 - Saimin Arbeit (World) (En,Zh-Hant,Zh-Hans) (Windows)
++ 2385320 - Virgin Knight is my Onahole Tonight (World) (En) (v1.2.2) (Windows)
++ Sakura Succubus 6 (World) (En) (Windows)

@@ -1,0 +1,59 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* PREPRODUCTION REMOVES
+* LANGUAGE REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ 3-D Tetris (USA)
++ Galactic Pinball (Japan, USA) (En)
++ Golf (USA)
++ Jack Bros. (USA)
++ Mario Clash (Japan, USA) (En)
++ Mario's Tennis (Japan, USA) (En)
++ Nester's Funky Bowling (USA)
++ Panic Bomber (USA)
++ Red Alarm (USA)
++ Teleroboxer (Japan, USA) (En)
++ V-Tetris (Japan) (En)
++ Vertical Force (USA)
++ Virtual Boy Wario Land (Japan, USA) (En)
++ Virtual League Baseball (USA)
++ Waterworld (USA)
+
+PREPRODUCTION REMOVES
+=====================
+These titles were removed because the user excluded preproduction titles.
+
+- Bound High (World) (Proto 1) [b]
+- Bound High (World) (Proto 2)
+- Niko-chan Battle (Japan) (Proto)
+- Space Pinball (Japan) (En) (Proto)
+- Virtual League Baseball 2 (USA) (Proto)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Insmouth no Yakata (Japan)
+- Jack Bros. no Meiro de Hiihoo! (Japan)
+- Red Alarm (Japan)
+- SD Gundam - Dimension War (Japan)
+- Space Invaders - Virtual Collection (Japan)
+- Space Squash (Japan)
+- T&E Virtual Golf (Japan)
+- Tobidase! Panibon (Japan)
+- Vertical Force (Japan)
+- Virtual Bowling (Japan)
+- Virtual Fishing (Japan)
+- Virtual Lab (Japan)
+- Virtual Pro Yakyuu '95 (Japan)

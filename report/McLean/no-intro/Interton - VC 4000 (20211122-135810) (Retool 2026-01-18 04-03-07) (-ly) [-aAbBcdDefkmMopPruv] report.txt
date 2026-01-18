@@ -1,0 +1,71 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Air-Sea Battle (Europe)
++ Air-Sea Battle (Europe) (Unknown)
++ Backgammon (Europe)
++ Blackjack (Europe)
++ Bowling - Ninepins (Europe)
++ Boxing Match (Europe)
++ Boxing Match (Europe) (Unknown)
++ Car Races (Europe)
++ Casino (Europe)
++ Chess (Europe)
++ Chess II (Europe)
++ Circus (Europe)
++ Cockpit (Europe)
++ Draughts (Europe)
++ Electronic Pinball (Europe)
++ Four in a Row (Europe)
++ Four in a Row (Europe) (Unknown)
++ Golf (Europe)
++ Golf (Europe) (Unknown)
++ Head On (Europe)
++ Hippodrome (Europe)
++ Hippodrome (Europe) (Unknown)
++ Hunting (Europe)
++ Hyperspace (Europe)
++ Invaders (Europe) (Fountain)
++ Invaders (Europe) (Interton)
++ Labyrinth (Europe)
++ Labyrinth (Europe) (Unknown)
++ Laser Attack (Europe)
++ Mastermind (Europe)
++ Mathematics I (Europe)
++ Mathematics I (Europe) (Unknown)
++ Mathematics II (Europe)
++ Melody - Simon (Europe)
++ Memory I - Flag Capture (Europe)
++ Metropolis - Hangman (Europe)
++ Monster Man (Europe)
++ Monster Man (Europe) (Unknown)
++ Motocross (Europe)
++ Outer Space Combat (Europe)
++ Paddle Games (Europe)
++ Pinball (Europe)
++ Planet Defender (Europe)
++ Reversi (Europe)
++ Reversi (Europe) (Unknown)
++ Road Race (Europe)
++ Shoot Out (Europe)
++ Shooting Gallery (Europe)
++ Soccer (Europe) (Fountain)
++ Soccer (Europe) (Interton)
++ Solitaire (Europe)
++ Super Invaders (Europe)
++ Super Knockout (Europe) (Unknown)
++ Super-Space (Europe)
++ Tank Battle - Air Battle (Europe)
++ Tank-Plane Battle (Europe)
++ Winter Sports (Europe)

@@ -1,0 +1,102 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* MIA REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ After Burner Climax (World) (En,Ja) (Lindbergh Yellow) (Rev B)
+  - After Burner Climax (World) (Lindbergh Yellow)
++ Ami-Gyo (Japan) (Lindbergh Yellow) (Rev C)
+  - Ami-Gyo (Japan) (Lindbergh Yellow) (Rev B)
++ House of The Dead 4, The (Japan) (En,Ja) (Lindbergh Yellow) (Rev C)
+  - House of The Dead 4, The (Japan) (En,Ja) (Lindbergh Yellow) (Rev A)
+  - House of The Dead 4, The (Japan) (En,Ja) (Lindbergh Yellow) (Rev B)
++ Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev G)
+  - Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev A)
+  - Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev B)
+  - Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev C)
+  - Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev D)
++ Initial D - Arcade Stage 5 (Export) (DVP-0084) (Lindbergh Yellow)
+  - Initial D - Arcade Stage 5 (Export) (Ja,Zh) (DVP-0084) (Lindbergh Yellow) (Rev A)
++ Initial D 4 (Export) (Lindbergh Yellow) (Rev D)
+  - Initial D 4 (Export) (Lindbergh Yellow) (Rev B)
++ Let's Go Jungle (World) (En,Ja) (Lindbergh Yellow) (Rev A)
+  - Let's Go Jungle (World) (En,Ja) (Lindbergh Yellow)
++ Network Taisen Quiz - Answer x Answer (Japan) (Lindbergh Red) (ALL.Net P-ras) (Rev D)
+  - Network Taisen Quiz - Answer x Answer (Japan) (Lindbergh Red) (ALL.Net P-ras)
++ Rambo (Export) (Lindbergh Red EX)
+  - Rambo (China) (Lindbergh Red EX)
++ Sega Network Casino Club Ver. 3 (Japan) (Lindbergh Yellow)
+  - Sega Network Casino Club Ver. 2 (Japan) (Lindbergh Yellow)
++ Sega Network Taisen Mahjong MJ4 (Japan) (Lindbergh Red EX) (Rev G)
+  - Sega Network Taisen Mahjong MJ4 (Japan) (Lindbergh Red EX) (Rev A)
+  - Sega Network Taisen Mahjong MJ4 (Japan) (Lindbergh Red EX) (Rev F)
++ StarHorse 2 - Fifth Expansion (Japan) (Lindbergh StarHorse 2) (Rev D)
+  - StarHorse 2 - Fifth Expansion (Japan) (Lindbergh StarHorse 2) (Rev A)
++ StarHorse 2 - Final Destination (Japan) (Lindbergh StarHorse 2) (Rev E)
+  - StarHorse 2 - Final Destination (Japan) (Lindbergh StarHorse 2)
+  - StarHorse 2 - Final Destination (Japan) (Lindbergh StarHorse 2) (Rev D)
++ Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev E)
+  - Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras)
+  - Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev A)
+  - Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev B)
++ Virtua Fighter 5 - Final Showdown (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev A)
+  - Virtua Fighter 5 - Final Showdown (Japan) (Lindbergh Yellow) (ALL.Net P-ras)
++ Virtua Fighter 5 R (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev G)
+  - Virtua Fighter 5 R (Japan) (Lindbergh Yellow) (ALL.Net P-ras)
+  - Virtua Fighter 5 R (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev D)
++ Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev C)
+  - Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev A)
+  - Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev B)
++ World Club Champion Football - Intercontinental Clubs 2006-2007 (Japan) (Lindbergh Blue)
+  - World Club Champion Football - Intercontinental Clubs 2006-2007 (Asia) (Lindbergh Blue)
+
+TITLES WITHOUT CLONES
+=====================
+
++ 2 Spicy (World) (Lindbergh Red) (Rev A)
++ Ami no San (Japan) (Lindbergh Yellow)
++ Club Majesty - Attractive Deck Poker (Japan) (Lindbergh Red) (Rev C)
++ Club Majesty - Cloud Nine (Japan) (Lindbergh Red) (Rev B)
++ Club Majesty - Gatling Poker (Japan) (Lindbergh Red) (Rev A)
++ Derby Owners Club 2008 - Feel the Rush (Japan) (Lindbergh Blue) (Rev C)
++ Ghost Squad Evolution (World) (Lindbergh Red) (Rev A)
++ Hummer - Extreme Edition [MDX] (World) (Lindbergh Yellow)
++ Hummer - Extreme Edition [STD] (World) (En,Ja,Zh) (Lindbergh Yellow)
++ Initial D - Arcade Stage 5 (Export) (DVP-0075) (Lindbergh Yellow)
++ Initial D - Arcade Stage 5 (Japan) (Lindbergh Yellow) (Rev A)
++ Loving Deads - The House of the Dead EX (World) (Lindbergh Red)
++ Network Taisen Quiz - Answer x Answer Live! Double Answer (Japan) (Lindbergh Red) (ALL.Net P-ras) (Rev D)
++ R-Tuned - Ultimate Street Racing (World) (Lindbergh Yellow)
++ Sega Network Casino Club STD (Japan) (Lindbergh Yellow) (Rev C)
++ Sega Network Taisen Mahjong MJ4 Evolution (Japan) (Lindbergh Red EX)
++ Sega-Race TV (World) (En,Ja) (Lindbergh Yellow)
++ To Ami-Gyo (Japan) (Lindbergh Yellow)
++ World Club Champion Football - Intercontinental Clubs 2009-2010 (Japan) (Lindbergh Blue)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- Router Update [For VTF] (Japan) (Lindbergh Yellow)
+- VBIOS Update (Japan) (Lindbergh Yellow) (Rev A)
+- VBIOS Update (Japan) (Lindbergh Yellow) (Rev B)
+- VBIOS Update [For VTF] (Japan) (Lindbergh Yellow) (Rev A)
+- VBIOS Update [For VTF] (Japan) (Lindbergh Yellow) (Rev C)
+
+MIA REMOVES
+===========
+These titles were removed because the user excluded mia titles.
+
+- Virtua Tennis 3 (Export) (Lindbergh Yellow)

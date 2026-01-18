@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>VTech - CreatiVision (Retool)</name>
-		<description>VTech - CreatiVision (25) (-ly) [-aAbBcdDefkmMopPruv] (20240623-224553) (Retool)</description>
+		<description>VTech - CreatiVision (21) (-ly) [-aAbBcdDefkmMopPruv] (20240623-224553) (Retool)</description>
 		<version>20240623-224553</version>
-		<date>2026-01-17 03-41-08</date>
+		<date>2026-01-18 04-04-25</date>
 		<author>bikerspade, rarenight</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -110,26 +110,6 @@
 		<category>Games</category>
 		<description>Tank Attack (Europe, Asia) (En) (8K)</description>
 		<rom name="Tank Attack (Europe, Asia) (En) (8K).rom" size="8192" crc="2621ffca" md5="68fc7cf9039568e8be17d2175d1e342c" sha1="f3c69a848f1246faf6f9558c0badddd3db626e5f"/>
-	</game>
-	<game name="Tennis (Europe, Asia) (En) (DSE)" id="0032">
-		<category>Games</category>
-		<description>Tennis (Europe, Asia) (En) (DSE)</description>
-		<rom name="Tennis (Europe, Asia) (En) (DSE).rom" size="6144" crc="28774d6b" md5="0c475ca46f44eea5e754e87b049a81e7" sha1="6d9be5b182b2ba65be6448ea215e0c3adfd4834d" sha256="a279f6fb6d8c2ab2c5a82a157fa5105ef326ad5c392ce81a98175bcaa9bc3953"/>
-	</game>
-	<game name="Tennis (Europe, Asia) (En) (DSE) (Rev 1) (6K)" id="0031">
-		<category>Games</category>
-		<description>Tennis (Europe, Asia) (En) (DSE) (Rev 1) (6K)</description>
-		<rom name="Tennis (Europe, Asia) (En) (DSE) (Rev 1) (6K).rom" size="6144" crc="2e65cfa9" md5="e05ad31589d0b4d3e7a8cea1b4f0391a" sha1="16e5d557449a11656d4821051a8aa61dabcb688e" sha256="793675d43e9fbba72136efb6de37bc98d4a76d3a66c3d37ae4c1860381c0631c"/>
-	</game>
-	<game name="Tennis (Europe, Asia) (En) (DSE) (Rev 1) (8K)" id="0020">
-		<category>Games</category>
-		<description>Tennis (Europe, Asia) (En) (DSE) (Rev 1) (8K)</description>
-		<rom name="Tennis (Europe, Asia) (En) (DSE) (Rev 1) (8K).rom" size="8192" crc="c914c092" md5="1bda4ee02466b98c6c4cf8c962838d3f" sha1="7b64efddb590332c192f6c4a6accce85a6d402c3"/>
-	</game>
-	<game name="Tennis (Europe, Asia) (En) (Wimbledon) (6K)" id="0033">
-		<category>Games</category>
-		<description>Tennis (Europe, Asia) (En) (Wimbledon) (6K)</description>
-		<rom name="Tennis (Europe, Asia) (En) (Wimbledon) (6K).rom" size="6144" crc="1c5ea624" md5="b175bae527d90ac2414e906b161cc3f3" sha1="88b9fbee783ed966c8c03614779847e0cc8c6692" sha256="92360e09e76da384f808d1d8258240c920a129f4e6e2153ea9e9a18116342ba6"/>
 	</game>
 	<game name="Tennis (Europe, Asia) (En) (Wimbledon) (8K)" id="0021">
 		<category>Games</category>

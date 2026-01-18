@@ -1,0 +1,43 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Big Brain Academy - Wii Degree (USA) (Starlight) (Big Brain Academy 0.0 ENG)
++ Carnival Games (USA) (Starlight) (Carnival Games 1.1)
++ Disney-Pixar Cars - Mater-National Championship (USA) (Starlight) (Cars Mater-National 0.1)
++ Elebits (USA) (Starlight) (Elebits 0.1)
++ Excite Truck (USA) (Starlight) (Excite Truck 0.0)
++ Fire Emblem - Radiant Dawn (USA) (Starlight) (Fire Emblem 10)
++ Starlight Fun Center Menu (USA) (FunCenter Menu 3.0 20080813) (001284)
++ Starlight Fun Center Menu (USA) (FunCenter Menu wArt Ver 4.02 20090325) (001443)
++ Starlight Fun Center Menu (USA) (FunCenter Menu wArt Ver 4.02 20090325) (002463)
++ Starlight Fun Center Menu (USA) (Funmenu Version 2.00 20080515) (000056, 000175, 000535)
++ Starlight Fun Center Menu (USA) (Hotel Menu LPM 1.01 20080624)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Starlight Fun Center HDD (USA) (000056, 000175, 000535)
+- [BIOS] Starlight Fun Center HDD (USA) (001284)
+- [BIOS] Starlight Fun Center HDD (USA) (001443)
+- [BIOS] Starlight Fun Center HDD (USA) (002463)
+- [BIOS] Starlight Fun Center HDD (USA) (Le Parker Meridien)
+- [BIOS] Starlight Fun Center NAND (USA) (000056) (RUA200013602)
+- [BIOS] Starlight Fun Center NAND (USA) (000175) (RUA200019598)
+- [BIOS] Starlight Fun Center NAND (USA) (000895) (RUA200025568)
+- [BIOS] Starlight Fun Center NAND (USA) (001192) (RUA200022277)
+- [BIOS] Starlight Fun Center NAND (USA) (001192) (RUA200022277) (Alt)
+- [BIOS] Starlight Fun Center NAND (USA) (001327) (RUA200102825)
+- [BIOS] Starlight Fun Center NAND (USA) (001443) (RUA200100715)

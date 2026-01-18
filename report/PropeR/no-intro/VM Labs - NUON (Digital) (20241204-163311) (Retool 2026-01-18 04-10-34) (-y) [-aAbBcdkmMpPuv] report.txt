@@ -1,0 +1,50 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+* UNLICENSED REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Chomp (USA)
++ Jjangguneun Monmallyeo 3 - Doraon Jjanggu (Korea) (Re-signed)
++ SameGame - Colors (USA)
++ SameGame - Shapes (USA)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Samsung DVD-N501 Firmware Update (USA)
+
+UNLICENSED REMOVES
+==================
+These titles were removed because the user excluded unlicensed titles.
+
+- Ambient Monsters (Unknown) (Unl)
+- Atari & C64 Video Game Music Player (Unknown) (Unl)
+- Atari 2600 Pac-Man (Unknown) (Unl)
+- Atari 800 Emulator (Unknown) (Unl)
+- Bomb (Unknown) (Unl)
+- Breakout (Unknown) (Unl)
+- Decaying Orbit (USA) (Unl)
+- Doom (Unknown) (Aries 3) (Unl)
+- Doom (Unknown) (Unl)
+- Insta Death (World) (Unl)
+- KillMinds (Unknown) (Unl)
+- NUON Boot Loader (USA) (Unl)
+- NUON Homebrew Disk (World) (Unl)
+- NUON Synth Jukebox (USA) (Unl)
+- NUON Synth Jukebox (USA) (v2.0) (Unl)
+- Pac-Man (USA) (Unl)
+- Sheshell's Sea Adventure (Unknown) (Unl)
+- Snake (USA) (Unl)
+- Yaroze Classics (USA) (Unl)

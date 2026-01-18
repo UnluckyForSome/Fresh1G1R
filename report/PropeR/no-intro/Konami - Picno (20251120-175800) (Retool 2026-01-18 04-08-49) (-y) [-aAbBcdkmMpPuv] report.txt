@@ -1,0 +1,34 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Anime Box (Japan)
++ Anime Enikki (Japan)
++ Chibi Maruko-chan no Tashizan Hikizan (Japan)
++ Dokkin Shinri Game (Japan)
++ Fushigi no Kuni no Alice (Japan)
++ Hello Kitty no Eikaiwa (Japan)
++ Kanji Club (Japan)
++ Kiiroi Kyouryuu-kun Parasa no Obake Taiji (Japan)
++ Montage (Japan)
++ Nontan to Issho Anime Stamp (Japan)
++ Paint Ehon - Cinderella Monogatari (Japan)
++ Picno ArtPuzzle (Japan)
++ Picno de 123 (Japan)
++ Picno de ABC (Japan)
++ Picno de AIUEO (Japan)
++ Picno de Kuku (Japan)
++ Picno de Nihon Chizu (Japan)
++ Real Montage (Japan)
++ Shirayuki Hime Monogatari (Japan)
++ Son Goku no Bouken (Japan)

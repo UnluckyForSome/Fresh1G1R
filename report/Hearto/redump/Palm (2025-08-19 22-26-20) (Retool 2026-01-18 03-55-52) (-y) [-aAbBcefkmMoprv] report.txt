@@ -1,0 +1,207 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* BONUS DISC REMOVES
+* COVERDISC REMOVES
+* EDUCATIONAL REMOVES
+* MULTIMEDIA REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ 200+ Great Games for PDA (USA)
+  - 200+ Great Games for PDA (Europe)
++ Bounty Hunter 2099 - Pinball (Europe) (En,Fr,De)
+  - Bounty Hunter 2099 - Pinball (Japan)
++ Rayman (USA) (Rev 1)
+  - Rayman (Europe)
+  - Rayman (Japan) (En,Ja)
+  - Rayman (USA)
++ Scrabble - Crossword Game (USA) (Rev 1)
+  - Scrabble - Crossword Game (USA)
++ Tetris Classic Game Pak (USA) (Rerelease) (2004-09-09)
+  - Tetris Classic Game Pak (USA) (Rerelease) (2003-07-23)
+  - Tetris Classic Game Pak (USA) (Rerelease) (2004-04-29)
++ V-Rally - Championship Edition (Europe)
+  - V-Rally - Championship Edition (Japan) (En,Ja,Fr,De,Es,It)
+
+TITLES WITHOUT CLONES
+=====================
+
++ 100 Great Games for Palm OS & Handspring Visors (Europe)
++ 100 Great Games for Palm OS Handhelds Vol. 2 (Canada)
++ 100 Great Games for Palm OS Handhelds Vol. 3 (Canada)
++ 100 Great Games for the Palm Computing Platform (Canada) (1999)
++ 100 Great Games for the Palm Computing Platform (Canada) (2000)
++ 200+ Games for PDA (Europe)
++ 200+ Palm Games (USA)
++ 300 Bowl (USA)
++ Afro Ken Graffiti - Tenohira Size ni mo Naru (Japan)
++ Airline Manager Simulator (Canada)
++ Arcade 2 Pak (USA)
++ Austin Powers Pinball (Canada)
++ BT Mahjong for PalmOS (Japan)
++ Bejeweled Puzzle Pack (USA)
++ BestBuy.com Pocket Games (USA)
++ Bomberman for Palm OS (Japan)
++ Casino Games (USA)
++ Centipede & More Classic Games (USA)
++ Crossword 365 (USA)
++ DaDa Palm Game Series - American Football (Japan)
++ DaDa Palm Game Series - Baseball (Japan)
++ DaDa Palm Game Series - Deluxe Mahjong (Japan)
++ DaDa Palm Game Series - Formula Racing (Japan)
++ DaDa Palm Game Series - Golf (Japan)
++ DaDa Palm Game Series - World War 2 (Japan)
++ Daisenryaku for Palm (Japan)
++ Family Games Pack (USA)
++ Games to Go Vol. 1 - 4 Classic Games (Europe) (En,Fr,De)
++ Games to Go Vol. 2 - 4 Classic Games (Europe) (En,Fr,De)
++ Graffiti Sniper - Golgo 13 (Japan)
++ Hoyle Games Collection for Palm OS Handhelds (USA)
++ Hoyle Games Collection for Palm OS and Windows CE Handhelds Vol. II (USA)
++ JetFighter (Canada)
++ Jeux Video Mobile 2 (France)
++ Jumble for Palm OS (USA)
++ Jumble for Palm OS - Theme Pack 1 (USA)
++ Jumble for Palm OS - Theme Pack 2 (USA)
++ Madden NFL 06 (USA)
++ Mahjongg (Canada)
++ Mahjongg - Volume 2 (Canada)
++ Midway Arcade Classics (USA)
++ Mini Golf (Canada)
++ Monopoly & Scrabble & Battleship & Yahtzee (USA)
++ Monopoly (USA)
++ Morita Shougi for Palm OS (Japan)
++ Oh-chan no Oekaki Logic for Palm (Japan)
++ Okigaru Igo Taikyoku (Japan)
++ OnHand Chess & Sega Swirl Lite (USA)
++ OnHand Sports Games & Sega Swirl Lite (USA)
++ Palm Billiard (Japan)
++ Palm Games 2001 (USA)
++ Palm Games 2003 - Professional Edition (USA)
++ Papa and Palm Series No. 01 - Palm Mahjong (Japan)
++ Papa and Palm Series No. 02 - Palm Hanafuda (Japan)
++ Papa and Palm Series No. 03 - Palm Solitaire & Casino (Japan)
++ Petit Mahjong (Japan)
++ Pinballz2 (USA)
++ Planet Fighter (USA)
++ Pocket Express Entertainment Pack Plus (USA)
++ Pool Darts and Shuffleboard (Canada)
++ Puzzle Bobble V2 for Palm OS (USA)
++ Puzzle Bobble for Palm (Japan)
++ Sega Swirl (USA)
++ Serious Sam - The First Encounter (Canada)
++ Shanghai for Palm (Japan)
++ Shooting Gallery (Canada)
++ SimCity for Palm OS Handhelds (Japan) (En,Ja,Fr,De)
++ Star Soldier for Palm OS (Japan)
++ Strike It Rich! (USA)
++ Sucharaka Salaryman - Deai-kei (Japan)
++ Sudoku Deluxe (USA)
++ Sudoku Master (USA)
++ Super Game Pak (USA)
++ Super Solitaire 15 (USA) (Rerelease)
++ Tap Step Music (Japan)
++ Tetris Game Pak 2 (USA)
++ Tiger Woods PGA Tour Golf (USA)
++ Tradewinds (USA)
++ Trivial Pursuit - Handheld Edition (USA)
++ Vegas Casino (Canada)
++ Vegas Casino - Vol. 2 (Canada)
++ Warfare Incorporated (USA)
++ Word Games To Go (USA)
++ ZIOGolf Special Pack (Japan)
++ ZIOGolf for Palm OS (USA)
++ Zap!2016 (USA)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- 100+ Applications for PDA (Europe)
+- 111x Palm Software (Germany)
+- ATOK Pocket for PalmOS (Japan)
+- ATOK for Palm OS 5 (Japan)
+- AportisDoc - Mobile Edition (USA)
+- J-OS III (Japan)
+- J-OS IV (Japan)
+- J-OS V (Japan)
+- JR Travel Navigator - Vol. 4 (Japan) (En,Ja)
+- Jispa - Palm-ban Tougou Jisho (Japan)
+- MasterCook Deluxe 8.0 (USA)
+- MobiTV (USA)
+- MobileTools (USA)
+- OnHand Complete Astrologer (USA)
+- Oxford Handbook of Clinical Medicine for PDAs - Seventh Edition (UK)
+- PaPi-Mail Pro V2.0J (Japan)
+- Palm Mobile Connectivity Software for m500 Series Handhelds (USA)
+- Palm Mobile Connectivity Suite (USA)
+- Palm OS Programming from the Ground Up (USA)
+- Palm OS Web Application Developer's Guide (USA, Canada)
+- Palm Portable Keyboard (USA)
+- Palm Tungsten T Software Installation (USA) (Disc 1) (Desktop Software)
+- Palm Ultra-Thin Keyboard (USA)
+- Palm m500 Series Handhelds - Palm Installation CD for Windows & Mac (USA)
+- Pocket Express (USA)
+- PocketMoney (USA)
+- PocketMoney (USA) (Rerelease)
+- Power Run 1.3 (Japan)
+- SocketScan (USA)
+- Street Maps & Vacation Planner (USA)
+- iambic Software (Japan)
+
+BONUS DISC REMOVES
+==================
+These titles were removed because the user excluded bonus disc titles.
+
+- Palm Bonus Software (USA)
+
+COVERDISC REMOVES
+=================
+These titles were removed because the user excluded coverdisc titles.
+
+- PDA Essentials & GPS Advisor - Issue 43 (UK)
+- PDA Essentials & GPS Advisor - Issue 44 (UK)
+- PDA Essentials & GPS Advisor - Issue 45 (UK)
+- PDA Essentials & GPS Advisor - Issue 46 (UK)
+- PDA Essentials - Issue 15 (UK)
+- PDA Essentials - Issue 21 (UK)
+- PDA Essentials - Issue 41 (UK)
+- Palm Super Asobi-jutsu - Kiji Rendou CD-ROM (Japan)
+- Palm Super Shigoto-jutsu - Kiji Rendou CD-ROM (Japan)
+- TimeSlip Palm Magazine Total Hozon-ban - Palmware 300 (Japan)
+
+EDUCATIONAL REMOVES
+===================
+These titles were removed because the user excluded educational titles.
+
+- Kaplan Mobile SAT-ACT & PSAT 2005 (USA)
+
+MULTIMEDIA REMOVES
+==================
+These titles were removed because the user excluded multimedia titles.
+
+- 1000 Essential Programs (USA)
+- 50 Great Utilities for Palm OS Handhelds (Canada)
+- 500 Essential Programs (USA)
+- Best 215 PDA Programs+ (USA)
+- Dilbert Productivity Pack for Palm Computing Organizers (USA)
+- Handango (USA)
+- ODN Palm Power Pack (Japan)
+- PDA Power Training (USA)
+- Palm III - Connected Organizer (USA)
+- Palm Tungsten E2 Software Installation CD (USA)
+- Palm Tungsten T Software Installation (USA) (Disc 2) (Software Essentials)
+- Palm Vx - Connected Organizer (USA)
+- Pilot Computing 99 - Software for PalmPilots & Compatibles (USA)
+- SwiftWare (USA)

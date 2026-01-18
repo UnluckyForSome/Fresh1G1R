@@ -1,0 +1,24 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ 3D Xiaoguo Xinshang (China)
++ Mario Kart 7 (China)
++ Super Mario 3D Land (China)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- CTRAging (Japan) (Test Program) [b]

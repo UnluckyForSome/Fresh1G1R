@@ -1,0 +1,24 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* LANGUAGE REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Q4 2009 (USA) (v1)
++ Wii Fit (USA)
++ Wii Q4 (USA) (v4)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- D'entrainement cerebral, Lecons de cuisine, English Training, Methode Mathematique (France)

@@ -1,0 +1,146 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* PREPRODUCTION REMOVES
+* LANGUAGE REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Cosmic Math (USA) (v1.1)
+  - Cosmic Math (USA)
+
+TITLES WITHOUT CLONES
+=====================
+
++ 1st Grade (USA)
++ Animal Genius (USA)
++ Backyardigans, The (USA)
++ Batman, The - Strength in Numbers (USA)
++ Bratz World (USA)
++ Cars (USA)
++ Cars - Supercharged (USA)
++ Cars 2 (USA)
++ Clifford - The Big Red Dog - Reading (USA)
++ Crayola Art Adventure (USA)
++ Creature Create (USA)
++ Digging for Dinosaurs (USA)
++ Disney Princess (USA)
++ Disney Princess - Worlds of Enchantment (USA)
++ Dora the Explorer - Camping Adventure (USA)
++ Dora the Explorer - Pinata Party! (USA)
++ Dora the Explorer - Wildlife Rescue (USA) (L-MAX)
++ Finding Nemo (USA)
++ Foster's Home for Imaginary Friends (USA)
++ Get Puzzled! (USA)
++ Go Diego Go! - Animal Rescuer (USA)
++ I Spy - Challenger (USA)
++ I Spy - Treasure Hunt (USA)
++ Kindergarten (USA)
++ Learning with Leap (USA)
++ Letterpillar (USA) (Rev 1)
++ Letters on the Loose (USA) (L-MAX)
++ Madagascar (USA) (L-MAX)
++ Mr. Pencil's Learn to Draw & Write (USA)
++ My Amusement Park (USA)
++ NASCAR (USA) (L-MAX)
++ Number Raiders (USA)
++ Numbers on the Run (USA) (L-MAX)
++ OutWit! (USA)
++ Penguins of Madagascar, The - Race for 1st Place (USA)
++ Pet Pals (USA)
++ Phonics - Lesson One (USA)
++ Ratatouille (USA)
++ Reading with Phonics - Mole's Huge Nose (USA)
++ Rock the World (USA) (L-MAX)
++ Scholastic - Math Missions (USA)
++ Scooby-Doo! (USA)
++ Scooby-Doo! - Spooky Snacks! (USA)
++ Sonic X (USA)
++ Sonic X (USA) (Leapster2)
++ Spider-Man - The Case of the Sinister Speller (USA)
++ Spider-Man - The Case of the Sinister Speller (USA) (L-MAX)
++ SpongeBob SquarePants - Through the Wormhole (USA)
++ SpongeBob SquarePants Saves the Day (USA)
++ Spongebob Squarepants - Saves the Day (USA)
++ Spongebob Squarepants - Saves the Day (USA) (L-MAX)
++ Star Wars - Jedi Math (USA)
++ Star Wars - Jedi Reading (USA)
++ Star Wars - Matematicas Jedi (Spain) (En)
++ Story Explorers (USA)
++ Talking Words Factory (USA)
++ Thomas & Friends - Calling All Engines! (USA)
++ Toy Story 3 (USA)
++ Up (USA)
++ Wall-E (USA)
++ Wolverine and the X-Men (USA)
++ Word Chasers (USA)
+
+PREPRODUCTION REMOVES
+=====================
+These titles were removed because the user excluded preproduction titles.
+
+- Bratz J2S (USA) (Proto) (2003-12-24)
+- Disney Princess - Enchanted Learning (USA) (Beta) (2004-05-17)
+- Disney Princess - Enchanted Learning (USA) (Beta) (2004-06-22)
+- Dora the Explorer - Wildlife Rescue (USA) (Beta) (2003-10-23)
+- Incredibles Animation Sample (USA) (Proto) (2004-03-22)
+- Incredibles Animation Sample (USA) (Proto) (2004-04-13)
+- Kindergarten (USA) (Beta) (2003-09-09)
+- Leaning with Leap (USA) (Beta) (2003-08-24)
+- Pet Pals (USA) (Beta) (2006-11-30)
+- ROX (USA) (Proto) (2004-06-15)
+- ROX (USA) (Proto) (2004-06-17)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- A la conquete des nombres (France)
+- Adibou - A la recherche de Robitoc (France)
+- Batman, The - El poder de los numeros (Spain)
+- Batman, The - Multipliziere, dividiere und regiere (Germany)
+- Bob l'eponge - Heros d'un jour (France)
+- Cars (France)
+- Cars (Germany)
+- Cars (Spain)
+- Demo - Herbst 2004 II (Germany)
+- Dis pourquoi Kirikou (France)
+- Disney Fairies (Spain)
+- Disney Princesa - La magia de aprender (Spain)
+- Disney Princesse - La magie d'apprendre (France)
+- Disney Prinzessinnen - Zauberhaftes Lernen (Germany)
+- Dora - Retter der Wildnis (Germany)
+- Dora L'exploratrice - Le pont casse (France)
+- Dora l'exploratrice - Au secours des animaux (France)
+- Findet Nemo (Germany)
+- Grundschule 1 (Germany)
+- Grundschule 2 - Musik in Gefahr (Germany)
+- La riviere des lapins + L'atelier de peinture (France)
+- Lapin Malin - Danse avec les mots (France)
+- Lernen mit Leap (Germany)
+- Mit Bruno Bleistift lernst du Malen & Schreiben (Germany)
+- Oui-Oui - Aventures au Pays des Jouets (France)
+- Perrito Club - Adopta un nuevo amiguito y aprende! (Spain)
+- Ratatouille (France)
+- Ratatouille (Germany)
+- Scooby-Doo! - Et les nombres fous ! (France)
+- Spider-Man - L'affaire des mots mysteres (France)
+- Spider-Man - Schachmatt den Schildersaboteuren! (Germany)
+- Spongebob Schwammkopf - Zeitreise durch das Wurmloch (Germany)
+- Spongebob Schwammkopf hat alles im Griff (Germany)
+- Up (Spain)
+- Vorschule (Germany)
+- Wall-E (Germany)
+- Wall-E (Spain)
+- Weltraum-Mathe (Germany)
+- Woerterjaeger (Germany)
+- Zahlenjaeger (Germany)

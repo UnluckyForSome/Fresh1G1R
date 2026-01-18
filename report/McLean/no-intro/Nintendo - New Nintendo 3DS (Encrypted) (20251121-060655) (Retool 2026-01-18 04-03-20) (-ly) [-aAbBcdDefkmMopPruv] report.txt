@@ -1,0 +1,42 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* PREPRODUCTION REMOVES
+* LANGUAGE REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Fire Emblem Warriors (USA)
+  - Fire Emblem Warriors (Europe) (En,Fr,De,Es,It)
++ Xenoblade Chronicles 3D (USA) (En,Fr,Es) (Rev 1)
+  - Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It)
+  - Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It) (Rev 1)
+  - Xenoblade Chronicles 3D (USA) (En,Fr,Es)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Minecraft - New Nintendo 3DS Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru)
++ Runbow Pocket Deluxe Edition (USA)
+
+PREPRODUCTION REMOVES
+=====================
+These titles were removed because the user excluded preproduction titles.
+
+- Xenoblade Chronicles 3D (USA) (Beta)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Fire Emblem Musou (Japan)
+- Xenoblade (Japan)

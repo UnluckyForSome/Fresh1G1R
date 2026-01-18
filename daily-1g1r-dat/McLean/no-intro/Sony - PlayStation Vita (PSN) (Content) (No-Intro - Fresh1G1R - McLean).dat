@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sony - PlayStation Vita (PSN) (Content) (Retool)</name>
-		<description>Sony - PlayStation Vita (PSN) (Content) (1,508) (-ly) [-aAbBcdDefkmMopPruv] (20260104-193348) (Retool)</description>
-		<version>20260104-193348</version>
-		<date>2026-01-17 03-40-10</date>
-		<author>[mRg], bsbt, buckwheat, FakeShemp, Gefflon, Hiccup, Intothisworld, Landcross, norkmetnoil577, rarenight, SonGoku</author>
+		<description>Sony - PlayStation Vita (PSN) (Content) (1,507) (-ly) [-aAbBcdDefkmMopPruv] (20260116-223543) (Retool)</description>
+		<version>20260116-223543</version>
+		<date>2026-01-18 04-04-42</date>
+		<author>[mRg], bsbt, buckwheat, FakeShemp, Gefflon, Hiccup, Intothisworld, Landcross, nnssxx, norkmetnoil577, rarenight, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -2644,13 +2644,6 @@
 		<game_id>UP4108-PCSE00803_00-DW8EMP0000000000</game_id>
 		<rom name="UP4108-PCSE00803_00-DW8EMP0000000000_bg_1_4a281fa94f55e8db96ded42d44268f87a88e8767.pkg" size="3436388320" crc="68fbf934" md5="73bcc79b4b1f3ff1062fe83f429d9316" sha1="f0d1cb981cef9162ac088b3920b90e331ab6f978"/>
 		<rom name="work.bin" size="512" crc="e3b2adca" md5="dc6354cf6506d1920c590105bf4324a2" sha1="f53f07338398d748da0fcf6954c98d9b161e3d8e" sha256="ca0fcc6cd7ddeba41d41f4bc06381ddf38a1a08e3cbe285983ebfc5867c7c944"/>
-	</game>
-	<game name="Dynasty Warriors 8 - Xtreme Legends - Complete Edition (Asia)" id="05994">
-		<category>Games</category>
-		<description>Dynasty Warriors 8 - Xtreme Legends - Complete Edition (Asia)</description>
-		<game_id>HP0106-PCSH00052_00-SM7WXLGAMETW0000</game_id>
-		<rom name="EGcNFNKnsEXRGXPzwpLIvRlsqtXEBrGeGCJXqVKNjWNwDCaOdyPYcIPzIlJLmZMcHWkCNGLWQLtOOmsOnUEsmKQzrForwHxmMrDnx.pkg" size="3413823344" crc="813b2176" md5="34d5c52194877c57ea79da05704517de" sha1="c6164a5254d2dfc1e041dc0ef3e4f3b998f27662"/>
-		<rom name="work.bin" size="512" crc="7634fc8c" md5="cdc113002021cc709099c57c9a2fc39b" sha1="e959ba2ded4c152c3e3db85507fb045db354055a" sha256="e345ff9a08a753a2f28ca2bea5fcb15442c1738e220455f46cd924e0e8c8b572"/>
 	</game>
 	<game name="Dynasty Warriors 8 - Xtreme Legends Complete Edition (USA)" id="00516">
 		<category>Games</category>

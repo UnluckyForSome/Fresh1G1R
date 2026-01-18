@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn (Retool)</name>
-		<description>Sega - Saturn (1,366) (-y) [-aAbBcefkmMoprv] (2025-12-29 08-15-07) (Retool)</description>
-		<version>2025-12-29 08-15-07</version>
-		<date>2026-01-17 03-32-41</date>
+		<description>Sega - Saturn (1,366) (-y) [-aAbBcefkmMoprv] (2026-01-17 21-25-42) (Retool)</description>
+		<version>2026-01-17 21-25-42</version>
+		<date>2026-01-18 03-56-03</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -13435,61 +13435,61 @@
 		<rom name="Pebble Beach Golf Links (USA) (Track 2).bin" size="1413552" crc="a2cd5912" md5="a01c7ecabbfa39b1f564d355a9da10c9" sha1="723375b457f066827311fc1a2ec1a9c467629507"/>
 		<rom name="Pebble Beach Golf Links (USA).cue" size="251" crc="db5491db" md5="fc27548e685d48f54cc2792ab3b212e0" sha1="f0c496df93fea3e129771427ab0c1db7b64ee165"/>
 	</game>
-	<game name="PhantasM (Japan) (Disc 1)">
+	<game name="Phantasm (Japan) (Disc 1)">
 		<category>Games</category>
-		<description>PhantasM (Japan) (Disc 1)</description>
-		<rom name="PhantasM (Japan) (Disc 1) (Track 1).bin" size="366928464" crc="593eb67f" md5="8cbe9a84bcdb7197a0652bb1b530395e" sha1="87a71ec68b953a5bd98b922faa251e8bf991e1f5"/>
-		<rom name="PhantasM (Japan) (Disc 1) (Track 2).bin" size="1764000" crc="b75629a2" md5="a29fb395decc6822a064c9e7c9586a07" sha1="6ed98db086347a7d15c3c5c45b69100c3ae87e2f"/>
-		<rom name="PhantasM (Japan) (Disc 1).cue" size="243" crc="f8bab3e7" md5="92fca420d695423ab2e829efad218084" sha1="f314d80ca75ac68526d3e81fa81e09511b149ca1"/>
+		<description>Phantasm (Japan) (Disc 1)</description>
+		<rom name="Phantasm (Japan) (Disc 1) (Track 1).bin" size="366928464" crc="593eb67f" md5="8cbe9a84bcdb7197a0652bb1b530395e" sha1="87a71ec68b953a5bd98b922faa251e8bf991e1f5"/>
+		<rom name="Phantasm (Japan) (Disc 1) (Track 2).bin" size="1764000" crc="b75629a2" md5="a29fb395decc6822a064c9e7c9586a07" sha1="6ed98db086347a7d15c3c5c45b69100c3ae87e2f"/>
+		<rom name="Phantasm (Japan) (Disc 1).cue" size="243" crc="f99e66dd" md5="382dc1803584e8276234c8bf2b90280e" sha1="0325ef0f5248cbce1f76f405adeb802a97d058c0"/>
 	</game>
-	<game name="PhantasM (Japan) (Disc 2)">
+	<game name="Phantasm (Japan) (Disc 2)">
 		<category>Games</category>
-		<description>PhantasM (Japan) (Disc 2)</description>
-		<rom name="PhantasM (Japan) (Disc 2) (Track 1).bin" size="406872480" crc="3b854f19" md5="2fb0437c01830e43f01d40cbbbdb2871" sha1="1bd8c21614c63b6af9d9b3a394041642deb0f59a"/>
-		<rom name="PhantasM (Japan) (Disc 2) (Track 2).bin" size="1764000" crc="c82b40ba" md5="e9598a097b25189cbf4422d818ae9afc" sha1="414cf737661a4d3f6cdbbe38bccfa391f4507011"/>
-		<rom name="PhantasM (Japan) (Disc 2).cue" size="243" crc="bd6250e2" md5="2c337644635fd5496fe210348ebbac76" sha1="f572fab6d18f1b94211c086b09d5b0a94840edba"/>
+		<description>Phantasm (Japan) (Disc 2)</description>
+		<rom name="Phantasm (Japan) (Disc 2) (Track 1).bin" size="406872480" crc="3b854f19" md5="2fb0437c01830e43f01d40cbbbdb2871" sha1="1bd8c21614c63b6af9d9b3a394041642deb0f59a"/>
+		<rom name="Phantasm (Japan) (Disc 2) (Track 2).bin" size="1764000" crc="c82b40ba" md5="e9598a097b25189cbf4422d818ae9afc" sha1="414cf737661a4d3f6cdbbe38bccfa391f4507011"/>
+		<rom name="Phantasm (Japan) (Disc 2).cue" size="243" crc="bc4685d8" md5="0055be22dcdae75db822827eda829ac5" sha1="0a1016cba10988cfa04cf6cdeb6e9fb417abb29f"/>
 	</game>
-	<game name="PhantasM (Japan) (Disc 3) (2M)">
+	<game name="Phantasm (Japan) (Disc 3) (2M)">
 		<category>Games</category>
-		<description>PhantasM (Japan) (Disc 3) (2M)</description>
-		<rom name="PhantasM (Japan) (Disc 3) (2M) (Track 1).bin" size="492720480" crc="eea22c90" md5="e6e5b394890c06477101c71dd6a9b98a" sha1="83ca32e9baf9a80658b0f20905ad23bd5fc2edd3"/>
-		<rom name="PhantasM (Japan) (Disc 3) (2M) (Track 2).bin" size="1764000" crc="72baa1d5" md5="027484947b68d8a1c312a0db196727d0" sha1="a768192c8bef540603f576437e4e31a8f8443017"/>
-		<rom name="PhantasM (Japan) (Disc 3) (2M).cue" size="253" crc="b8d0a9ae" md5="0721026e0d5d81b983da45c0dd67bfc2" sha1="4dd5fce5d1a6c9c427c411ceb416e315cf024060"/>
+		<description>Phantasm (Japan) (Disc 3) (2M)</description>
+		<rom name="Phantasm (Japan) (Disc 3) (2M) (Track 1).bin" size="492720480" crc="eea22c90" md5="e6e5b394890c06477101c71dd6a9b98a" sha1="83ca32e9baf9a80658b0f20905ad23bd5fc2edd3"/>
+		<rom name="Phantasm (Japan) (Disc 3) (2M) (Track 2).bin" size="1764000" crc="72baa1d5" md5="027484947b68d8a1c312a0db196727d0" sha1="a768192c8bef540603f576437e4e31a8f8443017"/>
+		<rom name="Phantasm (Japan) (Disc 3) (2M).cue" size="253" crc="11e540a8" md5="04db2b1be384d4cf7cc00203527243e4" sha1="2f5fd071b9e9691ab2ef0dc402bd2d8cba119fc4"/>
 	</game>
-	<game name="PhantasM (Japan) (Disc 4)">
+	<game name="Phantasm (Japan) (Disc 4)">
 		<category>Games</category>
-		<description>PhantasM (Japan) (Disc 4)</description>
-		<rom name="PhantasM (Japan) (Disc 4) (Track 1).bin" size="460321680" crc="baf59dd2" md5="c35d39b914ba4f4c247bdf102bfc8314" sha1="5df838c50bc8febcdbe651e5653be441a1e7e31c"/>
-		<rom name="PhantasM (Japan) (Disc 4) (Track 2).bin" size="1764000" crc="3125e89a" md5="2ebcd36464d4a8b5f2aa5ad38713ae4f" sha1="ffb97c0656cef9e22c334fd90a8401e58d99e0d5"/>
-		<rom name="PhantasM (Japan) (Disc 4).cue" size="243" crc="36d396e8" md5="438dfaf6402de07145394449ea7806f4" sha1="40b3f3043ebbc8e95ef036a1bbfa507f7da985e2"/>
+		<description>Phantasm (Japan) (Disc 4)</description>
+		<rom name="Phantasm (Japan) (Disc 4) (Track 1).bin" size="460321680" crc="baf59dd2" md5="c35d39b914ba4f4c247bdf102bfc8314" sha1="5df838c50bc8febcdbe651e5653be441a1e7e31c"/>
+		<rom name="Phantasm (Japan) (Disc 4) (Track 2).bin" size="1764000" crc="3125e89a" md5="2ebcd36464d4a8b5f2aa5ad38713ae4f" sha1="ffb97c0656cef9e22c334fd90a8401e58d99e0d5"/>
+		<rom name="Phantasm (Japan) (Disc 4).cue" size="243" crc="37f743d2" md5="2bee4844fd1555aa7a63996ababd065a" sha1="eac53869a44d9347c5b74b62e8e28a4824ef447a"/>
 	</game>
-	<game name="PhantasM (Japan) (Disc 5)">
+	<game name="Phantasm (Japan) (Disc 5)">
 		<category>Games</category>
-		<description>PhantasM (Japan) (Disc 5)</description>
-		<rom name="PhantasM (Japan) (Disc 5) (Track 1).bin" size="395540544" crc="1361635d" md5="b032c9ad3573c34ce0aee0edfb981b60" sha1="529651c1822401ce01b838af73cc49c7437d9976"/>
-		<rom name="PhantasM (Japan) (Disc 5) (Track 2).bin" size="1764000" crc="2b65df95" md5="5abdd123f1f721875d8eade888da2550" sha1="565af856c3e5d443ff7369e809aed2b2cf35aa5a"/>
-		<rom name="PhantasM (Japan) (Disc 5).cue" size="243" crc="0a6437eb" md5="f4e910b007c9dcc02f062591dc326a58" sha1="63672d0520f945e75e14c966e8d4ef14eb64f417"/>
+		<description>Phantasm (Japan) (Disc 5)</description>
+		<rom name="Phantasm (Japan) (Disc 5) (Track 1).bin" size="395540544" crc="1361635d" md5="b032c9ad3573c34ce0aee0edfb981b60" sha1="529651c1822401ce01b838af73cc49c7437d9976"/>
+		<rom name="Phantasm (Japan) (Disc 5) (Track 2).bin" size="1764000" crc="2b65df95" md5="5abdd123f1f721875d8eade888da2550" sha1="565af856c3e5d443ff7369e809aed2b2cf35aa5a"/>
+		<rom name="Phantasm (Japan) (Disc 5).cue" size="243" crc="0b40e2d1" md5="9fec3482e5add758bb22afb59559a3ca" sha1="1a9f06d9416ece1f493a42924b6378e00a5248dc"/>
 	</game>
-	<game name="PhantasM (Japan) (Disc 6) (5M)">
+	<game name="Phantasm (Japan) (Disc 6) (5M)">
 		<category>Games</category>
-		<description>PhantasM (Japan) (Disc 6) (5M)</description>
-		<rom name="PhantasM (Japan) (Disc 6) (5M) (Track 1).bin" size="545624016" crc="8c2363fd" md5="acc2350da5e0b6004276996048bfa819" sha1="f8a4e21f4f911745567098bed8be386519857058"/>
-		<rom name="PhantasM (Japan) (Disc 6) (5M) (Track 2).bin" size="1764000" crc="28b06590" md5="92fd90a37d298edb02e81b7137274384" sha1="53ef4d11ffd6e41bdda90f60791a60fbaf264258"/>
-		<rom name="PhantasM (Japan) (Disc 6) (5M).cue" size="253" crc="3bc94f28" md5="be8c0d3b6eab7a39e38238761668f35b" sha1="dd99930e0672f0795deb6e671cdd823eba73bae5"/>
+		<description>Phantasm (Japan) (Disc 6) (5M)</description>
+		<rom name="Phantasm (Japan) (Disc 6) (5M) (Track 1).bin" size="545624016" crc="8c2363fd" md5="acc2350da5e0b6004276996048bfa819" sha1="f8a4e21f4f911745567098bed8be386519857058"/>
+		<rom name="Phantasm (Japan) (Disc 6) (5M) (Track 2).bin" size="1764000" crc="28b06590" md5="92fd90a37d298edb02e81b7137274384" sha1="53ef4d11ffd6e41bdda90f60791a60fbaf264258"/>
+		<rom name="Phantasm (Japan) (Disc 6) (5M).cue" size="253" crc="92fca62e" md5="437e84892796ac8e8675a0792288ee33" sha1="b14f4c7595cb0fff7923762cb9634ed3abbe8de6"/>
 	</game>
-	<game name="PhantasM (Japan) (Disc 7)">
+	<game name="Phantasm (Japan) (Disc 7)">
 		<category>Games</category>
-		<description>PhantasM (Japan) (Disc 7)</description>
-		<rom name="PhantasM (Japan) (Disc 7) (Track 1).bin" size="371072688" crc="65832ff3" md5="e6f5989eed5d051fa7250da231e36dd3" sha1="0507e507f85217422945793ff5b6e8476a1bfdbb"/>
-		<rom name="PhantasM (Japan) (Disc 7) (Track 2).bin" size="1764000" crc="2b65df95" md5="5abdd123f1f721875d8eade888da2550" sha1="565af856c3e5d443ff7369e809aed2b2cf35aa5a"/>
-		<rom name="PhantasM (Japan) (Disc 7).cue" size="243" crc="730b75ed" md5="a98c281a6e04cb3b5ebb4f0c867b24f8" sha1="18dddf7abf39cac55da6e4ba556631d1c19e13db"/>
+		<description>Phantasm (Japan) (Disc 7)</description>
+		<rom name="Phantasm (Japan) (Disc 7) (Track 1).bin" size="371072688" crc="65832ff3" md5="e6f5989eed5d051fa7250da231e36dd3" sha1="0507e507f85217422945793ff5b6e8476a1bfdbb"/>
+		<rom name="Phantasm (Japan) (Disc 7) (Track 2).bin" size="1764000" crc="2b65df95" md5="5abdd123f1f721875d8eade888da2550" sha1="565af856c3e5d443ff7369e809aed2b2cf35aa5a"/>
+		<rom name="Phantasm (Japan) (Disc 7).cue" size="243" crc="722fa0d7" md5="a647e50f9278b970eaf06457b66b4350" sha1="6b6750c006c2c00762367e11779da4991ff44127"/>
 	</game>
-	<game name="PhantasM (Japan) (Disc 8)">
+	<game name="Phantasm (Japan) (Disc 8)">
 		<category>Games</category>
-		<description>PhantasM (Japan) (Disc 8)</description>
-		<rom name="PhantasM (Japan) (Disc 8) (Track 1).bin" size="493136784" crc="8d048c75" md5="0747f319c0e50229e5f3dc707d611c35" sha1="964388c0f3349b917958746cccf487a1528ced7e"/>
-		<rom name="PhantasM (Japan) (Disc 8) (Track 2).bin" size="1764000" crc="cec161e5" md5="c30078735eebd29de85fa8ef3d5d21e9" sha1="957a160b8db265c9a07c85ba462aa608d6f2e0fc"/>
-		<rom name="PhantasM (Japan) (Disc 8).cue" size="243" crc="fac11cbd" md5="503b3c0bac8150be514132d30ef5f652" sha1="e3f6cf1f1af8eb3521aa477d0e3d18fad5d14cb3"/>
+		<description>Phantasm (Japan) (Disc 8)</description>
+		<rom name="Phantasm (Japan) (Disc 8) (Track 1).bin" size="493136784" crc="8d048c75" md5="0747f319c0e50229e5f3dc707d611c35" sha1="964388c0f3349b917958746cccf487a1528ced7e"/>
+		<rom name="Phantasm (Japan) (Disc 8) (Track 2).bin" size="1764000" crc="cec161e5" md5="c30078735eebd29de85fa8ef3d5d21e9" sha1="957a160b8db265c9a07c85ba462aa608d6f2e0fc"/>
+		<rom name="Phantasm (Japan) (Disc 8).cue" size="243" crc="fbe5c987" md5="a5583fb604743e901566cd0be970cc59" sha1="aef7cd95ecff4af611af15ef19e65a6a0e636a13"/>
 	</game>
 	<game name="Photo Genic (Japan)">
 		<category>Games</category>

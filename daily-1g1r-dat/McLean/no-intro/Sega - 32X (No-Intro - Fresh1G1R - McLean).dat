@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - 32X (Retool)</name>
-		<description>Sega - 32X (33) (-ly) [-aAbBcdDefkmMopPruv] (20260115-202607) (Retool)</description>
-		<version>20260115-202607</version>
-		<date>2026-01-17 03-41-52</date>
+		<description>Sega - 32X (33) (-ly) [-aAbBcdDefkmMopPruv] (20260116-211056) (Retool)</description>
+		<version>20260116-211056</version>
+		<date>2026-01-18 04-06-12</date>
 		<author>bikerspade, BitLooter, ElBarto, FakeShemp, gigadeath, Hiccup, norkmetnoil577, omonim2007, psykopat, relax, Seventy7, SonGoku, Special T, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -34,12 +34,12 @@
 	<game name="Brutal - Above the Claw (USA)" id="0010">
 		<category>Games</category>
 		<description>Brutal - Above the Claw (USA)</description>
-		<rom name="Brutal - Above the Claw (USA).32x" size="3145728" crc="7a72c939" md5="1738a479b0253bcb0bcfb7bf09c03add" sha1="40aa2c787f37772cdbd7280b8be06b15421fabae"/>
+		<rom name="Brutal - Above the Claw (USA).32x" size="3145728" crc="7a72c939" md5="1738a479b0253bcb0bcfb7bf09c03add" sha1="40aa2c787f37772cdbd7280b8be06b15421fabae" sha256="f8279a81a76445cd68df0bc0e0fb0e53379406f462195e1799f2d90a097afe29"/>
 	</game>
 	<game name="Cosmic Carnage (Japan, USA) (En)" id="0013">
 		<category>Games</category>
 		<description>Cosmic Carnage (Japan, USA) (En)</description>
-		<rom name="Cosmic Carnage (Japan, USA) (En).32x" size="3145728" crc="7c7be6a2" md5="32f3002a46a462735aa12ca856cb7652" sha1="9a563ed821b483148339561ebd2b876efa58847b"/>
+		<rom name="Cosmic Carnage (Japan, USA) (En).32x" size="3145728" crc="7c7be6a2" md5="32f3002a46a462735aa12ca856cb7652" sha1="9a563ed821b483148339561ebd2b876efa58847b" sha256="7a4b355ca4dac233a1246e662b274d548f6dd6c0e4bb27a382b6bba42b354d37"/>
 	</game>
 	<game name="Darxide (Europe) (En,Fr,De,Es)" id="0014">
 		<category>Games</category>
@@ -79,7 +79,7 @@
 	<game name="Mortal Kombat II (Japan, USA) (En)" id="0032">
 		<category>Games</category>
 		<description>Mortal Kombat II (Japan, USA) (En)</description>
-		<rom name="Mortal Kombat II (Japan, USA) (En).32x" size="4194304" crc="773c0a85" md5="a95c0e7c1d35fd42cd2e3eb7b06cb6d0" sha1="d55964bd935110ac2d9cbd3b085b7e8b71b11df2"/>
+		<rom name="Mortal Kombat II (Japan, USA) (En).32x" size="4194304" crc="773c0a85" md5="a95c0e7c1d35fd42cd2e3eb7b06cb6d0" sha1="d55964bd935110ac2d9cbd3b085b7e8b71b11df2" sha256="2cb563914f6187f0f97588c46ccb112c7de2194b346a33992f5c69ca7611a65b"/>
 	</game>
 	<game name="Motocross Championship (USA)" id="0034">
 		<category>Games</category>
@@ -104,7 +104,7 @@
 	<game name="Primal Rage (USA, Europe)" id="0039">
 		<category>Games</category>
 		<description>Primal Rage (USA, Europe)</description>
-		<rom name="Primal Rage (USA, Europe).32x" size="4194304" crc="e78a4d28" md5="e1efc5804d3360e7b19f7542219bf964" sha1="5084dcca51d76173c383ab7d04cbc661673545f7"/>
+		<rom name="Primal Rage (USA, Europe).32x" size="4194304" crc="e78a4d28" md5="e1efc5804d3360e7b19f7542219bf964" sha1="5084dcca51d76173c383ab7d04cbc661673545f7" sha256="04de760f8c87d9ccb9bdc4a756e70dbc71f70b3084849e5fd945ceccee39cc2a"/>
 	</game>
 	<game name="RBI Baseball '95 (USA)" id="0040">
 		<category>Games</category>
@@ -149,7 +149,7 @@
 	<game name="Virtua Fighter (Japan, USA) (En)" id="0053">
 		<category>Games</category>
 		<description>Virtua Fighter (Japan, USA) (En)</description>
-		<rom name="Virtua Fighter (Japan, USA) (En).32x" size="4194304" crc="b5de9626" md5="901e97c9f731fbdf1f1ead0fbf58249a" sha1="f35754f4bfe3a53722d7a799f88face0fd13c424"/>
+		<rom name="Virtua Fighter (Japan, USA) (En).32x" size="4194304" crc="b5de9626" md5="901e97c9f731fbdf1f1ead0fbf58249a" sha1="f35754f4bfe3a53722d7a799f88face0fd13c424" sha256="c595e136c91a012b1e7d591acfb9d965926cac51acea998b90969d74391bfa08"/>
 	</game>
 	<game name="Virtua Racing Deluxe (USA)" id="0056">
 		<category>Games</category>

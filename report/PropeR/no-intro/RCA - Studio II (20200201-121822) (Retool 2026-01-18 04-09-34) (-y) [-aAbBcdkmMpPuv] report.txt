@@ -1,0 +1,44 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Concentration Match (Europe)
++ Grand Pack (Europe)
++ Pinball (Europe)
++ Speedway + Tag (Europe)
++ Star Wars (Europe)
++ TV Arcade I - Space War (USA)
++ TV Arcade II - Fun with Numbers (USA)
++ TV Arcade III - Tennis + Squash (USA)
++ TV Arcade IV - Baseball (USA)
++ TV Arcade Series - Gunfighter + Moonship Battle (USA, Europe)
++ TV Arcade Series - Speedway + Tag (USA)
++ TV Casino Series - Blackjack (USA)
++ TV Casino Series - TV Bingo (USA, Europe)
++ TV Mystic Series - Biorhythm (USA, Europe)
++ TV School House I (USA)
++ TV School House II - Math Fun (USA, Europe)
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] RCA Studio II (USA)
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- Demonstration Cartridge (USA)

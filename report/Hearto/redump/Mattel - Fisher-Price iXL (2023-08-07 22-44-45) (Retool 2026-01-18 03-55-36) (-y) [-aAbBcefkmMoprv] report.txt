@@ -1,0 +1,51 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Batman - The Brave and the Bold (USA) (v2.0.0)
+  - Batman - The Brave and the Bold (USA)
++ Disney - Pixar Toy Story 3 (USA) (v2.0.0)
+  - Disney - Pixar Toy Story 3 (USA)
++ Disney Handy Manny (USA) (v2.0.0)
+  - Disney Handy Manny (USA)
++ Disney Princess (USA) (v2.0.0)
+  - Disney Princess (USA)
++ Imaginext (USA) (v2.0.0)
+  - Imaginext (USA)
++ Nickelodeon Ni Hao, Kai-Lan (USA) (v2.0.0)
+  - Nickelodeon Ni Hao, Kai-Lan (USA)
++ Nickelodeon SpongeBob SquarePants (USA) (v2.0.0)
+  - Nickelodeon SpongeBob SquarePants (USA)
++ Scooby-Doo! (USA) (v2.0.0)
+  - Scooby-Doo! (USA)
+
+TITLES WITHOUT CLONES
+=====================
+
++ Disney - Pixar Cars 2 (USA)
++ Disney Mickey Mouse Clubhouse (USA)
++ DreamWorks Kung Fu Panda 2 (USA)
++ DreamWorks Shrek Forever After (USA)
++ Fisher-Price iXL (USA) (v2.0.1)
++ Green Lantern (USA)
++ Nickelodeon Dora the Explorer (USA)
++ Nickelodeon The Penguins of Madagascar DreamWorks (USA)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- Fisher-Price iXL (USA)
+- Fisher-Price iXL (USA) (Alt)
