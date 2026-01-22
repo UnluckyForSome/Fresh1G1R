@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 (Retool)</name>
-		<description>Sony - PlayStation 2 (5,353) (-y) [-aAbBcefkmMoprv] (2026-01-20 10-11-13) (Retool)</description>
-		<version>2026-01-20 10-11-13</version>
-		<date>2026-01-21 03-53-31</date>
+		<description>Sony - PlayStation 2 (5,354) (-y) [-aAbBcefkmMoprv] (2026-01-22 04-14-35) (Retool)</description>
+		<version>2026-01-22 04-14-35</version>
+		<date>2026-01-22 03-57-13</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -11746,10 +11746,10 @@
 		<rom name="Kao the Kangaroo - Round 2 (USA).bin" size="600289200" crc="112eebcc" md5="3c1250dfb95a7bee3f602889f63c6e90" sha1="1a34fead2e789dbb3b8093879bb8c848fdf640f1"/>
 		<rom name="Kao the Kangaroo - Round 2 (USA).cue" size="98" crc="6a09fa6d" md5="aca734ea6a9830a0ac8fd6c17c51c0a8" sha1="e939ffc74479b0ea140d8a4a1e0de8c0f6174922"/>
 	</game>
-	<game name="Kappa no Kai-kata - How to Breed Kappas (Japan)">
+	<game name="Kappa no Kaikata - How to Breed Kappas (Japan)">
 		<category>Games</category>
-		<description>Kappa no Kai-kata - How to Breed Kappas (Japan)</description>
-		<rom name="Kappa no Kai-kata - How to Breed Kappas (Japan).iso" size="1228832768" crc="a7a775cb" md5="52ad37290e903826c72c2e1f0c3c3330" sha1="6f619139339079bccaf4ea503c0c6dfd5b80507d"/>
+		<description>Kappa no Kaikata - How to Breed Kappas (Japan)</description>
+		<rom name="Kappa no Kaikata - How to Breed Kappas (Japan).iso" size="1228832768" crc="a7a775cb" md5="52ad37290e903826c72c2e1f0c3c3330" sha1="6f619139339079bccaf4ea503c0c6dfd5b80507d"/>
 	</game>
 	<game name="Karaoke Revolution (USA)">
 		<category>Games</category>
@@ -24064,11 +24064,11 @@
 		<description>Suggoi! Arcana Heart 2 (Japan)</description>
 		<rom name="Suggoi! Arcana Heart 2 (Japan).iso" size="1805123584" crc="5fdaf607" md5="497f919c849c78dbae4cc05c7ed94bdb" sha1="6efb2f446e5f995461269954d80b0ce149e3ee1f"/>
 	</game>
-	<game name="Sui Sui Sweet - Amai Koi no Mitsuke-kata (Japan)">
+	<game name="Sui Sui Sweet - Amai Koi no Mitsukekata (Japan)">
 		<category>Games</category>
-		<description>Sui Sui Sweet - Amai Koi no Mitsuke-kata (Japan)</description>
-		<rom name="Sui Sui Sweet - Amai Koi no Mitsuke-kata (Japan).bin" size="427525392" crc="58e28390" md5="e0b5108848447dcc3d7370515d9b096c" sha1="010828994e1a11ba678d030a0799002dc376dc2f"/>
-		<rom name="Sui Sui Sweet - Amai Koi no Mitsuke-kata (Japan).cue" size="114" crc="6091bf40" md5="8e0403bdf98ac61efcf0db10406d8d63" sha1="3912f4d26ddf926c0d90e9cb5c1810fa96a0c9df"/>
+		<description>Sui Sui Sweet - Amai Koi no Mitsukekata (Japan)</description>
+		<rom name="Sui Sui Sweet - Amai Koi no Mitsukekata (Japan).bin" size="427525392" crc="58e28390" md5="e0b5108848447dcc3d7370515d9b096c" sha1="010828994e1a11ba678d030a0799002dc376dc2f"/>
+		<rom name="Sui Sui Sweet - Amai Koi no Mitsukekata (Japan).cue" size="113" crc="1972c233" md5="6ab1c20882cbc81b64d2c0e9d455057d" sha1="004b356c029a3aaa0c7e264e5af739b0134f4ad5"/>
 	</game>
 	<game name="Suigetsu - Mayoigokoro (Japan)">
 		<category>Games</category>
@@ -27292,6 +27292,11 @@
 		<category>Games</category>
 		<description>Wild Arms - Alter Code - F (USA)</description>
 		<rom name="Wild Arms - Alter Code - F (USA).iso" size="8289943552" crc="c70eca4d" md5="5f6addce3c0ad231fd2ad410ed7ddcb9" sha1="060f0e437b4e5a63c78a59c242227327d0a4eba8"/>
+	</game>
+	<game name="Wild Arms - The 4th Detonator (Japan) (Tentou Senkou Taikenban)">
+		<category>Demos</category>
+		<description>Wild Arms - The 4th Detonator (Japan) (Tentou Senkou Taikenban)</description>
+		<rom name="Wild Arms - The 4th Detonator (Japan) (Tentou Senkou Taikenban).iso" size="1228832768" crc="e127dd4b" md5="3207e0711aeab7afe6f87ad99b0883cd" sha1="6df4f82383245b960229e01451a508fedab8b37f"/>
 	</game>
 	<game name="Wild Arms - The Vth Vanguard (Japan) (Taikenban)">
 		<category>Demos</category>

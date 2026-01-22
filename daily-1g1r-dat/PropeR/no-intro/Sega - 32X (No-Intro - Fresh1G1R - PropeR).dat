@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - 32X (Retool)</name>
-		<description>Sega - 32X (34) (-y) [-aAbBcdkmMpPuv] (20260119-210753) (Retool)</description>
-		<version>20260119-210753</version>
-		<date>2026-01-21 04-10-05</date>
+		<description>Sega - 32X (34) (-y) [-aAbBcdkmMpPuv] (20260120-191608) (Retool)</description>
+		<version>20260120-191608</version>
+		<date>2026-01-22 04-10-20</date>
 		<author>bikerspade, BitLooter, ElBarto, FakeShemp, Gefflon, gigadeath, Hiccup, norkmetnoil577, omonim2007, psykopat, relax, Seventy7, SonGoku, Special T, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -94,7 +94,7 @@
 	<game name="NFL Quarterback Club (World)" id="0036">
 		<category>Games</category>
 		<description>NFL Quarterback Club (World)</description>
-		<rom name="NFL Quarterback Club (World).32x" size="3145728" crc="0bc7018d" md5="e273c10114351cdafeba1abccca8909d" sha1="a0dc24f2f3a7fc5bfd12791cf25af7f7888843cf"/>
+		<rom name="NFL Quarterback Club (World).32x" size="3145728" crc="0bc7018d" md5="e273c10114351cdafeba1abccca8909d" sha1="a0dc24f2f3a7fc5bfd12791cf25af7f7888843cf" sha256="092ad8896ea7784d2feb7f17b1a348562588a361c50de6ade722a5c5cce698d5"/>
 	</game>
 	<game name="Pitfall - The Mayan Adventure (USA)" id="0038">
 		<category>Games</category>
@@ -109,12 +109,12 @@
 	<game name="RBI Baseball '95 (USA)" id="0040">
 		<category>Games</category>
 		<description>RBI Baseball '95 (USA)</description>
-		<rom name="RBI Baseball '95 (USA).32x" size="2097152" crc="ff795fdc" md5="5f955b5feab07c072fc345f1fee52a60" sha1="4f90433a4403fd74cafeea49272689046de4ae43"/>
+		<rom name="RBI Baseball '95 (USA).32x" size="2097152" crc="ff795fdc" md5="5f955b5feab07c072fc345f1fee52a60" sha1="4f90433a4403fd74cafeea49272689046de4ae43" sha256="89f8114f9a4fb5ec3e3f0229427117c72c4af2dbda337bc52e6afa60787e6d95"/>
 	</game>
 	<game name="Sangokushi IV (Japan)" id="0041">
 		<category>Games</category>
 		<description>Sangokushi IV (Japan)</description>
-		<rom name="Sangokushi IV (Japan).32x" size="4194304" crc="e4de7625" md5="f4bb8844d77442dbb5bee78d0246b456" sha1="74a3ba27c55cff12409bf6c9324ece6247abbad1"/>
+		<rom name="Sangokushi IV (Japan).32x" size="4194304" crc="e4de7625" md5="f4bb8844d77442dbb5bee78d0246b456" sha1="74a3ba27c55cff12409bf6c9324ece6247abbad1" sha256="788fd87e5e2478eb37226b6231b7e1a7e7c3ba45bce020748d77ef2951a20feb"/>
 	</game>
 	<game name="Space Harrier (Japan, USA) (En)" id="0044">
 		<category>Games</category>
@@ -149,7 +149,7 @@
 	<game name="Toughman Contest (USA, Europe)" id="0051">
 		<category>Games</category>
 		<description>Toughman Contest (USA, Europe)</description>
-		<rom name="Toughman Contest (USA, Europe).32x" size="4194304" crc="14eac7a6" md5="386d99d132ce5699ade81b4473cef5b4" sha1="7588b0b8f4e93d5fdc920d3ab7e464154e423da9"/>
+		<rom name="Toughman Contest (USA, Europe).32x" size="4194304" crc="14eac7a6" md5="386d99d132ce5699ade81b4473cef5b4" sha1="7588b0b8f4e93d5fdc920d3ab7e464154e423da9" sha256="5085e80dee63cf0264aadb3595588c3098a68607e8cf48c948535483832bafc2"/>
 	</game>
 	<game name="Virtua Fighter (Japan, USA) (En)" id="0053">
 		<category>Games</category>
@@ -164,17 +164,17 @@
 	<game name="WWF Raw (World)" id="0058">
 		<category>Games</category>
 		<description>WWF Raw (World)</description>
-		<rom name="WWF Raw (World).32x" size="4194304" crc="8eb7cd2c" md5="b3788f861803d21cfa0e559695835f44" sha1="94b974f2f69f0c10bc18b349fa4ff95ca56fa47b"/>
+		<rom name="WWF Raw (World).32x" size="4194304" crc="8eb7cd2c" md5="b3788f861803d21cfa0e559695835f44" sha1="94b974f2f69f0c10bc18b349fa4ff95ca56fa47b" sha256="901f61356060a983b938e7df02ac8b193d8c7c9c31aa5ed58083494f1e621d3b"/>
 	</game>
 	<game name="WWF WrestleMania - The Arcade Game (USA)" id="0059">
 		<category>Games</category>
 		<description>WWF WrestleMania - The Arcade Game (USA)</description>
-		<rom name="WWF WrestleMania - The Arcade Game (USA).32x" size="4194304" crc="61833503" md5="8456cae9975ba6cb041c4ef2be54b1a1" sha1="551eedc963cba0e1410b3d229b332ef9ea061469"/>
+		<rom name="WWF WrestleMania - The Arcade Game (USA).32x" size="4194304" crc="61833503" md5="8456cae9975ba6cb041c4ef2be54b1a1" sha1="551eedc963cba0e1410b3d229b332ef9ea061469" sha256="b64adcee5a1f7a93a5672a45079c624ffe3af081fb834e2c57cb6c9d0aa37e6a"/>
 	</game>
 	<game name="World Series Baseball Starring Deion Sanders (USA)" id="0057">
 		<category>Games</category>
 		<description>World Series Baseball Starring Deion Sanders (USA)</description>
-		<rom name="World Series Baseball Starring Deion Sanders (USA).32x" size="3145728" crc="6de1bc75" md5="4d14eab0585e79e2fc4789e090755f2d" sha1="ab3026eae46a775adb7eaebc13702699557ddc41"/>
+		<rom name="World Series Baseball Starring Deion Sanders (USA).32x" size="3145728" crc="6de1bc75" md5="4d14eab0585e79e2fc4789e090755f2d" sha1="ab3026eae46a775adb7eaebc13702699557ddc41" sha256="9545b478e89c780bc9119b585bf88826956f54f40dfb534fb49eef9b40245f3a"/>
 	</game>
 	<game name="Zaxxon's Motherbase 2000 (Japan, USA) (En)" id="0037">
 		<category>Games</category>
