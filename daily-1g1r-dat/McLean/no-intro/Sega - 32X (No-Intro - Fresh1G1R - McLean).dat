@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - 32X (Retool)</name>
-		<description>Sega - 32X (33) (-ly) [-aAbBcdDefkmMopPruv] (20260120-191608) (Retool)</description>
-		<version>20260120-191608</version>
-		<date>2026-01-23 04-00-33</date>
+		<description>Sega - 32X (33) (-ly) [-aAbBcdDefkmMopPruv] (20260122-193645) (Retool)</description>
+		<version>20260122-193645</version>
+		<date>2026-01-24 03-56-30</date>
 		<author>bikerspade, BitLooter, ElBarto, FakeShemp, Gefflon, gigadeath, Hiccup, norkmetnoil577, omonim2007, psykopat, relax, Seventy7, SonGoku, Special T, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>

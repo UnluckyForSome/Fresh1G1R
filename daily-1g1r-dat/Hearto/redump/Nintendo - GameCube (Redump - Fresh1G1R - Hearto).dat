@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - GameCube (Retool)</name>
-		<description>Nintendo - GameCube (802) (-y) [-aAbBcefkmMoprv] (2026-01-11 20-45-13) (Retool)</description>
-		<version>2026-01-11 20-45-13</version>
-		<date>2026-01-23 03-52-29</date>
+		<description>Nintendo - GameCube (802) (-y) [-aAbBcefkmMoprv] (2026-01-23 23-28-26) (Retool)</description>
+		<version>2026-01-23 23-28-26</version>
+		<date>2026-01-24 03-46-36</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -3387,20 +3387,15 @@
 		<description>Star Wars - Rogue Squadron II - Rogue Leader (USA)</description>
 		<rom name="Star Wars - Rogue Squadron II - Rogue Leader (USA).iso" size="1459978240" crc="e9d4823d" md5="0bf391bee90da09d6042016d23e7a9b1" sha1="4add0e2411c0940d5c30dd408677085427f80aa9"/>
 	</game>
-	<game name="Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It) (Demo)">
-		<category>Demos</category>
-		<description>Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It) (Demo)</description>
-		<rom name="Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It) (Demo).iso" size="1459978240" crc="3657ba07" md5="7ae2720a0984e16489e2f049c224fe71" sha1="b47bc2a3bbcaa56b680d9efc2e2b32812ae42e04"/>
-	</game>
 	<game name="Star Wars - Rogue Squadron III - Rebel Strike (USA) (En,Fr,De,Es,It) (Rev 1)">
 		<category>Games</category>
 		<description>Star Wars - Rogue Squadron III - Rebel Strike (USA) (En,Fr,De,Es,It) (Rev 1)</description>
 		<rom name="Star Wars - Rogue Squadron III - Rebel Strike (USA) (En,Fr,De,Es,It) (Rev 1).iso" size="1459978240" crc="d54098af" md5="d3fcfdc4f9b83176bc7ac09b1ec5d1dc" sha1="bfdbd1702cdcaf57c096ece54e86da14e92ce29c"/>
 	</game>
-	<game name="Star Wars - Rogue Squadron III - Rebel Strike (USA) (Limited Edition Preview Disc)">
+	<game name="Star Wars - Rogue Squadron III - Rebel Strike - Limited Edition Preview Disc (USA)">
 		<category>Demos</category>
-		<description>Star Wars - Rogue Squadron III - Rebel Strike (USA) (Limited Edition Preview Disc)</description>
-		<rom name="Star Wars - Rogue Squadron III - Rebel Strike (USA) (Limited Edition Preview Disc).iso" size="1459978240" crc="1621d87a" md5="236088fbf738089f5af43cafc360720a" sha1="5f9596e1819cd2574a6846562dd67da0e08b81ec"/>
+		<description>Star Wars - Rogue Squadron III - Rebel Strike - Limited Edition Preview Disc (USA)</description>
+		<rom name="Star Wars - Rogue Squadron III - Rebel Strike - Limited Edition Preview Disc (USA).iso" size="1459978240" crc="1621d87a" md5="236088fbf738089f5af43cafc360720a" sha1="5f9596e1819cd2574a6846562dd67da0e08b81ec"/>
 	</game>
 	<game name="Star Wars - The Clone Wars (USA)">
 		<category>Games</category>
@@ -3801,6 +3796,11 @@
 		<category>Games</category>
 		<description>Vexx (USA)</description>
 		<rom name="Vexx (USA).iso" size="1459978240" crc="66c7457b" md5="4198d93d1fc7a267a4ae5b78c22e8a64" sha1="071742b3735d768bdf0fdc822808045c8aa8791b"/>
+	</game>
+	<game name="Viewtiful Joe (Europe) (Demo)">
+		<category>Demos</category>
+		<description>Viewtiful Joe (Europe) (Demo)</description>
+		<rom name="Viewtiful Joe (Europe) (Demo).iso" size="1459978240" crc="aff83635" md5="d77b3dbb6555a82feff166a40401dc7a" sha1="924667a79d97d813d1cf1cb53e8d653af2378d13"/>
 	</game>
 	<game name="Viewtiful Joe (USA)">
 		<category>Games</category>

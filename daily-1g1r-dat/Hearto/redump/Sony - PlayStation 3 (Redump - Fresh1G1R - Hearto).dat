@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,691) (-y) [-aAbBcefkmMoprv] (2026-01-22 09-06-04) (Retool)</description>
-		<version>2026-01-22 09-06-04</version>
-		<date>2026-01-23 03-53-06</date>
+		<description>Sony - PlayStation 3 (1,691) (-y) [-aAbBcefkmMoprv] (2026-01-23 17-31-09) (Retool)</description>
+		<version>2026-01-23 17-31-09</version>
+		<date>2026-01-24 03-47-13</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -7817,10 +7817,10 @@
 		<description>Ultimate Stealth Triple Pack (USA) (En,Fr,Es)</description>
 		<rom name="Ultimate Stealth Triple Pack (USA) (En,Fr,Es).iso" size="42613735424" crc="e39c6d23" md5="cf8435874c5a83972803b09453033de5" sha1="18d97ab1694545dd42bc110ef8b95fe91aa8ff60"/>
 	</game>
-	<game name="Ultra Street Fighter IV (USA) (En,Ja,Fr,De,Es,It,Ko)">
+	<game name="Ultra Street Fighter IV (USA, Asia) (En,Ja,Fr,De,Es,It,Ko)">
 		<category>Games</category>
-		<description>Ultra Street Fighter IV (USA) (En,Ja,Fr,De,Es,It,Ko)</description>
-		<rom name="Ultra Street Fighter IV (USA) (En,Ja,Fr,De,Es,It,Ko).iso" size="19465175040" crc="721067f3" md5="d72af6231721d3550741ef16f7915de5" sha1="ea9641dfb9197c9c34b6527bf3fa83da3b7c8e12"/>
+		<description>Ultra Street Fighter IV (USA, Asia) (En,Ja,Fr,De,Es,It,Ko)</description>
+		<rom name="Ultra Street Fighter IV (USA, Asia) (En,Ja,Fr,De,Es,It,Ko).iso" size="19465175040" crc="721067f3" md5="d72af6231721d3550741ef16f7915de5" sha1="ea9641dfb9197c9c34b6527bf3fa83da3b7c8e12"/>
 	</game>
 	<game name="Umineko no Naku Koro ni - Majo to Suiri no Rondo (Japan)">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,843) (-y) [-aAbBcefkmMoprv] (2026-01-22 15-12-31) (Retool)</description>
-		<version>2026-01-22 15-12-31</version>
-		<date>2026-01-23 03-53-08</date>
+		<description>Sony - PlayStation Portable (1,843) (-y) [-aAbBcefkmMoprv] (2026-01-23 04-49-34) (Retool)</description>
+		<version>2026-01-23 04-49-34</version>
+		<date>2026-01-24 03-47-15</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -6506,10 +6506,10 @@
 		<description>Rei Chou Aniki (Japan)</description>
 		<rom name="Rei Chou Aniki (Japan).iso" size="441450496" crc="803b69c8" md5="5c2b53eb9c17480bb7e1d6e145f188b6" sha1="0278f9258d5a97620e48f6e73df26925b5bb566f"/>
 	</game>
-	<game name="Remember11 - The Age of Infinity (Japan)">
+	<game name="Remember 11 - The Age of Infinity (Japan)">
 		<category>Games</category>
-		<description>Remember11 - The Age of Infinity (Japan)</description>
-		<rom name="Remember11 - The Age of Infinity (Japan).iso" size="1763475456" crc="9d2f1d13" md5="66f4d4924f50dc10b2e5fd566f95d696" sha1="084ae97ceb0ac7c90d8014b96dd4248b2a2da0aa"/>
+		<description>Remember 11 - The Age of Infinity (Japan)</description>
+		<rom name="Remember 11 - The Age of Infinity (Japan).iso" size="1763475456" crc="9d2f1d13" md5="66f4d4924f50dc10b2e5fd566f95d696" sha1="084ae97ceb0ac7c90d8014b96dd4248b2a2da0aa"/>
 	</game>
 	<game name="Ren'ai Banchou - Inochi Mijikashi, Koi seyo Otome! Love is Power (Japan)">
 		<category>Games</category>

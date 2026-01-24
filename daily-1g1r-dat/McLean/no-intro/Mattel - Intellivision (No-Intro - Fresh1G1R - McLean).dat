@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Mattel - Intellivision (Retool)</name>
-		<description>Mattel - Intellivision (133) (-ly) [-aAbBcdDefkmMopPruv] (20260112-025720) (Retool)</description>
-		<version>20260112-025720</version>
-		<date>2026-01-23 04-02-59</date>
+		<description>Mattel - Intellivision (133) (-ly) [-aAbBcdDefkmMopPruv] (20260122-205210) (Retool)</description>
+		<version>20260122-205210</version>
+		<date>2026-01-24 03-54-39</date>
 		<author>Aringon, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, psykopat, RetroUprising, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>

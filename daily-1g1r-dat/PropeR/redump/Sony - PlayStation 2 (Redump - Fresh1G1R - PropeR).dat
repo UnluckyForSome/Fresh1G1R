@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 (Retool)</name>
-		<description>Sony - PlayStation 2 (4,463) (-y) [-aAbBcdkmMpPuv] (2026-01-22 04-14-35) (Retool)</description>
-		<version>2026-01-22 04-14-35</version>
-		<date>2026-01-23 04-05-02</date>
+		<description>Sony - PlayStation 2 (4,464) (-y) [-aAbBcdkmMpPuv] (2026-01-23 14-22-30) (Retool)</description>
+		<version>2026-01-23 14-22-30</version>
+		<date>2026-01-24 03-59-09</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -16011,10 +16011,10 @@
 		<description>Reishiki Kanjou Sentouki Ni (Japan)</description>
 		<rom name="Reishiki Kanjou Sentouki Ni (Japan).iso" size="1259143168" crc="66791693" md5="7dc481a47796ee158f4f565a71765b51" sha1="3f5e68e2c22e1aba47e053cd33ac542a1c1aeefe"/>
 	</game>
-	<game name="Remember11 - The Age of Infinity (Japan) (Infinity Plus)">
+	<game name="Remember 11 - The Age of Infinity (Japan) (Infinity Plus)">
 		<category>Games</category>
-		<description>Remember11 - The Age of Infinity (Japan) (Infinity Plus)</description>
-		<rom name="Remember11 - The Age of Infinity (Japan) (Infinity Plus).iso" size="3427991552" crc="a784bcaa" md5="1c0d37e28e83283e068137b32b863287" sha1="5dd53aec76bb4d56bdfcbfde76f7769a76b76032"/>
+		<description>Remember 11 - The Age of Infinity (Japan) (Infinity Plus)</description>
+		<rom name="Remember 11 - The Age of Infinity (Japan) (Infinity Plus).iso" size="3427991552" crc="a784bcaa" md5="1c0d37e28e83283e068137b32b863287" sha1="5dd53aec76bb4d56bdfcbfde76f7769a76b76032"/>
 	</game>
 	<game name="Remote Control Dandy SF (Japan)">
 		<category>Games</category>
@@ -20300,6 +20300,11 @@
 		<description>SuperLite 2000 Vol. 30 - Yoshinoya (Japan)</description>
 		<rom name="SuperLite 2000 Vol. 30 - Yoshinoya (Japan).bin" size="644064624" crc="c085bcda" md5="9ca9c77d01289d0539c5a243303132c1" sha1="20e42f0166f26594684c0c8f674402d62e13ade1"/>
 		<rom name="SuperLite 2000 Vol. 30 - Yoshinoya (Japan).cue" size="108" crc="654ac1ef" md5="7989bafacf3b3703f6da25c3db1657af" sha1="07f25e0e95adffce6fd031b8b8f5db4801d0b32f"/>
+	</game>
+	<game name="SuperLite 2000 Vol. 31 - Remember 11 - The Age of Infinity (Japan)">
+		<category>Games</category>
+		<description>SuperLite 2000 Vol. 31 - Remember 11 - The Age of Infinity (Japan)</description>
+		<rom name="SuperLite 2000 Vol. 31 - Remember 11 - The Age of Infinity (Japan).iso" size="3429826560" crc="da43a624" md5="60e205af6a58b3e778812dffcabaf27d" sha1="f77597ba6038a6da83a969f9da86e542c84e0552"/>
 	</game>
 	<game name="SuperLite 2000 Vol. 34 - Akai Ito (Japan)">
 		<category>Games</category>

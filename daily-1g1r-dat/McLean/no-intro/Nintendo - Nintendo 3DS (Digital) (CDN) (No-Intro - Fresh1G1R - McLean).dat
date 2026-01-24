@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Digital) (CDN) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Digital) (CDN) (2,149) (-ly) [-aAbBcdDefkmMopPruv] (20251220-224958) (Retool)</description>
+		<description>Nintendo - Nintendo 3DS (Digital) (CDN) (2,148) (-ly) [-aAbBcdDefkmMopPruv] (20251220-224958) (Retool)</description>
 		<version>20251220-224958</version>
-		<date>2026-01-23 04-02-12</date>
+		<date>2026-01-24 03-56-17</date>
 		<author>ajshell1, Arctic Circle System, Aringon, bikerspade, buckwheat, C. V. Reynolds, Gefflon, Hiccup, Hiccup and DarkMatterCore, Icyelut, InternalLoss, Jack, Jarvik7, Just001Kim, MeguCocoa, MisterSheeple, niemand, nnssxx, norkmetnoil577, number, rarenight, root, SonGoku, u53r123, Whovian9369, xprism, xuom2, ZeroSkill, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -10953,14 +10953,6 @@
 		<rom name="00000001" size="2334720" crc="9f2d369c" md5="7c402c75a14083906c94ba266c01eaa2" sha1="365ec492cbd202c8a6efb6fd7e195b222dee1243"/>
 		<rom name="00000002" size="399142912" crc="2aea04cf" md5="4aa6143395266be2cbe22d7cfdd9fde1" sha1="41a92478bb56f6b88bff65ecf3b3c6b5d077b5fe"/>
 		<rom name="tmd.16" size="4708" crc="ccec7302" md5="17df70f31435ed310e9d87284c82c551" sha1="da5e3a2a5c7c7d3f2f0820d8334d346b6a2bf6ef"/>
-	</game>
-	<game name="Nintendo Presents - New Style Boutique 3 - Styling Star (Europe)" id="04308">
-		<category>Games</category>
-		<description>Nintendo Presents - New Style Boutique 3 - Styling Star (Europe)</description>
-		<game_id>00040000001c2600</game_id>
-		<rom name="00000000" size="814632960" crc="35fe0464" md5="72c459c4eccee62dcd87ab4363051132" sha1="35be7977ea3b805737695ceac811974eec8332a0"/>
-		<rom name="00000001" size="2379776" crc="1c13c24f" md5="6462b46c4039cc2b289482627e46172e" sha1="54112294f87dc4a94c08368d23fcd22406633dfe"/>
-		<rom name="tmd.0" size="4708" crc="10d5be8e" md5="4085e3685a5fa071aa5c51d01423e0d3" sha1="15b6b76ca94c898e37d7ee8bdab47c955e098752"/>
 	</game>
 	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es)" id="00016">
 		<category>Games</category>
