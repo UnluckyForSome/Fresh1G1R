@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,591) (-y) [-aAbBcefkmMoprv] (2026-01-25 01-40-41) (Retool)</description>
-		<version>2026-01-25 01-40-41</version>
-		<date>2026-01-25 04-02-41</date>
+		<description>Microsoft - Xbox 360 (1,592) (-y) [-aAbBcefkmMoprv] (2026-01-26 04-04-29) (Retool)</description>
+		<version>2026-01-26 04-04-29</version>
+		<date>2026-01-26 04-06-08</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -7910,6 +7910,11 @@
 		<category>Games</category>
 		<description>Zegapain XOR (Japan)</description>
 		<rom name="Zegapain XOR (Japan).iso" size="7834892288" crc="9befe018" md5="865b71b3bdf325bed2df41a2451dc89c" sha1="ba9431ba4e0d68e4ea8f2e37497aa3ffe574dd3e"/>
+	</game>
+	<game name="Zhen Sanguo Wushuang 5 - Empires (Taiwan)">
+		<category>Games</category>
+		<description>Zhen Sanguo Wushuang 5 - Empires (Taiwan)</description>
+		<rom name="Zhen Sanguo Wushuang 5 - Empires (Taiwan).iso" size="7838695424" crc="a9105720" md5="d1ec5af58d300716b70dc2f9a8730d3b" sha1="7a5782b2046012645a80c55cf4972d30322fba66"/>
 	</game>
 	<game name="Zoids Assault (USA)">
 		<category>Games</category>

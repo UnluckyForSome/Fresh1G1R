@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Bandai - WonderSwan (Retool)</name>
-		<description>Bandai - WonderSwan (4) (-ly) [-aAbBcdDefkmMopPruv] (20251108-012948) (Retool)</description>
-		<version>20251108-012948</version>
-		<date>2026-01-25 04-12-58</date>
-		<author>C. V. Reynolds, Gefflon, gigadeath, Hiccup, kazumi213, MeguCocoa, omonim2007, PPLToast, relax, RetroUprising, sCZther, SonGoku, xuom2</author>
+		<description>Bandai - WonderSwan (4) (-ly) [-aAbBcdDefkmMopPruv] (20260124-123054) (Retool)</description>
+		<version>20260124-123054</version>
+		<date>2026-01-26 04-14-27</date>
+		<author>C. V. Reynolds, Gefflon, gigadeath, Hiccup, kazumi213, MeguCocoa, omonim2007, PPLToast, rarenight, relax, RetroUprising, sCZther, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>

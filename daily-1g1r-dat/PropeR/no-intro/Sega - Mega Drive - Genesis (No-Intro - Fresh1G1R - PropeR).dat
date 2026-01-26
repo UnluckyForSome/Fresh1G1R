@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - Mega Drive - Genesis (Retool)</name>
-		<description>Sega - Mega Drive - Genesis (949) (-y) [-aAbBcdkmMpPuv] (20260123-202441) (Retool)</description>
-		<version>20260123-202441</version>
-		<date>2026-01-25 04-18-14</date>
+		<description>Sega - Mega Drive - Genesis (950) (-y) [-aAbBcdkmMpPuv] (20260124-124924) (Retool)</description>
+		<version>20260124-124924</version>
+		<date>2026-01-26 04-19-42</date>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2461,10 +2461,15 @@
 		<description>Monopoly (USA)</description>
 		<rom name="Monopoly (USA).md" size="524288" crc="c10268da" md5="40794bbfc3f9a73df5255fe6d10b5107" sha1="8ff34d2557270f91e2032cba100cd65eb51129ca" sha256="304594f7215f09fbffd5b597336929ffc99fec16fa563bcaca10da0add20fa03"/>
 	</game>
-	<game name="Monster World IV (USA) (En,Ja) (Genesis Mini)" id="2447">
+	<game name="Monster World IV (USA, Europe) (En,Ja) (Virtual Console)" id="1673">
 		<category>Games</category>
-		<description>Monster World IV (USA) (En,Ja) (Genesis Mini)</description>
-		<rom name="Monster World IV (USA) (En,Ja) (Genesis Mini).md" size="2097152" crc="d26a32b6" md5="cf4f52d57063cd381977bc02d757737f" sha1="7896311b5ccb3cef49d73a0a91f5b4566d6cc92d" sha256="4a6957d54c6a7175ed3261431fac421ad0026a79fc904885ce9d117ed967d8ec"/>
+		<description>Monster World IV (USA, Europe) (En,Ja) (Virtual Console)</description>
+		<rom name="Monster World IV (USA, Europe) (En,Ja) (Virtual Console).md" size="2097152" crc="af050c46" md5="2640c0b879dd52db3e328c14c36095f0" sha1="6c90e14b6dd1ce6fc33f74dc624edc2e00fc5038" sha256="6ed8588492f963015ba173cd4fc0cb6a2680bb6374fd930fcad757605dcfd70d"/>
+	</game>
+	<game name="Monster World IV (World) (En,Ja) (Genesis Mini, Mega Drive Mini)" id="2447">
+		<category>Games</category>
+		<description>Monster World IV (World) (En,Ja) (Genesis Mini, Mega Drive Mini)</description>
+		<rom name="Monster World IV (World) (En,Ja) (Genesis Mini, Mega Drive Mini).md" size="2097152" crc="d26a32b6" md5="cf4f52d57063cd381977bc02d757737f" sha1="7896311b5ccb3cef49d73a0a91f5b4566d6cc92d" sha256="4a6957d54c6a7175ed3261431fac421ad0026a79fc904885ce9d117ed967d8ec"/>
 	</game>
 	<game name="Mortal Kombat (World)" id="0861">
 		<category>Games</category>
@@ -3431,10 +3436,10 @@
 		<description>Sangokushi Retsuden - Ransei no Eiyuutachi (Japan)</description>
 		<rom name="Sangokushi Retsuden - Ransei no Eiyuutachi (Japan).md" size="1048576" crc="0f56785a" md5="fb743154895c42cbc97edf1f9f5839a5" sha1="9b79f91060e68b9f6f48c8a5f38bc9873d03c4a9" sha256="de90a7634f9f14e6e0227c6b1713c88ad87d631fcaaf4d1c4aa104d100bd4300"/>
 	</game>
-	<game name="Sanrin San-chan - Spatter (Japan, USA) (En) (Mega Drive Mini 2, Genesis Mini 2)" id="3175">
+	<game name="Sanrin San-chan - Spatter (World) (Mega Drive Mini 2, Genesis Mini 2)" id="3175">
 		<category>Games</category>
-		<description>Sanrin San-chan - Spatter (Japan, USA) (En) (Mega Drive Mini 2, Genesis Mini 2)</description>
-		<rom name="Sanrin San-chan - Spatter (Japan, USA) (En) (Mega Drive Mini 2, Genesis Mini 2).md" size="524288" crc="84081204" md5="ebba6c85edac967ecc59e793fa1e1630" sha1="8912a78f8699668da6a7ee7a881f98d051c16e48" sha256="8318f5a93176c5dac1a286595910d2bf739f37d468bb810fb6752a6e86cac97f"/>
+		<description>Sanrin San-chan - Spatter (World) (Mega Drive Mini 2, Genesis Mini 2)</description>
+		<rom name="Sanrin San-chan - Spatter (World) (Mega Drive Mini 2, Genesis Mini 2).md" size="524288" crc="84081204" md5="ebba6c85edac967ecc59e793fa1e1630" sha1="8912a78f8699668da6a7ee7a881f98d051c16e48" sha256="8318f5a93176c5dac1a286595910d2bf739f37d468bb810fb6752a6e86cac97f"/>
 	</game>
 	<game name="Sansan (Japan)" id="1667">
 		<category>Games</category>

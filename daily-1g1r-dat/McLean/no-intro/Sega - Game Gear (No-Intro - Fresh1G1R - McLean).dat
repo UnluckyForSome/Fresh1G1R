@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - Game Gear (Retool)</name>
-		<description>Sega - Game Gear (286) (-ly) [-aAbBcdDefkmMopPruv] (20260114-193340) (Retool)</description>
-		<version>20260114-193340</version>
-		<date>2026-01-25 04-13-15</date>
+		<description>Sega - Game Gear (287) (-ly) [-aAbBcdDefkmMopPruv] (20260124-122308) (Retool)</description>
+		<version>20260124-122308</version>
+		<date>2026-01-26 04-15-33</date>
 		<author>Arctic Circle System, Aringon, BigFred, BitLooter, C. V. Reynolds, fuzzball, Gefflon, Hiccup, jimmsu, kazumi213, nnssxx, omonim2007, Powerpuff, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, SonGoku, TeamEurope, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -376,10 +376,10 @@
 		<description>F1 - World Championship Edition (Europe)</description>
 		<rom name="F1 - World Championship Edition (Europe).gg" size="262144" crc="107092d0" md5="309abe6822c52df971856912c77a57cc" sha1="a42a647923a5af940ef63ab27d3100c3da53e30b" sha256="64d7f6b99d0e7118da5d1b6e350fc2b8753ae7bb66816386ce0a82ea385dbe81"/>
 	</game>
-	<game name="FIFA International Soccer (USA, Europe)" id="0110">
+	<game name="FIFA International Soccer (USA, Europe) (En,Fr,De,Es)" id="0110">
 		<category>Games</category>
-		<description>FIFA International Soccer (USA, Europe)</description>
-		<rom name="FIFA International Soccer (USA, Europe).gg" size="524288" crc="e632a3a2" md5="9a70ade3cc8647ee1a926ae71bb7fe52" sha1="0725626fc9988b690fc1fc77b294d31b78cbfb5a" sha256="c02f00f52cca1d0463ed1f2fec06ce992cec3c8c9b45967a311ed28d06b76990"/>
+		<description>FIFA International Soccer (USA, Europe) (En,Fr,De,Es)</description>
+		<rom name="FIFA International Soccer (USA, Europe) (En,Fr,De,Es).gg" size="524288" crc="e632a3a2" md5="9a70ade3cc8647ee1a926ae71bb7fe52" sha1="0725626fc9988b690fc1fc77b294d31b78cbfb5a" sha256="c02f00f52cca1d0463ed1f2fec06ce992cec3c8c9b45967a311ed28d06b76990"/>
 	</game>
 	<game name="FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es)" id="0111">
 		<category>Games</category>
@@ -940,6 +940,11 @@
 		<category>Games</category>
 		<description>R.C. Grand Prix (USA)</description>
 		<rom name="R.C. Grand Prix (USA).sms" size="262144" crc="56201996" md5="d087b25d96f3f3e9338b0b5ec4fc2aa5" sha1="c789e7f9450c8eaa08be1bf6c39e877973216431" sha256="faee18f47f5ddffa3f741e40d5a1b5e94b6ea716c129824cd0fb4cf22d0bf669"/>
+	</game>
+	<game name="Rastan Saga (Japan) (En)" id="0306">
+		<category>Games</category>
+		<description>Rastan Saga (Japan) (En)</description>
+		<rom name="Rastan Saga (Japan) (En).sms" size="262144" crc="9c76fb3a" md5="fd82af26ebbed24f57c4eea8eddf3136" sha1="96bf8a67919218aac91fb74cde80a16f90df77d5" sha256="d8756c6c8274b3eb049d301ccfdcc15fb0d7cfae7f021117caebe97390867272"/>
 	</game>
 	<game name="Revenge of Drancon (USA, Brazil) (En)" id="0307">
 		<category>Games</category>

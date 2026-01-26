@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (605) (-y) [-aAbBcdkmMpPuv] (2026-01-17 14-42-42) (Retool)</description>
-		<version>2026-01-17 14-42-42</version>
-		<date>2026-01-25 04-13-40</date>
+		<description>Apple - Macintosh (610) (-y) [-aAbBcdkmMpPuv] (2026-01-25 13-11-38) (Retool)</description>
+		<version>2026-01-25 13-11-38</version>
+		<date>2026-01-26 04-16-56</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -716,6 +716,13 @@
 		<description>Casino Action (USA)</description>
 		<rom name="Casino Action (USA).bin" size="20173104" crc="0843774e" md5="3f454b5b3a9d869a7c5b6a07841497a3" sha1="23efeb9d6cabc8e34a17ca182fa9d7835f109837"/>
 		<rom name="Casino Action (USA).cue" size="108" crc="385ef5b3" md5="38b5599c689b5d4a3ddffef09d905e93" sha1="163f1a81c1aae4a6ecd1e56dc7b93df0c9b641be"/>
+	</game>
+	<game name="Castles - Siege &amp; Conquest (USA)">
+		<category>Games</category>
+		<description>Castles - Siege &amp; Conquest (USA)</description>
+		<rom name="Castles - Siege &amp; Conquest (USA) (Track 1).bin" size="753148032" crc="c119eeff" md5="e81e7c7e9b5570045e6c8154093c59af" sha1="a69d55dc56940f344ed60977ddaea03ddefa1f74"/>
+		<rom name="Castles - Siege &amp; Conquest (USA) (Track 2).bin" size="26151888" crc="ce4e2572" md5="460c946ed999717c3124144ab80ad727" sha1="79305cbd28bf7c528843f8ae76c2097fbf445e9a"/>
+		<rom name="Castles - Siege &amp; Conquest (USA).cue" size="234" crc="e4d6defa" md5="8408fca2b125f29bb31dfeb7a2ca9761" sha1="b23c4898d26946b1e925520558f7ec9b171b371b"/>
 	</game>
 	<game name="Cat in the Hat, The (USA)">
 		<category>Educational</category>
@@ -2651,6 +2658,24 @@
 		<rom name="Mummy - Tomb of the Pharaoh (USA).bin" size="752976336" crc="b8f4740a" md5="e7cbf36add243e950237b6bafc65debf" sha1="1fd203a879455833ddb088aa1d1ca865b74be547"/>
 		<rom name="Mummy - Tomb of the Pharaoh (USA).cue" size="137" crc="b48854c4" md5="60ef0edffb8471da801a76c5c8b73b83" sha1="e6cd5fb08b234f5b747e20df55627f972b603131"/>
 	</game>
+	<game name="Muppet Treasure Island (USA) (Disc 1)">
+		<category>Games</category>
+		<description>Muppet Treasure Island (USA) (Disc 1)</description>
+		<rom name="Muppet Treasure Island (USA) (Disc 1).bin" size="603403248" crc="418115eb" md5="eb687e319afa8190a93c8ab0d21b8fed" sha1="6ab63d5485b111730c54c0b4bda2f5b3b9385d45"/>
+		<rom name="Muppet Treasure Island (USA) (Disc 1).cue" size="126" crc="5a39d61f" md5="734b7842e3c64349f43fab02e3d68970" sha1="8125bfe1e36c832c97db0783c3a9eebf066176c2"/>
+	</game>
+	<game name="Muppet Treasure Island (USA) (Disc 2)">
+		<category>Games</category>
+		<description>Muppet Treasure Island (USA) (Disc 2)</description>
+		<rom name="Muppet Treasure Island (USA) (Disc 2).bin" size="380031456" crc="c7403451" md5="e78251f9d70b05139a240751c85517ce" sha1="4fd593f0fa648bd6a7b4c4cdecdcb96420f1e634"/>
+		<rom name="Muppet Treasure Island (USA) (Disc 2).cue" size="126" crc="5b64f0ce" md5="5db9082e1d204e9fb1e3048071de0c84" sha1="bd046cced6e3373c8ba65b884eea2c1085dcb46d"/>
+	</game>
+	<game name="Muppet Treasure Island (USA) (Disc 3)">
+		<category>Games</category>
+		<description>Muppet Treasure Island (USA) (Disc 3)</description>
+		<rom name="Muppet Treasure Island (USA) (Disc 3).bin" size="499212000" crc="3e212e16" md5="956a69bf6effba529564905e9c0e874d" sha1="f6bdd6d735d1b86c765c609a0b3d2fa1d6bab33b"/>
+		<rom name="Muppet Treasure Island (USA) (Disc 3).cue" size="126" crc="ed7f10be" md5="d2c97ec8f6b0c92c5ba2804c8ab342ed" sha1="a850d34ced9712d6aad1c3b6135d12b929dd98e4"/>
+	</game>
 	<game name="Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja)">
 		<category>Games</category>
 		<description>Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja)</description>
@@ -2907,6 +2932,12 @@
 		<description>Operative, The - No One Lives Forever (USA) (Disc 1) (Game Disc)</description>
 		<rom name="Operative, The - No One Lives Forever (USA) (Disc 1) (Game Disc).bin" size="779666832" crc="878922e8" md5="cc3c8096cb0c8fdab62cee91d979dca7" sha1="52cc572177f38fcaeeecd06a08f6dec8aa0e2a33"/>
 		<rom name="Operative, The - No One Lives Forever (USA) (Disc 1) (Game Disc).cue" size="130" crc="9ea09239" md5="e51f1289de2d35a108d20935c72e5063" sha1="73968455cafd6e16e04ad431311396c2db482bad"/>
+	</game>
+	<game name="Orion Burger (USA)">
+		<category>Games</category>
+		<description>Orion Burger (USA)</description>
+		<rom name="Orion Burger (USA).bin" size="616506240" crc="d8c5a1b3" md5="b0313e1070295fcbd5ab2a9645beabb0" sha1="e38cec9226160bebb39daaa434925fafad419ad7"/>
+		<rom name="Orion Burger (USA).cue" size="84" crc="ea163ae4" md5="13990ad8e109c8fa3c7ad6be0720bbf3" sha1="64d137507f9233f2937e8d7ba58e1a29a6b8e6fd"/>
 	</game>
 	<game name="Out of the Sun (USA)">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>NEC - PC Engine - TurboGrafx-16 (Retool)</name>
-		<description>NEC - PC Engine - TurboGrafx-16 (145) (-ly) [-aAbBcdDefkmMopPruv] (20260104-051437) (Retool)</description>
-		<version>20260104-051437</version>
-		<date>2026-01-25 04-13-01</date>
+		<description>NEC - PC Engine - TurboGrafx-16 (145) (-ly) [-aAbBcdDefkmMopPruv] (20260124-120557) (Retool)</description>
+		<version>20260124-120557</version>
+		<date>2026-01-26 04-14-25</date>
 		<author>Arctic Circle System, bikerspade, C. V. Reynolds, fuzzball, Gefflon, Hiccup, kazumi213, Lesserkuma, MeguCocoa, Money_114, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, Rifu, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>

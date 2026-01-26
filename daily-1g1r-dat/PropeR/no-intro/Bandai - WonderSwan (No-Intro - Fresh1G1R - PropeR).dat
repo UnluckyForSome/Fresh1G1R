@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Bandai - WonderSwan (Retool)</name>
-		<description>Bandai - WonderSwan (112) (-y) [-aAbBcdkmMpPuv] (20251108-012948) (Retool)</description>
-		<version>20251108-012948</version>
-		<date>2026-01-25 04-19-10</date>
-		<author>C. V. Reynolds, Gefflon, gigadeath, Hiccup, kazumi213, MeguCocoa, omonim2007, PPLToast, relax, RetroUprising, sCZther, SonGoku, xuom2</author>
+		<description>Bandai - WonderSwan (112) (-y) [-aAbBcdkmMpPuv] (20260124-123054) (Retool)</description>
+		<version>20260124-123054</version>
+		<date>2026-01-26 04-20-14</date>
+		<author>C. V. Reynolds, Gefflon, gigadeath, Hiccup, kazumi213, MeguCocoa, omonim2007, PPLToast, rarenight, relax, RetroUprising, sCZther, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -104,7 +104,7 @@
 	<game name="Digimon Adventure Campaign (Japan) (Limited Version)" id="0127">
 		<category>Games</category>
 		<description>Digimon Adventure Campaign (Japan) (Limited Version)</description>
-		<rom name="Digimon Adventure Campaign (Japan) (Limited Version).wsc" size="2097152" crc="7e03e8da" md5="2ffaf9a41fb10d55ffb6479cccbac208" sha1="9e04575d7d8e2439489b48c426d9bf342339f955" sha256="5c4edfd5768e0d3a4555a5e72af80883487764e0a66a7bb8674b5d1c1018479d"/>
+		<rom name="Digimon Adventure Campaign (Japan) (Limited Version).ws" size="2097152" crc="7e03e8da" md5="2ffaf9a41fb10d55ffb6479cccbac208" sha1="9e04575d7d8e2439489b48c426d9bf342339f955" sha256="5c4edfd5768e0d3a4555a5e72af80883487764e0a66a7bb8674b5d1c1018479d"/>
 	</game>
 	<game name="Digital Partner (Japan)" id="0021">
 		<category>Games</category>

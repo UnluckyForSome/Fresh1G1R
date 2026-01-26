@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - Mega Drive - Genesis (Retool)</name>
-		<description>Sega - Mega Drive - Genesis (1,161) (-y) [-aAbBcefkmMoprv] (20260123-202441) (Retool)</description>
-		<version>20260123-202441</version>
-		<date>2026-01-25 04-06-20</date>
+		<description>Sega - Mega Drive - Genesis (1,163) (-y) [-aAbBcefkmMoprv] (20260124-124924) (Retool)</description>
+		<version>20260124-124924</version>
+		<date>2026-01-26 04-07-59</date>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3042,10 +3042,15 @@
 		<description>Monopoly (USA)</description>
 		<rom name="Monopoly (USA).md" size="524288" crc="c10268da" md5="40794bbfc3f9a73df5255fe6d10b5107" sha1="8ff34d2557270f91e2032cba100cd65eb51129ca" sha256="304594f7215f09fbffd5b597336929ffc99fec16fa563bcaca10da0add20fa03"/>
 	</game>
-	<game name="Monster World IV (USA) (En,Ja) (Genesis Mini)" id="2447">
+	<game name="Monster World IV (USA, Europe) (En,Ja) (Virtual Console)" id="1673">
 		<category>Games</category>
-		<description>Monster World IV (USA) (En,Ja) (Genesis Mini)</description>
-		<rom name="Monster World IV (USA) (En,Ja) (Genesis Mini).md" size="2097152" crc="d26a32b6" md5="cf4f52d57063cd381977bc02d757737f" sha1="7896311b5ccb3cef49d73a0a91f5b4566d6cc92d" sha256="4a6957d54c6a7175ed3261431fac421ad0026a79fc904885ce9d117ed967d8ec"/>
+		<description>Monster World IV (USA, Europe) (En,Ja) (Virtual Console)</description>
+		<rom name="Monster World IV (USA, Europe) (En,Ja) (Virtual Console).md" size="2097152" crc="af050c46" md5="2640c0b879dd52db3e328c14c36095f0" sha1="6c90e14b6dd1ce6fc33f74dc624edc2e00fc5038" sha256="6ed8588492f963015ba173cd4fc0cb6a2680bb6374fd930fcad757605dcfd70d"/>
+	</game>
+	<game name="Monster World IV (World) (En,Ja) (Genesis Mini, Mega Drive Mini)" id="2447">
+		<category>Games</category>
+		<description>Monster World IV (World) (En,Ja) (Genesis Mini, Mega Drive Mini)</description>
+		<rom name="Monster World IV (World) (En,Ja) (Genesis Mini, Mega Drive Mini).md" size="2097152" crc="d26a32b6" md5="cf4f52d57063cd381977bc02d757737f" sha1="7896311b5ccb3cef49d73a0a91f5b4566d6cc92d" sha256="4a6957d54c6a7175ed3261431fac421ad0026a79fc904885ce9d117ed967d8ec"/>
 	</game>
 	<game name="Mortal Kombat (World)" id="0861">
 		<category>Games</category>
@@ -3743,6 +3748,11 @@
 		<description>Pit-Fighter (World) (En,Ja)</description>
 		<rom name="Pit-Fighter (World) (En,Ja).md" size="1048576" crc="d48a8b02" md5="9af02a38fd858a7d4d54a6bc3b8cb75a" sha1="8cd0ffaf3c29b3aa1f9068cd89cb64f492066d74" sha256="e092d94035ee35309d5a6e121a6c7f0a7df0e273efd299d8ebd98febfcb40a87"/>
 	</game>
+	<game name="Pit-Fighter II (World) (En,Ja) (Proto)" id="3699">
+		<category>Preproduction</category>
+		<description>Pit-Fighter II (World) (En,Ja) (Proto)</description>
+		<rom name="Pit-Fighter II (World) (En,Ja) (Proto).md" size="1984488" crc="9eefe971" md5="c8a7681decb2f498b68ee341d804dd38" sha1="dd2a7b40feb6d91ff5cdf4103a107ae509ea4d76" sha256="9383679a504d3f5c1c1b3e1ecf0b28ae276824e59fe2838475030edfe65d9ef7"/>
+	</game>
 	<game name="Pitfall - The Mayan Adventure (USA)" id="1021">
 		<category>Games</category>
 		<description>Pitfall - The Mayan Adventure (USA)</description>
@@ -4222,10 +4232,10 @@
 		<description>Sanguozhi V (Taiwan) (Unl)</description>
 		<rom name="Sanguozhi V (Taiwan) (Unl).md" size="2097152" crc="cd7e53d0" md5="e0128f3ac29e28ed4969654e977e833b" sha1="1a3333983f40dd242ad86187e50d1abed68d5ae9" sha256="3d1d82848ef9567b8ffe36f85f2e8e3b0c7f78c1d9dc353184f08f6833f4ef03"/>
 	</game>
-	<game name="Sanrin San-chan - Spatter (Japan, USA) (En) (Mega Drive Mini 2, Genesis Mini 2)" id="3175">
+	<game name="Sanrin San-chan - Spatter (World) (Mega Drive Mini 2, Genesis Mini 2)" id="3175">
 		<category>Games</category>
-		<description>Sanrin San-chan - Spatter (Japan, USA) (En) (Mega Drive Mini 2, Genesis Mini 2)</description>
-		<rom name="Sanrin San-chan - Spatter (Japan, USA) (En) (Mega Drive Mini 2, Genesis Mini 2).md" size="524288" crc="84081204" md5="ebba6c85edac967ecc59e793fa1e1630" sha1="8912a78f8699668da6a7ee7a881f98d051c16e48" sha256="8318f5a93176c5dac1a286595910d2bf739f37d468bb810fb6752a6e86cac97f"/>
+		<description>Sanrin San-chan - Spatter (World) (Mega Drive Mini 2, Genesis Mini 2)</description>
+		<rom name="Sanrin San-chan - Spatter (World) (Mega Drive Mini 2, Genesis Mini 2).md" size="524288" crc="84081204" md5="ebba6c85edac967ecc59e793fa1e1630" sha1="8912a78f8699668da6a7ee7a881f98d051c16e48" sha256="8318f5a93176c5dac1a286595910d2bf739f37d468bb810fb6752a6e86cac97f"/>
 	</game>
 	<game name="Sansan (Japan)" id="1667">
 		<category>Games</category>

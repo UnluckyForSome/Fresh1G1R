@@ -1,0 +1,171 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* APPLICATION REMOVES
+* COVERDISC REMOVES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+* MULTIMEDIA REMOVES
+* LANGUAGE REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Doom (Japan)
++ Doom II (Japan) (PC-98 Sen'you) (for Windows 95)
+
+APPLICATION REMOVES
+===================
+These titles were removed because the user excluded application titles.
+
+- Demonstration CD-ROM & System Install CD-ROM (Japan)
+- GMAKER Starter Kit (Japan)
+- Logicool Mouseware 8.2J (Japan) (En,Ja)
+- Logicool Mouseware 8.2J (Japan) (En,Ja) (Alt)
+- Microsoft Windows 98 Second Edition (Japan)
+- NEC PC-9821 Ce2 System Install CD-ROM (Japan)
+- NEC PC-9821 Cs2 System Install CD-ROM (Japan)
+- NEC PC-9821Cb2-B System Install CD-ROM (Japan)
+- RPG Tkool Dante98 II (Japan)
+- RPG Tkool Dante98 II (Japan) (Alt)
+
+COVERDISC REMOVES
+=================
+These titles were removed because the user excluded coverdisc titles.
+
+- Disc Station Vol. 10 (Japan)
+- Disc Station Vol. 11 (Japan)
+- Disc Station Vol. 9 (Japan)
+- Oh!PC 1996-nen 11-1-gou Tokubetsu Furoku CD-ROM (Japan)
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- Demonstration CD-ROM (Japan)
+
+MULTIMEDIA REMOVES
+==================
+These titles were removed because the user excluded multimedia titles.
+
+- Eiyuu Densetsu Material Collection for Windows (Japan)
+- NEC Demonstration CD-ROM - Evolution and Dinosaurs (Japan)
+
+LANGUAGE REMOVES
+================
+These titles were removed because the user excluded one or more languages.
+
+- Akai Shizuku - The Legend of Heroes IV (Japan)
+- Akiko Gold (Japan)
+- Akumu - Aoi Kajitsu no Sanka (Japan)
+- Alone in the Dark 2 (Japan)
+- Angel Night - Yamiyo o Kakeru Tenshi-tachi no Monogatari (Japan)
+- Appare-den - Fukuryuu no Shou (Japan)
+- Ardor Aeternus - Wasureenu Honoo (Japan)
+- Ayumi-chan Monogatari (Japan)
+- Ayumi-chan Monogatari - Jisshaban (Japan)
+- Ballade for Maria - Maria ni Sasageru Ballade (Japan)
+- Blandia 98 (Japan)
+- Bounty Hunter Rudy (Japan)
+- Brandish (Japan)
+- Brandish 2 - The Planet Buster (Japan)
+- Brandish 2 Renewal - The Planet Buster (Japan)
+- Brandish 3 - Spirit of Balcan (Japan)
+- Brandish Renewal (Japan)
+- Brandish VT (Japan)
+- Buzz Aldrin's Race into Space - Uchuu e no Chousen (Japan)
+- CRW 2 (Japan)
+- Canaan - Yakusoku no Chi (Japan)
+- Chou Jikuu Yousai Macross - SkullLeader Complete Pack (Japan)
+- Chuushaki - Hirasawa Nurse School (Japan)
+- Collector D (Japan)
+- Cyberia (Japan)
+- Dawn Patrol (Japan)
+- Dies Irae (Japan)
+- Doom II (Japan)
+- Dragon Lore (Japan) (Disc 1)
+- Dragon Lore (Japan) (Disc 2)
+- Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan)
+- Emit Vol. 1 - Toki no Maigo (Japan)
+- Etemible - Tenjou Mukyuu (Japan)
+- F-15 Strike Eagle III (Japan)
+- Finish Hold 2 - Tag (Japan)
+- Ginga Eiyuu Densetsu IV (Japan)
+- Giten Megami Tensei - Tokyo Mokushiroku (Japan)
+- Guardian Recall - Shugojuu Shoukan (Japan)
+- Inherit the Earth - Quest for the Orb (Japan)
+- Innocent Tour (Japan)
+- Jinmon Yuugi (Japan)
+- Jurassic Park (Japan)
+- Kanako (Japan)
+- Kono yo no Hate de Koi o Utau Shoujo - Yu-No (Japan)
+- Kousoku - Yorokobi no Aegi (Japan)
+- Kyrandia II - The Hand of Fate (Japan)
+- Lesser Mern - Special Director's Edition (Japan)
+- Love Escalator (Japan)
+- Madoll (Japan)
+- Magical Squadron (Japan)
+- Mahou Shoujo Pretty Samy - Kouhen (Japan)
+- Mahou Shoujo Pretty Samy - Zenpen (Japan)
+- Mahou Shoujotai Wars - Magical Jam (Japan)
+- Making Candy - Oki ni Mesumama (Japan)
+- Manji PSYyuuki (Japan) (Install CD-ROM)
+- Master of Magic (Japan)
+- Menzoberranzan - Yami no Monshou (Japan)
+- Might and Magic - Clouds of Xeen (Japan)
+- Momoko-chan for Me - Minarai Kangofu-hen (Japan)
+- Moonlight Energy 2 (Japan)
+- Moonlight-chan Rin shan (Japan)
+- My Home Dream 2 (Japan)
+- N-nyuu - PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 2)
+- Necronomicon (Japan)
+- Ningen Konchuu - Nozoki (Japan)
+- PILcaSEX (Japan)
+- Photo Genic (Japan)
+- Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)
+- Policenauts (Japan)
+- Prince of Persia 2 - The Shadow & The Flame (Japan)
+- Puyo Puyo Tsuu (Japan)
+- R-A-M 1 - New Evolution Organize (Japan)
+- Re-No - Stayin' Alive (Japan)
+- Record of Lodoss War - Lodoss-tou Senki II - Goshiki no Maryuu (Japan)
+- Ribbon (Japan)
+- Ryouki no Ori (Japan)
+- Ryouki no Ori - Dai-2-shou (Japan)
+- Saint Diary - Kiyoka-chan no Nikki (Japan)
+- Sangokushi V (Japan)
+- Sangokushi V (Japan) (Alt)
+- Schwarzschild EX - Tessa no Seigun (Japan)
+- Schwarzschild GX - Sabita Sousei (Japan)
+- Shin-ou Densetsu Crystania DX (Japan)
+- Shinpi no Sekai El-Hazard - El-Hazard - The Magnificent World (Japan)
+- Silent Service, The - Chinmoku no Kantai (Japan)
+- Sorcer Kingdom (Japan)
+- Strike Commander (Japan)
+- Syndicate (Japan)
+- TFX - The Cutting Edge of Aerial Combat (Japan)
+- Teitoku no Ketsudan III (Japan)
+- Theme Park (Japan)
+- Tokio 2 - Kaitaku Imin Boshuuchuu! (Japan)
+- True Love - Jun'ai Monogatari (Japan)
+- Tuned Heart (Japan)
+- Uki Uki Island (Japan)
+- Ultima VIII - Pagan (Japan)
+- Umanari 1 Furlong Theater 2 (Japan)
+- Usagi na Panic EX (Japan)
+- Viper CTR - Asuka (Japan)
+- Virtuacall (Japan)
+- Waku Waku Mahjong Panic! 2 - Kokushi Musou (Japan)
+- Watashi (Japan)
+- X Girl (Japan)
+- Yatsu no Na wa Diamond - His Name Is Diamond (Japan)
+- Yumemizaka (Japan)
+- Yuugiri - Ningyoushi no Isan (Japan)
+- Yuurou - Transient Sands (Japan)
+- Zai Metajo (Japan)

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - Master System - Mark III (Retool)</name>
-		<description>Sega - Master System - Mark III (450) (-y) [-aAbBcefkmMoprv] (20260102-051944) (Retool)</description>
-		<version>20260102-051944</version>
-		<date>2026-01-25 04-04-32</date>
+		<description>Sega - Master System - Mark III (450) (-y) [-aAbBcefkmMoprv] (20260124-114911) (Retool)</description>
+		<version>20260124-114911</version>
+		<date>2026-01-26 04-08-09</date>
 		<author>Arctic Circle System, BigFred, bikerspade, C. V. Reynolds, ChuckD, fuzzball, Gefflon, gigadeath, Hiccup, kazumi213, nnssxx, NovaAurora, omonim2007, psykopat, rarenight, relax, Rifu, root, sCZther, SonGoku, TeamEurope, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -649,7 +649,6 @@
 		<rom name="Enduro Racer (Japan) (En).sms" size="262144" crc="5d5c50b3" md5="a94de92b078911e71c246679c8992da1" sha1="7a0216af8d4a5aeda1d42e2703f140d08b3f92f6" sha256="0a0987679d6e008ac0a0808fe4f567e6a35022948476def2c359dbb0c54711d8"/>
 	</game>
 	<game name="Excellent Dizzy Collection, The (Europe) (En,Fr,De,Es,It) (Proto)" id="0115">
-		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Excellent Dizzy Collection, The (Europe) (En,Fr,De,Es,It) (Proto)</description>
 		<rom name="Excellent Dizzy Collection, The (Europe) (En,Fr,De,Es,It) (Proto).sms" size="262144" crc="8813514b" md5="c68b86706784801eff53a4ca4500ff21" sha1="09a2acf3ed90101be2629384c5c702f6a5408035" sha256="f9cfcad94d7fa8a863d7b9fbeda5ed02e29787f3b56bc6114aea900c2bb44831"/>
@@ -1862,10 +1861,10 @@
 		<description>Summer Games (Europe, Brazil) (En)</description>
 		<rom name="Summer Games (Europe, Brazil) (En).sms" size="131072" crc="8da5c93f" md5="10f2a7506ae6402f42b8083b24c0d105" sha1="f9638b693ca3a7c65cfc589aaea0bbab56fc7238" sha256="77b5861862598d771b856d3268ea74df26efd3ca0745fbeb86d8d9461861106f"/>
 	</game>
-	<game name="Super Basketball (USA) (Demo)" id="0371">
+	<game name="Super Basketball (USA) (Auto Demo)" id="0371">
 		<category>Demos</category>
-		<description>Super Basketball (USA) (Demo)</description>
-		<rom name="Super Basketball (USA) (Demo).sms" size="65536" crc="0dbf3b4a" md5="5528631a82d25d4eb8f0e9014fd6360c" sha1="616b95baad61086f08d8688c2bf06838b902ac75" sha256="e11c60039a7c57a01fe87e1546186c1e87b7f8467d62ebe84a0d526c78fd51ef"/>
+		<description>Super Basketball (USA) (Auto Demo)</description>
+		<rom name="Super Basketball (USA) (Auto Demo).sms" size="65536" crc="0dbf3b4a" md5="5528631a82d25d4eb8f0e9014fd6360c" sha1="616b95baad61086f08d8688c2bf06838b902ac75" sha256="e11c60039a7c57a01fe87e1546186c1e87b7f8467d62ebe84a0d526c78fd51ef"/>
 	</game>
 	<game name="Super Bioman I (Korea) (En) (Unl)" id="0599">
 		<category>Games</category>

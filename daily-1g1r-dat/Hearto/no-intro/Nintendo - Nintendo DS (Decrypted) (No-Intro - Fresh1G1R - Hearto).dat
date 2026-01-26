@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (3,932) (-y) [-aAbBcefkmMoprv] (20260119-122525) (Retool)</description>
-		<version>20260119-122525</version>
-		<date>2026-01-25 04-04-58</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (3,932) (-y) [-aAbBcefkmMoprv] (20260124-111408) (Retool)</description>
+		<version>20260124-111408</version>
+		<date>2026-01-26 04-09-06</date>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -219,7 +219,7 @@
 	<game name="3 Game Pack! - Uno + Skip-Bo + Uno Free Fall (USA)" id="0685">
 		<category>Games</category>
 		<description>3 Game Pack! - Uno + Skip-Bo + Uno Free Fall (USA)</description>
-		<rom name="3 Game Pack! - Uno + Skip-Bo + Uno Free Fall (USA).nds" size="8388608" crc="45a2b130" md5="713132c7714bf275d364b2efdac7f6e9" sha1="933c8ae2f45f12551e459c9e0e5ce040bfffe515"/>
+		<rom name="3 Game Pack! - Uno + Skip-Bo + Uno Free Fall (USA).nds" size="8388608" crc="45a2b130" md5="713132c7714bf275d364b2efdac7f6e9" sha1="933c8ae2f45f12551e459c9e0e5ce040bfffe515" sha256="39e3ac6d26e639b58b065c1ffa166baf3f719d135a06a1e6c7cb0236fd8304ee"/>
 	</game>
 	<game name="3 in 1 - Animals (Europe) (En,Fr,De)" id="6360">
 		<category>Games</category>
@@ -229,12 +229,12 @@
 	<game name="4 Game Fun Pack - Monopoly + Boggle + Yahtzee + Battleship (USA)" id="0238">
 		<category>Games</category>
 		<description>4 Game Fun Pack - Monopoly + Boggle + Yahtzee + Battleship (USA)</description>
-		<rom name="4 Game Fun Pack - Monopoly + Boggle + Yahtzee + Battleship (USA).nds" size="33554432" crc="c9aeaa82" md5="3a51dff858c5b82eecd9af007994d178" sha1="fbb9941054d528de502f8666e209dd9d5cd998c2"/>
+		<rom name="4 Game Fun Pack - Monopoly + Boggle + Yahtzee + Battleship (USA).nds" size="33554432" crc="c9aeaa82" md5="3a51dff858c5b82eecd9af007994d178" sha1="fbb9941054d528de502f8666e209dd9d5cd998c2" sha256="0c0af2198e97df5e94c24e6ad1d1deaf2d7445ceac934ee09547a2b170a15ed6"/>
 	</game>
 	<game name="4 Game Pack! - Battleship + Connect Four + Sorry! + Trouble (USA)" id="0959">
 		<category>Games</category>
 		<description>4 Game Pack! - Battleship + Connect Four + Sorry! + Trouble (USA)</description>
-		<rom name="4 Game Pack! - Battleship + Connect Four + Sorry! + Trouble (USA).nds" size="8388608" crc="6b1e186d" md5="07892f6e91f1ec36151477044314fab0" sha1="004f3891e1f65b310fda6a5a2641a2275bf03bf8"/>
+		<rom name="4 Game Pack! - Battleship + Connect Four + Sorry! + Trouble (USA).nds" size="8388608" crc="6b1e186d" md5="07892f6e91f1ec36151477044314fab0" sha1="004f3891e1f65b310fda6a5a2641a2275bf03bf8" sha256="1d80419b9c1180c1c050b6b3c4ec97f0038bf7bc676d019b1c9eaac76e8a3ce7"/>
 	</game>
 	<game name="4 Game Pack! - Clue + Aggravation + Perfection + Mouse Trap (USA)" id="1879">
 		<category>Games</category>
@@ -11763,7 +11763,7 @@
 	<game name="Nanostray 2 (USA)" id="2119">
 		<category>Games</category>
 		<description>Nanostray 2 (USA)</description>
-		<rom name="Nanostray 2 (USA).nds" size="33554432" crc="6a3c2e8f" md5="61c21e9e9457794ca6391b3d1bab6965" sha1="4f06eaa9e7a40bd4938ea27df24f885f790de0cb"/>
+		<rom name="Nanostray 2 (USA).nds" size="33554432" crc="6a3c2e8f" md5="61c21e9e9457794ca6391b3d1bab6965" sha1="4f06eaa9e7a40bd4938ea27df24f885f790de0cb" sha256="273c869dec32a298b660187499c88b43e24c61a45e27134a7713d5acfc9c5291"/>
 	</game>
 	<game name="Nanpure 10000 Mon (Japan)" id="0882">
 		<category>Games</category>
@@ -12746,7 +12746,7 @@
 	<game name="Pac-Pix (USA)" id="0008">
 		<category>Games</category>
 		<description>Pac-Pix (USA)</description>
-		<rom name="Pac-Pix (USA).nds" size="16777216" crc="f6af8061" md5="7e9607d12249ea02f1f076a87f3cc856" sha1="724198790b24ebbbeb55a6833214567b96d6b90c"/>
+		<rom name="Pac-Pix (USA).nds" size="16777216" crc="f6af8061" md5="7e9607d12249ea02f1f076a87f3cc856" sha1="724198790b24ebbbeb55a6833214567b96d6b90c" sha256="2010cdc2a480fe8a19a0723a0bda8abbc4a8c97abf8fdebe5293c54ef8acf65c"/>
 	</game>
 	<game name="Pac-Pix (USA) (Demo) (Kiosk)" id="x014">
 		<category>Demos</category>
@@ -14111,12 +14111,12 @@
 	<game name="Puzzle Quest - Challenge of the Warlords (USA)" id="0936">
 		<category>Games</category>
 		<description>Puzzle Quest - Challenge of the Warlords (USA)</description>
-		<rom name="Puzzle Quest - Challenge of the Warlords (USA).nds" size="16777216" crc="37923efb" md5="67e2bc474849f56046f498c302f0b5c3" sha1="8d9db968cfad6894d7c3e494503c78ddb991d2bb"/>
+		<rom name="Puzzle Quest - Challenge of the Warlords (USA).nds" size="16777216" crc="37923efb" md5="67e2bc474849f56046f498c302f0b5c3" sha1="8d9db968cfad6894d7c3e494503c78ddb991d2bb" sha256="010e147eb943c56afba427d55262a55512536fdbe50f1fccf416d2678a048f62"/>
 	</game>
 	<game name="Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It)" id="3439">
 		<category>Games</category>
 		<description>Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It).nds" size="33554432" crc="ce57a734" md5="0a285d2dbe9605cf9baf30f15838729e" sha1="b8c5369d1444c8975a7a33bea6fe2eeb503ab030"/>
+		<rom name="Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It).nds" size="33554432" crc="ce57a734" md5="0a285d2dbe9605cf9baf30f15838729e" sha1="b8c5369d1444c8975a7a33bea6fe2eeb503ab030" sha256="2179f9d9f1f968752cd9ce8cc4c3b21f868b579863e9f97ee48fa99c5360f6d8"/>
 	</game>
 	<game name="Puzzle Quest 2 (USA) (En,Fr,Es)" id="5029">
 		<category>Games</category>
@@ -14551,7 +14551,7 @@
 	<game name="Resident Evil - Deadly Silence (USA)" id="0314">
 		<category>Games</category>
 		<description>Resident Evil - Deadly Silence (USA)</description>
-		<rom name="Resident Evil - Deadly Silence (USA).nds" size="134217728" crc="de3e278c" md5="3c2bed30e73d5f31e2335557256dba85" sha1="b7dee8c12078d347ed28d85f095ab3bdd0e4d87f"/>
+		<rom name="Resident Evil - Deadly Silence (USA).nds" size="134217728" crc="de3e278c" md5="3c2bed30e73d5f31e2335557256dba85" sha1="b7dee8c12078d347ed28d85f095ab3bdd0e4d87f" sha256="e72a5f9180592dde1973150e0fa785be07d4d5cda911999d9e1a90de52c772f3"/>
 	</game>
 	<game name="Restaurant Tycoon (Europe) (En,Fr,De,Es,It,Nl)" id="4927">
 		<category>Games</category>
@@ -17907,12 +17907,12 @@
 	<game name="Touch Detective (USA)" id="0628">
 		<category>Games</category>
 		<description>Touch Detective (USA)</description>
-		<rom name="Touch Detective (USA).nds" size="16777216" crc="c5d56b0f" md5="ed875be190b3c3a8a0117e02e098b610" sha1="e8dfac40f417cad187427a993d91d877bd0f404a"/>
+		<rom name="Touch Detective (USA).nds" size="16777216" crc="c5d56b0f" md5="ed875be190b3c3a8a0117e02e098b610" sha1="e8dfac40f417cad187427a993d91d877bd0f404a" sha256="3457eae4dce7159c4c454d513c346d51d3ec2df3c31e69854005a6eb1ebea50b"/>
 	</game>
 	<game name="Touch Detective 2 1-2 (USA)" id="1500">
 		<category>Games</category>
 		<description>Touch Detective 2 1-2 (USA)</description>
-		<rom name="Touch Detective 2 1-2 (USA).nds" size="33554432" crc="9d42e8c1" md5="b8115eb51ff5143700cb9effde791767" sha1="382effbbc83d164ced686ca12672fd664880cc4c"/>
+		<rom name="Touch Detective 2 1-2 (USA).nds" size="33554432" crc="9d42e8c1" md5="b8115eb51ff5143700cb9effde791767" sha1="382effbbc83d164ced686ca12672fd664880cc4c" sha256="1bae78d1af2d8480e8c0b2746aa0dc98ba9567f5c1b5a678843ff9f61bcf282f"/>
 	</game>
 	<game name="Touch Dictionary (Korea) (Rev 2)" id="0496">
 		<category>Games</category>
@@ -18097,7 +18097,7 @@
 	<game name="Trace Memory (USA)" id="0112">
 		<category>Games</category>
 		<description>Trace Memory (USA)</description>
-		<rom name="Trace Memory (USA).nds" size="33554432" crc="a4367094" md5="0e4e19226a9297f9643a0ff6613e5625" sha1="3483619bbf85bec08009e8b04a07926fbf593f4d"/>
+		<rom name="Trace Memory (USA).nds" size="33554432" crc="a4367094" md5="0e4e19226a9297f9643a0ff6613e5625" sha1="3483619bbf85bec08009e8b04a07926fbf593f4d" sha256="9215a6fe01553d89dc566718d8c9a4b906fab022592c0efd1bd14bafe10ff04d"/>
 	</game>
 	<game name="TrackMania DS (USA) (En,Fr,Es)" id="3616">
 		<category>Games</category>
@@ -18562,7 +18562,7 @@
 	<game name="Viewtiful Joe - Double Trouble! (USA)" id="0163">
 		<category>Games</category>
 		<description>Viewtiful Joe - Double Trouble! (USA)</description>
-		<rom name="Viewtiful Joe - Double Trouble! (USA).nds" size="67108864" crc="7cab2e95" md5="3e152b8680e94bfda870096a244d8213" sha1="4a207be90618f9ca5102287e0bc73c60ba1a6fc2"/>
+		<rom name="Viewtiful Joe - Double Trouble! (USA).nds" size="67108864" crc="7cab2e95" md5="3e152b8680e94bfda870096a244d8213" sha1="4a207be90618f9ca5102287e0bc73c60ba1a6fc2" sha256="4f6d33eaf755531c3fe8e1ea51b6dca65558ebb3fba05612567964d475d6ef46"/>
 	</game>
 	<game name="Viewtiful Joe - Double Trouble! (United Kingdom) (Demo) (Kiosk)" id="x025">
 		<category>Demos</category>
