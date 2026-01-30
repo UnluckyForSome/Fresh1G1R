@@ -1323,23 +1323,21 @@ def main():
         # Get DATs for this collection
         collection_dat_files = collection_dats[collection]
         
-        # Check for existing processed files BEFORE cleanup (if not always reprocessing)
-        # This way we can preserve files that match current input DATs
-        existing_processed_files = set()
+        # Check for existing processed files (if not always reprocessing).
+        # We do NOT bulk-remove output DATs here: when Redump/etc. is down, we may have fewer
+        # virgin DATs this run; we replace output DATs one-by-one only when we successfully
+        # process a new version, so previous output DATs stay as backup when download fails.
         if not ALWAYS_REPROCESS:
             print_step(f"Checking for existing processed files for {config_name}/{collection}", "🔍")
+            existing_count = 0
             for dat_file in collection_dat_files:
                 existing = check_if_already_processed(dat_file, daily_output_dir, collection=collection)
                 if existing:
-                    existing_processed_files.add(existing.name)
-            if existing_processed_files:
-                print(f"  ✅ Found {len(existing_processed_files)} existing processed file(s) that match current input DATs")
+                    existing_count += 1
+            if existing_count:
+                print(f"  ✅ Found {existing_count} existing processed file(s) that match current input DATs")
             else:
                 print(f"  ℹ️  No existing processed files found - all {len(collection_dat_files)} DAT file(s) will be processed")
-        
-        # Clean up previous DATs for this config/collection (but preserve files we'll skip)
-        print_step(f"Cleaning up previous DAT files for {config_name}/{collection}", "🧹")
-        cleanup_previous_dats(daily_output_dir, f"{config_name}/{collection}", collection, preserve_files=existing_processed_files)
         
         # Clean up old reports (keep only last 7 per system)
         if report_output_dir.exists():
