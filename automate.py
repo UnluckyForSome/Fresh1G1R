@@ -3,7 +3,7 @@
 Automated DAT download and Retool processing script.
 
 This script:
-1. Downloads Redump .dat files from redump.org to daily-virgin-dat/redump/ directory
+1. Downloads Redump .dat files from redump.info to daily-virgin-dat/redump/ directory
 2. Downloads No-Intro .dat files from datomatic.no-intro.org to daily-virgin-dat/no-intro/ directory
 3. Downloads/sets up the latest Retool
 4. Processes all .dat files from daily-virgin-dat/redump/ and daily-virgin-dat/no-intro/ directories through Retool
@@ -22,6 +22,7 @@ import json
 from pathlib import Path
 from io import BytesIO
 from time import sleep
+from urllib.parse import urljoin
 
 try:
     from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
@@ -48,8 +49,20 @@ HTTP_HEADERS = {
 }
 
 # Collection URLs
-REDUMP_URL = "http://redump.org"
+REDUMP_URL = "https://redump.info"
 NO_INTRO_URL = "https://datomatic.no-intro.org"
+
+# Where scraper failure diagnostics (screenshot + page HTML) are written
+DEBUG_DIR = SCRIPT_DIR / "debug"
+
+# How long to wait for No-Intro to reveal the Download!! button after a Request.
+# The pack is prepared server-side, so this can be considerably slower than a
+# normal page interaction.
+NO_INTRO_DOWNLOAD_BUTTON_TIMEOUT = 120000
+
+# How long to allow for a No-Intro page to load. The download and Daily pages
+# render several hundred table rows and can be slow to serve.
+NO_INTRO_NAV_TIMEOUT = 90000
 
 
 # Skip downloading/updating Redump DAT files (use existing files in daily-virgin-dat/redump/ directory)
@@ -372,7 +385,7 @@ def update_retool_clone_lists(retool_dir: Path) -> None:
 
 def find_all_redump_dats():
     """Find all available Redump DAT files from the downloads page."""
-    print(f"  🌐 Connecting to Redump.org...")
+    print(f"  🌐 Connecting to Redump.info...")
     downloads_url = f"{REDUMP_URL}/downloads/"
     print(f"     URL: {downloads_url}")
     
@@ -597,6 +610,98 @@ def download_all_redump_dats(output_dir: Path) -> list[Path]:
 # No-Intro DAT Download Functions
 # ============================================================================
 
+def save_page_diagnostics(page, label: str) -> None:
+    """Save a screenshot and the page HTML so a scraper failure can be diagnosed.
+
+    No-Intro's markup changes without notice, so when the flow breaks the page
+    state is the only thing that explains why. Never raises - diagnostics must
+    not mask the original error.
+    """
+    try:
+        DEBUG_DIR.mkdir(parents=True, exist_ok=True)
+        screenshot_path = DEBUG_DIR / f"{label}.png"
+        html_path = DEBUG_DIR / f"{label}.html"
+        page.screenshot(path=str(screenshot_path), full_page=True)
+        html_path.write_text(page.content(), encoding="utf-8")
+        print(f"  🐛 Saved diagnostics to {DEBUG_DIR.name}/: "
+              f"{screenshot_path.name}, {html_path.name}", file=sys.stderr)
+    except Exception as diag_error:
+        print(f"  ⚠️  Could not save diagnostics: {diag_error}", file=sys.stderr)
+
+
+def read_daily_checkbox_names(page) -> dict[str, str]:
+    """Map each Daily-form checkbox's visible text to its input name.
+
+    The form has no <label> elements - the text sits in a bare text node after
+    each <input> - so the association has to be read from the DOM directly:
+
+        <input type="checkbox" name="set[2]" checked="checked" ...> Source Code
+
+    Returns e.g. {"No-Intro": "set[1]", "Source Code": "set[2]", ...}.
+    """
+    return page.evaluate(r"""
+        () => {
+            const names = {};
+            for (const box of document.querySelectorAll("form[name='daily'] input[type='checkbox']")) {
+                let text = '';
+                for (let node = box.nextSibling; node; node = node.nextSibling) {
+                    if (node.nodeType === Node.ELEMENT_NODE && node.tagName === 'INPUT') break;
+                    text += node.textContent || '';
+                }
+                const caption = text.replace(/ /g, ' ').trim();
+                if (caption) names[caption] = box.name;
+            }
+            return names;
+        }
+    """)
+
+
+def disable_daily_autosubmit(page) -> None:
+    """Stop the Daily form's controls from submitting the form when changed.
+
+    Every control carries onChange="...forms['daily'].submit()", so changing one
+    navigates the page - which destroys the execution context out from under any
+    evaluate() still in flight, and makes the options impossible to set as a
+    group.
+
+    Removing the handlers lets every option be set in one pass and submitted
+    once by clicking Request. That is equivalent to changing them one at a time:
+    the form POSTs the state of all its fields together, so the server sees the
+    same selection either way. It is also far quicker, since this site can take
+    tens of seconds to serve a page.
+    """
+    page.evaluate("""
+        () => {
+            for (const el of document.querySelectorAll("form[name='daily'] [onchange]")) {
+                el.removeAttribute('onchange');
+                el.onchange = null;
+            }
+        }
+    """)
+
+
+def uncheck_daily_option(page, option: str, checkbox_names: dict[str, str]) -> None:
+    """Uncheck one option on the No-Intro Daily form, if it is currently checked.
+
+    Assumes disable_daily_autosubmit() has already run, so this does not
+    navigate and `checkbox_names` stays valid across calls.
+    """
+    name = checkbox_names.get(option)
+
+    if not name:
+        print(f"     ⚠️  Checkbox not found: {option}", file=sys.stderr)
+        return
+
+    checkbox = page.locator(f"form[name='daily'] input[name='{name}']").first
+
+    if not checkbox.is_checked():
+        print(f"     ❎  Already unchecked: {option}")
+        return
+
+    checkbox.uncheck()
+    print(f"     ✗ Unchecked: {option} ({name})")
+
+
 def download_no_intro_dats(output_dir: Path) -> list[Path]:
     """Download all No-Intro DAT files from datomatic.no-intro.org using Playwright."""
     if not PLAYWRIGHT_AVAILABLE:
@@ -614,40 +719,68 @@ def download_no_intro_dats(output_dir: Path) -> list[Path]:
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
             context = browser.new_context(accept_downloads=True)
-            context.set_default_timeout(30000)  # 30 second timeout
+            context.set_default_timeout(60000)  # 60 second timeout
             page = context.new_page()
-            
-            # Navigate and navigate to Daily
-            page.goto(NO_INTRO_URL, wait_until="networkidle", timeout=30000)
-            page.locator("text=DOWNLOAD").first.click()
-            sleep(0.5)
-            page.locator("text=Daily").first.click()
-            page.wait_for_load_state("networkidle", timeout=30000)
+
+            # Navigate to the Daily page by following each link's href rather
+            # than clicking it. Clicking makes Playwright auto-wait for the
+            # navigation it triggered, which times out when DAT-o-MATIC is slow
+            # to render these pages - the click itself succeeds, then the wait
+            # expires. The hrefs carry the session's system id, so they are read
+            # from the page rather than hardcoded.
+            #
+            # "domcontentloaded" rather than "networkidle": these pages render
+            # several hundred table rows, and networkidle needs a full 500ms of
+            # network silence that a busy page may never provide.
+            try:
+                page.goto(NO_INTRO_URL, wait_until="domcontentloaded", timeout=NO_INTRO_NAV_TIMEOUT)
+
+                download_href = page.locator("#site-nav a[href*='page=download']").first.get_attribute("href")
+                if not download_href:
+                    raise RuntimeError("Could not find the Download link on the No-Intro home page")
+                page.goto(urljoin(page.url, download_href),
+                          wait_until="domcontentloaded", timeout=NO_INTRO_NAV_TIMEOUT)
+
+                daily_href = page.locator("a[href*='op=daily']").first.get_attribute("href")
+                if not daily_href:
+                    raise RuntimeError("Could not find the Daily link on the No-Intro download page")
+                page.goto(urljoin(page.url, daily_href),
+                          wait_until="domcontentloaded", timeout=NO_INTRO_NAV_TIMEOUT)
+            except Exception:
+                save_page_diagnostics(page, "no-intro-navigation-failure")
+                raise
+
             sleep(1)
             
-            # Uncheck options
+            # Uncheck options. The form's auto-submit handlers are removed first
+            # so all three can be set in one pass and submitted once by the
+            # Request click below, rather than triggering a page load each.
             print("  ⚙️  Unchecking: Source Code, Unofficial, Non-Redump")
             options_to_uncheck = ["Source Code", "Unofficial", "Non-Redump"]
-            for option in options_to_uncheck:
-                all_labels = page.locator("label")
-                for i in range(all_labels.count()):
-                    label = all_labels.nth(i)
-                    label_text = label.inner_text().strip()
-                    if option == label_text or (label_text.startswith(option) and len(label_text.split()) <= 2):
-                        label_for = label.get_attribute("for")
-                        checkbox = page.locator(f"input#{label_for}[type='checkbox']").first if label_for else label.locator("input[type='checkbox']").first
-                        if checkbox.count() > 0 and checkbox.is_checked():
-                            checkbox.uncheck()
-                            print(f"     ✗ Unchecked: {option}")
-                        break
-            
-            # Request and download
-            page.locator("button:has-text('Request'), input[value='Request']").first.click()
-            sleep(1)
-            
-            download_button = page.locator("button:has-text('Download!!'), input[value='Download!!']").first
-            download_button.wait_for(state="visible", timeout=30000)
-            
+            try:
+                disable_daily_autosubmit(page)
+                checkbox_names = read_daily_checkbox_names(page)
+                for option in options_to_uncheck:
+                    uncheck_daily_option(page, option, checkbox_names)
+            except Exception:
+                save_page_diagnostics(page, "no-intro-uncheck-failure")
+                raise
+
+            # Request and download. Match only visible buttons: the page can
+            # carry a hidden Download!! input, and waiting on that one never
+            # succeeds no matter how long the timeout.
+            try:
+                page.locator("input[value='Request']:visible, button:has-text('Request'):visible").first.click()
+                sleep(2)
+
+                download_button = page.locator(
+                    "input[value='Download!!']:visible, button:has-text('Download!!'):visible"
+                ).first
+                download_button.wait_for(state="visible", timeout=NO_INTRO_DOWNLOAD_BUTTON_TIMEOUT)
+            except Exception:
+                save_page_diagnostics(page, "no-intro-request-failure")
+                raise
+
             print("  ⬇️  Downloading from No-Intro...")
             with page.expect_download(timeout=120000) as download_info:  # 2 minute timeout
                 download_button.click()
@@ -675,26 +808,23 @@ def download_no_intro_dats(output_dir: Path) -> list[Path]:
         with zipfile.ZipFile(zip_path, 'r') as zip_ref:
             zip_ref.extractall(temp_dir)
         
-        # Find No-Intro folder
-        no_intro_folder = None
-        for item in temp_dir.rglob("No-Intro"):
-            if item.is_dir():
-                no_intro_folder = item
-                break
-        
-        if not no_intro_folder:
-            # Fallback: look for .dat files directly
+        # Find the No-Intro folder. This is what keeps the other sets out of the
+        # output: the ZIP carries a folder per requested set, and only this one
+        # is copied.
+        no_intro_folder = next(
+            (item for item in temp_dir.rglob("No-Intro") if item.is_dir()), None
+        )
+
+        if no_intro_folder:
+            dat_files = list(no_intro_folder.glob("*.dat"))
+        else:
+            # The ZIP layout follows whichever sets were requested, so a
+            # No-Intro folder is not guaranteed. Recurse rather than assuming
+            # the .dat files sit at the top level.
             dat_files = list(temp_dir.rglob("*.dat"))
-            if not dat_files:
-                print("  ❌ No .dat files found in ZIP")
-                shutil.rmtree(temp_dir)
-                return []
-            no_intro_folder = temp_dir  # Use temp_dir as the source
-        
-        # Get list of .dat files
-        dat_files = list(no_intro_folder.glob("*.dat"))
+
         if not dat_files:
-            print("  ❌ No .dat files found")
+            print("  ❌ No .dat files found in ZIP")
             shutil.rmtree(temp_dir)
             return []
         
