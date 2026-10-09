@@ -3,7 +3,7 @@
 Automated DAT download and Retool processing script.
 
 This script:
-1. Downloads Redump .dat files from redump.org to daily-virgin-dat/redump/ directory
+1. Downloads Redump .dat files from redump.info to daily-virgin-dat/redump/ directory
 2. Downloads No-Intro .dat files from datomatic.no-intro.org to daily-virgin-dat/no-intro/ directory
 3. Downloads/sets up the latest Retool
 4. Processes all .dat files from daily-virgin-dat/redump/ and daily-virgin-dat/no-intro/ directories through Retool
@@ -48,7 +48,7 @@ HTTP_HEADERS = {
 }
 
 # Collection URLs
-REDUMP_URL = "http://redump.org"
+REDUMP_URL = "https://redump.info"
 NO_INTRO_URL = "https://datomatic.no-intro.org"
 
 
@@ -372,7 +372,7 @@ def update_retool_clone_lists(retool_dir: Path) -> None:
 
 def find_all_redump_dats():
     """Find all available Redump DAT files from the downloads page."""
-    print(f"  🌐 Connecting to Redump.org...")
+    print(f"  🌐 Connecting to Redump.info...")
     downloads_url = f"{REDUMP_URL}/downloads/"
     print(f"     URL: {downloads_url}")
     
