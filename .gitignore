@@ -24,3 +24,6 @@ Thumbs.db
 
 # Metadata files (machine-specific, regenerated on each run)
 **/.metadata.json
+
+# Scraper failure diagnostics (screenshots and page HTML)
+debug/
