@@ -961,6 +961,45 @@ def extract_retool_error(output: str) -> str:
     return "Retool failed (unable to parse error message)."
 
 
+# No-Intro publishes PSP PSN as its own system, so Retool looks for a clone list
+# under that name and finds none. Those DATs contain the same regional renames
+# as Redump PSP (Everybody's Golf / Hot Shots Golf - Open Tee, and the sequels).
+# Minis are a different catalog and stay on whatever list Retool matches itself.
+REDUMP_PSP_CLONE_LIST = "Sony - PlayStation Portable (Redump).json"
+NO_INTRO_SYSTEMS_USING_REDUMP_PSP_CLONE_LIST = {
+    "Sony - PlayStation Portable (PSN) (Decrypted)",
+    "Sony - PlayStation Portable (PSN) (Encrypted)",
+}
+
+
+def extra_retool_args(input_dat: Path, collection: str, retool_dir: Path) -> list[str]:
+    """Extra Retool arguments for a DAT, beyond the configuration's own flags.
+
+    Returns a --clonelist argument when this DAT should use another system's
+    clone list. Returns nothing when Retool's own name match is the right one,
+    or when the substitute list has not been downloaded yet. Retool ignores a
+    --clonelist path that is not a file, which would leave the DAT with no
+    clone list at all.
+    """
+    if collection != "no-intro":
+        return []
+
+    system_name = extract_system_name(input_dat.stem, collection)
+    if system_name not in NO_INTRO_SYSTEMS_USING_REDUMP_PSP_CLONE_LIST:
+        return []
+
+    clone_list = retool_dir / "clonelists" / REDUMP_PSP_CLONE_LIST
+    if not clone_list.is_file():
+        print(
+            f"  ⚠️  No Redump PSP clone list at {clone_list}; "
+            f"{system_name} will be processed without it",
+            file=sys.stderr,
+        )
+        return []
+
+    return ["--clonelist", str(clone_list)]
+
+
 def run_retool(input_dat: Path, retool_dir: Path, output_dat_dir: Path, report_dir: Path, 
                retool_flags: list[str], retool_exclude: str, collection: str, config_name: str = "") -> tuple[Path | None, Path | None, str, str | None]:
     """
@@ -986,6 +1025,7 @@ def run_retool(input_dat: Path, retool_dir: Path, output_dat_dir: Path, report_d
         str(retool_script),
         str(input_dat),
     ] + retool_flags + ["--exclude", retool_exclude] + ["--output", str(temp_output_dir)]
+    cmd.extend(extra_retool_args(input_dat, collection, retool_dir))
     
     try:
         result = subprocess.run(
