@@ -680,6 +680,25 @@ def disable_daily_autosubmit(page) -> None:
     """)
 
 
+def accept_no_intro_terms(page) -> None:
+    """Submit DAT-o-MATIC's terms gate when a fresh session is stopped by it.
+
+    A new browser session lands on an acceptance form, and until
+    input[name=terms_accept] is submitted there is no #site-nav. The Download
+    link the rest of this flow looks for does not exist on that page. A session
+    that is already inside the site has no gate, and this returns immediately.
+    """
+    accept = page.locator("input[name='terms_accept']")
+    try:
+        accept.wait_for(state="visible", timeout=5000)
+    except PlaywrightTimeoutError:
+        return
+
+    print("  ✅ Accepting DAT-o-MATIC terms")
+    accept.click()
+    page.wait_for_selector("#site-nav", state="visible", timeout=NO_INTRO_NAV_TIMEOUT)
+
+
 def uncheck_daily_option(page, option: str, checkbox_names: dict[str, str]) -> None:
     """Uncheck one option on the No-Intro Daily form, if it is currently checked.
 
@@ -734,6 +753,7 @@ def download_no_intro_dats(output_dir: Path) -> list[Path]:
             # network silence that a busy page may never provide.
             try:
                 page.goto(NO_INTRO_URL, wait_until="domcontentloaded", timeout=NO_INTRO_NAV_TIMEOUT)
+                accept_no_intro_terms(page)
 
                 download_href = page.locator("#site-nav a[href*='page=download']").first.get_attribute("href")
                 if not download_href:
