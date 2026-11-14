@@ -1,6 +1,6 @@
 # 🎮 Fresh1G1R
 
-Fresh1G1R generates fresh daily, up-to-date 1G1R (One Game One ROM) DAT files for [Redump](https://redump.info) and [No-Intro](https://www.no-intro.org) collections, processed with several different [Retool](https://github.com/unexpectedpanda/retool) filter configurations, currently: **[Hearto](#-hearto)**, **[PropeR](#-proper)**, and **[McLean](#-mclean)**.
+Fresh1G1R generates fresh daily, up-to-date 1G1R (One Game One ROM) DAT files for [Redump](https://redump.info) and [No-Intro](https://www.no-intro.org) collections, processed with several different [Retool](https://github.com/unexpectedpanda/retool) filter configurations, currently: **[Hearto](#-hearto)**, **[Hearto (No Demos)](#-hearto-no-demos)**, **[PropeR](#-proper)**, and **[McLean](#-mclean)**.
 
 ## ❓ What Is This?
 
@@ -8,7 +8,7 @@ This repository provides the latest, box-fresh 1G1R DAT files for every system i
 
 ## 📚 Available Collections
 
-**Three configurations are available:**
+**Four configurations are available:**
 
 ### 🧼 McLean
 The Custom Fresh1G1R configuration, which I use and is the most lean:
@@ -27,6 +27,12 @@ Based on the [Hearto 1G1R Collection](https://www.reddit.com/r/Roms/comments/1k4
 - **Includes**: 🎮 Games, 🎯 Demos, ➕ Add-ons, ⚠️ Unlicensed, 🧪 Preproduction (protos, betas, alphas)
 - **Options**: ✅ Prefer licensed versions
 - **Good For**: 👍 Retail, unlicensed and promo releases in any language, along with additional content.
+
+### ❤️ Hearto (No Demos)
+Hearto, with demos, kiosks, and samples removed:
+- **Includes**: 🎮 Games, ➕ Add-ons, ⚠️ Unlicensed, 🧪 Preproduction (protos, betas, alphas)
+- **Options**: ✅ Prefer licensed versions
+- **Good For**: 👍 The Hearto set without demo discs, and without the duplicate artwork those demos add when you scan a collection.
 
 ---
 
@@ -49,6 +55,10 @@ The latest, up-to-date DAT files for every system are available in the [`daily-1
 ### ❤️ Hearto Collection
 - **💿 Redump DATs**: [`daily-1g1r-dat/Hearto/redump`](https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/Hearto/redump)
 - **🎮 No-Intro DATs**: [`daily-1g1r-dat/Hearto/no-intro`](https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/Hearto/no-intro)
+
+### ❤️ Hearto (No Demos) Collection
+- **💿 Redump DATs**: [`daily-1g1r-dat/Hearto-NoDemos/redump`](https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/Hearto-NoDemos/redump)
+- **🎮 No-Intro DATs**: [`daily-1g1r-dat/Hearto-NoDemos/no-intro`](https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/Hearto-NoDemos/no-intro)
 
 ---
 

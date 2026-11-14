@@ -6,6 +6,7 @@ This directory contains the filter configuration files used by [Retool](https://
 
 Each subdirectory contains the configuration for a specific 1G1R filter set:
 - **Hearto** - Based on the [Hearto 1G1R Collection](https://www.reddit.com/r/Roms/comments/1k45s56/heartos_1g1r_nointroredump_collection_ds_ps1/) rules
+- **Hearto-NoDemos** - Hearto with demos, kiosks, and samples removed
 - **McLean** - Custom Fresh1G1R configuration (most lean)
 - **PropeR** - Based on the [PropeR 1G1R Collection](https://github.com/proper1g1r/proper1g1r-collection) rules
 
@@ -16,6 +17,9 @@ config/
 ├── Hearto/
 │   ├── filters.py        # Python filter rules
 │   └── user-config.yaml  # Retool configuration settings
+├── Hearto-NoDemos/
+│   ├── filters.py
+│   └── user-config.yaml
 ├── McLean/
 │   ├── filters.py
 │   └── user-config.yaml
@@ -42,6 +46,11 @@ config/
 - **Includes**: Games, Demos, Add-ons, Unlicensed, Preproduction (protos, betas, alphas)
 - **Language**: Any language
 - **Best For**: Comprehensive collections including unlicensed and promotional releases
+
+### Hearto-NoDemos
+- **Includes**: Games, Add-ons, Unlicensed, Preproduction (protos, betas, alphas)
+- **Language**: Any language
+- **Best For**: The Hearto set without demo discs
 
 ### McLean
 - **Includes**: Games only
