@@ -68,6 +68,14 @@ Each release's notes list the systems that changed since the previous one, and `
 
 ---
 
+## 👥 Maintainers
+
+- **[UnluckyForSome](https://github.com/UnluckyForSome)**: creator and maintainer
+- **[sdornan](https://github.com/sdornan)**: co-maintainer
+- **[itCFBTS](https://github.com/itCFBTS)**: co-maintainer
+
+---
+
 ## 🙏 Thanks
 
 - **[hugo19941994](https://github.com/hugo19941994)** for **[auto-datfile-generator](https://github.com/hugo19941994/auto-datfile-generator)** — Inspiration for automated DAT processing  
