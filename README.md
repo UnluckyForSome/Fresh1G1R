@@ -1,5 +1,9 @@
 # 🎮 Fresh1G1R
 
+> ***Update 21/11/26 - Potentially Breaking Changes***
+>
+> Due to the daily DAT commits growing this repository to several GB, new DATs are found in **[releases](https://github.com/UnluckyForSome/Fresh1G1R/releases/latest)** instead of the `daily-1g1r-dat/` folders. Those folders have been removed, so old links to them no longer work. Use the download links in [How Can I Use This?](#-how-can-i-use-this) instead.
+
 Fresh1G1R generates fresh daily, up-to-date 1G1R (One Game One ROM) DAT files for [Redump](https://redump.info) and [No-Intro](https://www.no-intro.org) collections, processed with several different [Retool](https://github.com/unexpectedpanda/retool) filter configurations, currently: **[Hearto](#-hearto)**, **[Hearto (No Demos)](#-hearto-no-demos)**, **[PropeR](#-proper)**, and **[McLean](#-mclean)**.
 
 ## ❓ What Is This?
