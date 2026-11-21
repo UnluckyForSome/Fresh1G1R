@@ -169,21 +169,24 @@ def main(argv: list[str]) -> int:
         return 2
     command, args = argv[1], argv[2:]
     if command == "pack" and len(args) == 1:
-        for path in pack(Path(args[0])):
+        for path in pack(Path(args[0]), ROOT):
             print(f"  {path.name} ({path.stat().st_size / 1_048_576:.1f} MB)")
         return 0
     if command == "unpack" and len(args) == 1:
-        for folder in unpack(Path(args[0])):
+        for folder in unpack(Path(args[0]), ROOT):
             print(f"  Restored {folder.relative_to(ROOT).as_posix()}")
         return 0
     if command == "manifest" and len(args) == 1:
-        Path(args[0]).write_text(json.dumps(build_manifest(), indent=1, sort_keys=True), encoding="utf-8")
+        out = Path(args[0])
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(json.dumps(build_manifest(ROOT), indent=1, sort_keys=True), encoding="utf-8")
         return 0
     if command == "compare" and len(args) == 3:
         old_path, new_path, notes_path = (Path(arg) for arg in args)
         old = json.loads(old_path.read_text(encoding="utf-8")) if old_path.exists() else None
         new = json.loads(new_path.read_text(encoding="utf-8"))
         changed, notes = compare(old, new)
+        notes_path.parent.mkdir(parents=True, exist_ok=True)
         notes_path.write_text(notes, encoding="utf-8")
         print(notes)
         return 0 if changed else UNCHANGED_EXIT_CODE

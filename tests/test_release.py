@@ -2,6 +2,7 @@ import tempfile
 import unittest
 import zipfile
 from pathlib import Path
+from unittest import mock
 
 import release
 
@@ -89,6 +90,17 @@ class ReleaseTests(unittest.TestCase):
         changed, _ = release.compare(None, release.build_manifest(self.root))
         self.assertTrue(changed)
 
+
+    def test_first_run_commands_create_their_output_folders(self):
+        work = Path(self.tmp.name) / "work" / ".release"
+        with mock.patch.object(release, "ROOT", self.root):
+            self.assertEqual(release.main(["release.py", "manifest", str(work / "manifest.json")]), 0)
+            code = release.main(["release.py", "compare", str(work / "previous-manifest.json"),
+                                 str(work / "manifest.json"), str(work / "notes" / "changes.md")])
+            self.assertEqual(code, 0)
+            self.assertEqual(release.main(["release.py", "pack", str(work / "dist")]), 0)
+        self.assertTrue((work / "notes" / "changes.md").exists())
+        self.assertEqual(len(list((work / "dist").glob("*.zip"))), 3)
 
 if __name__ == "__main__":
     unittest.main()
