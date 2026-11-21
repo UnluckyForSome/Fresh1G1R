@@ -27,3 +27,11 @@ Thumbs.db
 
 # Scraper failure diagnostics (screenshots and page HTML)
 debug/
+
+# Run outputs: published as the daily GitHub release, never committed
+daily-1g1r-dat/
+daily-virgin-dat/
+report/
+
+# release.py working files (previous release, manifests, zips, notes)
+.release/

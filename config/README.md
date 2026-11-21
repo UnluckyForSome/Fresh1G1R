@@ -68,6 +68,9 @@ config/
 2. Retool processes each DAT file using the selected configuration's rules
 3. The filtered results are saved to `daily-1g1r-dat/{config}/{collection}/`
 4. Processing reports are saved to `report/{config}/{collection}/`
+5. `release.py` zips these folders and the workflow publishes them as the day's [release](https://github.com/UnluckyForSome/Fresh1G1R/releases/latest). The folders are not committed.
+
+A new config folder gets its own `Fresh1G1R-{config}-Redump.zip` and `Fresh1G1R-{config}-No-Intro.zip` from the next run. Add their download links to the main README. Don't name a config `Original`: that name is used for the unfiltered source DATs.
 
 ## Modifying Configurations
 

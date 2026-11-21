@@ -9,7 +9,10 @@ This script:
 4. Processes all .dat files from daily-virgin-dat/redump/ and daily-virgin-dat/no-intro/ directories through Retool
    for each configuration (Hearto, McLean, PropeR) with their respective filter settings
 5. Exports processed DATs to daily-1g1r-dat/{config}/{collection}/ directories
-6. Exports reports to report/{config}/{collection}/ directories
+6. Exports this run's reports to report/{config}/{collection}/ directories
+
+release.py packs these folders into the daily GitHub release and restores the
+previous release before a run, so a failed download falls back to the last good DATs.
 """
 
 import re
@@ -1306,65 +1309,6 @@ def process_all_dats_with_retool(dat_files: list[Path], retool_dir: Path, output
 # Main Function
 # ============================================================================
 
-def cleanup_old_files(directory: Path, pattern: str, keep_count: int = 7, collection: str = "redump") -> int:
-    """
-    Keep only the most recent files matching the pattern, grouped by system name + date.
-    Deletes older files, keeping `keep_count` files per system+date combination.
-    
-    Groups reports by system name and date (e.g., all "System Name (20231029-220453) (Retool ...)" 
-    reports for the same system+date are grouped together).
-    """
-    if not directory.exists():
-        return 0
-    
-    files = list(directory.glob(pattern))
-    if not files:
-        return 0
-    
-    # Group files by system name + date (for reports which keep their Retool-generated names)
-    files_by_system: dict[str, list[Path]] = {}
-    for file_path in files:
-        # Extract system name + date from report filename
-        # Reports have format: "System Name (date) (Retool ...).txt"
-        stem = file_path.stem
-        # Remove Fresh1G1R suffix if present
-        stem = re.sub(r' \([^)]+- Fresh1G1R - [^)]+\)$', '', stem)
-        
-        if collection == "no-intro":
-            # Extract up to and including date: (YYYYMMDD-HHMMSS)
-            date_pattern = r'\(\d{8}-\d{6}\)'
-            date_match = re.search(date_pattern, stem)
-            if date_match:
-                normalized_system = stem[:date_match.end()]
-            else:
-                normalized_system = stem
-        else:
-            # Redump: Remove Retool metadata, keep system name + date
-            normalized = re.sub(r' \(Retool.*$', '', stem)
-            normalized_system = normalized
-        
-        files_by_system.setdefault(normalized_system, []).append(file_path)
-    
-    # For each system, keep only the most recent `keep_count` files
-    deleted_count = 0
-    for system_name, system_files in files_by_system.items():
-        if len(system_files) <= keep_count:
-            continue
-        
-        # Sort by modification time (most recent first)
-        system_files.sort(key=lambda p: p.stat().st_mtime, reverse=True)
-        
-        # Delete older files
-        for file_to_delete in system_files[keep_count:]:
-            try:
-                file_to_delete.unlink()
-                deleted_count += 1
-            except Exception as e:
-                print(f"  ⚠️  Could not delete {file_to_delete.name}: {e}")
-    
-    return deleted_count
-
-
 def cleanup_previous_dats(output_dir: Path, config_name: str, collection: str, preserve_files: set[str] = None):
     """Remove previous DAT files from daily-1g1r-dat/{config_name}, keeping only the latest set."""
     if not output_dir.exists():
@@ -1508,6 +1452,9 @@ def main():
         daily_output_dir = settings["daily_dir"]
         report_output_dir = settings["report_dir"]
         daily_output_dir.mkdir(parents=True, exist_ok=True)
+        # Reports describe this run only: earlier runs' reports are in earlier releases
+        if report_output_dir.exists():
+            shutil.rmtree(report_output_dir)
         report_output_dir.mkdir(parents=True, exist_ok=True)
         
         # Get DATs for this collection
@@ -1528,12 +1475,6 @@ def main():
                 print(f"  ✅ Found {existing_count} existing processed file(s) that match current input DATs")
             else:
                 print(f"  ℹ️  No existing processed files found - all {len(collection_dat_files)} DAT file(s) will be processed")
-        
-        # Clean up old reports (keep only last 7 per system)
-        if report_output_dir.exists():
-            deleted_reports = cleanup_old_files(report_output_dir, "*.txt", keep_count=7, collection=collection)
-            if deleted_reports > 0:
-                print(f"  🗑️  Removed {deleted_reports} old report file(s) (keeping last 7 per system)")
         
         # Process all DATs through Retool with this config's settings
         results = process_all_dats_with_retool(

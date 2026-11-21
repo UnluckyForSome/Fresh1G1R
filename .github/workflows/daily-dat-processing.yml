@@ -2,57 +2,102 @@ name: Daily DAT Processing
 
 on:
   schedule:
-    # Run daily at 2:00 AM UTC
+    # Daily at 2:00 AM UTC (GitHub often starts scheduled runs hours later)
     - cron: '0 2 * * *'
-  workflow_dispatch:  # Allow manual triggering
+  workflow_dispatch:
+    inputs:
+      force_release:
+        description: 'Publish a release even if no DAT changed'
+        type: boolean
+        default: false
 
 permissions:
-  contents: write  # Required to push commits
+  contents: write  # Required to publish releases
+
+concurrency:
+  group: daily-dat-release
+  cancel-in-progress: false
+
+env:
+  GH_TOKEN: ${{ github.token }}
+  KEEP_RELEASES: 7
 
 jobs:
   process-dats:
     runs-on: ubuntu-latest
-    
+    timeout-minutes: 120
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v7
-      with:
-        fetch-depth: 0  # Fetch all history for git operations
-    
+
     - name: Set up Python
       uses: actions/setup-python@v7
       with:
         python-version: '3.13'
-    
+
     - name: Install Python dependencies
       run: |
         python3 -m pip install --upgrade pip
-        python3 -m pip install requests playwright
+        python3 -m pip install requests==2.34.2 playwright==1.65.2
+
+    - name: Run tests
+      run: |
+        python3 -m unittest discover -s tests
 
     - name: Install Playwright browsers
       run: |
         python3 -m playwright install --with-deps chromium
-    
+
+    # The previous release's DATs are the fallback when a download fails
+    - name: Restore the previous release
+      run: |
+        if gh release view --json tagName > /dev/null 2>&1; then
+          gh release download --pattern '*-Redump.zip' --pattern '*-No-Intro.zip' --dir .release/previous
+          python3 release.py unpack .release/previous
+          python3 release.py manifest .release/previous-manifest.json
+        else
+          echo "No previous release: building from scratch"
+        fi
+
     - name: Run automation script
       run: |
         python3 automate.py
-      continue-on-error: false
-    
-    - name: Commit and push results
+
+    - name: Compare with the previous release
+      id: compare
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        
-        # Get the current branch name
-        BRANCH=$(git rev-parse --abbrev-ref HEAD)
-        echo "Current branch: $BRANCH"
-        
-        # Check if there are changes to commit (daily-virgin-dat, daily-1g1r-dat, and report folders)
-        if [ -n "$(git status --porcelain daily-virgin-dat/ daily-1g1r-dat/ report/)" ]; then
-          git add daily-virgin-dat/ daily-1g1r-dat/ report/
-          git commit -m "Automated daily DAT processing - $(date +'%Y-%m-%d %H:%M:%S UTC')"
-          git push origin $BRANCH
-          echo "✅ Successfully pushed changes"
-        else
-          echo "No changes to commit in daily-virgin-dat/, daily-1g1r-dat/, or report/ folders"
-        fi
+        python3 release.py manifest .release/manifest.json
+        set +e
+        python3 release.py compare .release/previous-manifest.json .release/manifest.json .release/changes.md
+        code=$?
+        set -e
+        case $code in
+          0) echo "changed=true" >> "$GITHUB_OUTPUT" ;;
+          3) echo "changed=false" >> "$GITHUB_OUTPUT" ;;
+          *) exit $code ;;
+        esac
+
+    - name: Publish the release
+      if: steps.compare.outputs.changed == 'true' || inputs.force_release
+      run: |
+        python3 release.py pack .release/dist
+        tag="daily-$(date -u +%Y-%m-%d-%H%M)"
+        {
+          echo "Fresh 1G1R DATs built $(date -u '+%Y-%m-%d %H:%M UTC') with the latest Retool."
+          echo
+          cat .release/changes.md
+        } > .release/notes.md
+        # Publish only once every zip is uploaded, so the latest release is never incomplete
+        gh release create "$tag" .release/dist/*.zip --draft --target "$GITHUB_SHA" \
+          --title "Daily DATs $(date -u +%Y-%m-%d)" --notes-file .release/notes.md
+        gh release edit "$tag" --draft=false --latest
+
+    - name: Delete old releases
+      if: steps.compare.outputs.changed == 'true' || inputs.force_release
+      run: |
+        gh release list --limit 100 --exclude-drafts --json tagName,createdAt \
+          --jq "map(select(.tagName | startswith(\"daily-\"))) | sort_by(.createdAt) | reverse | .[${KEEP_RELEASES}:] | .[].tagName" |
+        while read -r tag; do
+          gh release delete "$tag" --yes --cleanup-tag
+        done

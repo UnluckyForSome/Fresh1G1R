@@ -42,33 +42,25 @@ Each configuration processes both **💿 [Redump](https://redump.info)** (disc-b
 
 ## 🚀 How Can I Use This?
 
-The latest, up-to-date DAT files for every system are available in the [`daily-1g1r-dat/`](https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat) directory on GitHub:
+The latest DAT files for every system are published daily as a **[GitHub release](https://github.com/UnluckyForSome/Fresh1G1R/releases/latest)**, as one zip per collection:
 
-### 🧼 McLean Collection
-- **💿 Redump DATs**: [`daily-1g1r-dat/McLean/redump`](https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/McLean/redump)
-- **🎮 No-Intro DATs**: [`daily-1g1r-dat/McLean/no-intro`](https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/McLean/no-intro)
+| Collection | 💿 Redump | 🎮 No-Intro |
+|---|---|---|
+| 🧼 McLean | [Redump](https://github.com/UnluckyForSome/Fresh1G1R/releases/latest/download/Fresh1G1R-McLean-Redump.zip) | [No-Intro](https://github.com/UnluckyForSome/Fresh1G1R/releases/latest/download/Fresh1G1R-McLean-No-Intro.zip) |
+| 📦 PropeR | [Redump](https://github.com/UnluckyForSome/Fresh1G1R/releases/latest/download/Fresh1G1R-PropeR-Redump.zip) | [No-Intro](https://github.com/UnluckyForSome/Fresh1G1R/releases/latest/download/Fresh1G1R-PropeR-No-Intro.zip) |
+| ❤️ Hearto | [Redump](https://github.com/UnluckyForSome/Fresh1G1R/releases/latest/download/Fresh1G1R-Hearto-Redump.zip) | [No-Intro](https://github.com/UnluckyForSome/Fresh1G1R/releases/latest/download/Fresh1G1R-Hearto-No-Intro.zip) |
+| ❤️ Hearto (No Demos) | [Redump](https://github.com/UnluckyForSome/Fresh1G1R/releases/latest/download/Fresh1G1R-Hearto-NoDemos-Redump.zip) | [No-Intro](https://github.com/UnluckyForSome/Fresh1G1R/releases/latest/download/Fresh1G1R-Hearto-NoDemos-No-Intro.zip) |
+| 📄 Original (unfiltered source DATs) | [Redump](https://github.com/UnluckyForSome/Fresh1G1R/releases/latest/download/Fresh1G1R-Original-Redump.zip) | [No-Intro](https://github.com/UnluckyForSome/Fresh1G1R/releases/latest/download/Fresh1G1R-Original-No-Intro.zip) |
 
-### 📦 PropeR Collection
-- **💿 Redump DATs**: [`daily-1g1r-dat/PropeR/redump`](https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/PropeR/redump)
-- **🎮 No-Intro DATs**: [`daily-1g1r-dat/PropeR/no-intro`](https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/PropeR/no-intro)
-
-### ❤️ Hearto Collection
-- **💿 Redump DATs**: [`daily-1g1r-dat/Hearto/redump`](https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/Hearto/redump)
-- **🎮 No-Intro DATs**: [`daily-1g1r-dat/Hearto/no-intro`](https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/Hearto/no-intro)
-
-### ❤️ Hearto (No Demos) Collection
-- **💿 Redump DATs**: [`daily-1g1r-dat/Hearto-NoDemos/redump`](https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/Hearto-NoDemos/redump)
-- **🎮 No-Intro DATs**: [`daily-1g1r-dat/Hearto-NoDemos/no-intro`](https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/Hearto-NoDemos/no-intro)
-
----
+These links always point at the newest release, so they also work in scripts.
 
 ### 📥 To use these DAT files:
 
-1. 📂 Navigate to the collection and system you want (e.g., [`daily-1g1r-dat/McLean/redump/`](https://github.com/UnluckyForSome/Fresh1G1R/tree/main/daily-1g1r-dat/McLean/redump))
-2. ⬇️ Download the `.dat` file for your desired system
-3. 🔧 Use the DAT file with your ROM management tool (e.g., [clrmamepro](https://mamedev.emulab.it/clrmamepro/), [RomVault](https://www.romvault.com/), etc.)
+1. ⬇️ Download the zip for the collection you want from the table above
+2. 📂 Extract it: it holds one `.dat` file per system
+3. 🔧 Use the DAT files with your ROM management tool (e.g., [clrmamepro](https://mamedev.emulab.it/clrmamepro/), [RomVault](https://www.romvault.com/), etc.)
 
-All DAT files are updated daily, so you can always get the latest filtered collections without manual processing.
+Each release's notes list the systems that changed since the previous one, and `Fresh1G1R-Reports.zip` holds Retool's reports for that run. The last 7 releases are kept.
 
 ---
 
